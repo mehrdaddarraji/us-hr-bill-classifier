@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-12-11</actionDate>
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hssy00</systemCode>
+          <activities>
+            <item>
+              <date>2014-09-18T13:12:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-12-11T19:39:35Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Research and Technology Subcommittee</name>
+              <systemCode>hssy15</systemCode>
+            </item>
+          </subcommittees>
+          <name>Science, Space, and Technology Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+          <activities>
+            <item>
+              <date>2014-09-18T13:12:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-11-17T22:01:34Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Higher Education and Workforce Training Subcommittee</name>
+              <systemCode>hsed13</systemCode>
+            </item>
+          </subcommittees>
+          <name>Education and the Workforce Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsap00</systemCode>
+          <activities>
+            <item>
+              <date>2014-09-18T13:12:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Appropriations Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-09-19T10:01:45Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-12-11</actionDate>
+        <committee>
+          <systemCode>hssy15</systemCode>
+          <name>Research and Technology Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Research and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-11-17</actionDate>
+        <committee>
+          <systemCode>hsed13</systemCode>
+          <name>Higher Education and Workforce Training Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Appropriations</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsap00</systemCode>
+          <name>Appropriations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Science, Space, and Technology</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on Science, Space, and Technology, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Education and the Workforce</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>3</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-09-18</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. CARDENAS:H.R. 5564.Congress has the power to enact this legislation pursuantto the following:Article I. Section 1. All legislative Powers herin grantedshall be vested in a Congress of the United States, whichshall consist of a Senate and House of Representatives.[Page H7889]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>5564</billNumber>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Manufacturing Skills Act of 2014 - Directs the Secretaries of Commerce, Labor, Education, and Defense (DOD) and the Director of the National Science Foundation (NSF) to jointly establish a Manufacturing Skills Partnership to administer and carry out a program to award compeititve, three-year grants to enable up to five states and five metropolitan areas to carry out proposals to promote reforms in workforce education and skill training for manufacturing.</p> <p>Requires the Director of the National Institute of Standards and Technology (NIST): (1) acting through the Advanced Manufacturing National Program Office, to conduct an audit of all federal education and skills training programs related to manufacturing to ensure that states and metropolitan areas are able to align federal resources with the labor demands of their primary manufacturing industries; and (2) to work with states and metropolitan areas to determine how federal funds can be more tailored to meet their different needs.</p> <p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2014-09-18</actionDate>
+          <updateDate>2014-09-18T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-01-09T22:20:57Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Department of Labor</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Minority employment</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Vocational and technical education</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Manufacturing Skills Act of 2014</title>
+    <updateDate>2016-10-25T16:16:47Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Manufacturing Skills Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To establish a program that promotes reforms in workforce education and skill training for manufacturing in States and metropolitan areas, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Manufacturing Skills Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>CA</state>
+        <firstName>Tony</firstName>
+        <byRequestType />
+        <bioguideId>C001097</bioguideId>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <lastName>Cardenas</lastName>
+        <party>D</party>
+        <middleName />
+        <district>29</district>
+        <identifiers>
+          <bioguideId>C001097</bioguideId>
+          <gpoId />
+          <lisID>2107</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>S</type>
+        <number>2897</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2014-09-18</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Manufacturing Skills Act of 2014</latestTitle>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <firstName>ELEANOR</firstName>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Alan</firstName>
+        <state>CA</state>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <identifiers>
+          <lisID>2111</lisID>
+          <bioguideId>L000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <bioguideId>L000579</bioguideId>
+        <middleName>S.</middleName>
+        <district>47</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lowenthal</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Matt</firstName>
+        <state>PA</state>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <identifiers>
+          <lisID>2159</lisID>
+          <bioguideId>C001090</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <bioguideId>C001090</bioguideId>
+        <middleName />
+        <district>17</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cartwright</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>LUCILLE</firstName>
+        <state>CA</state>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <identifiers>
+          <lisID>997</lisID>
+          <gpoId>7839</gpoId>
+          <bioguideId>R000486</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <bioguideId>R000486</bioguideId>
+        <middleName />
+        <district>40</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>ROYBAL-ALLARD</lastName>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

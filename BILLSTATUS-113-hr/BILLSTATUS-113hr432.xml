@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>432</billNumber>
+    <introducedDate>2013-01-29</introducedDate>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <laws />
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Monuments and memorials</name>
+          </item>
+          <item>
+            <name>Nevada</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:01:17Z</updateDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Prohibits any further extension or establishment of national parks and monuments in Nevada from being undertaken, except by express authorization of Congress. </p>]]></text>
+          <updateDate>2013-01-29T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-02-12T16:29:25Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-01-29</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <committeeReports />
+    <createDate>2013-01-30T07:00:55Z</createDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <title>To prohibit the further extension or establishment of national monuments in Nevada except by express authorization of Congress.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To prohibit the further extension or establishment of national monuments in Nevada except by express authorization of Congress.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-04-16</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-02-07</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-01-29</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-01-29</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-01-29</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <prayer>1</prayer>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2013-03-06</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <number>472</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <congress>113</congress>
+        <latestTitle>A bill to prohibit the further extension or establishment of national monuments in the State of Nevada except by express authorization of Congress, and for other purposes.</latestTitle>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2013-04-16T20:11:53Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-02-07T15:04:33Z</date>
+                </item>
+              </activities>
+              <name>Federal Lands Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-29T18:00:23Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-04-16</actionDate>
+      <text>Subcommittee Hearings Held.</text>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <firstName>Joseph</firstName>
+        <identifiers>
+          <bioguideId>H001055</bioguideId>
+          <gpoId>8061</gpoId>
+          <lisID>2040</lisID>
+        </identifiers>
+        <district>3</district>
+        <fullName>Rep. Heck, Joseph J. [R-NV-3]</fullName>
+        <bioguideId>H001055</bioguideId>
+        <lastName>Heck</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <state>NV</state>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <identifiers>
+          <gpoId>8366</gpoId>
+          <lisID>2090</lisID>
+          <bioguideId>A000369</bioguideId>
+        </identifiers>
+        <bioguideId>A000369</bioguideId>
+        <party>R</party>
+        <state>NV</state>
+        <firstName>Mark</firstName>
+        <byRequestType />
+        <district>2</district>
+        <lastName>Amodei</lastName>
+        <middleName>E.</middleName>
+      </item>
+    </sponsors>
+    <title>To prohibit the further extension or establishment of national monuments in Nevada except by express authorization of Congress.</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 12 (Tuesday, January 29, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. AMODEI:H.R. 432.Congress has the power to enact this legislation pursuantto the following:The constitutional authority of Congress to enact thislegislation is provided by Article I, Section 8 of the UnitedStates Constitution, specifically clause 1 (relating toproviding for the general welfare of the United States) andclause 18 (relating to the power to make all laws necessaryand proper for carrying out the powers vested in Congress),and Article IV, Section 3, Clause 2 (relating to the power ofCongress to dispose of and make all needful rules andregulations respecting the territory or other propertybelonging to the United States).[Page H300]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

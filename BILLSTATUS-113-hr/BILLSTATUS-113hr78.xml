@@ -1,0 +1,1307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>113-205</number>
+      </item>
+    </laws>
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Became Public Law No: 113-205.</text>
+        <actionCode>E40000</actionCode>
+        <actionDate>2014-12-16</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/78/text/pl</url>
+            <name>Public Law No: 113-205</name>
+          </link>
+        </links>
+        <type>President</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Became Public Law No: 113-205.</text>
+        <actionCode>36000</actionCode>
+        <actionDate>2014-12-16</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/78/text/pl</url>
+            <name>Public Law No: 113-205</name>
+          </link>
+        </links>
+        <type>BecameLaw</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Signed by President.</text>
+        <actionCode>E30000</actionCode>
+        <actionDate>2014-12-16</actionDate>
+        <links />
+        <type>President</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Signed by President.</text>
+        <actionCode>36000</actionCode>
+        <actionDate>2014-12-16</actionDate>
+        <links />
+        <type>BecameLaw</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Presented to President.</text>
+        <actionCode>E20000</actionCode>
+        <actionDate>2014-12-10</actionDate>
+        <links />
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Presented to President.</text>
+        <actionCode>28000</actionCode>
+        <actionDate>2014-12-10</actionDate>
+        <links />
+        <type>President</type>
+      </item>
+      <item>
+        <actionDate>2014-12-09</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-12-08</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <actionCode>17000</actionCode>
+        <actionDate>2014-12-08</actionDate>
+        <links />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-12-08</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6395-6396</url>
+            <name>S6395-6396</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S6395-6396)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S6395-6396)</text>
+        <actionCode>14500</actionCode>
+        <actionDate>2014-12-08</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6395-6396</url>
+            <name>S6395-6396</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-09-09</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2014-09-08</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <actionTime>15:22:36</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2014-09-08</actionDate>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7256)</text>
+        <actionCode>H37300</actionCode>
+        <actionTime>15:22:34</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H7256</url>
+            <name>H7256</name>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2014-09-08</actionDate>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7256)</text>
+        <actionCode>8000</actionCode>
+        <actionTime>15:22:34</actionTime>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H7256</url>
+            <name>H7256</name>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2014-09-08</actionDate>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 78.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>15:08:53</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/78</url>
+            <name>H.R. 78</name>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2014-09-08</actionDate>
+        <text>Considered under suspension of the rules. (consideration: CR H7256-7259)</text>
+        <actionCode>H30000</actionCode>
+        <actionTime>15:08:52</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H7256-7259</url>
+            <name>H7256-7259</name>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2014-09-08</actionDate>
+        <text>Mr. Collins (GA) moved to suspend the rules and pass the bill.</text>
+        <actionCode>H30300</actionCode>
+        <actionTime>15:08:41</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-07-24</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-07-24</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2013-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2013-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <placeholderTextForE>3</placeholderTextForE>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <committeeDischarged>1</committeeDischarged>
+        <presentedToPresident>1</presentedToPresident>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <sentToHouse>1</sentToHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedSenate>1</passedSenate>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <generalDebate>1</generalDebate>
+        <billReferrals>1</billReferrals>
+        <becamePublicLaw>2</becamePublicLaw>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-01-03</introducedDate>
+    <notes />
+    <calendarNumbers />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-01-03T05:00:00Z</updateDate>
+          <actionDate>2013-01-03</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[Designates the facility of the United States Postal Service located at 4110 Almeda Road in Houston, Texas, as the "George Thomas 'Mickey' Leland Post Office Building."]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-01-04T09:01:39Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <updateDate>2014-12-17T04:59:58Z</updateDate>
+          <actionDate>2014-12-16</actionDate>
+          <name>Public Law</name>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> Designates the facility of the United States Postal Service located at 4110 Almeda Road in Houston, Texas, as the "George Thomas 'Mickey' Leland Post Office Building."]]></text>
+          <actionDesc>Public Law</actionDesc>
+          <versionCode>49</versionCode>
+          <lastSummaryUpdateDate>2014-12-24T18:52:40Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>78</billNumber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8174</gpoId>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <lastName>JACKSON LEE</lastName>
+        <district>18</district>
+        <middleName />
+        <firstName>SHEILA</firstName>
+        <byRequestType />
+        <bioguideId>J000032</bioguideId>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Ms. JACKSON LEE:H.R. 78.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article 1, Section 8, Clause 1 of the UnitedStates Constitution.[Page H35]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To designate the facility of the United States Postal Service located at 4110 Almeda Road in Houston, Texas, as the "George Thomas 'Mickey' Leland Post Office Building".</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To designate the facility of the United States Postal Service located at 4110 Almeda Road in Houston, Texas, as the "George Thomas 'Mickey' Leland Post Office Building".</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2016-10-25T15:57:03Z</updateDate>
+    <recordedVotes />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <latestAction>
+      <links>
+        <link>
+          <url>https://www.congress.gov/bill/113th-congress/house-bill/78/text/pl</url>
+          <name>Public Law No: 113-205</name>
+        </link>
+      </links>
+      <actionDate>2014-12-16</actionDate>
+      <text>Became Public Law No: 113-205.</text>
+    </latestAction>
+    <createDate>2013-01-04T07:00:55Z</createDate>
+    <title>To designate the facility of the United States Postal Service located at 4110 Almeda Road in Houston, Texas, as the "George Thomas 'Mickey' Leland Post Office Building".</title>
+    <cosponsors>
+      <item>
+        <firstName>Roger</firstName>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>W000816</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000816</bioguideId>
+          <lisID>2165</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Williams</lastName>
+        <district>25</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001092</bioguideId>
+        <state>NY</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2151</lisID>
+          <bioguideId>C001092</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Collins</lastName>
+        <district>27</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Randy</firstName>
+        <fullName>Rep. Weber, Randy K. Sr. [R-TX-14]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>K.</middleName>
+        <bioguideId>W000814</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Weber</lastName>
+        <district>14</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <fullName>Rep. Carter, John R. [R-TX-31]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>R.</middleName>
+        <bioguideId>C001051</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8187</gpoId>
+          <bioguideId>C001051</bioguideId>
+          <lisID>1752</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Carter</lastName>
+        <district>31</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>WILLIAM</firstName>
+        <fullName>Rep. Thornberry, Mac [R-TX-13]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>M.</middleName>
+        <bioguideId>T000238</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>T000238</bioguideId>
+          <gpoId>8755</gpoId>
+          <lisID>1155</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>THORNBERRY</lastName>
+        <district>13</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Blake</firstName>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000460</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <lisID>2067</lisID>
+          <gpoId>8183</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Farenthold</lastName>
+        <district>27</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Andy</firstName>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001282</bioguideId>
+        <state>KY</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2131</lisID>
+          <bioguideId>B001282</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Barr</lastName>
+        <district>6</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Randy</firstName>
+        <fullName>Rep. Neugebauer, Randy [R-TX-19]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>N000182</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>N000182</bioguideId>
+          <lisID>1758</lisID>
+          <gpoId>8175</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Neugebauer</lastName>
+        <district>19</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Jeb</firstName>
+        <fullName>Rep. Hensarling, Jeb [R-TX-5]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001036</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8161</gpoId>
+          <bioguideId>H001036</bioguideId>
+          <lisID>1749</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Hensarling</lastName>
+        <district>5</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>P000592</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>P000592</bioguideId>
+          <gpoId>8158</gpoId>
+          <lisID>1802</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Poe</lastName>
+        <district>2</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>SPENCER</firstName>
+        <fullName>Rep. Bachus, Spencer [R-AL-6]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>B000013</bioguideId>
+        <state>AL</state>
+        <identifiers>
+          <gpoId>7791</gpoId>
+          <lisID>38</lisID>
+          <bioguideId>B000013</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BACHUS</lastName>
+        <district>6</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Louie</firstName>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>G000552</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1801</lisID>
+          <gpoId>8157</gpoId>
+          <bioguideId>G000552</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gohmert</lastName>
+        <district>1</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Michael</firstName>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>T.</middleName>
+        <bioguideId>M001157</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>M001157</bioguideId>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>McCaul</lastName>
+        <district>10</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Henry</firstName>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001063</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1807</lisID>
+          <bioguideId>C001063</bioguideId>
+          <gpoId>8184</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cuellar</lastName>
+        <district>28</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <fullName>Rep. Culberson, John Abney [R-TX-7]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>ABNEY</middleName>
+        <bioguideId>C001048</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1670</lisID>
+          <bioguideId>C001048</bioguideId>
+          <gpoId>8163</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CULBERSON</lastName>
+        <district>7</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>EDDIE</firstName>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>BERNICE</middleName>
+        <bioguideId>J000126</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8186</gpoId>
+          <lisID>599</lisID>
+          <bioguideId>J000126</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>JOHNSON</lastName>
+        <district>30</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>LLOYD</firstName>
+        <fullName>Rep. Doggett, Lloyd [D-TX-25]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>D000399</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>D000399</bioguideId>
+          <lisID>303</lisID>
+          <gpoId>8181</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DOGGETT</lastName>
+        <district>35</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Joaquin</firstName>
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001091</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2163</lisID>
+          <bioguideId>C001091</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Castro</lastName>
+        <district>20</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Al</firstName>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>G000553</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+          <bioguideId>G000553</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Green</lastName>
+        <district>9</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>K.</firstName>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>Michael</middleName>
+        <bioguideId>C001062</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8167</gpoId>
+          <lisID>1805</lisID>
+          <bioguideId>C001062</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Conaway</lastName>
+        <district>11</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>KEVIN</firstName>
+        <fullName>Rep. Brady, Kevin [R-TX-8]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>B000755</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8164</gpoId>
+          <lisID>1468</lisID>
+          <bioguideId>B000755</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BRADY</lastName>
+        <district>8</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>STEVE</firstName>
+        <fullName>Rep. Stockman, Steve [R-TX-36]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>S000937</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>S000937</bioguideId>
+          <lisID>1114</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>STOCKMAN</lastName>
+        <district>36</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Michael</firstName>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>C.</middleName>
+        <bioguideId>B001248</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1751</lisID>
+          <bioguideId>B001248</bioguideId>
+          <gpoId>8182</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Burgess</lastName>
+        <district>26</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>SAM</firstName>
+        <fullName>Rep. Johnson, Sam [R-TX-3]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>J000174</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000174</bioguideId>
+          <lisID>603</lisID>
+          <gpoId>8159</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>JOHNSON</lastName>
+        <district>3</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Pete</firstName>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>O000168</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>O000168</bioguideId>
+          <lisID>1955</lisID>
+          <gpoId>8178</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Olson</lastName>
+        <district>22</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>ED</firstName>
+        <fullName>Rep. Pastor, Ed [D-AZ-4]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>P000099</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>P000099</bioguideId>
+          <lisID>893</lisID>
+          <gpoId>7801</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>PASTOR</lastName>
+        <district>7</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <fullName>Rep. Garamendi, John [D-CA-10]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>G000559</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+          <gpoId>7815</gpoId>
+          <lisID>1973</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Garamendi</lastName>
+        <district>3</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>GENE</firstName>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>G000410</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8185</gpoId>
+          <bioguideId>G000410</bioguideId>
+          <lisID>462</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>GREEN</lastName>
+        <district>29</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>RALPH</firstName>
+        <fullName>Rep. Hall, Ralph M. [R-TX-4]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>M.</middleName>
+        <bioguideId>H000067</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>H000067</bioguideId>
+          <lisID>484</lisID>
+          <gpoId>8160</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>HALL</lastName>
+        <district>4</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>JOE</firstName>
+        <fullName>Rep. Barton, Joe [R-TX-6]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>L.</middleName>
+        <bioguideId>B000213</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <lisID>62</lisID>
+          <bioguideId>B000213</bioguideId>
+          <gpoId>8162</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BARTON</lastName>
+        <district>6</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000461</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2065</lisID>
+          <gpoId>8173</gpoId>
+          <bioguideId>F000461</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Flores</lastName>
+        <district>17</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>KAY</firstName>
+        <fullName>Rep. Granger, Kay [R-TX-12]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>G000377</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000377</bioguideId>
+          <lisID>1487</lisID>
+          <gpoId>8168</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>GRANGER</lastName>
+        <district>12</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>MAXINE</firstName>
+        <fullName>Rep. Waters, Maxine [D-CA-35]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>W000187</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7840</gpoId>
+          <bioguideId>W000187</bioguideId>
+          <lisID>1205</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>WATERS</lastName>
+        <district>43</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Marc</firstName>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>V000131</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>V000131</bioguideId>
+          <lisID>2166</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Veasey</lastName>
+        <district>33</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Filemon</firstName>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>V000132</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000132</bioguideId>
+          <lisID>2167</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Vela</lastName>
+        <district>34</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>RUBEN</firstName>
+        <fullName>Rep. Hinojosa, Ruben [D-TX-15]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>H000636</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>H000636</bioguideId>
+          <lisID>1490</lisID>
+          <gpoId>8171</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>HINOJOSA</lastName>
+        <district>15</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>PETE</firstName>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>S000250</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>S000250</bioguideId>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SESSIONS</lastName>
+        <district>32</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Pete</firstName>
+        <fullName>Rep. Gallego, Pete P. [D-TX-23]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>P.</middleName>
+        <bioguideId>G000572</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000572</bioguideId>
+          <gpoId />
+          <lisID>2164</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gallego</lastName>
+        <district>23</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Kenny</firstName>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001158</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1806</lisID>
+          <bioguideId>M001158</bioguideId>
+          <gpoId>8766</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Marchant</lastName>
+        <district>24</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>STENY</firstName>
+        <fullName>Rep. Hoyer, Steny H. [D-MD-5]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>H.</middleName>
+        <bioguideId>H000874</bioguideId>
+        <state>MD</state>
+        <identifiers>
+          <lisID>566</lisID>
+          <bioguideId>H000874</bioguideId>
+          <gpoId>7980</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>HOYER</lastName>
+        <district>5</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>MARCY</firstName>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>K000009</bioguideId>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>KAPTUR</lastName>
+        <district>9</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>LAMAR</firstName>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>S000583</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1075</lisID>
+          <gpoId>8177</gpoId>
+          <bioguideId>S000583</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SMITH</lastName>
+        <district>21</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>NANCY</firstName>
+        <fullName>Rep. Pelosi, Nancy [D-CA-8]</fullName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>P000197</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000197</bioguideId>
+          <lisID>905</lisID>
+          <gpoId>7813</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>PELOSI</lastName>
+        <district>12</district>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2014-12-09T00:51:22Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2014-09-09T19:15:41Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2014-07-24T21:50:58Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-03T16:19:30Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

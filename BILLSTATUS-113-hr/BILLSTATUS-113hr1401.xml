@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-03-21</actionDate>
+        <committee>
+          <name>Immigration and Border Security Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2013-03-21</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2013-03-21</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2013-03-21</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors />
+    <notes />
+    <createDate>2013-03-22T07:01:12Z</createDate>
+    <introducedDate>2013-03-21</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-03-21</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>For the relief of Jose Luis Alvarado Cardenas.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>For the relief of Jose Luis Alvarado Cardenas.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Private Legislation</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:13:13Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Pastor, Ed [D-AZ-7]</fullName>
+        <identifiers>
+          <gpoId>7801</gpoId>
+          <bioguideId>P000099</bioguideId>
+          <lisID>893</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>ED</firstName>
+        <lastName>PASTOR</lastName>
+        <bioguideId>P000099</bioguideId>
+        <state>AZ</state>
+        <district>7</district>
+      </item>
+    </sponsors>
+    <title>For the relief of Jose Luis Alvarado Cardenas.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-03-22T08:04:17Z</lastSummaryUpdateDate>
+          <actionDate>2013-03-21</actionDate>
+          <text><![CDATA[Provides for the relief of Jose Luis Alvarado Cardenas.]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-03-21T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1401</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2013-03-21T14:28:16Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2013-03-21T13:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Private Legislation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 42 (Thursday, March 21, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]Mr. PASTOR of Arizona:H.R. 1401.Congress has the power to enact this legislation pursuantto the following:Article 1, section 8, clause 4____________________[Page H1828]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

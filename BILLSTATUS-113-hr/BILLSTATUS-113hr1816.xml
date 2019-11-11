@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-05-08</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-04-26</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2013-04-26</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2013-04-26</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>A bill to amend title 38, United States Code, to provide additional educational assistance under Post-9/11 Educational Assistance to veterans pursuing a degree in science, technology, engineering, math, or an area that leads to employment in a high-demand occupation, and for other purposes.</latestTitle>
+        <number>514</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-06-12</actionDate>
+          <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-111.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Negrete McLeod, Gloria [D-CA-35]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-06-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>N000187</bioguideId>
+        <firstName>Gloria</firstName>
+        <identifiers>
+          <bioguideId>N000187</bioguideId>
+          <lisID>2108</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>35</district>
+        <lastName>Negrete McLeod</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Grimm, Michael G. [R-NY-11]</fullName>
+        <party>R</party>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2013-07-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>G000569</bioguideId>
+        <firstName>Michael</firstName>
+        <identifiers>
+          <bioguideId>G000569</bioguideId>
+          <gpoId>8074</gpoId>
+          <lisID>2041</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+        <lastName>Grimm</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-07-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>C001091</bioguideId>
+        <firstName>Joaquin</firstName>
+        <identifiers>
+          <lisID>2163</lisID>
+          <bioguideId>C001091</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>20</district>
+        <lastName>Castro</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <party>D</party>
+        <middleName>BERNICE</middleName>
+        <sponsorshipDate>2013-07-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>J000126</bioguideId>
+        <firstName>EDDIE</firstName>
+        <identifiers>
+          <bioguideId>J000126</bioguideId>
+          <lisID>599</lisID>
+          <gpoId>8186</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>30</district>
+        <lastName>JOHNSON</lastName>
+      </item>
+      <item>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-07-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>O000170</bioguideId>
+        <firstName>Beto</firstName>
+        <identifiers>
+          <lisID>2162</lisID>
+          <bioguideId>O000170</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>16</district>
+        <lastName>O'Rourke</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Gallego, Pete P. [D-TX-23]</fullName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2013-07-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>G000572</bioguideId>
+        <firstName>Pete</firstName>
+        <identifiers>
+          <lisID>2164</lisID>
+          <gpoId />
+          <bioguideId>G000572</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>23</district>
+        <lastName>Gallego</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>J000032</bioguideId>
+        <firstName>SHEILA</firstName>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>18</district>
+        <lastName>JACKSON LEE</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <bioguideId>B001281</bioguideId>
+        <firstName>Joyce</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2153</lisID>
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <lastName>Beatty</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-09-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>G000553</bioguideId>
+        <firstName>Al</firstName>
+        <identifiers>
+          <gpoId>8165</gpoId>
+          <lisID>1803</lisID>
+          <bioguideId>G000553</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <lastName>Green</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Capps, Lois [D-CA-24]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>C001036</bioguideId>
+        <firstName>LOIS</firstName>
+        <identifiers>
+          <bioguideId>C001036</bioguideId>
+          <lisID>1471</lisID>
+          <gpoId>7828</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>24</district>
+        <lastName>CAPPS</lastName>
+      </item>
+      <item>
+        <fullName>Rep. McDermott, Jim [D-WA-7]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2014-12-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <bioguideId>M000404</bioguideId>
+        <firstName>JIM</firstName>
+        <identifiers>
+          <lisID>766</lisID>
+          <gpoId>8211</gpoId>
+          <bioguideId>M000404</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <lastName>MCDERMOTT</lastName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-04-27T07:02:11Z</createDate>
+    <introducedDate>2013-04-26</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-05-08</actionDate>
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Veterans' STEM Education Program</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend title 38, United States Code, to provide additional educational assistance under the Post-9/11 GI Bill for veterans pursuing a degree in science, technology, engineering, or math.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Veterans' STEM Education Program</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:16:59Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <identifiers>
+          <lisID>2166</lisID>
+          <gpoId />
+          <bioguideId>V000131</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Marc</firstName>
+        <lastName>Veasey</lastName>
+        <bioguideId>V000131</bioguideId>
+        <state>TX</state>
+        <district>33</district>
+      </item>
+    </sponsors>
+    <title>Veterans' STEM Education Program</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-05-22T16:40:43Z</lastSummaryUpdateDate>
+          <actionDate>2013-04-26</actionDate>
+          <text><![CDATA[<p>Veterans' STEM Education Program - Authorizes the Secretary of Veterans Affairs (VA) to pay an additional appropriate amount to each individual entitled to post 9/11 educational assistance who is pursuing a program of education with a STEM focus (science, technology, engineering, and math). Makes such amount in addition to any other educational assistance to which the individual is entitled.</p> <p>Requires information on such additional payments to be included in a currently-required annual VA educational assistance report.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-04-26T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1816</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr10</systemCode>
+              <name>Economic Opportunity Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-05-08T18:54:33Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-26T14:08:35Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 59 (Friday, April 26, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. VEASEY:H.R. 1816.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8: The Congress shall have the power toprovide for the common defense.[Page H2395]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

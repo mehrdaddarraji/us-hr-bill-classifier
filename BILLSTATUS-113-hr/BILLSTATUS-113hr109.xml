@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>113</congress>
+    <notes />
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <bioguideId>G000550</bioguideId>
+        <fullName>Rep. Gingrey, Phil [R-GA-11]</fullName>
+        <state>GA</state>
+        <lastName>Gingrey</lastName>
+        <identifiers>
+          <bioguideId>G000550</bioguideId>
+          <gpoId>7908</gpoId>
+          <lisID>1720</lisID>
+        </identifiers>
+        <district>11</district>
+        <party>R</party>
+        <firstName>Phil</firstName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Enumerated Powers Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To require Congress to specify the source of authority under the United States Constitution for the enactment of laws, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Enumerated Powers Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <introducedDate>2013-01-03</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-01-25</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <actionDate>2013-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2013-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2013-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-02-13T21:46:32Z</lastSummaryUpdateDate>
+          <actionDate>2013-01-03</actionDate>
+          <text><![CDATA[<p>Enumerated Powers Act - Requires each Act of Congress to contain a concise and definite statement of the constitutional authority relied upon for the enactment of each portion of that Act. Declares that failure to comply with this requirement shall give rise to a point of order in either chamber of Congress. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-01-03T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills />
+    <laws />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <recordedVotes />
+    <updateDate>2018-06-05T15:57:59Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-01-25T19:38:37Z</date>
+                </item>
+              </activities>
+              <name>Constitution and Civil Justice Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-03T16:05:30Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Rules Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsru00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-03T16:05:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <firstName>Lynn</firstName>
+        <identifiers>
+          <bioguideId>W000796</bioguideId>
+          <lisID>1779</lisID>
+          <gpoId>7900</gpoId>
+        </identifiers>
+        <district>3</district>
+        <fullName>Rep. Westmoreland, Lynn A. [R-GA-3]</fullName>
+        <bioguideId>W000796</bioguideId>
+        <lastName>Westmoreland</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <state>GA</state>
+        <sponsorshipDate>2013-01-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+        </identifiers>
+        <district>15</district>
+        <fullName>Rep. Posey, Bill [R-FL-15]</fullName>
+        <bioguideId>P000599</bioguideId>
+        <lastName>Posey</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>FL</state>
+        <sponsorshipDate>2013-01-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <gpoId>8143</gpoId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <district>3</district>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <bioguideId>D000615</bioguideId>
+        <lastName>Duncan</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>SC</state>
+        <sponsorshipDate>2013-01-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Robert</firstName>
+        <identifiers>
+          <lisID>1886</lisID>
+          <bioguideId>W000804</bioguideId>
+          <gpoId>8192</gpoId>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <bioguideId>W000804</bioguideId>
+        <lastName>Wittman</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <state>VA</state>
+        <sponsorshipDate>2013-01-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Marsha</firstName>
+        <identifiers>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <bioguideId>B001243</bioguideId>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>TN</state>
+        <sponsorshipDate>2013-01-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Doug</firstName>
+        <identifiers>
+          <lisID>2121</lisID>
+          <gpoId />
+          <bioguideId>C001093</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <bioguideId>C001093</bioguideId>
+        <lastName>Collins</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>GA</state>
+        <sponsorshipDate>2013-01-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Austin</firstName>
+        <identifiers>
+          <gpoId>7905</gpoId>
+          <bioguideId>S001189</bioguideId>
+          <lisID>2009</lisID>
+        </identifiers>
+        <district>8</district>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <bioguideId>S001189</bioguideId>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>GA</state>
+        <sponsorshipDate>2013-01-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Kerry</firstName>
+        <identifiers>
+          <lisID>2135</lisID>
+          <bioguideId>B001280</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>11</district>
+        <fullName>Rep. Bentivolio, Kerry L. [R-MI-11]</fullName>
+        <bioguideId>B001280</bioguideId>
+        <lastName>Bentivolio</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <state>MI</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Rob</firstName>
+        <identifiers>
+          <gpoId>8189</gpoId>
+          <lisID>1753</lisID>
+          <bioguideId>B001250</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+        <bioguideId>B001250</bioguideId>
+        <lastName>Bishop</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>UT</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <title>Enumerated Powers Act</title>
+    <createDate>2013-01-04T07:00:55Z</createDate>
+    <billType>HR</billType>
+    <billNumber>109</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 1 (Thursday, January 3, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GINGREY of Georgia:H.R. 109.Congress has the power to enact this legislation pursuantto the following:Article I, Section 5, Clause 2 of the Constitution thatstates, ``Each House may determine the Rules of itsProceedings''[Page H36]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2013-01-25</actionDate>
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

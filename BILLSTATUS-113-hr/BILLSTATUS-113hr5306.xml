@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2014-07-31</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <firstName>PETER</firstName>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+        </identifiers>
+        <district>4</district>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <bioguideId>D000191</bioguideId>
+        <party>D</party>
+        <lastName>DEFAZIO</lastName>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-08-01</sponsorshipDate>
+        <state>OR</state>
+      </item>
+      <item>
+        <firstName>MICHAEL</firstName>
+        <identifiers>
+          <lisID>1564</lisID>
+          <gpoId>7973</gpoId>
+          <bioguideId>C001037</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <bioguideId>C001037</bioguideId>
+        <party>D</party>
+        <lastName>CAPUANO</lastName>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <state>MA</state>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+      <links />
+      <actionDate>2014-11-17</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <number>1029</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-03-07</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <latestTitle>No Loopholes in Social Security Taxes Act</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <number>500</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-03-07</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>Keeping Our Social Security Promises Act</latestTitle>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:15:50Z</updateDate>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2014-11-17</actionDate>
+        <committee>
+          <systemCode>hsed02</systemCode>
+          <name>Health, Employment, Labor, and Pensions Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Budget</text>
+        <links />
+        <actionDate>2014-07-31</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Education and the Workforce</text>
+        <links />
+        <actionDate>2014-07-31</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Education and the Workforce, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionDate>2014-07-31</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <links />
+        <actionDate>2014-07-31</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-07-31</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-07-31</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>3</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-10-23T20:09:43Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2014-07-31T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2014-07-31</actionDate>
+          <text><![CDATA[<p>Social Security 2100 Act - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act (SSA) to:</p> <ul> <li>increase the primary insurance amount formula factor from 90% to 93% for all eligible beneficiaries, beginning in 2015;</li> <li>revise computation of cost-of-living adjustments (COLAs) to use the Consumer Price Index for Elderly Consumers (CPI-E);</li> <li>increase the special minimum primary insurance amount (25% above the federal poverty line) for lifetime low earners based on years in the workforce.</li> </ul> <p>Amends the Internal Revenue Code (IRC) to increase the gross income threshold for taxation of Social Security benefits from $25,000 to $50,000 for single taxpayers and from $32,000 to $100,000 for married taxpayers filing joint returns, beginning in 2015.</p> <p>Amends the IRC and SSA title II to impose the employment tax on all wage income above $400,000, effective in 2015. Requires incremental increases, up to 14.4% in 2037, in the employment and self-employment taxes.</p> <p>Amends SSA title II to include 2% of an individual's excess average indexed monthly earnings (over $400,000 per annum) in the formula for determining primary insurance amounts.</p> <p>Amends IRC to increase the Social Security tax rate on employees and employers and with respect to self-employment income. </p> <p>Amends SSA title II to establish an Independent Social Security Investment Oversight Board to:</p> <ul> <li>set up a Common Stock Old-Age Investment Fund in the Federal Old-Age and Survivors Insurance Trust Fund and a Common Stock Disability Investment Fund in the Federal Disability Insurance Trust Fund, and</li> <li>prescibe rules for the investment of the Common Stock Investment Funds in common stock.</li> </ul> <p>Requires reallocation of a portion of employment tax revenues from the OASDI Trust Fund to the Federal Disability Insurance Trust Fund for wages paid after 2014.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Employment taxes</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Income tax rates</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Social Security Administration</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Social Security 2100 Act</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>LARSON</lastName>
+        <bioguideId>L000557</bioguideId>
+        <middleName>B.</middleName>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <identifiers>
+          <lisID>1583</lisID>
+          <gpoId>7866</gpoId>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <firstName>JOHN</firstName>
+        <party>D</party>
+        <state>CT</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-08-01T04:46:06Z</createDate>
+    <billNumber>5306</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsed02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-11-17T22:10:23Z</date>
+                </item>
+              </activities>
+              <name>Health, Employment, Labor, and Pensions Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Education and the Workforce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-07-31T13:02:15Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsbu00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Budget Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-07-31T13:02:20Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-07-31T13:02:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Social Security 2100 Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To protect our Social Security system and improve benefits for current and future generations.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Social Security 2100 Act</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

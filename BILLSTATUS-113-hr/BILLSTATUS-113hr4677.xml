@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-05-23</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <actionDate>2014-05-19</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-05-19</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-05-19</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-05-19</introducedDate>
+    <updateDate>2016-10-25T16:13:22Z</updateDate>
+    <createDate>2014-05-20T07:02:57Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2014-05-19T16:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-05-23T17:46:23Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <gpoId>7959</gpoId>
+          <lisID>1892</lisID>
+          <bioguideId>S001176</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Scalise, Steve [R-LA-1]</fullName>
+        <bioguideId>S001176</bioguideId>
+        <party>R</party>
+        <lastName>Scalise</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-05-19</sponsorshipDate>
+        <state>LA</state>
+      </item>
+      <item>
+        <firstName>Lynn</firstName>
+        <identifiers>
+          <lisID>1921</lisID>
+          <gpoId>7950</gpoId>
+          <bioguideId>J000290</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <bioguideId>J000290</bioguideId>
+        <party>R</party>
+        <lastName>Jenkins</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-05-19</sponsorshipDate>
+        <state>KS</state>
+      </item>
+      <item>
+        <firstName>Diane</firstName>
+        <identifiers>
+          <bioguideId>B001273</bioguideId>
+          <gpoId>8153</gpoId>
+          <lisID>2063</lisID>
+        </identifiers>
+        <district>6</district>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <bioguideId>B001273</bioguideId>
+        <party>R</party>
+        <lastName>Black</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-05-19</sponsorshipDate>
+        <state>TN</state>
+      </item>
+      <item>
+        <firstName>PATRICK</firstName>
+        <identifiers>
+          <lisID>1664</lisID>
+          <gpoId>8102</gpoId>
+          <bioguideId>T000462</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <bioguideId>T000462</bioguideId>
+        <party>R</party>
+        <lastName>TIBERI</lastName>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-05-19</sponsorshipDate>
+        <state>OH</state>
+      </item>
+      <item>
+        <firstName>Rob</firstName>
+        <identifiers>
+          <bioguideId>W000810</bioguideId>
+          <gpoId>7904</gpoId>
+          <lisID>2008</lisID>
+        </identifiers>
+        <district>7</district>
+        <fullName>Rep. Woodall, Rob [R-GA-7]</fullName>
+        <bioguideId>W000810</bioguideId>
+        <party>R</party>
+        <lastName>Woodall</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-06-09</sponsorshipDate>
+        <state>GA</state>
+      </item>
+      <item>
+        <firstName>James</firstName>
+        <identifiers>
+          <lisID>2048</lisID>
+          <gpoId>8106</gpoId>
+          <bioguideId>R000586</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <bioguideId>R000586</bioguideId>
+        <party>R</party>
+        <lastName>Renacci</lastName>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-06-09</sponsorshipDate>
+        <state>OH</state>
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <lisID>322</lisID>
+          <bioguideId>D000533</bioguideId>
+          <gpoId>8149</gpoId>
+        </identifiers>
+        <district>2</district>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <bioguideId>D000533</bioguideId>
+        <party>R</party>
+        <lastName>DUNCAN</lastName>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-07-03</sponsorshipDate>
+        <state>TN</state>
+      </item>
+      <item>
+        <firstName>Michele</firstName>
+        <identifiers>
+          <lisID>1858</lisID>
+          <gpoId>8006</gpoId>
+          <bioguideId>B001256</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <fullName>Rep. Bachmann, Michele [R-MN-6]</fullName>
+        <bioguideId>B001256</bioguideId>
+        <party>R</party>
+        <lastName>Bachmann</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-07-03</sponsorshipDate>
+        <state>MN</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>State Exchange Accountability Act</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>State Exchange Accountability Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend the Patient Protection and Affordable Care Act to require States with failed American Health Benefit Exchanges to reimburse the Federal Government for amounts provided under grants for the establishment and operation of such Exchanges.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>State Exchange Accountability Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. REED:H.R. 4677.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8--The Congress shall have the Power tolay and collect Taxes, Duties, Imposts and Excises, to paythe Debts and provide for the common Defense and generalWelfare of the United States____________________[Page H4475]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2014-07-11T19:51:38Z</lastSummaryUpdateDate>
+          <actionDate>2014-05-19</actionDate>
+          <text><![CDATA[<p>State Exchange Accountability Act - Amends the Patient Protection and Affordable Care Act to require a state to reimburse the federal government for the amount of establishment or early innovator grants the state received to operate a health care exchange if it operated an exchange in 2014 but subsequently elected to provide for enrollment in qualified health plans solely through the federal health care exchange.</p> <p>Requires that: (1) reimbursement be made in full within 10 years of such election, pursuant to an agreement with the Department of Health and Human Services (HHS); and (2) in case of failure to enter such an agreement, the Secretary of HHS shall reduce the state's Medicaid funding for 10 fiscal years in an aggregate amount equal to the reimbursement amount.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2014-05-19T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestTitle>State Exchange Accountability Act</latestTitle>
+        <number>2339</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2014-05-14</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Comprehensive health care</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2014-05-23</actionDate>
+    </latestAction>
+    <billNumber>4677</billNumber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>23</district>
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <bioguideId>R000585</bioguideId>
+        <identifiers>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+          <bioguideId>R000585</bioguideId>
+        </identifiers>
+        <lastName>Reed</lastName>
+        <middleName />
+        <state>NY</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-04-30T13:47:49Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2013-03-21T04:00:00Z</updateDate>
+          <actionDate>2013-03-21</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Urban Medicare-Dependent Hospitals Preservation Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act, with respect to cost reporting periods beginning on or after October 1, 2013, and before October 1, 2016, to revise the criteria and payment formula for "subsection (d) hospitals" which are urban Medicare-dependent hospitals.</p> <p>(Generally a subsection (d) hospital is an acute care hospital particularly one that receives payments under Medicare's inpatient prospective payment system when providing covered inpatient services to eligible beneficiaries.)</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2013-03-21</introducedDate>
+    <titles>
+      <item>
+        <title>Urban Medicare-Dependent Hospitals Preservation Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend title XVIII of the Social Security Act to preserve access to urban Medicare-dependent hospitals.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Urban Medicare-Dependent Hospitals Preservation Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <congress>113</congress>
+    <billNumber>1390</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 42 (Thursday, March 21, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SMITH of New Jersey:H.R. 1390.Congress has the power to enact this legislation pursuantto the following:The constitutional authority on which this bill is based isCongress's power under Article I, Section 8, Clause I of theConstitution.[Page H1828]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2018-06-05T16:13:07Z</updateDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hswm02</systemCode>
+              <activities>
+                <item>
+                  <date>2013-04-09T15:02:00Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2013-03-21T13:08:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2013-03-22T07:01:12Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <byRequestType />
+        <middleName>H.</middleName>
+        <identifiers>
+          <bioguideId>S000522</bioguideId>
+          <gpoId>8046</gpoId>
+          <lisID>1071</lisID>
+        </identifiers>
+        <district>4</district>
+        <lastName>SMITH</lastName>
+        <party>R</party>
+        <state>NJ</state>
+        <bioguideId>S000522</bioguideId>
+        <firstName>CHRISTOPHER</firstName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-04-09</actionDate>
+        <committee>
+          <systemCode>hswm02</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2013-03-21</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-03-21</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-03-21</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <amendments />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <lastName>Deutch</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Theodore</firstName>
+        <state>FL</state>
+        <identifiers>
+          <lisID>1976</lisID>
+          <bioguideId>D000610</bioguideId>
+          <gpoId>7891</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000610</bioguideId>
+        <middleName>E.</middleName>
+        <party>D</party>
+        <sponsorshipDate>2013-03-21</sponsorshipDate>
+        <district>21</district>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-21]</fullName>
+      </item>
+      <item>
+        <lastName>LOBIONDO</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>FRANK</firstName>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>L000554</bioguideId>
+          <lisID>699</lisID>
+          <gpoId>8044</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000554</bioguideId>
+        <middleName>A.</middleName>
+        <party>R</party>
+        <sponsorshipDate>2013-03-21</sponsorshipDate>
+        <district>2</district>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+      </item>
+      <item>
+        <lastName>Runyan</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jon</firstName>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>2039</lisID>
+          <gpoId>8045</gpoId>
+          <bioguideId>R000594</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000594</bioguideId>
+        <middleName />
+        <party>R</party>
+        <sponsorshipDate>2013-03-21</sponsorshipDate>
+        <district>3</district>
+        <fullName>Rep. Runyan, Jon [R-NJ-3]</fullName>
+      </item>
+      <item>
+        <lastName>LARSON</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <state>CT</state>
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000557</bioguideId>
+        <middleName>B.</middleName>
+        <party>D</party>
+        <sponsorshipDate>2013-03-21</sponsorshipDate>
+        <district>1</district>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+      </item>
+      <item>
+        <lastName>Frankel</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Lois</firstName>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>F000462</bioguideId>
+          <gpoId />
+          <lisID>2119</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000462</bioguideId>
+        <middleName />
+        <party>D</party>
+        <sponsorshipDate>2013-03-21</sponsorshipDate>
+        <district>22</district>
+        <fullName>Rep. Frankel, Lois [D-FL-22]</fullName>
+      </item>
+      <item>
+        <lastName>Courtney</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joe</firstName>
+        <state>CT</state>
+        <identifiers>
+          <lisID>1836</lisID>
+          <gpoId>7867</gpoId>
+          <bioguideId>C001069</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001069</bioguideId>
+        <middleName />
+        <party>D</party>
+        <sponsorshipDate>2013-03-21</sponsorshipDate>
+        <district>2</district>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+      </item>
+      <item>
+        <lastName>Cartwright</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Matt</firstName>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <gpoId />
+          <lisID>2159</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001090</bioguideId>
+        <middleName />
+        <party>D</party>
+        <sponsorshipDate>2013-05-16</sponsorshipDate>
+        <district>17</district>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+      </item>
+      <item>
+        <lastName>Quigley</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>Q000023</bioguideId>
+        <middleName />
+        <party>D</party>
+        <sponsorshipDate>2013-06-04</sponsorshipDate>
+        <district>5</district>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+      </item>
+      <item>
+        <lastName>Kinzinger</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Adam</firstName>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>K000378</bioguideId>
+          <gpoId>7931</gpoId>
+          <lisID>2014</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000378</bioguideId>
+        <middleName />
+        <party>R</party>
+        <sponsorshipDate>2013-06-13</sponsorshipDate>
+        <district>16</district>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2013-04-09</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Urban and suburban affairs and development</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <title>Urban Medicare-Dependent Hospitals Preservation Act of 2013</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

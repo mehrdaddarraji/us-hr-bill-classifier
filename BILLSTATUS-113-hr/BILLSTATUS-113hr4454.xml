@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2014-04-10</introducedDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 113-430</citation>
+      </committeeReport>
+    </committeeReports>
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <firstName>RON</firstName>
+        <identifiers>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+          <bioguideId>K000188</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <bioguideId>K000188</bioguideId>
+        <party>D</party>
+        <lastName>KIND</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <state>WI</state>
+      </item>
+      <item>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <lisID>1982</lisID>
+          <bioguideId>R000585</bioguideId>
+          <gpoId>8090</gpoId>
+        </identifiers>
+        <district>23</district>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <bioguideId>R000585</bioguideId>
+        <party>R</party>
+        <lastName>Reed</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-04-29</sponsorshipDate>
+        <state>NY</state>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Placed on the Union Calendar, Calendar No. 318.</text>
+      <links />
+      <actionDate>2014-05-02</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>892</number>
+        <type>HR</type>
+        <latestTitle>S Corporation Modernization Act of 2013</latestTitle>
+        <latestAction>
+          <actionDate>2013-02-28</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>1859</number>
+        <type>S</type>
+        <latestTitle>Tax Extenders Act of 2013</latestTitle>
+        <latestAction>
+          <actionDate>2013-12-20</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 287.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>2260</number>
+        <type>S</type>
+        <latestTitle>EXPIRE Act of 2014</latestTitle>
+        <latestAction>
+          <actionDate>2014-05-07</actionDate>
+          <text>Motion to proceed to consideration of measure made in Senate. (consideration: CR S2763-2768)</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:12:29Z</updateDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H12410</actionCode>
+        <type>Calendars</type>
+        <text>Placed on the Union Calendar, Calendar No. 318.</text>
+        <links />
+        <actionDate>2014-05-02</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H12200</actionCode>
+        <type>Committee</type>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-430.</text>
+        <links>
+          <link>
+            <name>H. Rept. 113-430</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/430</url>
+          </link>
+        </links>
+        <actionDate>2014-05-02</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>5000</actionCode>
+        <type>Committee</type>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-430.</text>
+        <links>
+          <link>
+            <name>H. Rept. 113-430</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/430</url>
+          </link>
+        </links>
+        <actionDate>2014-05-02</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-04-29</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 21 - 14.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-04-29</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <actionDate>2014-04-10</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-04-10</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-04-10</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <reportedToHouse>1</reportedToHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00318</calendar>
+      </item>
+    </calendarNumbers>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2014-05-02T15:05:54Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Amends the Internal Revenue Code to make permanent the tax rule requiring a decrease in the basis of a shareholder's stock in an S corporation that makes tax deductible charitable contributions of property. </p>]]></text>
+          <updateDate>2014-04-10T04:00:00Z</updateDate>
+          <actionDate>2014-04-10</actionDate>
+        </item>
+        <item>
+          <versionCode>17</versionCode>
+          <actionDesc>Reported to House amended</actionDesc>
+          <name>Reported to House amended</name>
+          <lastSummaryUpdateDate>2014-05-06T15:03:37Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Permanent S Corporation Charitable Contributions Act of 2014 - Amends the Internal Revenue Code to make permanent the tax rule requiring an adjustment to the basis of a shareholder's stock in an S corporation that makes tax deductible charitable contributions of appreciated property in taxable years beginning after 2013. </p>]]></text>
+          <updateDate>2014-05-02T12:18:57Z</updateDate>
+          <actionDate>2014-05-02</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Capital gains tax</name>
+          </item>
+          <item>
+            <name>Charitable contributions</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Permanent S Corporation Charitable Contributions Act of 2014</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Reichert</lastName>
+        <bioguideId>R000578</bioguideId>
+        <middleName>G.</middleName>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <identifiers>
+          <lisID>1810</lisID>
+          <gpoId>8212</gpoId>
+          <bioguideId>R000578</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <firstName>David</firstName>
+        <party>R</party>
+        <state>WA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-04-11T07:23:07Z</createDate>
+    <billNumber>4454</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2014-05-02T16:43:29Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2014-04-29T13:24:25Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2014-04-10T13:01:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. REICHERT:H.R. 4454.Congress has the power to enact this legislation pursuantto the following:Pursuant to Clause 1 of Section 8 of Article I of theUnited States Constitution and Amendment XVI of the UnitedStates Constitution[Page H3197]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates>
+      <item>
+        <url>http://www.cbo.gov/publication/45325</url>
+        <pubDate>2014-05-02T16:50:00Z</pubDate>
+        <title>H.R. 4454, Permanent S Corporation Charitable Contributions Act of 2014</title>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/45325</url>
+        <pubDate>2014-05-02T16:50:00Z</pubDate>
+        <title>H.R. 4454, Permanent S Corporation Charitable Contributions Act of 2014</title>
+      </item>
+    </cboCostEstimates>
+    <titles>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Permanent S Corporation Charitable Contributions Act of 2014</title>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to make permanent certain rules regarding basis adjustments to stock of S corporations making charitable contributions of property.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Permanent S Corporation Charitable Contributions Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

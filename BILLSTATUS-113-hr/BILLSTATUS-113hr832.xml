@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>832</billNumber>
+    <introducedDate>2013-02-26</introducedDate>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <laws />
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Floods and storm protection</name>
+          </item>
+          <item>
+            <name>Pipelines</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:05:44Z</updateDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2013 - Amends the Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2000 to authorize specified additional projects, including projects for water conservation and improvement in Cameron, Hidalgo, Willacy, Hudspeth, and El Paso counties, Texas.</p><p>Permits each project that the Secretary of the Interior, acting through the Commissioner of the Bureau of Reclamation, conducts or participates in to include: (1) the replacement of irrigation canals and lateral canals with buried pipelines; (2) the impervious lining of irrigation canals and lateral canals; (3) the installation of water level, flow measurement, pump control, and telemetry systems; (4) the renovation and replacement of pumping plants; and (5) other activities that will result in water conservation or an improved water supply.</p>]]></text>
+          <updateDate>2013-02-26T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-03-09T15:08:43Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-02-26</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <committeeReports />
+    <createDate>2013-02-27T07:00:51Z</createDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2013</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend the Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2000 to authorize additional projects and activities under that Act, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2013</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-03-04</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Power and Oceans Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2013-02-26</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-02-26</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-02-26</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-26T15:03:10Z</date>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <name>Water, Power and Oceans Subcommittee</name>
+              <systemCode>hsii13</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-03-04T21:44:04Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-03-04</actionDate>
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <sponsorshipDate>2013-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Vela</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>V000132</bioguideId>
+          <lisID>2167</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Filemon</firstName>
+        <bioguideId>V000132</bioguideId>
+        <state>TX</state>
+        <district>34</district>
+      </item>
+      <item>
+        <fullName>Rep. Gallego, Pete P. [D-TX-23]</fullName>
+        <sponsorshipDate>2013-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gallego</lastName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <identifiers>
+          <bioguideId>G000572</bioguideId>
+          <gpoId />
+          <lisID>2164</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Pete</firstName>
+        <bioguideId>G000572</bioguideId>
+        <state>TX</state>
+        <district>23</district>
+      </item>
+      <item>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <sponsorshipDate>2013-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>O'Rourke</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>2162</lisID>
+          <bioguideId>O000170</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Beto</firstName>
+        <bioguideId>O000170</bioguideId>
+        <state>TX</state>
+        <district>16</district>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <fullName>Rep. Hinojosa, Ruben [D-TX-15]</fullName>
+        <identifiers>
+          <bioguideId>H000636</bioguideId>
+          <lisID>1490</lisID>
+          <gpoId>8171</gpoId>
+        </identifiers>
+        <bioguideId>H000636</bioguideId>
+        <party>D</party>
+        <state>TX</state>
+        <firstName>RUBEN</firstName>
+        <byRequestType />
+        <district>15</district>
+        <lastName>HINOJOSA</lastName>
+        <middleName />
+      </item>
+    </sponsors>
+    <title>Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2013</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 27 (Tuesday, February 26, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HINOJOSA:H.R. 832.Congress has the power to enact this legislation pursuantto the following:Article I, Sec. 8, clause 3 of the Constitution[Page H660]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

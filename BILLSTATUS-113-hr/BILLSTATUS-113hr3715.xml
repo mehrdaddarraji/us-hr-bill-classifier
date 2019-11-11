@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>ROHRABACHER</lastName>
+        <bioguideId>R000409</bioguideId>
+        <middleName />
+        <district>48</district>
+        <identifiers>
+          <gpoId>7851</gpoId>
+          <bioguideId>R000409</bioguideId>
+          <lisID>979</lisID>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+        <firstName>DANA</firstName>
+        <fullName>Rep. Rohrabacher, Dana [R-CA-48]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHAKOWSKY</lastName>
+        <bioguideId>S001145</bioguideId>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <sponsorshipDate>2013-12-19</sponsorshipDate>
+        <firstName>JANICE</firstName>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-12-13</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2013-12-12</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-12-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-12-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HR</billType>
+    <title>Personal Drug Importation Fairness Act of 2013</title>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-12-12</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2014-02-20T21:03:03Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Personal Drug Importation Fairness Act of 2013 - Allows a drug to be imported into the United States, and re-imported into the United States by a person other than the drug's manufacturer, if the drug: (1) has the same active ingredients, route of administration, and strength as a prescription drug approved under provisions of the Federal Food, Drug, and Cosmetic Act (FFDCA) regarding adulterated drugs; (2) may be lawfully marketed in, and is imported or reimported from, a qualified country; (3) is dispensed by a licensed pharmacist; (4) is shipped directly to, or is imported by, the ultimate consumer from the qualified country; (5) is shipped or imported in quantities that do not exceed a 90-day supply; and (6) is accompanied by a copy of a valid prescription.</p> <p>Defines: (1) &quot;drug&quot; for purposes of this Act as excluding any controlled substance; and (2) &quot;qualified country&quot; to mean any of specified countries (Australia, Canada, Israel, Japan, New Zealand, Switzerland, South Africa, a member-state of the European Union, or a country in the European Economic Area) that is determined by the Commissioner of Food and Drugs (FDA) to have standards for ensuring drug safety and effectiveness that are at least as protective as U.S. standards.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-12-12T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. ELLISON:H.R. 3715.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clause 3 of the UnitedStates Constitution and its subsequent amendments, andfurther clarified and interpreted by the Supreme Court of theUnited States.[Page H8110]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>3715</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Personal Drug Importation Fairness Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>To reduce prescription drug costs by allowing the importation and reimportation of certain drugs.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Personal Drug Importation Fairness Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <middleName />
+        <lastName>Ellison</lastName>
+        <firstName>Keith</firstName>
+        <byRequestType />
+        <bioguideId>E000288</bioguideId>
+        <identifiers>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+          <lisID>1857</lisID>
+        </identifiers>
+        <party>D</party>
+        <district>5</district>
+        <state>MN</state>
+      </item>
+    </sponsors>
+    <updateDate>2016-10-25T16:09:36Z</updateDate>
+    <relatedBills />
+    <notes />
+    <amendments />
+    <createDate>2013-12-13T07:01:21Z</createDate>
+    <introducedDate>2013-12-12</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2013-12-13T16:37:02Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-12-12T15:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2013-12-13</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <congress>113</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

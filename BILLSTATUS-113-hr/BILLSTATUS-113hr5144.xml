@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2014-07-17</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <district>9</district>
+        <firstName>Steve</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <state>TN</state>
+        <lastName>Cohen</lastName>
+        <middleName />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+      </item>
+      <item>
+        <bioguideId>S001150</bioguideId>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <district>28</district>
+        <firstName>ADAM</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1635</lisID>
+          <gpoId>7834</gpoId>
+          <bioguideId>S001150</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <lastName>SCHIFF</lastName>
+        <middleName>B.</middleName>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+      </item>
+      <item>
+        <bioguideId>J000032</bioguideId>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <district>18</district>
+        <firstName>SHEILA</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <lastName>JACKSON LEE</lastName>
+        <middleName />
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+      </item>
+      <item>
+        <bioguideId>P000607</bioguideId>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <district>2</district>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2171</lisID>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <state>WI</state>
+        <lastName>Pocan</lastName>
+        <middleName />
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+      <actionDate>2014-07-17</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:15:15Z</updateDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionDate>2014-07-17</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on House Administration.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-07-17</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-07-17</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Equal Access to Support Youth Voting Act or the EASY Voting Act - Amends the Help America Vote Act of 2002 to require state and local election officials to accept a current and valid student photo identification issued by the institute of higher education the student attends when such identification is required to obtain a ballot or vote in a federal election.</p>]]></text>
+          <lastSummaryUpdateDate>2014-08-05T20:32:07Z</lastSummaryUpdateDate>
+          <updateDate>2014-07-17T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2014-07-17</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Voting rights</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>EASY Voting Act</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Cleaver</lastName>
+        <bioguideId>C001061</bioguideId>
+        <middleName />
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <identifiers>
+          <gpoId>8013</gpoId>
+          <lisID>1790</lisID>
+          <bioguideId>C001061</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <firstName>Emanuel</firstName>
+        <party>D</party>
+        <state>MO</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-07-18T04:57:55Z</createDate>
+    <billNumber>5144</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <date>2014-07-17T13:02:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>House Administration Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. CLEAVER:H.R. 5144.Congress has the power to enact this legislation pursuantto the following:Article I, Section 4 of the United States Constitution andArticle 1, Section 8, Clause 18 of the United StatesConstitution.[Page H6399]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>EASY Voting Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Equal Access to Support Youth Voting Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Help America Vote Act of 2002 to require States which require individuals to present a photo identification as a condition of voting in elections for Federal office to accept a photo identification presented by a student which is issued by the school the student attends.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>EASY Voting Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

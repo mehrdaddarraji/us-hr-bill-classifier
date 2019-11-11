@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-05-06</actionDate>
+        <committee>
+          <name>Water, Power and Oceans Subcommittee</name>
+          <systemCode>hsii13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2013-04-30</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2013-04-30</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2013-04-30</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2013-04-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001156</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S001156</bioguideId>
+          <gpoId>7844</gpoId>
+          <lisID>1757</lisID>
+        </identifiers>
+        <firstName>LINDA</firstName>
+        <party>D</party>
+        <middleName>T.</middleName>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <lastName>SANCHEZ</lastName>
+        <district>38</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000179</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <firstName>GRACE</firstName>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <lastName>NAPOLITANO</lastName>
+        <district>32</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-06-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000187</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>N000187</bioguideId>
+          <lisID>2108</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Gloria</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Negrete McLeod, Gloria [D-CA-35]</fullName>
+        <lastName>Negrete McLeod</lastName>
+        <district>35</district>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-05-01T07:02:09Z</createDate>
+    <introducedDate>2013-04-30</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-05-06</actionDate>
+      <text>Referred to the Subcommittee on Water and Power.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To extend the authorization period for certain uses of funds from the San Gabriel Basin Restoration Fund.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>To extend the authorization period for certain uses of funds from the San Gabriel Basin Restoration Fund.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aquatic ecology</name>
+          </item>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+          <item>
+            <name>Watersheds</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:17:03Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <identifiers>
+          <lisID>1970</lisID>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Judy</firstName>
+        <lastName>Chu</lastName>
+        <bioguideId>C001080</bioguideId>
+        <state>CA</state>
+        <district>27</district>
+      </item>
+    </sponsors>
+    <title>To extend the authorization period for certain uses of funds from the San Gabriel Basin Restoration Fund.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-05-10T13:48:41Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2013-04-30T04:00:00Z</updateDate>
+          <actionDate>2013-04-30</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Amends the Miscellaneous Appropriations Act, 2001 to extend the period during which the Secretary of the Army may use amounts in the San Gabriel Basin Restoration Fund to operate and maintain a water quality project administered by the San Gabriel Basin Water Quality Authority, in California, or the Central Basin Water Quality Project administered by the Central Basin Municipal Water District from 10 to 15 years after the initial date of operation of the project.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1822</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-30T18:00:05Z</date>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <name>Water, Power and Oceans Subcommittee</name>
+              <systemCode>hsii13</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-05-06T20:31:44Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 60 (Tuesday, April 30, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. CHU:H.R.1822.Congress has the power to enact this legislation pursuantto the following:Clause 1, Section 8, Article 1 of the Constitution.[Page H2400]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

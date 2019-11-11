@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <links />
+        <actionDate>2014-04-10</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <text>Sponsor introductory remarks on measure. (CR E570)</text>
+        <links>
+          <link>
+            <name>E570</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/extensions-of-remarks-section/page/E570</url>
+          </link>
+        </links>
+        <actionDate>2014-04-10</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-04-10</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-04-10</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-04-10</introducedDate>
+    <updateDate>2016-10-25T16:12:31Z</updateDate>
+    <createDate>2014-04-11T07:23:07Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <date>2014-04-10T13:01:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Steve</firstName>
+        <middleName />
+        <lastName>Stivers</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <bioguideId>S001187</bioguideId>
+        <district>15</district>
+        <state>OH</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>RUBEN</firstName>
+        <middleName />
+        <lastName>HINOJOSA</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Hinojosa, Ruben [D-TX-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1490</lisID>
+          <bioguideId>H000636</bioguideId>
+          <gpoId>8171</gpoId>
+        </identifiers>
+        <bioguideId>H000636</bioguideId>
+        <district>15</district>
+        <state>TX</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>MAXINE</firstName>
+        <middleName />
+        <lastName>WATERS</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Waters, Maxine [D-CA-43]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1205</lisID>
+          <gpoId>7840</gpoId>
+          <bioguideId>W000187</bioguideId>
+        </identifiers>
+        <bioguideId>W000187</bioguideId>
+        <district>43</district>
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>CAROLYN</firstName>
+        <middleName>B.</middleName>
+        <lastName>MALONEY</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000087</bioguideId>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+        </identifiers>
+        <bioguideId>M000087</bioguideId>
+        <district>12</district>
+        <state>NY</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>WM.</firstName>
+        <middleName>LACY</middleName>
+        <lastName>CLAY</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1654</lisID>
+          <bioguideId>C001049</bioguideId>
+          <gpoId>8009</gpoId>
+        </identifiers>
+        <bioguideId>C001049</bioguideId>
+        <district>1</district>
+        <state>MO</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>GREGORY</firstName>
+        <middleName>W.</middleName>
+        <lastName>MEEKS</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1506</lisID>
+          <bioguideId>M001137</bioguideId>
+          <gpoId>8067</gpoId>
+        </identifiers>
+        <bioguideId>M001137</bioguideId>
+        <district>5</district>
+        <state>NY</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>CHARLES</firstName>
+        <middleName>B.</middleName>
+        <lastName>RANGEL</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>944</lisID>
+          <gpoId>8076</gpoId>
+          <bioguideId>R000053</bioguideId>
+        </identifiers>
+        <bioguideId>R000053</bioguideId>
+        <district>13</district>
+        <state>NY</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Marcia</firstName>
+        <middleName>L.</middleName>
+        <lastName>Fudge</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1895</lisID>
+          <bioguideId>F000455</bioguideId>
+          <gpoId>8101</gpoId>
+        </identifiers>
+        <bioguideId>F000455</bioguideId>
+        <district>11</district>
+        <state>OH</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>LUIS</firstName>
+        <middleName>V.</middleName>
+        <lastName>GUTIERREZ</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>478</lisID>
+          <gpoId>7924</gpoId>
+          <bioguideId>G000535</bioguideId>
+        </identifiers>
+        <bioguideId>G000535</bioguideId>
+        <district>4</district>
+        <state>IL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>LINDA</firstName>
+        <middleName>T.</middleName>
+        <lastName>SANCHEZ</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001156</bioguideId>
+          <lisID>1757</lisID>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <bioguideId>S001156</bioguideId>
+        <district>38</district>
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Tony</firstName>
+        <middleName />
+        <lastName>Cardenas</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2107</lisID>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <bioguideId>C001097</bioguideId>
+        <district>29</district>
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Terri</firstName>
+        <middleName>A.</middleName>
+        <lastName>Sewell</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1988</lisID>
+          <gpoId>7792</gpoId>
+          <bioguideId>S001185</bioguideId>
+        </identifiers>
+        <bioguideId>S001185</bioguideId>
+        <district>7</district>
+        <state>AL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Gerald</firstName>
+        <middleName>E.</middleName>
+        <lastName>Connolly</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <bioguideId>C001078</bioguideId>
+        <district>11</district>
+        <state>VA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Denny</firstName>
+        <middleName />
+        <lastName>Heck</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001064</bioguideId>
+          <lisID>2170</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001064</bioguideId>
+        <district>10</district>
+        <state>WA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Eric</firstName>
+        <middleName />
+        <lastName>Swalwell</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001193</bioguideId>
+        <district>15</district>
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>BARBARA</firstName>
+        <middleName />
+        <lastName>LEE</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <bioguideId>L000551</bioguideId>
+        <district>13</district>
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>SHEILA</firstName>
+        <middleName />
+        <lastName>JACKSON LEE</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <bioguideId>J000032</bioguideId>
+        <district>18</district>
+        <state>TX</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>EDDIE</firstName>
+        <middleName>BERNICE</middleName>
+        <lastName>JOHNSON</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>599</lisID>
+          <gpoId>8186</gpoId>
+          <bioguideId>J000126</bioguideId>
+        </identifiers>
+        <bioguideId>J000126</bioguideId>
+        <district>30</district>
+        <state>TX</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Donna</firstName>
+        <middleName>F.</middleName>
+        <lastName>Edwards</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Edwards, Donna F. [D-MD-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7979</gpoId>
+          <lisID>1894</lisID>
+          <bioguideId>E000290</bioguideId>
+        </identifiers>
+        <bioguideId>E000290</bioguideId>
+        <district>4</district>
+        <state>MD</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>TIM</firstName>
+        <middleName />
+        <lastName>RYAN</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <bioguideId>R000577</bioguideId>
+        <district>13</district>
+        <state>OH</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Henry</firstName>
+        <middleName>C. "Hank"</middleName>
+        <lastName>Johnson</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+          <lisID>1843</lisID>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <bioguideId>J000288</bioguideId>
+        <district>4</district>
+        <state>GA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>MARCY</firstName>
+        <middleName />
+        <lastName>KAPTUR</lastName>
+        <sponsorshipDate>2014-04-29</sponsorshipDate>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>616</lisID>
+          <bioguideId>K000009</bioguideId>
+          <gpoId>8099</gpoId>
+        </identifiers>
+        <bioguideId>K000009</bioguideId>
+        <district>9</district>
+        <state>OH</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Robin</firstName>
+        <middleName>L.</middleName>
+        <lastName>Kelly</lastName>
+        <sponsorshipDate>2014-04-29</sponsorshipDate>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2190</lisID>
+          <gpoId />
+          <bioguideId>K000385</bioguideId>
+        </identifiers>
+        <bioguideId>K000385</bioguideId>
+        <district>2</district>
+        <state>IL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>CAROLYN</firstName>
+        <middleName />
+        <lastName>MCCARTHY</lastName>
+        <sponsorshipDate>2014-06-26</sponsorshipDate>
+        <fullName>Rep. McCarthy, Carolyn [D-NY-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1503</lisID>
+          <gpoId>8065</gpoId>
+          <bioguideId>M000309</bioguideId>
+        </identifiers>
+        <bioguideId>M000309</bioguideId>
+        <district>4</district>
+        <state>NY</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>ELEANOR</firstName>
+        <middleName>HOLMES</middleName>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2014-06-26</sponsorshipDate>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <district>0</district>
+        <state>DC</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Gwen</firstName>
+        <middleName />
+        <lastName>Moore</lastName>
+        <sponsorshipDate>2014-06-26</sponsorshipDate>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <bioguideId>M001160</bioguideId>
+        <district>4</district>
+        <state>WI</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Janice</firstName>
+        <middleName />
+        <lastName>Hahn</lastName>
+        <sponsorshipDate>2014-07-08</sponsorshipDate>
+        <fullName>Rep. Hahn, Janice [D-CA-44]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2089</lisID>
+          <gpoId>8360</gpoId>
+          <bioguideId>H001063</bioguideId>
+        </identifiers>
+        <bioguideId>H001063</bioguideId>
+        <district>44</district>
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Patrick</firstName>
+        <middleName />
+        <lastName>Murphy</lastName>
+        <sponsorshipDate>2014-07-10</sponsorshipDate>
+        <fullName>Rep. Murphy, Patrick [D-FL-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2117</lisID>
+          <bioguideId>M001191</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>M001191</bioguideId>
+        <district>18</district>
+        <state>FL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>JOHN</firstName>
+        <middleName>B.</middleName>
+        <lastName>LARSON</lastName>
+        <sponsorshipDate>2014-07-10</sponsorshipDate>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <bioguideId>L000557</bioguideId>
+        <district>1</district>
+        <state>CT</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Matt</firstName>
+        <middleName />
+        <lastName>Cartwright</lastName>
+        <sponsorshipDate>2014-09-10</sponsorshipDate>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2159</lisID>
+          <bioguideId>C001090</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001090</bioguideId>
+        <district>17</district>
+        <state>PA</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Housing Financial Literacy Act of 2014</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Housing Financial Literacy Act of 2014</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To require the Secretary of Housing and Urban Development to discount FHA single-family mortgage insurance premium payments for first-time homebuyers who complete a financial literacy housing counseling program.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Housing Financial Literacy Act of 2014</title>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mrs. BEATTY:H.R. 4462.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the United StatesConstitution which grants Congress the power to regulateCommerce with foreign Nations, and among the several States,and with the Indian Tribes.[Page H3198]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-04-30T21:36:04Z</lastSummaryUpdateDate>
+          <updateDate>2014-04-10T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDate>2014-04-10</actionDate>
+          <text><![CDATA[<p>Housing Financial Literacy Act of 2014 - Amends the National Housing Act to revise the single insurance premium payment for a mortgage (secured by a one- to four-family dwelling that is an obligation of the Mutual Mortgage Insurance Fund) of a first-time homebuyer who completes a program of counseling on the responsibilities and financial management involved in homeownership that is approved by the Secretary of Housing and Urban Development (HUD).</p> <p>Repeals the current maximum premium payment of 2.75% of the amount of the mortgage's original insured principal obligation.</p> <p>Sets the single mortgage insurance premium payment at 25 basis points lower than the premium payment amount otherwise established.<BR> </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Financial literacy</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Life, casualty, property insurance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Financial Services.</text>
+      <actionDate>2014-04-10</actionDate>
+    </latestAction>
+    <billNumber>4462</billNumber>
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>3</district>
+        <firstName>Joyce</firstName>
+        <party>D</party>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <bioguideId>B001281</bioguideId>
+        <identifiers>
+          <lisID>2153</lisID>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <lastName>Beatty</lastName>
+        <middleName />
+        <state>OH</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

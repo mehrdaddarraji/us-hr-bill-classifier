@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2013-06-28</actionDate>
+        <committee>
+          <name>Highways and Transit Subcommittee</name>
+          <systemCode>hspw12</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-06-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-06-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-06-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-06-27</introducedDate>
+    <notes />
+    <calendarNumbers />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2013-06-27</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Repeals requirements that condition certain financial assistance for public transportation projects upon employee protective arrangements approved by the Secretary of Labor.</p>]]></text>
+          <updateDate>2013-06-27T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-08-08T15:29:09Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Labor-management relations</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>2537</billNumber>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <gpoId>7908</gpoId>
+          <lisID>1720</lisID>
+          <bioguideId>G000550</bioguideId>
+        </identifiers>
+        <lastName>Gingrey</lastName>
+        <district>11</district>
+        <middleName />
+        <firstName>Phil</firstName>
+        <byRequestType />
+        <bioguideId>G000550</bioguideId>
+        <fullName>Rep. Gingrey, Phil [R-GA-11]</fullName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. GINGREY of Georgia:H.R. 2537.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the Constitution, whichstates, ``The Congress shall have the power to regulateCommerce with foreign Nations, and among the several states,and with the Indian Tribes.''[Page H4144]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend title 49, United States Code, with respect to employee protective arrangements, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend title 49, United States Code, with respect to employee protective arrangements, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <updateDate>2016-10-25T16:05:13Z</updateDate>
+    <recordedVotes />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <actionDate>2013-06-28</actionDate>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </latestAction>
+    <createDate>2013-06-28T07:01:13Z</createDate>
+    <title>To amend title 49, United States Code, with respect to employee protective arrangements, and for other purposes.</title>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-07-31</sponsorshipDate>
+        <party>R</party>
+        <lastName>Blackburn</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001243</bioguideId>
+        <state>TN</state>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Marsha</firstName>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8015</gpoId>
+          <lisID>2033</lisID>
+          <bioguideId>L000576</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-08-02</sponsorshipDate>
+        <party>R</party>
+        <lastName>Long</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000576</bioguideId>
+        <state>MO</state>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Billy</firstName>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8197</gpoId>
+          <bioguideId>G000289</bioguideId>
+          <lisID>446</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-09-17</sponsorshipDate>
+        <party>R</party>
+        <lastName>GOODLATTE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000289</bioguideId>
+        <state>VA</state>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <firstName>ROBERT</firstName>
+        <fullName>Rep. Goodlatte, Bob [R-VA-6]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7906</gpoId>
+          <lisID>1979</lisID>
+          <bioguideId>G000560</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <party>R</party>
+        <lastName>Graves</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000560</bioguideId>
+        <state>GA</state>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Tom</firstName>
+        <fullName>Rep. Graves, Tom [R-GA-14]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1114</lisID>
+          <gpoId />
+          <bioguideId>S000937</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-03-13</sponsorshipDate>
+        <party>R</party>
+        <lastName>STOCKMAN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000937</bioguideId>
+        <state>TX</state>
+        <district>36</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>STEVE</firstName>
+        <fullName>Rep. Stockman, Steve [R-TX-36]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7900</gpoId>
+          <lisID>1779</lisID>
+          <bioguideId>W000796</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-03-14</sponsorshipDate>
+        <party>R</party>
+        <lastName>Westmoreland</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000796</bioguideId>
+        <state>GA</state>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <firstName>Lynn</firstName>
+        <fullName>Rep. Westmoreland, Lynn A. [R-GA-3]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7905</gpoId>
+          <lisID>2009</lisID>
+          <bioguideId>S001189</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-03-25</sponsorshipDate>
+        <party>R</party>
+        <lastName>Scott</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001189</bioguideId>
+        <state>GA</state>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Austin</firstName>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001144</bioguideId>
+          <lisID>1685</lisID>
+          <gpoId>7873</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <party>R</party>
+        <lastName>Miller</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001144</bioguideId>
+        <state>FL</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Jeff</firstName>
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <lisID>2098</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2014-04-28</sponsorshipDate>
+        <party>R</party>
+        <lastName>Cotton</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001095</bioguideId>
+        <state>AR</state>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Tom</firstName>
+        <fullName>Rep. Cotton, Tom [R-AR-4]</fullName>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <systemCode>hspw12</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-06-28T17:52:46Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-06-27T14:00:15Z</date>
+            </item>
+          </activities>
+          <systemCode>hspw00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-09-02</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-07-31</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Oversight and Government Reform</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-07-31</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Armed Services</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-07-31</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-07-31</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Veterans' Affairs</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-07-31</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-07-31</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>3</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-07-31</introducedDate>
+    <updateDate>2016-10-25T16:16:06Z</updateDate>
+    <createDate>2014-08-01T04:46:07Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr10</systemCode>
+              <name>Economic Opportunity Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-09-02T16:24:33Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-07-31T13:11:40Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Oversight and Government Reform Committee</name>
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-07-31T13:11:50Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-07-31T13:11:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <firstName>MIKE</firstName>
+        <state>PA</state>
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+        <identifiers>
+          <gpoId>8132</gpoId>
+          <lisID>316</lisID>
+          <bioguideId>D000482</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-07-31</sponsorshipDate>
+        <bioguideId>D000482</bioguideId>
+        <middleName />
+        <district>14</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>DOYLE</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Gerald</firstName>
+        <state>VA</state>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <identifiers>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-07-31</sponsorshipDate>
+        <bioguideId>C001078</bioguideId>
+        <middleName>E.</middleName>
+        <district>11</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Connolly</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Matt</firstName>
+        <state>PA</state>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-07-31</sponsorshipDate>
+        <bioguideId>C001090</bioguideId>
+        <middleName />
+        <district>17</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cartwright</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>ROBERT</firstName>
+        <state>PA</state>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <identifiers>
+          <lisID>1469</lisID>
+          <bioguideId>B001227</bioguideId>
+          <gpoId>8119</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-07-31</sponsorshipDate>
+        <bioguideId>B001227</bioguideId>
+        <middleName>A.</middleName>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>BRADY</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>CHAKA</firstName>
+        <state>PA</state>
+        <fullName>Rep. Fattah, Chaka [D-PA-2]</fullName>
+        <identifiers>
+          <lisID>371</lisID>
+          <gpoId>8120</gpoId>
+          <bioguideId>F000043</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-07-31</sponsorshipDate>
+        <bioguideId>F000043</bioguideId>
+        <middleName />
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>FATTAH</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Joe</firstName>
+        <state>CT</state>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <identifiers>
+          <lisID>1836</lisID>
+          <gpoId>7867</gpoId>
+          <bioguideId>C001069</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-07-31</sponsorshipDate>
+        <bioguideId>C001069</bioguideId>
+        <middleName />
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Courtney</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Suzanne</firstName>
+        <state>OR</state>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <identifiers>
+          <lisID>2092</lisID>
+          <gpoId>8367</gpoId>
+          <bioguideId>B001278</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-07-31</sponsorshipDate>
+        <bioguideId>B001278</bioguideId>
+        <middleName />
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bonamici</lastName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Servicemembers Access to Justice Act of 2014</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Servicemembers Access to Justice Act of 2014</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend title 38, United States Code, to improve the enforcement of employment and reemployment rights of members of the uniformed services, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Servicemembers Access to Justice Act of 2014</title>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Ms. SCHWARTZ:H.R. 5375.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8[Page H7188]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2014-07-31T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Servicemembers Access to Justice Act of 2014 - Waives a state's sovereign immunity with respect to the enforcement of uniformed services members' employment or reemployment rights or benefits under the Uniformed Services Employment and Reemployment Rights Act of 1994 (USERRA).</p> <p>Makes unenforceable agreements between an employer and employee requiring arbitration of disputes arising under USERRA. Provides exceptions. Requires the validity and enforceability of such an agreement to be determined by a court (as opposed to the arbitrator).</p> <p>Provides increased liquidated damages, and authorizes punitive damages, against state or private employer violations of USERRA. Provides a right to a jury trial in such cases.</p> <p>Requires (under current law, authorizes) the award of attorney fees in actions to enforce USERRA.</p> <p>Requires (under current law, authorizes) a court to use equitable relief, including injunctions and restraining orders when appropriate, for USERRA violations.</p> <p> Requires federal procurement contracts to include a notice that the contractor may have USERRA obligations.</p> <p>Requires a Comptroller General (GAO) study on the effectiveness of federal education and outreach programs on employer obligations under USERRA.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2014-07-31</actionDate>
+          <lastSummaryUpdateDate>2014-10-06T18:11:38Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative dispute resolution, mediation, arbitration</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <actionDate>2014-09-02</actionDate>
+    </latestAction>
+    <billNumber>5375</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>13</district>
+        <firstName>Allyson</firstName>
+        <party>D</party>
+        <fullName>Rep. Schwartz, Allyson Y. [D-PA-13]</fullName>
+        <bioguideId>S001162</bioguideId>
+        <identifiers>
+          <lisID>1798</lisID>
+          <bioguideId>S001162</bioguideId>
+          <gpoId>8131</gpoId>
+        </identifiers>
+        <lastName>Schwartz</lastName>
+        <middleName>Y.</middleName>
+        <state>PA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2013-08-01</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2013-08-01T14:04:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2013-08-02T16:37:01Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2013-08-01T14:04:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Ms. SPEIER:H.R. 2914.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8: Congress shall have the power toregulate commerce among the states, and provide for thegeneral welfare.[Page H5345]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <identifiers>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+          <lisID>1890</lisID>
+        </identifiers>
+        <bioguideId>S001175</bioguideId>
+        <party>D</party>
+        <byRequestType />
+        <middleName />
+        <state>CA</state>
+        <lastName>Speier</lastName>
+        <district>14</district>
+        <firstName>Jackie</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <billType>HR</billType>
+    <committeeReports />
+    <congress>113</congress>
+    <notes />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Promoting Integrity in Medicare Act of 2013</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To prevent abusive billing of ancillary services to the Medicare program, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Promoting Integrity in Medicare Act of 2013</title>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <createDate>2013-08-02T05:52:39Z</createDate>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1940</lisID>
+          <gpoId>7493</gpoId>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Titus</lastName>
+        <middleName />
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <district>1</district>
+        <firstName>Dina</firstName>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000468</bioguideId>
+        <state>NV</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8211</gpoId>
+          <lisID>766</lisID>
+          <bioguideId>M000404</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MCDERMOTT</lastName>
+        <middleName />
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <district>7</district>
+        <firstName>JIM</firstName>
+        <fullName>Rep. McDermott, Jim [D-WA-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000404</bioguideId>
+        <state>WA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+          <bioguideId>S000480</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SLAUGHTER</lastName>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2013-09-20</sponsorshipDate>
+        <district>25</district>
+        <firstName>LOUISE</firstName>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000480</bioguideId>
+        <state>NY</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>832</lisID>
+          <gpoId>8199</gpoId>
+          <bioguideId>M000933</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MORAN</lastName>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2013-09-20</sponsorshipDate>
+        <district>8</district>
+        <firstName>JAMES</firstName>
+        <fullName>Rep. Moran, James P. [D-VA-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000933</bioguideId>
+        <state>VA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>JACKSON LEE</lastName>
+        <middleName />
+        <sponsorshipDate>2013-09-20</sponsorshipDate>
+        <district>18</district>
+        <firstName>SHEILA</firstName>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipWithdrawnDate>2013-09-26</sponsorshipWithdrawnDate>
+        <bioguideId>J000032</bioguideId>
+        <state>TX</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B000013</bioguideId>
+          <lisID>38</lisID>
+          <gpoId>7791</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BACHUS</lastName>
+        <middleName />
+        <sponsorshipDate>2013-09-20</sponsorshipDate>
+        <district>6</district>
+        <firstName>SPENCER</firstName>
+        <fullName>Rep. Bachus, Spencer [R-AL-6]</fullName>
+        <sponsorshipWithdrawnDate>2013-09-26</sponsorshipWithdrawnDate>
+        <bioguideId>B000013</bioguideId>
+        <state>AL</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>T000193</bioguideId>
+          <lisID>1151</lisID>
+          <gpoId>8020</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>THOMPSON</lastName>
+        <middleName />
+        <sponsorshipDate>2013-09-26</sponsorshipDate>
+        <district>2</district>
+        <firstName>BENNIE</firstName>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000193</bioguideId>
+        <state>MS</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Shea-Porter</lastName>
+        <middleName />
+        <sponsorshipDate>2013-09-26</sponsorshipDate>
+        <district>1</district>
+        <firstName>Carol</firstName>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001170</bioguideId>
+        <state>NH</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2159</lisID>
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cartwright</lastName>
+        <middleName />
+        <sponsorshipDate>2013-10-16</sponsorshipDate>
+        <district>17</district>
+        <firstName>Matt</firstName>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001090</bioguideId>
+        <state>PA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+          <lisID>355</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>ESHOO</lastName>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2013-10-16</sponsorshipDate>
+        <district>18</district>
+        <firstName>ANNA</firstName>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000215</bioguideId>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001038</bioguideId>
+          <lisID>1794</lisID>
+          <gpoId>8088</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Higgins</lastName>
+        <middleName />
+        <sponsorshipDate>2013-10-23</sponsorshipDate>
+        <district>26</district>
+        <firstName>Brian</firstName>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001038</bioguideId>
+        <state>NY</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+          <lisID>1973</lisID>
+          <gpoId>7815</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Garamendi</lastName>
+        <middleName />
+        <sponsorshipDate>2014-01-09</sponsorshipDate>
+        <district>3</district>
+        <firstName>John</firstName>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000559</bioguideId>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8076</gpoId>
+          <bioguideId>R000053</bioguideId>
+          <lisID>944</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>RANGEL</lastName>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <district>13</district>
+        <firstName>CHARLES</firstName>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000053</bioguideId>
+        <state>NY</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>E000288</bioguideId>
+          <gpoId>8005</gpoId>
+          <lisID>1857</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Ellison</lastName>
+        <middleName />
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <district>5</district>
+        <firstName>Keith</firstName>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000288</bioguideId>
+        <state>MN</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8054</gpoId>
+          <lisID>1580</lisID>
+          <bioguideId>H001032</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>HOLT</lastName>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2014-06-25</sponsorshipDate>
+        <district>12</district>
+        <firstName>RUSH</firstName>
+        <fullName>Rep. Holt, Rush [D-NJ-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001032</bioguideId>
+        <state>NJ</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Promoting Integrity in Medicare Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act (SSA) with respect to the general exceptions to both ownership and compensation arrangement prohibitions against physician self-referrals of Medicare patients to the entity with which a physician has a certain financial relationship.</p> <p>Removes from the in-office ancillary services (IOAS) exception to such prohibitions certain services the Secretary of Health and Human Services (HHS) determines are not usually provided and completed during the visit to a physician's office in which such a service is determined to be necessary (non-ancillary services). (Thus subjects such non-ancillary services to the prohibitions against physician self-referrals).</p> <p>Lists among specified non-ancillary services: (1) anatomic pathology services (including the technical or professional component of surgical pathology, cytopathology, hematology, blood banking, and pathology consultation and clinical laboratory interpretation services), (2) radiation therapy services and supplies, (3) advanced diagnostic imaging studies, and (4) physical therapy services.</p> <p>Increases from a maximum of $15,000 to a maximum of $25,000 the civil monetary penalty in the case of a bill or claim for such services whose presenter knows or should have known they are for a service for which payment may not be made. </p> <p>Increases from a maximum of $100,000 to a maximum of $150,000 the civil monetary penalty for any circumventive arrangement or scheme which a physician or other entity enters into knowing (or should know) has a principal purpose of assuring referrals by the physician to a particular entity which, if the physician directly made referrals to such entity, would be in violation of SSA title XVIII.</p> <p>Directs the Secretary to review compliance with the self-referral prohibitions with respect to referrals for specified non-ancillary services in accordance with procedures established by the Secretary.</p> <p>States that, in applying the self-referral prohibitions, the term &quot;entity&quot; includes a physician's practice when it bills under Medicare for the technical component or the professional component of a specified non-ancillary service.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2014-04-25T14:31:57Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2013-08-01</actionDate>
+          <updateDate>2013-08-01T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-08-02</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-08-01</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-08-01</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-08-01</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Energy and Commerce</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-08-01</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-08-01</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Allied health services</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Medical ethics</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <title>Promoting Integrity in Medicare Act of 2013</title>
+    <updateDate>2016-10-25T16:06:36Z</updateDate>
+    <billNumber>2914</billNumber>
+    <latestAction>
+      <actionDate>2013-08-02</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

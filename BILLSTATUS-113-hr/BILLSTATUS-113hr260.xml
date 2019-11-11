@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-01-15</actionDate>
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-01-15</actionDate>
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-01-15</actionDate>
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-01-15</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-01-15</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>1994</number>
+        <latestAction>
+          <actionDate>2013-12-12</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 211.</text>
+        </latestAction>
+        <latestTitle>Election Assistance Commission Termination Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <state>OK</state>
+        <party>R</party>
+        <middleName />
+        <firstName>Tom</firstName>
+        <district>4</district>
+        <sponsorshipDate>2013-01-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cole</lastName>
+        <bioguideId>C001053</bioguideId>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+      </item>
+      <item>
+        <state>MI</state>
+        <party>R</party>
+        <middleName>S.</middleName>
+        <firstName>Candice</firstName>
+        <district>10</district>
+        <sponsorshipDate>2013-01-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001150</bioguideId>
+          <lisID>1731</lisID>
+          <gpoId>8589</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Miller</lastName>
+        <bioguideId>M001150</bioguideId>
+        <fullName>Rep. Miller, Candice S. [R-MI-10]</fullName>
+      </item>
+      <item>
+        <state>IN</state>
+        <party>R</party>
+        <middleName />
+        <firstName>Todd</firstName>
+        <district>4</district>
+        <sponsorshipDate>2013-01-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2017</lisID>
+          <gpoId>7943</gpoId>
+          <bioguideId>R000592</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rokita</lastName>
+        <bioguideId>R000592</bioguideId>
+        <fullName>Rep. Rokita, Todd [R-IN-4]</fullName>
+      </item>
+      <item>
+        <state>GA</state>
+        <party>R</party>
+        <middleName />
+        <firstName>Phil</firstName>
+        <district>11</district>
+        <sponsorshipDate>2013-02-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000550</bioguideId>
+          <gpoId>7908</gpoId>
+          <lisID>1720</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gingrey</lastName>
+        <bioguideId>G000550</bioguideId>
+        <fullName>Rep. Gingrey, Phil [R-GA-11]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-01-16T07:02:10Z</createDate>
+    <introducedDate>2013-01-15</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-01-15</actionDate>
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <title>To reduce Federal spending and the deficit by terminating taxpayer financing of presidential election campaigns and party conventions and by terminating the Election Assistance Commission.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To reduce Federal spending and the deficit by terminating taxpayer financing of presidential election campaigns and party conventions and by terminating the Election Assistance Commission.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Election Assistance Commission</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal Election Commission (FEC)</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Office of Management and Budget (OMB)</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T15:59:23Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <gpoId>8021</gpoId>
+          <lisID>1933</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>Gregg</firstName>
+        <lastName>Harper</lastName>
+        <bioguideId>H001045</bioguideId>
+        <state>MS</state>
+        <district>3</district>
+      </item>
+    </sponsors>
+    <title>To reduce Federal spending and the deficit by terminating taxpayer financing of presidential election campaigns and party conventions and by terminating the Election Assistance Commission.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-01-15</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Amends the Internal Revenue Code to terminate taxpayer financing of presidential election campaigns. Abolishes the Presidential Election Campaign Fund and the Presidential Primary Matching Payment Account.</p> <p>Directs the Secretary of the Treasury to transfer all amounts remaining in the Fund after enactment of this Act to the general fund of the Treasury to reduce the deficit.</p> <p>Amends the Help America Vote Act of 2002 to terminate the Election Assistance Commission (EAC), the EAC Standards Board, and the EAC Board of Advisors. Requires the Director of the Office of Management and Budget (OMB) to perform EAC functions with respect to certain existing contracts and agreements during the transition period for winding up EAC affairs.</p> <p>Transfers specified election administration functions of the EAC to the Federal Election Commission (FEC).</p> <p>Replaces the Standards Board and the Board of Advisors with a Guidelines Review Board to review voluntary voting system guidelines proposed by the Technical Guidelines Development Committee.</p> <p>Sets forth special requirements relating to the transfer of certain EAC authorities to the FEC with respect to development of such guidelines.</p> <p>Transfers to the FEC the EAC Office of Voting System Testing and Certification.</p> <p>Directs the Comptroller General to: (1) study the procedures used to adopt and modify the voluntary voting system guidelines applicable to the administration of elections for federal office, and (2) develop recommendations on methods to improve such procedures.</p> <p>Requires the FEC to: (1) study the procedures for the testing, certification, decertification, and recertification of voting system hardware and software used in federal elections; and (2) develop a recommendation on the entity best suited to oversee and carry out such procedures.</p> <p>Requires the recommendations in both studies to take into account the needs of persons affected by such guidelines, including state and local election officials, voters with disabilities, absent military and overseas voters, and the manufacturers of voting systems.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2013-01-15T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-01-19T17:09:56Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>260</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-15T15:03:05Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-15T15:03:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 4 (Tuesday, January 15, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HARPER:H.R. 260.Congress has the power to enact this legislation pursuantto the following:Article I, Sec. 8, clause 1[Page H171]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

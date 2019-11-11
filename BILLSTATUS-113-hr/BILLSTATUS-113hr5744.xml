@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2014-11-19</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <firstName>BENNIE</firstName>
+        <state>MS</state>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <identifiers>
+          <lisID>1151</lisID>
+          <gpoId>8020</gpoId>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-19</sponsorshipDate>
+        <bioguideId>T000193</bioguideId>
+        <middleName />
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>THOMPSON</lastName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Emergency Preparedness, Response and Communications.</text>
+      <links />
+      <actionDate>2014-12-01</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:17:24Z</updateDate>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2014-12-01</actionDate>
+        <committee>
+          <name>Emergency Preparedness, Response, and Communications Subcommittee</name>
+          <systemCode>hshm12</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Emergency Preparedness, Response and Communications.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2014-11-19</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2014-11-19</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2014-11-19</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2014-11-19T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>State Wide Interoperable Communications Enhancement Act or the SWIC Enhancement Act - Amends the Homeland Security Act of 2002 to require a state to include in its application for State Homeland Security Grant Program funding a certification: (1) that the governor of the state has designated a Statewide Interoperability Coordinator, or (2) indicating that the state is performing the functions of such a Coordinator in another manner and identifying the primary point of contact for performance of such functions.</p> <p>Sets forth as such Coordinator's functions: </p> <ul> <li>overseeing the daily operations of the state's interoperability efforts; </li> <li>coordinating state interoperability and communications projects and grant applications for such projects; </li> <li>establishing and maintaining working groups to develop and implement key interoperability initiatives; and </li> <li>implementing and updating a Statewide Communications Interoperability Plan that specifies the current status of state efforts to enhance communications interoperability within the state, including future goals for communications interoperability among emergency response agencies in the state. </li></ul>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2014-11-19</actionDate>
+          <lastSummaryUpdateDate>2015-01-26T20:04:02Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Broadcasting, cable, digital technologies</name>
+          </item>
+          <item>
+            <name>Emergency communications systems</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>SWIC Enhancement Act</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Payne</lastName>
+        <bioguideId>P000604</bioguideId>
+        <middleName>M.</middleName>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <identifiers>
+          <lisID>2097</lisID>
+          <gpoId>8373</gpoId>
+          <bioguideId>P000604</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <firstName>Donald</firstName>
+        <party>D</party>
+        <state>NJ</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-11-20T05:13:19Z</createDate>
+    <billNumber>5744</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hshm00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hshm12</systemCode>
+              <activities>
+                <item>
+                  <date>2014-12-01T21:34:47Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Emergency Preparedness, Response, and Communications Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <date>2014-11-19T15:00:32Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. PAYNE:H.R. 5744.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H8133]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>SWIC Enhancement Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>State Wide Interoperable Communications Enhancement Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Homeland Security Act of 2002 to require recipients of State Homeland Security Grant Program funding to preserve and strengthen interoperable emergency communications capabilities, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>SWIC Enhancement Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

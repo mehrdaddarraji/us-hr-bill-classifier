@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-05-03</actionDate>
+        <committee>
+          <name>Livestock and Foreign Agriculture Subcommittee</name>
+          <systemCode>hsag29</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Livestock, Rural Development, and Credit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2013-04-18</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2013-04-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2013-04-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <firstName>MIKE</firstName>
+        <identifiers>
+          <gpoId>8030</gpoId>
+          <bioguideId>M000485</bioguideId>
+          <lisID>1505</lisID>
+        </identifiers>
+        <district>7</district>
+        <fullName>Rep. McIntyre, Mike [D-NC-7]</fullName>
+        <bioguideId>M000485</bioguideId>
+        <lastName>MCINTYRE</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>NC</state>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>William</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2125</lisID>
+          <bioguideId>E000292</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <fullName>Rep. Enyart, William L. [D-IL-12]</fullName>
+        <bioguideId>E000292</bioguideId>
+        <lastName>Enyart</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <state>IL</state>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>DON</firstName>
+        <identifiers>
+          <lisID>1256</lisID>
+          <gpoId>7785</gpoId>
+          <bioguideId>Y000033</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <bioguideId>Y000033</bioguideId>
+        <lastName>YOUNG</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <state>AK</state>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Vicky</firstName>
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+        </identifiers>
+        <district>4</district>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <bioguideId>H001053</bioguideId>
+        <lastName>Hartzler</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>MO</state>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <gpoId>8148</gpoId>
+          <lisID>1954</lisID>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <bioguideId>R000582</bioguideId>
+        <lastName>Roe</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <state>TN</state>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>STEVE</firstName>
+        <identifiers>
+          <bioguideId>S000937</bioguideId>
+          <lisID>1114</lisID>
+          <gpoId />
+        </identifiers>
+        <district>36</district>
+        <fullName>Rep. Stockman, Steve [R-TX-36]</fullName>
+        <bioguideId>S000937</bioguideId>
+        <lastName>STOCKMAN</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Reid</firstName>
+        <identifiers>
+          <gpoId>8221</gpoId>
+          <bioguideId>R000587</bioguideId>
+          <lisID>2073</lisID>
+        </identifiers>
+        <district>8</district>
+        <fullName>Rep. Ribble, Reid J. [R-WI-8]</fullName>
+        <bioguideId>R000587</bioguideId>
+        <lastName>Ribble</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <state>WI</state>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <gpoId>8143</gpoId>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <district>3</district>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <bioguideId>D000615</bioguideId>
+        <lastName>Duncan</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>SC</state>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Todd</firstName>
+        <identifiers>
+          <gpoId>7948</gpoId>
+          <bioguideId>Y000064</bioguideId>
+          <lisID>2019</lisID>
+        </identifiers>
+        <district>9</district>
+        <fullName>Rep. Young, Todd C. [R-IN-9]</fullName>
+        <bioguideId>Y000064</bioguideId>
+        <lastName>Young</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>C.</middleName>
+        <state>IN</state>
+        <sponsorshipDate>2013-04-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Bob</firstName>
+        <identifiers>
+          <lisID>2049</lisID>
+          <gpoId>8108</gpoId>
+          <bioguideId>G000563</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <bioguideId>G000563</bioguideId>
+        <lastName>Gibbs</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>OH</state>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Raul</firstName>
+        <identifiers>
+          <lisID>2011</lisID>
+          <gpoId>7919</gpoId>
+          <bioguideId>L000573</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Labrador, Raul R. [R-ID-1]</fullName>
+        <bioguideId>L000573</bioguideId>
+        <lastName>Labrador</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <state>ID</state>
+        <sponsorshipDate>2013-05-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <identifiers>
+          <bioguideId>M001180</bioguideId>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <bioguideId>M001180</bioguideId>
+        <lastName>McKinley</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <state>WV</state>
+        <sponsorshipDate>2013-05-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-04-19T07:02:09Z</createDate>
+    <introducedDate>2013-04-18</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-05-03</actionDate>
+      <text>Referred to the Subcommittee on Livestock, Rural Development, and Credit.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Building Rural Communities Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To ensure that the Federal government is able to receive the maximum return on its investment in the rural essential community facilities loan and grant programs and effective services to rural communities.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Building Rural Communities Act</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:15:36Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Southerland, Steve II [R-FL-2]</fullName>
+        <identifiers>
+          <gpoId>7874</gpoId>
+          <lisID>2000</lisID>
+          <bioguideId>S001186</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Steve</firstName>
+        <lastName>Southerland</lastName>
+        <bioguideId>S001186</bioguideId>
+        <state>FL</state>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <title>Building Rural Communities Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Building Rural Communities Act - Amends the Consolidated Farm and Rural Development Act to authorize the Secretary of Agriculture (USDA) to make grants to rural area-serving public bodies and private nonprofit corporations for technical assistance and training to: (1) assist communities in identifying and planning for community facility needs; (2) identify public and private financial resources; (3) prepare financial assistance applications and related documents; (4) improve management, including financial management; or (5) assist with other areas of need identified by the Secretary.</p> <p>Gives priority to private nonprofit organizations that have experience in providing technical assistance and training to rural entities.</p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-05-13T20:03:57Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2013-04-18</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-04-18T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1632</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-18T14:03:00Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsag29</systemCode>
+              <name>Livestock and Foreign Agriculture Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-05-03T18:03:27Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 53 (Thursday, April 18, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SOUTHERLAND:H.R. 1632.Congress has the power to enact this legislation pursuantto the following:The constitutional authority on which this legislation isbased is found in Article I Section 8, Clause 1 of theConstitution which grants Congress the power to provide forthe general Welfare of the United States.[Page H2160]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

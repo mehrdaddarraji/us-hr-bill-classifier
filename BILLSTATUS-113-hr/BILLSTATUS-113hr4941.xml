@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-06-23</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-06-23T16:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-06-24T04:59:51Z</createDate>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <actionDate>2014-06-23</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-06-23</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-06-23</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-06-23</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. PETERS of Michigan:H.R. 4941.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1[Page H5640]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>4941</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2014-07-31T15:41:12Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Promise Zone Job Creation Act of 2014 - Amends the Internal Revenue Code to direct the Secretary of Housing and Urban Development (HUD) and the Secretary of Agriculture (USDA) to designate up to 20 areas as Promise Zones for purposes of priority consideration in federal grant programs and initiatives. </p> <p>Defines a "Promise Zone" as any area with a&nbsp;continuous boundary and a&nbsp;population of not more than&nbsp;200,000 that is nominated by a local government or Indian tribe and designated on the basis of&nbsp;its unemployment rate, poverty rate, household income, labor force participation, and educational attainment. Requires an application for designation as a Promise Zone to include a competitiveness plan that addresses the need of the area to attract investment and jobs and improve educational opportunities.</p> <p>Allows: (1) a Promise Zone employment tax credit for wages paid to a qualified zone or resident employee, and (2) expensing of Promise Zone property. </p> <p>Defines "Promise Zone property" as property that is: (1) tangible property with a&nbsp;recovery period of 20 years or less for depreciation purposes,&nbsp;water utility property, computer software, or qualified leasehold improvement property; (2) acquired by purchase for use&nbsp;in the active conduct of a trade or business; and (3) originally placed in service in a Promise Zone. </p>]]></text>
+          <updateDate>2014-06-23T04:00:00Z</updateDate>
+          <actionDate>2014-06-23</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Urban and suburban affairs and development</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Promise Zone Job Creation Act of 2014</title>
+    <updateDate>2016-10-25T16:14:26Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Promise Zone Job Creation Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to provide for the establishment of Promise Zones.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Promise Zone Job Creation Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>MI</state>
+        <firstName>Gary</firstName>
+        <byRequestType />
+        <bioguideId>P000595</bioguideId>
+        <fullName>Rep. Peters, Gary C. [D-MI-14]</fullName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <middleName>C.</middleName>
+        <district>14</district>
+        <identifiers>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2014-07-14</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Promise Zone Job Creation Act of 2014</latestTitle>
+        <number>2597</number>
+      </item>
+    </relatedBills>
+    <cosponsors />
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <latestAction>
+      <actionDate>2013-10-23</actionDate>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Voter ID Accessibility Act of 2013 - Amends the Voter Registration Act of 1993 to require states that have in effect a photo identification requirement as a condition for voting in a federal election to provide individuals who do not have a government-issued photo identification with such an identification, without charge, upon request.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-10-23</actionDate>
+          <lastSummaryUpdateDate>2013-11-15T21:35:49Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2013-10-23T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <originChamber>House</originChamber>
+    <introducedDate>2013-10-23</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. COHEN:H.R. 3321.Congress has the power to enact this legislation pursuantto the following:Article I, Section 4 of the United States Constitution.[Page H6769]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <lastName>Cohen</lastName>
+        <bioguideId>C001068</bioguideId>
+        <middleName />
+        <state>TN</state>
+        <byRequestType />
+        <firstName>Steve</firstName>
+        <district>9</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>Voter ID Accessibility Act of 2013</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend the National Voter Registration Act of 1993 to require each voter registration agency in a State which requires an individual to present a government-issued photo identification as a condition of voting in an election for Federal office to provide such an identification without charge upon request to any such individual who does not otherwise possess one, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Voter ID Accessibility Act of 2013</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-10-23</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on House Administration.</text>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-10-23</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-10-23</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2016-10-25T16:08:03Z</updateDate>
+    <cosponsors />
+    <billNumber>3321</billNumber>
+    <laws />
+    <createDate>2013-10-24T07:01:04Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Photography and imaging</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <title>Voter ID Accessibility Act of 2013</title>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-10-23T14:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

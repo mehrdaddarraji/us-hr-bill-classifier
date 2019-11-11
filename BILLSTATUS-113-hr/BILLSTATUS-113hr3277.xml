@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-10-08</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-10-08</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-10-08</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>1</district>
+        <fullName>Rep. Kingston, Jack [R-GA-1]</fullName>
+        <lastName>KINGSTON</lastName>
+        <middleName />
+        <state>GA</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>K000220</bioguideId>
+          <lisID>636</lisID>
+          <gpoId>7898</gpoId>
+        </identifiers>
+        <firstName>JACK</firstName>
+        <bioguideId>K000220</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. KINGSTON:H.R. 3277.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1: The Congress shall havePower to lay and collect Taxes, Duties, Imposts and Excises,to pay the Debts and provide for the common Defence andgeneral Welfare of the United States;Article I, Section 9, Clause 7: No Money shall be drawnfrom the Treasury but in Consequence of Appropriations madeby Law; and a regular Statement and Account of the Receiptsand Expenditures of all public Money shall be published fromtime to time.[Page H6412]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3277</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:07:52Z</updateDate>
+    <laws />
+    <createDate>2013-10-09T07:01:07Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2013-10-08T14:00:27Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-10-08</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p> Prohibits funds made available to any federal agency for FY2014 and subsequent fiscal years from being used to make U.S. voluntary contributions to the regular budget of the United Nations or any U.N. agency.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2013-10-08T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-10-11T20:29:50Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cosponsors />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>United Nations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To prohibit United States voluntary contributions to the regular budget of the United Nations or any United Nations agency.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To prohibit United States voluntary contributions to the regular budget of the United Nations or any United Nations agency.</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>To prohibit United States voluntary contributions to the regular budget of the United Nations or any United Nations agency.</title>
+    <billType>HR</billType>
+    <introducedDate>2013-10-08</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-10-08</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

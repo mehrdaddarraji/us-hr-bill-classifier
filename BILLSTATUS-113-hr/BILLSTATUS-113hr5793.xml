@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-12-04</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-12-04T14:01:05Z</date>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-12-05T05:01:09Z</createDate>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <actionDate>2014-12-04</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-12-04</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>E1743-1745</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/extensions-of-remarks-section/page/E1743-1745</url>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR E1743-1745)</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-12-04</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-12-04</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-12-04</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. ROYCE:H.R. 5793.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H8669]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>5793</billNumber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-01-14T16:08:57Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2014-12-04T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2014-12-04</actionDate>
+          <text><![CDATA[<p>Cyber Supply Chain Management and Transparency Act of 2014 - Requires the Office of Management and Budget (OMB) to issue guidelines for agencies that contract to acquire software, firmware, or products containing a third party or open source binary component.</p> <p>Requires binary component contracts to include clauses requiring:</p> <ul> <li>a confidentially supplied list, or a bill of materials, of each binary component that is used in the software, firmware, or product;</li> <li>the contractor to verify that products do not contain known security vulnerabilities and to notify the purchasing agency of any known vulnerabilities or defects;</li> <li> the contractor to obtain a waiver from the purchasing agency for components known to be vulnerable;</li> <li>an agency approving a vulnerability waiver to accept all risk associated with component use;</li> <li>product designs to allow fixes with patches, updates, or replacements; and </li> <li>the contractor to provide timely repairs for discovered vulnerabilities.</li> </ul> <p>Directs the OMB to issue guidance requiring agencies: (1) to replace components with currently known vulnerabilities and to remove or repair any new vulnerable components that become known; and (2) to migrate to patchable, repairable, and fixable products.</p> <p>Requires agencies to provide the Department of Homeland Security (DHS) with a list of each known vulnerable component in any product in use by the agencies.</p> <p>Directs DHS to issue an annual confidential report describing the security vulnerabilities of projects that created any known vulnerable component. Requires the report to assess the integrity of component suppliers for the incidence of security vulnerabilities for use by other agencies.</p> <p>Requires agencies, within 30 months after enactment of this Act, to report to Congress regarding the completion of the removal of each known vulnerable or defective component.</p> <p>Directs other entities of the U.S. government to replace vulnerable components with less vulnerable alternatives.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Homeland security</name>
+          </item>
+          <item>
+            <name>Office of Management and Budget (OMB)</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Cyber Supply Chain Management and Transparency Act of 2014</title>
+    <updateDate>2016-10-25T16:17:36Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <title>Cyber Supply Chain Management and Transparency Act of 2014</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To ensure the integrity of any software, firmware, or product developed for or purchased by the United States Government that uses a third party or open source component, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Cyber Supply Chain Management and Transparency Act of 2014</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>CA</state>
+        <firstName>ED</firstName>
+        <byRequestType />
+        <bioguideId>R000487</bioguideId>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <lastName>ROYCE</lastName>
+        <party>R</party>
+        <middleName />
+        <district>39</district>
+        <identifiers>
+          <bioguideId>R000487</bioguideId>
+          <gpoId>7845</gpoId>
+          <lisID>998</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <district>2</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Jenkins</lastName>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <sponsorshipDate>2014-12-04</sponsorshipDate>
+        <middleName />
+        <firstName>Lynn</firstName>
+        <identifiers>
+          <lisID>1921</lisID>
+          <bioguideId>J000290</bioguideId>
+          <gpoId>7950</gpoId>
+        </identifiers>
+        <bioguideId>J000290</bioguideId>
+        <state>KS</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

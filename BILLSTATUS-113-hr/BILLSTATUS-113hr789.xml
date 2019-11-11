@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2013-02-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-02-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-02-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2013-02-06</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <number>535</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestTitle>Put America Back to Work Act</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2014-07-31</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <number>5330</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestTitle>BUILD Act</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2014-04-03</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>2203</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <congress>113</congress>
+        <latestTitle>BONDS Act</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2014-06-13</actionDate>
+          <text>Referred to the Subcommittee on Workforce Protections.</text>
+        </latestAction>
+        <number>3939</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestTitle>Invest in United States Act of 2014</latestTitle>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <state>MI</state>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <firstName>SANDER</firstName>
+        <district>9</district>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>683</lisID>
+          <gpoId>7997</gpoId>
+          <bioguideId>L000263</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEVIN</lastName>
+        <bioguideId>L000263</bioguideId>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <firstName>CHARLES</firstName>
+        <district>13</district>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>944</lisID>
+          <bioguideId>R000053</bioguideId>
+          <gpoId>8076</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>RANGEL</lastName>
+        <bioguideId>R000053</bioguideId>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+      </item>
+      <item>
+        <state>WA</state>
+        <party>D</party>
+        <middleName />
+        <firstName>JIM</firstName>
+        <district>7</district>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M000404</bioguideId>
+          <lisID>766</lisID>
+          <gpoId>8211</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCDERMOTT</lastName>
+        <bioguideId>M000404</bioguideId>
+        <fullName>Rep. McDermott, Jim [D-WA-7]</fullName>
+      </item>
+      <item>
+        <state>GA</state>
+        <party>D</party>
+        <middleName />
+        <firstName>JOHN</firstName>
+        <district>5</district>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000287</bioguideId>
+          <lisID>688</lisID>
+          <gpoId>7902</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEWIS</lastName>
+        <bioguideId>L000287</bioguideId>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <firstName>XAVIER</firstName>
+        <district>34</district>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>70</lisID>
+          <bioguideId>B000287</bioguideId>
+          <gpoId>7836</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>BECERRA</lastName>
+        <bioguideId>B000287</bioguideId>
+        <fullName>Rep. Becerra, Xavier [D-CA-34]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <firstName>MIKE</firstName>
+        <district>5</district>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>THOMPSON</lastName>
+        <bioguideId>T000460</bioguideId>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+      </item>
+      <item>
+        <state>CT</state>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <firstName>JOHN</firstName>
+        <district>1</district>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1583</lisID>
+          <gpoId>7866</gpoId>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>LARSON</lastName>
+        <bioguideId>L000557</bioguideId>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+      </item>
+      <item>
+        <state>OR</state>
+        <party>D</party>
+        <middleName />
+        <firstName>EARL</firstName>
+        <district>3</district>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>BLUMENAUER</lastName>
+        <bioguideId>B000574</bioguideId>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+      </item>
+      <item>
+        <state>WI</state>
+        <party>D</party>
+        <middleName />
+        <firstName>RON</firstName>
+        <district>3</district>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>KIND</lastName>
+        <bioguideId>K000188</bioguideId>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+      </item>
+      <item>
+        <state>NJ</state>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <firstName>WILLIAM</firstName>
+        <district>9</district>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000096</bioguideId>
+          <lisID>1510</lisID>
+          <gpoId>8050</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>PASCRELL</lastName>
+        <bioguideId>P000096</bioguideId>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <middleName />
+        <firstName>JOSEPH</firstName>
+        <district>14</district>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8068</gpoId>
+          <bioguideId>C001038</bioguideId>
+          <lisID>1604</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>CROWLEY</lastName>
+        <bioguideId>C001038</bioguideId>
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+      </item>
+      <item>
+        <state>PA</state>
+        <party>D</party>
+        <middleName>Y.</middleName>
+        <firstName>Allyson</firstName>
+        <district>13</district>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001162</bioguideId>
+          <gpoId>8131</gpoId>
+          <lisID>1798</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Schwartz</lastName>
+        <bioguideId>S001162</bioguideId>
+        <fullName>Rep. Schwartz, Allyson Y. [D-PA-13]</fullName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>D</party>
+        <middleName>K.</middleName>
+        <firstName>DANNY</firstName>
+        <district>7</district>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>DAVIS</lastName>
+        <bioguideId>D000096</bioguideId>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <middleName>T.</middleName>
+        <firstName>LINDA</firstName>
+        <district>38</district>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001156</bioguideId>
+          <lisID>1757</lisID>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>SANCHEZ</lastName>
+        <bioguideId>S001156</bioguideId>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+      </item>
+      <item>
+        <state>ME</state>
+        <party>D</party>
+        <middleName>H.</middleName>
+        <firstName>Michael</firstName>
+        <district>2</district>
+        <sponsorshipDate>2013-09-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7985</gpoId>
+          <bioguideId>M001149</bioguideId>
+          <lisID>1730</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Michaud</lastName>
+        <bioguideId>M001149</bioguideId>
+        <fullName>Rep. Michaud, Michael H. [D-ME-2]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <district>13</district>
+        <sponsorshipDate>2014-06-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEE</lastName>
+        <bioguideId>L000551</bioguideId>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+      </item>
+      <item>
+        <state>MI</state>
+        <party>D</party>
+        <middleName>T.</middleName>
+        <firstName>Daniel</firstName>
+        <district>5</district>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000380</bioguideId>
+          <lisID>2134</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kildee</lastName>
+        <bioguideId>K000380</bioguideId>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+      </item>
+      <item>
+        <state>MI</state>
+        <party>D</party>
+        <middleName />
+        <firstName>JOHN</firstName>
+        <district>13</district>
+        <sponsorshipDate>2014-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+          <lisID>229</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>CONYERS</lastName>
+        <bioguideId>C000714</bioguideId>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-02-16T07:00:51Z</createDate>
+    <introducedDate>2013-02-15</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-02-15</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Build America Bonds Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to permanently extend the tax treatment for certain build America bonds, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Build America Bonds Act of 2013</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Floods and storm protection</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:05:07Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <identifiers>
+          <gpoId>7967</gpoId>
+          <lisID>854</lisID>
+          <bioguideId>N000015</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>RICHARD</firstName>
+        <lastName>NEAL</lastName>
+        <bioguideId>N000015</bioguideId>
+        <state>MA</state>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <title>Build America Bonds Act of 2013</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-02-15</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Build America Bonds Act of 2013 - Amends the Internal Revenue Code to: (1) make permanent the issuance authority for Build America Bonds and the authority for payments to issuers of such bonds, (2) make phased reductions in the credit percentage to bondholders and the&nbsp;percentage of payments to issuers of such bonds, (3) allow refundings of currently issued bonds, and (4) allow the use of Build America bonds to fund capital expenditures for levees and flood control projects.</p> Provides for an increase in payments to issuers of Build America bonds to compensate for reductions in the amount of such payments due to sequestration.]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2013-02-15T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-03-23T14:49:58Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>789</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-15T14:03:35Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 25 (Friday, February 15, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. NEAL:H.R. 789.Congress has the power to enact this legislation pursuantto the following:Clause 1 of Section 8 of Article I and the 16th Amendmentto the U.S. Constitution.[Page H598]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

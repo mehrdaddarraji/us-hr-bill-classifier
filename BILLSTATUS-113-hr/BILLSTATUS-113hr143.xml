@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <actionDate>2013-01-03</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to House Oversight and Government Reform</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-01-03</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionDate>2013-01-03</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to House Administration</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-01-03</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-01-03</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>2</district>
+        <fullName>Rep. Rigell, E. Scott [R-VA-2]</fullName>
+        <lastName>Rigell</lastName>
+        <middleName>Scott</middleName>
+        <state>VA</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8193</gpoId>
+          <lisID>2068</lisID>
+          <bioguideId>R000589</bioguideId>
+        </identifiers>
+        <firstName>E.</firstName>
+        <bioguideId>R000589</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. RIGELL:H.R. 143.Congress has the power to enact this legislation pursuantto the following:Article I, Section 6, Clause 1 of the United StatesConstitution: ``All Senators and Representatives shallreceive a Compensation for their Services to be ascertainedby Law, and paid out of the Treasury of the United States.''[Page H37]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>143</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T15:57:20Z</updateDate>
+    <laws />
+    <createDate>2013-01-04T07:00:55Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-03T16:03:05Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-03T16:03:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Lead By Example Act - Prohibits matching contributions to the Thrift Savings Fund for Members of Congress: (1) for any pay period beginning before the date on which Congress completes action on a budget resolution for the fiscal year in which the first day of such pay period occurs, and (2) unless the deficit for such fiscal year (as set forth in the budget resolution) is less than the deficit for the preceding fiscal year.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-01-03</actionDate>
+          <lastSummaryUpdateDate>2013-02-13T21:52:20Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2013-01-03T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cosponsors />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>Lead By Example Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend title 5, United States Code, to provide that matching contributions to the Thrift Savings Fund for Members of Congress be made contingent on Congress completing action on a concurrent resolution on the budget, for the fiscal year involved, which reduces the deficit, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Lead By Example Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Lead By Example Act</title>
+    <billType>HR</billType>
+    <introducedDate>2013-01-03</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-01-03</actionDate>
+      <text>Referred to House Oversight and Government Reform</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>113</congress>
+    <notes />
+    <sponsors>
+      <item>
+        <middleName>L.</middleName>
+        <byRequestType />
+        <bioguideId>O000169</bioguideId>
+        <fullName>Rep. Owens, William L. [D-NY-21]</fullName>
+        <state>NY</state>
+        <lastName>Owens</lastName>
+        <identifiers>
+          <bioguideId>O000169</bioguideId>
+          <gpoId>8673</gpoId>
+          <lisID>1974</lisID>
+        </identifiers>
+        <district>21</district>
+        <party>D</party>
+        <firstName>William</firstName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Immigrant health and welfare</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Strengthening America's Public Schools Through Promoting Foreign Investment Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To permit aliens who lawfully enter the United States on valid visas as nonimmigrant elementary and secondary school students to attend public schools in the United States for longer than 1 year if such aliens reimburse the local educational agency that administers the school for the full, unsubsidized per capita cost of providing education at such school for the period of the alien's attendance.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Strengthening America's Public Schools Through Promoting Foreign Investment Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2013-03-13</introducedDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-04-15</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2013-03-13</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-03-13</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-03-13</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-03-13</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Strengthening America's Public Schools Through Promoting Foreign Investment Act - Amends the Immigration and Nationality Act to permit a lawful alien who enters the United States on a nonimmigrant student visa (including Mexican and Canadian commuter students) to attend a U.S. public secondary school for longer than one year if such alien reimburses the local educational agency for the full, unsubsidized per capita cost of providing education at such school for the period of the alien's attendance.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2013-03-13T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-03-23T16:09:58Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills />
+    <laws />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <recordedVotes />
+    <updateDate>2018-06-05T16:10:30Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-04-15T21:11:11Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-13T14:04:50Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>Gibson</lastName>
+        <fullName>Rep. Gibson, Christopher P. [R-NY-19]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>G000564</bioguideId>
+        <district>19</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000564</bioguideId>
+          <lisID>2043</lisID>
+          <gpoId>8081</gpoId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2013-03-13</sponsorshipDate>
+        <firstName>Christopher</firstName>
+      </item>
+      <item>
+        <lastName>Michaud</lastName>
+        <fullName>Rep. Michaud, Michael H. [D-ME-2]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <bioguideId>M001149</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1730</lisID>
+          <bioguideId>M001149</bioguideId>
+          <gpoId>7985</gpoId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2013-03-13</sponsorshipDate>
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <lastName>Welch</lastName>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>VT</state>
+        <bioguideId>W000800</bioguideId>
+        <district>0</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-03-13</sponsorshipDate>
+        <firstName>Peter</firstName>
+      </item>
+      <item>
+        <lastName>Tonko</lastName>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>T000469</bioguideId>
+        <district>20</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8082</gpoId>
+          <bioguideId>T000469</bioguideId>
+          <lisID>1942</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-03-13</sponsorshipDate>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <lastName>Negrete McLeod</lastName>
+        <fullName>Rep. Negrete McLeod, Gloria [D-CA-35]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>N000187</bioguideId>
+        <district>35</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2108</lisID>
+          <bioguideId>N000187</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-07-31</sponsorshipDate>
+        <firstName>Gloria</firstName>
+      </item>
+      <item>
+        <lastName>Veasey</lastName>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>V000131</bioguideId>
+        <district>33</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2166</lisID>
+          <bioguideId>V000131</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2014-01-15</sponsorshipDate>
+        <firstName>Marc</firstName>
+      </item>
+      <item>
+        <lastName>Kuster</lastName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <bioguideId>K000382</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2145</lisID>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2014-04-29</sponsorshipDate>
+        <firstName>Ann</firstName>
+      </item>
+    </cosponsors>
+    <title>Strengthening America's Public Schools Through Promoting Foreign Investment Act</title>
+    <createDate>2013-03-14T07:01:11Z</createDate>
+    <billType>HR</billType>
+    <billNumber>1139</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 36 (Wednesday, March 13, 2013)][Pages H1397-H1398]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. OWENS:H.R. 1139.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, of the United StatesConstitution.[[Page H1398]]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2013-04-15</actionDate>
+      <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

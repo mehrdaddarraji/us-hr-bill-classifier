@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-02-22</actionDate>
+        <committee>
+          <name>Fisheries, Wildlife, Oceans, and Insular Affairs Subcommittee</name>
+          <systemCode>hsii22</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-02-14</actionDate>
+        <committee>
+          <name>Water Resources and Environment Subcommittee</name>
+          <systemCode>hspw02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2013-02-13</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <links />
+        <actionDate>2013-02-13</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2013-02-13</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2013-02-13</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2013-02-13</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2014-05-08</actionDate>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <number>2306</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <congress>113</congress>
+        <latestTitle>Delaware River Basin Conservation Act of 2014</latestTitle>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <lastName>ANDREWS</lastName>
+        <firstName>ROBERT</firstName>
+        <bioguideId>A000210</bioguideId>
+        <identifiers>
+          <lisID>21</lisID>
+          <gpoId>8043</gpoId>
+          <bioguideId>A000210</bioguideId>
+        </identifiers>
+        <fullName>Rep. Andrews, Robert E. [D-NJ-1]</fullName>
+        <party>D</party>
+        <state>NJ</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>E.</middleName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Cartwright</lastName>
+        <firstName>Matt</firstName>
+        <bioguideId>C001090</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+        </identifiers>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <party>D</party>
+        <state>PA</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName />
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Dent</lastName>
+        <firstName>Charles</firstName>
+        <bioguideId>D000604</bioguideId>
+        <identifiers>
+          <bioguideId>D000604</bioguideId>
+          <lisID>1799</lisID>
+          <gpoId>8133</gpoId>
+        </identifiers>
+        <fullName>Rep. Dent, Charles W. [R-PA-15]</fullName>
+        <party>R</party>
+        <state>PA</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>W.</middleName>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Fitzpatrick</lastName>
+        <firstName>Michael</firstName>
+        <bioguideId>F000451</bioguideId>
+        <identifiers>
+          <gpoId>8126</gpoId>
+          <bioguideId>F000451</bioguideId>
+          <lisID>1797</lisID>
+        </identifiers>
+        <fullName>Rep. Fitzpatrick, Michael G. [R-PA-8]</fullName>
+        <party>R</party>
+        <state>PA</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>G.</middleName>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Gibson</lastName>
+        <firstName>Christopher</firstName>
+        <bioguideId>G000564</bioguideId>
+        <identifiers>
+          <bioguideId>G000564</bioguideId>
+          <lisID>2043</lisID>
+          <gpoId>8081</gpoId>
+        </identifiers>
+        <fullName>Rep. Gibson, Christopher P. [R-NY-19]</fullName>
+        <party>R</party>
+        <state>NY</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>P.</middleName>
+        <district>19</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>HOLT</lastName>
+        <firstName>RUSH</firstName>
+        <bioguideId>H001032</bioguideId>
+        <identifiers>
+          <bioguideId>H001032</bioguideId>
+          <gpoId>8054</gpoId>
+          <lisID>1580</lisID>
+        </identifiers>
+        <fullName>Rep. Holt, Rush [D-NJ-12]</fullName>
+        <party>D</party>
+        <state>NJ</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>D.</middleName>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>LOBIONDO</lastName>
+        <firstName>FRANK</firstName>
+        <bioguideId>L000554</bioguideId>
+        <identifiers>
+          <lisID>699</lisID>
+          <bioguideId>L000554</bioguideId>
+          <gpoId>8044</gpoId>
+        </identifiers>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <party>R</party>
+        <state>NJ</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>A.</middleName>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Meehan</lastName>
+        <firstName>Patrick</firstName>
+        <bioguideId>M001181</bioguideId>
+        <identifiers>
+          <gpoId>8125</gpoId>
+          <bioguideId>M001181</bioguideId>
+          <lisID>2052</lisID>
+        </identifiers>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <party>R</party>
+        <state>PA</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName />
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Runyan</lastName>
+        <firstName>Jon</firstName>
+        <bioguideId>R000594</bioguideId>
+        <identifiers>
+          <bioguideId>R000594</bioguideId>
+          <lisID>2039</lisID>
+          <gpoId>8045</gpoId>
+        </identifiers>
+        <fullName>Rep. Runyan, Jon [R-NJ-3]</fullName>
+        <party>R</party>
+        <state>NJ</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName />
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Schwartz</lastName>
+        <firstName>Allyson</firstName>
+        <bioguideId>S001162</bioguideId>
+        <identifiers>
+          <bioguideId>S001162</bioguideId>
+          <gpoId>8131</gpoId>
+          <lisID>1798</lisID>
+        </identifiers>
+        <fullName>Rep. Schwartz, Allyson Y. [D-PA-13]</fullName>
+        <party>D</party>
+        <state>PA</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>Y.</middleName>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Meng</lastName>
+        <firstName>Grace</firstName>
+        <bioguideId>M001188</bioguideId>
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+          <gpoId />
+          <lisID>2148</lisID>
+        </identifiers>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipDate>2013-03-21</sponsorshipDate>
+        <middleName />
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Tonko</lastName>
+        <firstName>Paul</firstName>
+        <bioguideId>T000469</bioguideId>
+        <identifiers>
+          <lisID>1942</lisID>
+          <gpoId>8082</gpoId>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipDate>2013-03-21</sponsorshipDate>
+        <middleName />
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Lance</lastName>
+        <firstName>Leonard</firstName>
+        <bioguideId>L000567</bioguideId>
+        <identifiers>
+          <lisID>1936</lisID>
+          <gpoId>8049</gpoId>
+          <bioguideId>L000567</bioguideId>
+        </identifiers>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <party>R</party>
+        <state>NJ</state>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <middleName />
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>NADLER</lastName>
+        <firstName>JERROLD</firstName>
+        <bioguideId>N000002</bioguideId>
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+          <lisID>850</lisID>
+          <gpoId>8069</gpoId>
+        </identifiers>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <middleName />
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>ENGEL</lastName>
+        <firstName>ELIOT</firstName>
+        <bioguideId>E000179</bioguideId>
+        <identifiers>
+          <lisID>344</lisID>
+          <bioguideId>E000179</bioguideId>
+          <gpoId>8078</gpoId>
+        </identifiers>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <middleName>L.</middleName>
+        <district>16</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>BRADY</lastName>
+        <firstName>ROBERT</firstName>
+        <bioguideId>B001227</bioguideId>
+        <identifiers>
+          <lisID>1469</lisID>
+          <bioguideId>B001227</bioguideId>
+          <gpoId>8119</gpoId>
+        </identifiers>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <party>D</party>
+        <state>PA</state>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <middleName>A.</middleName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>RANGEL</lastName>
+        <firstName>CHARLES</firstName>
+        <bioguideId>R000053</bioguideId>
+        <identifiers>
+          <lisID>944</lisID>
+          <bioguideId>R000053</bioguideId>
+          <gpoId>8076</gpoId>
+        </identifiers>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <middleName>B.</middleName>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Gerlach</lastName>
+        <firstName>Jim</firstName>
+        <bioguideId>G000549</bioguideId>
+        <identifiers>
+          <gpoId>8124</gpoId>
+          <lisID>1743</lisID>
+          <bioguideId>G000549</bioguideId>
+        </identifiers>
+        <fullName>Rep. Gerlach, Jim [R-PA-6]</fullName>
+        <party>R</party>
+        <state>PA</state>
+        <sponsorshipDate>2013-05-17</sponsorshipDate>
+        <middleName />
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>FRELINGHUYSEN</lastName>
+        <firstName>RODNEY</firstName>
+        <bioguideId>F000372</bioguideId>
+        <identifiers>
+          <lisID>414</lisID>
+          <gpoId>8053</gpoId>
+          <bioguideId>F000372</bioguideId>
+        </identifiers>
+        <fullName>Rep. Frelinghuysen, Rodney P. [R-NJ-11]</fullName>
+        <party>R</party>
+        <state>NJ</state>
+        <sponsorshipDate>2013-07-18</sponsorshipDate>
+        <middleName />
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>SMITH</lastName>
+        <firstName>CHRISTOPHER</firstName>
+        <bioguideId>S000522</bioguideId>
+        <identifiers>
+          <lisID>1071</lisID>
+          <gpoId>8046</gpoId>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <party>R</party>
+        <state>NJ</state>
+        <sponsorshipDate>2013-11-12</sponsorshipDate>
+        <middleName>H.</middleName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Barletta</lastName>
+        <firstName>Lou</firstName>
+        <bioguideId>B001269</bioguideId>
+        <identifiers>
+          <lisID>2054</lisID>
+          <gpoId>8129</gpoId>
+          <bioguideId>B001269</bioguideId>
+        </identifiers>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <party>R</party>
+        <state>PA</state>
+        <sponsorshipDate>2014-05-06</sponsorshipDate>
+        <middleName />
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-02-14T07:00:52Z</createDate>
+    <introducedDate>2013-02-13</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-02-22</actionDate>
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Delaware River Basin Conservation Act of 2013</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To direct the Secretary of the Interior to establish a program to build on and help coordinate funding for restoration and protection efforts of the 4-State Delaware River Basin region, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Delaware River Basin Conservation Act of 2013</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Delaware</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Floods and storm protection</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Lakes and rivers</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>New Jersey</name>
+          </item>
+          <item>
+            <name>New York State</name>
+          </item>
+          <item>
+            <name>Pennsylvania</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+          <item>
+            <name>Watersheds</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:03:31Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName>C.</middleName>
+        <fullName>Rep. Carney, John C., Jr. [D-DE-At Large]</fullName>
+        <identifiers>
+          <lisID>1999</lisID>
+          <bioguideId>C001083</bioguideId>
+          <gpoId>7872</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>John</firstName>
+        <lastName>Carney</lastName>
+        <bioguideId>C001083</bioguideId>
+        <state>DE</state>
+        <district>0</district>
+      </item>
+    </sponsors>
+    <title>Delaware River Basin Conservation Act of 2013</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-02-13</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2013-04-23T22:12:54Z</lastSummaryUpdateDate>
+          <updateDate>2013-02-13T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Delaware River Basin Conservation Act of 2013 - Requires the Director of the United States Fish and Wildlife Service to establish a Delaware River Basin restoration program, under which the Director shall: (1) draw on management plans for the Basin or portions of the Basin and work in consultation with applicable management entities, including representatives of the Partnership for the Delaware Estuary, the Delaware River Basin Commission, the federal government, other state and local governments, and regional and nonprofit organizations, to identify, prioritize, and implement restoration and protection activities within the Basin; and (2) adopt a Basin-wide strategy that supports the implementation of a shared set of science-based restoration and protection activities, targets cost-effective conservation projects, supports measurable conservation efforts, and maximizes conservation outcomes with no net gain of federal full-time equivalent employees.</p> <p>Defines "Basin" as the four-state Delaware Basin region, including all of Delaware Bay and portions of Delaware, New Jersey, New York, and Pennsylvania located in the Delaware River watershed. </p> <p>Requires the Director to establish the Delaware River Basin restoration grant program to provide competitive matching grants to carry out the restoration program. Requires the Director to develop criteria to ensure that funded activities: (1) restore or protect fish and wildlife and their habitats; (2) improve or protect water quality by reducing pollutants and restoring headwater areas and drinking water basins; (3) improve the management of water volume and mitigation of flood damage to support the ecological needs of fish and wildlife and their habitats; (4) include priority needs or actions identified in the Basin-wide strategy; and/or (5) include restoration and protection activities with multiple benefits in the Basin, including habitat, water quality, and flood damage mitigation. Limits the federal share of the total cost of a funded project to 50%. Authorizes the Director to contract with the National Fish and Wildlife Foundation or another organization that offers grant management services.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>644</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsii22</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-02-22T19:29:07Z</date>
+                </item>
+              </activities>
+              <name>Fisheries, Wildlife, Oceans, and Insular Affairs Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-13T15:04:40Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hspw02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-02-14T15:13:24Z</date>
+                </item>
+              </activities>
+              <name>Water Resources and Environment Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-13T15:04:45Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 23 (Wednesday, February 13, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CARNEY:H.R. 644.Congress has the power to enact this legislation pursuantto the following:Article I, section 8 and Article IV, section 3 of theConstitution of the United States.[Page H502]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2013-01-23</actionDate>
+          <lastSummaryUpdateDate>2013-02-08T17:07:09Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p> Social Security Earnings Test Repeal Act of 2013 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to remove the limitation on the amount of outside income which a beneficiary may earn (earnings test) without incurring a reduction in benefits.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-01-23T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <actionDate>2013-02-08</actionDate>
+      <text>Referred to the Subcommittee on Social Security.</text>
+      <links />
+    </latestAction>
+    <createDate>2013-01-24T07:00:55Z</createDate>
+    <sponsors>
+      <item>
+        <district>29</district>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <firstName>GENE</firstName>
+        <bioguideId>G000410</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>462</lisID>
+          <bioguideId>G000410</bioguideId>
+          <gpoId>8185</gpoId>
+        </identifiers>
+        <lastName>GREEN</lastName>
+        <state>TX</state>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <introducedDate>2013-01-23</introducedDate>
+    <billType>HR</billType>
+    <congress>113</congress>
+    <amendments />
+    <committeeReports />
+    <laws />
+    <calendarNumbers />
+    <billNumber>387</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hswm01</systemCode>
+              <activities>
+                <item>
+                  <date>2013-02-08T21:42:43Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Social Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2013-01-23T14:02:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Social Security Earnings Test Repeal Act of 2013</latestTitle>
+        <number>174</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-01-28</actionDate>
+          <text>Referred to the Subcommittee on Social Security.</text>
+        </latestAction>
+      </item>
+      <item>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>Let Seniors Work Act of 2014</latestTitle>
+        <number>2336</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-05-14</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+      </item>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Let Seniors Work Act of 2014</latestTitle>
+        <number>5243</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-07-29</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <title>Social Security Earnings Test Repeal Act of 2013</title>
+    <version>1.0.0</version>
+    <cosponsors />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Social Security Earnings Test Repeal Act of 2013</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend title II of the Social Security Act to remove the limitation upon the amount of outside income which an individual may earn while receiving benefits under such title, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Social Security Earnings Test Repeal Act of 2013</title>
+      </item>
+    </titles>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-02-08</actionDate>
+        <committee>
+          <systemCode>hswm01</systemCode>
+          <name>Social Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Social Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-01-23</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-01-23</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-01-23</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 8 (Wednesday, January 23, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GENE GREEN of Texas:H.R. 387.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the U.S. Constitution(the Commerce Clause).[Page H282]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <updateDate>2018-06-05T16:01:01Z</updateDate>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

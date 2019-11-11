@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2013-06-14</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-04-26</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-04-26</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-04-26</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipDate>2013-04-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <bioguideId>C001068</bioguideId>
+        <state>TN</state>
+        <district>9</district>
+      </item>
+      <item>
+        <fullName>Rep. Pierluisi, Pedro R. [D-PR-At Large]</fullName>
+        <sponsorshipDate>2013-04-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Pierluisi</lastName>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <identifiers>
+          <bioguideId>P000596</bioguideId>
+          <lisID>1953</lisID>
+          <gpoId>8138</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Pedro</firstName>
+        <bioguideId>P000596</bioguideId>
+        <state>PR</state>
+        <district>0</district>
+      </item>
+      <item>
+        <fullName>Rep. Whitfield, Ed [R-KY-1]</fullName>
+        <sponsorshipDate>2013-04-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>WHITFIELD</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000413</bioguideId>
+          <gpoId>7953</gpoId>
+          <lisID>1222</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>EDWARD</firstName>
+        <bioguideId>W000413</bioguideId>
+        <state>KY</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <sponsorshipDate>2013-04-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Connolly</lastName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gerald</firstName>
+        <bioguideId>C001078</bioguideId>
+        <state>VA</state>
+        <district>11</district>
+      </item>
+      <item>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <sponsorshipDate>2013-04-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cuellar</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1807</lisID>
+          <bioguideId>C001063</bioguideId>
+          <gpoId>8184</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Henry</firstName>
+        <bioguideId>C001063</bioguideId>
+        <state>TX</state>
+        <district>28</district>
+      </item>
+      <item>
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <sponsorshipDate>2013-04-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Foxx</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>1791</lisID>
+          <gpoId>8028</gpoId>
+          <bioguideId>F000450</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Virginia</firstName>
+        <bioguideId>F000450</bioguideId>
+        <state>NC</state>
+        <district>5</district>
+      </item>
+      <item>
+        <fullName>Rep. Faleomavaega, Eni F. H. [D-AS-At Large]</fullName>
+        <sponsorshipDate>2013-04-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Faleomavaega</lastName>
+        <party>D</party>
+        <middleName>F. H.</middleName>
+        <identifiers>
+          <bioguideId>F000010</bioguideId>
+          <gpoId>7797</gpoId>
+          <lisID>367</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Eni</firstName>
+        <bioguideId>F000010</bioguideId>
+        <state>AS</state>
+        <district>0</district>
+      </item>
+      <item>
+        <fullName>Rep. Schock, Aaron [R-IL-18]</fullName>
+        <sponsorshipDate>2013-05-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Schock</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001179</bioguideId>
+          <lisID>1920</lisID>
+          <gpoId>7938</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Aaron</firstName>
+        <bioguideId>S001179</bioguideId>
+        <state>IL</state>
+        <district>18</district>
+      </item>
+      <item>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Meadows</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>2142</lisID>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <bioguideId>M001187</bioguideId>
+        <state>NC</state>
+        <district>11</district>
+      </item>
+      <item>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Weber</lastName>
+        <party>R</party>
+        <middleName>K.</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2161</lisID>
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Randy</firstName>
+        <bioguideId>W000814</bioguideId>
+        <state>TX</state>
+        <district>14</district>
+      </item>
+      <item>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <sponsorshipDate>2013-05-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>KING</lastName>
+        <party>R</party>
+        <middleName>T.</middleName>
+        <identifiers>
+          <lisID>635</lisID>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>PETER</firstName>
+        <bioguideId>K000210</bioguideId>
+        <state>NY</state>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Keating</lastName>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <identifiers>
+          <bioguideId>K000375</bioguideId>
+          <lisID>2025</lisID>
+          <gpoId>7975</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>William</firstName>
+        <bioguideId>K000375</bioguideId>
+        <state>MA</state>
+        <district>9</district>
+      </item>
+      <item>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cramer</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kevin</firstName>
+        <bioguideId>C001096</bioguideId>
+        <state>ND</state>
+        <district>0</district>
+      </item>
+      <item>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <sponsorshipDate>2013-05-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Kinzinger</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>K000378</bioguideId>
+          <gpoId>7931</gpoId>
+          <lisID>2014</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Adam</firstName>
+        <bioguideId>K000378</bioguideId>
+        <state>IL</state>
+        <district>16</district>
+      </item>
+      <item>
+        <fullName>Rep. Radel, Trey [R-FL-19]</fullName>
+        <sponsorshipDate>2013-06-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Radel</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>2118</lisID>
+          <gpoId />
+          <bioguideId>R000596</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Trey</firstName>
+        <bioguideId>R000596</bioguideId>
+        <state>FL</state>
+        <district>19</district>
+      </item>
+      <item>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <sponsorshipDate>2013-06-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cicilline</lastName>
+        <party>D</party>
+        <middleName>N.</middleName>
+        <identifiers>
+          <gpoId>8139</gpoId>
+          <bioguideId>C001084</bioguideId>
+          <lisID>2055</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <bioguideId>C001084</bioguideId>
+        <state>RI</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <sponsorshipDate>2013-07-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cartwright</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <gpoId />
+          <lisID>2159</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Matt</firstName>
+        <bioguideId>C001090</bioguideId>
+        <state>PA</state>
+        <district>17</district>
+      </item>
+      <item>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <sponsorshipDate>2013-07-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Brooks</lastName>
+        <party>R</party>
+        <middleName>W.</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2129</lisID>
+          <bioguideId>B001284</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Susan</firstName>
+        <bioguideId>B001284</bioguideId>
+        <state>IN</state>
+        <district>5</district>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-04-27T07:02:11Z</createDate>
+    <introducedDate>2013-04-26</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-06-14</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Mustafa Akarsu Local Guard Force Support Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Immigration and Nationality Act to provide for special immigrant status for certain spouses and children of employees of the United States Government abroad killed in the line of duty.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Mustafa Akarsu Local Guard Force Support Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of State</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:16:36Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName>T.</middleName>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <identifiers>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Michael</firstName>
+        <lastName>McCaul</lastName>
+        <bioguideId>M001157</bioguideId>
+        <state>TX</state>
+        <district>10</district>
+      </item>
+    </sponsors>
+    <title>Mustafa Akarsu Local Guard Force Support Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-05-08T17:23:17Z</lastSummaryUpdateDate>
+          <actionDate>2013-04-26</actionDate>
+          <text><![CDATA[<p>Mustafa Akarsu Local Guard Force Support Act - Amends the Immigration and Nationality Act to provide special immigrant status for the surviving spouse or child of a U.S. government employee killed abroad in the line of duty, provided that: (1) the employee had performed faithful service for at least 15 years; and (2) the principal officer of a Foreign Service establishment (or, in the case of the American Institute of Taiwan, the Director) recommends, and the Secretary of State approves, the granting of such status.</p> <p>States that this Act shall be effective beginning on January 31, 2013, and shall have retroactive effect.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-04-26T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1781</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-26T14:07:05Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <name>Immigration and Border Security Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-06-14T16:56:37Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 59 (Friday, April 26, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McCAUL:H.R. 1781.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 4.[Page H2394]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

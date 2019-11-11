@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2014-09-15</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <firstName>EARL</firstName>
+        <identifiers>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <district>3</district>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <bioguideId>B000574</bioguideId>
+        <party>D</party>
+        <lastName>BLUMENAUER</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <state>OR</state>
+      </item>
+      <item>
+        <firstName>Gloria</firstName>
+        <identifiers>
+          <lisID>2108</lisID>
+          <gpoId />
+          <bioguideId>N000187</bioguideId>
+        </identifiers>
+        <district>35</district>
+        <fullName>Rep. Negrete McLeod, Gloria [D-CA-35]</fullName>
+        <bioguideId>N000187</bioguideId>
+        <party>D</party>
+        <lastName>Negrete McLeod</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <firstName>TOM</firstName>
+        <identifiers>
+          <lisID>912</lisID>
+          <gpoId>8219</gpoId>
+          <bioguideId>P000265</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <fullName>Rep. Petri, Thomas E. [R-WI-6]</fullName>
+        <bioguideId>P000265</bioguideId>
+        <party>R</party>
+        <lastName>PETRI</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <state>WI</state>
+      </item>
+      <item>
+        <firstName>Ed</firstName>
+        <identifiers>
+          <lisID>1835</lisID>
+          <gpoId>7865</gpoId>
+          <bioguideId>P000593</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <bioguideId>P000593</bioguideId>
+        <party>D</party>
+        <lastName>Perlmutter</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-12-09</sponsorshipDate>
+        <state>CO</state>
+      </item>
+      <item>
+        <firstName>Timothy</firstName>
+        <identifiers>
+          <lisID>1740</lisID>
+          <bioguideId>B001242</bioguideId>
+          <gpoId>8062</gpoId>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Bishop, Timothy H. [D-NY-1]</fullName>
+        <bioguideId>B001242</bioguideId>
+        <party>D</party>
+        <lastName>Bishop</lastName>
+        <middleName>H.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-12-11</sponsorshipDate>
+        <state>NY</state>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2014-09-15</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:16:26Z</updateDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2014-09-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-09-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-09-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-09-30T19:17:19Z</lastSummaryUpdateDate>
+          <updateDate>2014-09-15T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDate>2014-09-15</actionDate>
+          <text><![CDATA[<p>Concrete Pump Tax Fairness Act of 2014 - Amends the Internal Revenue Code to impose a vehicle mileage tax on owners&nbsp;of mobile mounted concrete boom pump vehicles. Defines "mobile mounted concrete boom pump vehicle" as a vehicle which is mobile machinery and on which the mounted machinery consists of a concrete boom pump and related subordinate parts. Directs that revenues from such tax be deposited into the Highway Trust Fund.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Motor carriers</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>Transportation costs</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Concrete Pump Tax Fairness Act of 2014</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Williams</lastName>
+        <bioguideId>W000816</bioguideId>
+        <middleName />
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <identifiers>
+          <lisID>2165</lisID>
+          <bioguideId>W000816</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>25</district>
+        <firstName>Roger</firstName>
+        <party>R</party>
+        <state>TX</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-09-16T04:46:37Z</createDate>
+    <billNumber>5474</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2014-09-15T16:03:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. WILLIAMS:H.R. 5474.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1The Congress shall have the power to lay and collect Taxes,Duties, Imposts and Excises, to pay the debts and provide forthe common Defence and general Welfare of the United States;but all Duties, Imposts, and Excises shall be uniformthroughout the United States.____________________[Page H7529]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Concrete Pump Tax Fairness Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to impose a mileage-based user fee for mobile mounted concrete boom pumps in lieu of the tax on taxable fuels, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Concrete Pump Tax Fairness Act of 2014</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-06-09</actionDate>
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsju05</systemCode>
+              <name>Regulatory Reform, Commercial And Antitrust Law Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2014-06-09T17:17:30Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2014-04-28T18:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-04-29T07:18:52Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2014-06-09</actionDate>
+        <committee>
+          <systemCode>hsju05</systemCode>
+          <name>Regulatory Reform, Commercial And Antitrust Law Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2014-04-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-04-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-04-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-04-28</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. BUCHANAN:H.R. 4491.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, of the U.S. Constitution[Page H3241]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>4491</billNumber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2014-04-28</actionDate>
+          <updateDate>2014-04-28T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2014-06-19T18:21:48Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Stop Punishing Innocent Taxpayers Act -&nbsp;Prohibits any administrative offset of a claim asserted by the federal government that has been outstanding for more than 10 years.</p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Stop Punishing Innocent Taxpayers Act</title>
+    <updateDate>2016-10-25T16:12:38Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Stop Punishing Innocent Taxpayers Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 31, United States Code, to restore the 10-year statute of limitations applicable to collection of debt by administrative offset.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Stop Punishing Innocent Taxpayers Act</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>FL</state>
+        <firstName>Vern</firstName>
+        <byRequestType />
+        <bioguideId>B001260</bioguideId>
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <lastName>Buchanan</lastName>
+        <party>R</party>
+        <middleName />
+        <district>16</district>
+        <identifiers>
+          <lisID>1840</lisID>
+          <gpoId>7885</gpoId>
+          <bioguideId>B001260</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <number>4764</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-07-21</actionDate>
+          <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+        </latestAction>
+        <latestTitle>Verify It Act</latestTitle>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <district>8</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Posey</lastName>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <sponsorshipDate>2014-05-01</sponsorshipDate>
+        <middleName />
+        <firstName>Bill</firstName>
+        <identifiers>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <bioguideId>P000599</bioguideId>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>7</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Perlmutter</lastName>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <sponsorshipDate>2014-05-01</sponsorshipDate>
+        <middleName />
+        <firstName>Ed</firstName>
+        <identifiers>
+          <lisID>1835</lisID>
+          <gpoId>7865</gpoId>
+          <bioguideId>P000593</bioguideId>
+        </identifiers>
+        <bioguideId>P000593</bioguideId>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Tipton</lastName>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <sponsorshipDate>2014-05-07</sponsorshipDate>
+        <middleName>R.</middleName>
+        <firstName>Scott</firstName>
+        <identifiers>
+          <gpoId>7861</gpoId>
+          <lisID>1997</lisID>
+          <bioguideId>T000470</bioguideId>
+        </identifiers>
+        <bioguideId>T000470</bioguideId>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>15</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Ross</lastName>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <sponsorshipDate>2014-05-07</sponsorshipDate>
+        <middleName>A.</middleName>
+        <firstName>Dennis</firstName>
+        <identifiers>
+          <lisID>2003</lisID>
+          <gpoId>7884</gpoId>
+          <bioguideId>R000593</bioguideId>
+        </identifiers>
+        <bioguideId>R000593</bioguideId>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>13</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Jolly</lastName>
+        <fullName>Rep. Jolly, David [R-FL-13]</fullName>
+        <sponsorshipDate>2014-05-07</sponsorshipDate>
+        <middleName />
+        <firstName>David</firstName>
+        <identifiers>
+          <lisID>2199</lisID>
+          <gpoId />
+          <bioguideId>J000296</bioguideId>
+        </identifiers>
+        <bioguideId>J000296</bioguideId>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>11</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Nugent</lastName>
+        <fullName>Rep. Nugent, Richard B. [R-FL-11]</fullName>
+        <sponsorshipDate>2014-05-07</sponsorshipDate>
+        <middleName>B.</middleName>
+        <firstName>Richard</firstName>
+        <identifiers>
+          <bioguideId>N000185</bioguideId>
+          <gpoId>7877</gpoId>
+          <lisID>2001</lisID>
+        </identifiers>
+        <bioguideId>N000185</bioguideId>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Yoho</lastName>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <sponsorshipDate>2014-05-07</sponsorshipDate>
+        <middleName>S.</middleName>
+        <firstName>Ted</firstName>
+        <identifiers>
+          <lisID>2115</lisID>
+          <bioguideId>Y000065</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>Y000065</bioguideId>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Westmoreland</lastName>
+        <fullName>Rep. Westmoreland, Lynn A. [R-GA-3]</fullName>
+        <sponsorshipDate>2014-05-07</sponsorshipDate>
+        <middleName>A.</middleName>
+        <firstName>Lynn</firstName>
+        <identifiers>
+          <lisID>1779</lisID>
+          <gpoId>7900</gpoId>
+          <bioguideId>W000796</bioguideId>
+        </identifiers>
+        <bioguideId>W000796</bioguideId>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>8</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Reichert</lastName>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <sponsorshipDate>2014-05-07</sponsorshipDate>
+        <middleName>G.</middleName>
+        <firstName>David</firstName>
+        <identifiers>
+          <lisID>1810</lisID>
+          <gpoId>8212</gpoId>
+          <bioguideId>R000578</bioguideId>
+        </identifiers>
+        <bioguideId>R000578</bioguideId>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>7</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Long</lastName>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <sponsorshipDate>2014-05-07</sponsorshipDate>
+        <middleName />
+        <firstName>Billy</firstName>
+        <identifiers>
+          <lisID>2033</lisID>
+          <gpoId>8015</gpoId>
+          <bioguideId>L000576</bioguideId>
+        </identifiers>
+        <bioguideId>L000576</bioguideId>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>18</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Schock</lastName>
+        <fullName>Rep. Schock, Aaron [R-IL-18]</fullName>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <middleName />
+        <firstName>Aaron</firstName>
+        <identifiers>
+          <lisID>1920</lisID>
+          <gpoId>7938</gpoId>
+          <bioguideId>S001179</bioguideId>
+        </identifiers>
+        <bioguideId>S001179</bioguideId>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>17</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Rooney</lastName>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <middleName>J.</middleName>
+        <firstName>Thomas</firstName>
+        <identifiers>
+          <bioguideId>R000583</bioguideId>
+          <lisID>1916</lisID>
+          <gpoId>7888</gpoId>
+        </identifiers>
+        <bioguideId>R000583</bioguideId>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>TERRY</lastName>
+        <fullName>Rep. Terry, Lee [R-NE-2]</fullName>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <middleName />
+        <firstName>LEE</firstName>
+        <identifiers>
+          <lisID>1566</lisID>
+          <gpoId>8039</gpoId>
+          <bioguideId>T000459</bioguideId>
+        </identifiers>
+        <bioguideId>T000459</bioguideId>
+        <state>NE</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Miller</lastName>
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <lisID>1685</lisID>
+          <gpoId>7873</gpoId>
+          <bioguideId>M001144</bioguideId>
+        </identifiers>
+        <bioguideId>M001144</bioguideId>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>25</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Diaz-Balart</lastName>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <middleName />
+        <firstName>Mario</firstName>
+        <identifiers>
+          <lisID>1717</lisID>
+          <gpoId>7893</gpoId>
+          <bioguideId>D000600</bioguideId>
+        </identifiers>
+        <bioguideId>D000600</bioguideId>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>27</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>ROS-LEHTINEN</lastName>
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <middleName />
+        <firstName>ILEANA</firstName>
+        <identifiers>
+          <bioguideId>R000435</bioguideId>
+          <lisID>985</lisID>
+          <gpoId>7890</gpoId>
+        </identifiers>
+        <bioguideId>R000435</bioguideId>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Boustany</lastName>
+        <fullName>Rep. Boustany, Charles W., Jr. [R-LA-3]</fullName>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <middleName>W.</middleName>
+        <firstName>Charles</firstName>
+        <identifiers>
+          <lisID>1787</lisID>
+          <gpoId>7965</gpoId>
+          <bioguideId>B001255</bioguideId>
+        </identifiers>
+        <bioguideId>B001255</bioguideId>
+        <state>LA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CHABOT</lastName>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <middleName />
+        <firstName>STEVE</firstName>
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <bioguideId>C000266</bioguideId>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>6</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Black</lastName>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <middleName />
+        <firstName>Diane</firstName>
+        <identifiers>
+          <lisID>2063</lisID>
+          <gpoId>8153</gpoId>
+          <bioguideId>B001273</bioguideId>
+        </identifiers>
+        <bioguideId>B001273</bioguideId>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>12</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bilirakis</lastName>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <middleName>M.</middleName>
+        <firstName>Gus</firstName>
+        <identifiers>
+          <lisID>1838</lisID>
+          <bioguideId>B001257</bioguideId>
+          <gpoId>7881</gpoId>
+        </identifiers>
+        <bioguideId>B001257</bioguideId>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>8</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Fitzpatrick</lastName>
+        <fullName>Rep. Fitzpatrick, Michael G. [R-PA-8]</fullName>
+        <sponsorshipDate>2014-05-22</sponsorshipDate>
+        <middleName>G.</middleName>
+        <firstName>Michael</firstName>
+        <identifiers>
+          <lisID>1797</lisID>
+          <bioguideId>F000451</bioguideId>
+          <gpoId>8126</gpoId>
+        </identifiers>
+        <bioguideId>F000451</bioguideId>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>6</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DeSantis</lastName>
+        <fullName>Rep. DeSantis, Ron [R-FL-6]</fullName>
+        <sponsorshipDate>2014-05-22</sponsorshipDate>
+        <middleName />
+        <firstName>Ron</firstName>
+        <identifiers>
+          <lisID>2116</lisID>
+          <gpoId />
+          <bioguideId>D000621</bioguideId>
+        </identifiers>
+        <bioguideId>D000621</bioguideId>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wenstrup</lastName>
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+        <sponsorshipDate>2014-06-24</sponsorshipDate>
+        <middleName>R.</middleName>
+        <firstName>Brad</firstName>
+        <identifiers>
+          <lisID>2152</lisID>
+          <gpoId />
+          <bioguideId>W000815</bioguideId>
+        </identifiers>
+        <bioguideId>W000815</bioguideId>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

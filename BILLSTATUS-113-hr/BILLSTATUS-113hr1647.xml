@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-05-13T20:06:07Z</lastSummaryUpdateDate>
+          <actionDate>2013-04-18</actionDate>
+          <text><![CDATA[<p>Great Lakes Assurance Program Verification Act of 2013 - Amends the Food Security Act of 1985 to require the Secretary of Agriculture (USDA), in consultation with the Great Lakes States, to establish a Great Lakes basin initiative for agricultural non-point source pollution prevention.</p> <p>Gives funding priority to producers that participate in a state verification program.</p> <p>Defines &quot;Great Lakes State&quot; as Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, or Wisconsin.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-04-18T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2013-04-18</introducedDate>
+    <titles>
+      <item>
+        <title>Great Lakes Assurance Program Verification Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend the Food Security Act of 1985 to require the Secretary of Agriculture to establish a Great Lakes basin initiative for agricultural nonpoint source pollution prevention.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Great Lakes Assurance Program Verification Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <congress>113</congress>
+    <billNumber>1647</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 53 (Thursday, April 18, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. MILLER of Michigan:H.R. 1647.Congress has the power to enact this legislation pursuantto the following:Clause 1 of Section 8 of Article I of the United StatesConstitution.[Page H2160]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2018-06-05T16:15:40Z</updateDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsag15</systemCode>
+              <activities>
+                <item>
+                  <date>2013-05-03T18:06:02Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Conservation and Forestry Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <date>2013-04-18T14:06:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2013-04-19T07:02:09Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Miller, Candice S. [R-MI-10]</fullName>
+        <byRequestType />
+        <middleName>S.</middleName>
+        <identifiers>
+          <bioguideId>M001150</bioguideId>
+          <lisID>1731</lisID>
+          <gpoId>8589</gpoId>
+        </identifiers>
+        <district>10</district>
+        <lastName>Miller</lastName>
+        <party>R</party>
+        <state>MI</state>
+        <bioguideId>M001150</bioguideId>
+        <firstName>Candice</firstName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-05-03</actionDate>
+        <committee>
+          <systemCode>hsag15</systemCode>
+          <name>Conservation and Forestry Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-04-18</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-04-18</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-04-18</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <cboCostEstimates />
+    <cosponsors />
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2013-05-03</actionDate>
+      <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural conservation and pollution</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Great Lakes</name>
+          </item>
+          <item>
+            <name>Illinois</name>
+          </item>
+          <item>
+            <name>Indiana</name>
+          </item>
+          <item>
+            <name>Lakes and rivers</name>
+          </item>
+          <item>
+            <name>Michigan</name>
+          </item>
+          <item>
+            <name>Minnesota</name>
+          </item>
+          <item>
+            <name>New York State</name>
+          </item>
+          <item>
+            <name>Ohio</name>
+          </item>
+          <item>
+            <name>Pennsylvania</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Watersheds</name>
+          </item>
+          <item>
+            <name>Wisconsin</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <title>Great Lakes Assurance Program Verification Act of 2013</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

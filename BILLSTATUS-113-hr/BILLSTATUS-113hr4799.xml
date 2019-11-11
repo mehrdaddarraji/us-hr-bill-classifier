@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-06-06</actionDate>
+        <committee>
+          <systemCode>hsif03</systemCode>
+          <name>Energy and Power Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2014-06-02</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-06-02</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-06-02</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-06-02</introducedDate>
+    <updateDate>2016-10-25T16:13:48Z</updateDate>
+    <createDate>2014-06-03T07:22:01Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2014-06-02T16:00:36Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-06-06T16:38:41Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Energy and Power Subcommittee</name>
+              <systemCode>hsif03</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <state>KS</state>
+        <fullName>Rep. Pompeo, Mike [R-KS-4]</fullName>
+        <identifiers>
+          <lisID>2022</lisID>
+          <bioguideId>P000602</bioguideId>
+          <gpoId>7952</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-06-02</sponsorshipDate>
+        <bioguideId>P000602</bioguideId>
+        <middleName />
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Pompeo</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>PETE</firstName>
+        <state>TX</state>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <identifiers>
+          <lisID>1525</lisID>
+          <bioguideId>S000250</bioguideId>
+          <gpoId>8188</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-06-02</sponsorshipDate>
+        <bioguideId>S000250</bioguideId>
+        <middleName />
+        <district>32</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SESSIONS</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Michael</firstName>
+        <state>TX</state>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <identifiers>
+          <gpoId>8182</gpoId>
+          <lisID>1751</lisID>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-06-02</sponsorshipDate>
+        <bioguideId>B001248</bioguideId>
+        <middleName>C.</middleName>
+        <district>26</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Burgess</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Billy</firstName>
+        <state>MO</state>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <identifiers>
+          <lisID>2033</lisID>
+          <bioguideId>L000576</bioguideId>
+          <gpoId>8015</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-06-02</sponsorshipDate>
+        <bioguideId>L000576</bioguideId>
+        <middleName />
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Long</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>K.</firstName>
+        <state>TX</state>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <identifiers>
+          <lisID>1805</lisID>
+          <bioguideId>C001062</bioguideId>
+          <gpoId>8167</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-06-02</sponsorshipDate>
+        <bioguideId>C001062</bioguideId>
+        <middleName>Michael</middleName>
+        <district>11</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Conaway</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>David</firstName>
+        <state>WV</state>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <identifiers>
+          <lisID>2074</lisID>
+          <bioguideId>M001180</bioguideId>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-06-05</sponsorshipDate>
+        <bioguideId>M001180</bioguideId>
+        <middleName>B.</middleName>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>McKinley</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <state>TN</state>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <identifiers>
+          <lisID>322</lisID>
+          <bioguideId>D000533</bioguideId>
+          <gpoId>8149</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-06-23</sponsorshipDate>
+        <bioguideId>D000533</bioguideId>
+        <middleName>J.</middleName>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DUNCAN</lastName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Clean Air Fairness Act of 2014</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Clean Air Fairness Act of 2014</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Clean Air Act to give States adequate time to revise their State implementation plans to prevent emissions activity within such States from contributing significantly to nonattainment in, or interfering with maintenance by, any other State with respect to any national ambient air quality standard, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Clean Air Fairness Act of 2014</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. OLSON:H.R. 4799.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the Constitution: TheCongress shall have power to regulate Commerce with foreignNations, and among the several States, and with the IndianTribes.____________________[Page H5068]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2014-09-11T21:08:08Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Clean Air Fairness Act of 2014 - Amends the Clean Air Act to revise provisions concerning implementation plans for national primary and secondary ambient air quality standards.</p> <p>Prohibits the Administrator of the Environmental Protection Agency (EPA) from promulgating a federal implementation plan for a state related to national ambient air quality standards until the EPA: (1) promulgates a final rule identifying the emission reductions necessary to meet interstate transport of air emissions requirements, and (2) provides states at least two years to revise their state implementation plans (SIPs). (A federal implementation plan is created due to the failure of an SIP to contain adequate provisions prohibiting emissions activity which will contribute significantly to nonattainment in, or interfere with maintenance by, another state with any national ambient air quality standard.) Prohibits a state from being subjected to penalties for an inadequate SIP until these conditions are met. </p> <p>Prohibits the EPA from promulgating, implementing, or enforcing a federal implementation plan due to the failure of an SIP to comply with the Cross-State Air Pollution Rule unless the EPA: (1) takes into consideration the Supreme Court's decision in <i>Environmental Protection Agency et al. v. EME Homer City Generation, L.P., et al.</i>, (2) publishes a final notice indicating the EPA's intent to enforce the rule<i></i>, and (3) provides states with at least two years from the publication date to revise their SIPs. Prohibits a state from being subject to penalties for the failure of a SIP to comply with the rule until these conditions are met. </p>]]></text>
+          <updateDate>2014-06-02T04:00:00Z</updateDate>
+          <actionDate>2014-06-02</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Environmental Protection Agency (EPA)</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Supreme Court</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <actionDate>2014-06-06</actionDate>
+    </latestAction>
+    <billNumber>4799</billNumber>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>22</district>
+        <firstName>Pete</firstName>
+        <party>R</party>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <bioguideId>O000168</bioguideId>
+        <identifiers>
+          <lisID>1955</lisID>
+          <bioguideId>O000168</bioguideId>
+          <gpoId>8178</gpoId>
+        </identifiers>
+        <lastName>Olson</lastName>
+        <middleName />
+        <state>TX</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

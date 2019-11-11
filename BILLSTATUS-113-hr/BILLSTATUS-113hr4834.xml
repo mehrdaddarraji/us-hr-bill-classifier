@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2014-06-11</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <lastName>NORTON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2014-06-11</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>G000559</bioguideId>
+        <identifiers>
+          <lisID>1973</lisID>
+          <gpoId>7815</gpoId>
+          <bioguideId>G000559</bioguideId>
+        </identifiers>
+        <lastName>Garamendi</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>3</district>
+        <sponsorshipDate>2014-06-18</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+      <links />
+      <actionDate>2014-07-15</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Highways and Transit.</text>
+          <actionDate>2014-09-19</actionDate>
+        </latestAction>
+        <latestTitle>Transportation Connections to Opportunity Act of 2014</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>5591</number>
+      </item>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+          <actionDate>2014-09-19</actionDate>
+        </latestAction>
+        <latestTitle>Economy in Motion: The National Multimodal and Sustainable Freight Infrastructure Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>5624</number>
+      </item>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Highways and Transit.</text>
+          <actionDate>2014-09-16</actionDate>
+        </latestAction>
+        <latestTitle>Metropolitan Planning Enhancement Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>5467</number>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:13:57Z</updateDate>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>8</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>12</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-07-15</actionDate>
+        <committee>
+          <name>Research and Technology Subcommittee</name>
+          <systemCode>hssy15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Research and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-07-08</actionDate>
+        <committee>
+          <name>Water, Power and Oceans Subcommittee</name>
+          <systemCode>hsii13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-07-08</actionDate>
+        <committee>
+          <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+          <systemCode>hsii24</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-07-08</actionDate>
+        <committee>
+          <name>Fisheries, Wildlife, Oceans, and Insular Affairs Subcommittee</name>
+          <systemCode>hsii22</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-07-08</actionDate>
+        <committee>
+          <name>Federal Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-13</actionDate>
+        <committee>
+          <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+          <systemCode>hsif17</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-12</actionDate>
+        <committee>
+          <name>Water Resources and Environment Subcommittee</name>
+          <systemCode>hspw02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-12</actionDate>
+        <committee>
+          <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+          <systemCode>hspw14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-12</actionDate>
+        <committee>
+          <name>Highways and Transit Subcommittee</name>
+          <systemCode>hspw12</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-12</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-12</actionDate>
+        <committee>
+          <name>Coast Guard and Maritime Transportation Subcommittee</name>
+          <systemCode>hspw07</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-12</actionDate>
+        <committee>
+          <name>Aviation Subcommittee</name>
+          <systemCode>hspw05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-06-11</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Rules</text>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-06-11</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Budget</text>
+        <committee>
+          <name>Budget Committee</name>
+          <systemCode>hsbu00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-06-11</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Oversight and Government Reform</text>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-06-11</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Natural Resources</text>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-06-11</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Science, Space, and Technology</text>
+        <committee>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-06-11</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Ways and Means</text>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-06-11</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Energy and Commerce</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <actionDate>2014-06-11</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Ways and Means, Science, Space, and Technology, Natural Resources, Oversight and Government Reform, the Budget, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-06-11</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Transportation and Infrastructure</text>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2014-06-11</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2014-06-11</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>23</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2014-06-11</actionDate>
+          <updateDate>2014-06-11T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-02-12T17:53:18Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Generating Renewal, Opportunity, and Work with Accelerated Mobility, Efficiency, and Rebuilding of Infrastructure and Communities throughout America Act or the GROW AMERICA Act - Prescribes requirements for environmental reviews with respect to state and federal agency engagement, obstruction of navigation, historic sites, categorical exclusion of multimodal projects from environmental review, and creation in the Office of the Secretary of Transportation (DOT) of an Interagency Infrastructure Permitting Improvement Center.</p> <p>Directs the Secretary to establish a multimodal freight incentive grant program and a National Freight Infrastructure Program.</p> <p>Redesignates the Dwight D. Eisenhower System of Interstate and Defense Highways as the National Highway System and the National Freight Network.</p> <p>Requires the federal long-range transportation plan to include a transportation system resilience assessment.</p> <p>Prescribes criteria for high performing metropolitan planning organizations (MPOs) representing urbanized areas with populations of over 200,000.</p> <p>Removes the congestion management process from the transportation planning process for MPOs.</p> <p>Directs the Secretary to establish a pilot program for up to 10 MPOs to improve multimodal connectivity and increase connections for disadvantaged Americans and neighborhoods with limited transportation options.</p> <p>Revises requirements with respect to congestion mitigation and air quality improvement, including electric vehicle charging stations and commercial motor vehicle anti-idling facilities in rest areas along the Interstate System.</p> <p>Establishes in the DOT: (1) a discretionary TIGER Infrastructure Grant Program for various transportation projects; and (2) a discretionary FAST Grant Program to reform the way surface transportation investments and decisions are made, implemented, and funded to achieve national transportation outcomes.</p> <p>Revises requirements for the funding of railroad rehabilitation and improvement financing, the state infrastructure bank program, toll roads, bridges, tunnels, and ferries.</p> <p>Reauthorizes the federal-aid highway and related programs through FY2018, including revised obligation limitation and apportionment requirements.</p> <p>Directs the Secretary to:</p> <ul> <li>establish a nationally significant federal lands and tribal projects program to fund construction, reconstruction, or rehabilitation of nationally significant federal lands and tribal transportation projects;</li> <li>carry out a broadband infrastructure deployment initiative;</li> <li>create a program to make critical and immediate improvements to infrastructure and highway safety; and;</li> <li>create and maintain datasets and data analysis tools to assist MPOs, states, and the DOT in carrying out performance management analyses.</li> </ul> <p>Federal Public Transportation Act of 2014 - Revises requirements for formula grants for enhanced mobility and for public transportation on Indian reservations, workforce development programs, and the public transportation safety program. </p> <p>Requires recipients of transportation assistance to meet certain standards for hiring locally.</p> <p>Reauthorizations specified public transportation assistance programs through FY2018.</p> <p>Authorizes the Secretary to make competitive grants to state and local governmental entities for bus rapid transit projects.</p> <p>Authorizes appropriations for specified highway safety programs through FY2018, and revises related requirements.</p> <p>Revises criteria for state graduated driver licensing incentive grants.</p> <p>Adds a 24-7 sobriety program to criteria for state repeat offender and open container laws.</p> <p>Authorizes specified amounts of grant funds to states for distracted driving enforcement.</p> <p>Authorizes appropriations for specified motor vehicle safety programs through FY2018, and increases penalties for safety violations.</p> <p>Revises specified requirements for commercial motor vehicle and commercial driver safety.</p> <p>Requires disqualification to operate a commercial motor vehicle for anyone who fails to pay an assessed civil penalty for a motor vehicle safety violation. </p> <p>Revises certain medical and registration requirements for commercial motor vehicle operators.</p> <p>Revises requirements for the Motor Carrier Safety Assistance Program.</p> <p>Directs the Secretary to administer a High Priority Program, an innovative technology deployment grant program, and a Commercial Motor Vehicle Operators Grant Program.</p> <p>Authorizes the Secretary to establish: (1) a motor carrier safety facility working capital fund, and (2) a financial assistance program for commercial driver's license program implementation.</p> <p>Directs the Secretary to maintain for the Federal Motor Carrier Safety Administration a motor carrier safety advisory committee.</p> <p>Revises requirements for the Unified Carrier Registration System plan.</p> <p>Repeals the authorization for self-insurance by motor carriers.</p> <p>Prescribes notice requirements relating to decisions that electronic logging devices fail to comply with standards.</p> <p>Authorizes the Secretary to issue regulations: (1) governing contractors that exercise control over motor carrier operations; and (2) requiring motor vehicle employers to track and compensate employees for on-duty, not-driving time.</p> <p>Authorizes the Secretary, with respect to unsafe conditions or practices in the transportation of hazardous materials (hazmat transportation), to order necessary: (1) operational controls, restrictions, and prohibitions without prior notice or an opportunity for a hearing; and (2) removal, remediation, or disposal of hazardous materials causing unreasonable risk of death, personal injury, or significant harm to the property or the environment.</p> <p>Authorizes the Secretary to collect reasonable fees for the administration of the special permits and approvals programs for deposit into a Hazardous Materials Approvals and Permits Fund.</p> <p>Revises requirements for planning and training grants under the Emergency Planning and Community Right-To-Know Act of 1986.</p> <p>Reauthorizes the program for regulating hazmat transportation through FY2018.</p> <p>Amends the Internal Revenue Code to extend through FY2020 specified highway-related taxes as well as requirements for expenditures from the Sport Fish Restoration and Boating Trust Fund.</p> <p>Replaces the Highway Trust Fund with a Transportation Trust Fund, and authorizes appropriations to it through FY2018.</p> <p>Directs the Sectary to establish and support a National Cooperative Freight Transportation Research Program and a Priority Multimodal Research Program.</p> <p>Revises the competitive selection process for the university transportation centers consortia program.</p> <p>Requires the Director of the Bureau of Transportation Statistics (BTS) to create datasets and data analysis tools for intermodal transportation data.</p> <p>Establishes in the BTS a National Transportation Library.</p> <p>Authorizes the BTS Director to establish a Port Performance Statistics Program to provide nationally consistent measures of performance of the nation's maritime ports.</p> <p>Revises requirements for the intelligent transportation system (ITS) program.</p> <p>Prescribes requirements for the use of funds to develop ITS infrastructure, equipment, and systems.</p> <p>Rail for America Act - Directs the Secretary to facilitate by financial assistance the establishment of a National High-Performance Rail System of integrated passenger and freight rail services, including a Current Passenger Rail Service Program and a Rail Service Improvement Program.</p> <p>Authorizes appropriations through FY2018 for the System and for the planning, development, construction, and implementation of rail corridors and related infrastructure improvements.</p> <p>Requires Amtrak to submit to the Secretary draft 5-year business line plans and draft 5-year capital asset plans.</p> <p>Authorizes the Secretary to establish Regional Rail Development Authorities, including a Regional Committee, to facilitate the development of multi-state high-performance rail services, and to coordinate these investments with other rail, transit, highway, and aviation system services.</p> <p>Prescribes requirements for the standardization of passenger equipment and level-entry boarding platforms.</p> <p>Directs the Secretary to:</p> <ul> <li>evaluate the shared-use of right-of-way by passenger and freight rail systems and the operational, institutional, and legal structures that would best support improvements to both of these systems; and</li> <li>conduct a nationwide disparity and availability study to establish the availability and utilization of small business concerns owned and controlled by socially and economically disadvantaged individuals in publicly funded railroad projects.</li> </ul> <p>Requires the Secretary to complete a National Rail Development Plan meeting certain criteria, and facilitate development of Regional Rail Development Plans.</p> <p>Authorizes the Secretary to prescribe regulations or issue orders to require host railroads for joint operations that occur within a small geographic area to develop unified rules governing all operations within that area.</p> <p>Revises or prescribes requirements relating to positive train control, hours of service, maximum employee duty hours, safety appliances, locomotive inspections, noise emission standards, and damaged track inspection equipment. </p> <p>Authorizes federal agency heads to construct, install, operate, and maintain electric charging infrastructure for official agency vehicles.</p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Alaska Natives and Hawaiians</name>
+          </item>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Bankruptcy</name>
+          </item>
+          <item>
+            <name>Broadcasting, cable, digital technologies</name>
+          </item>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Buy American requirements</name>
+          </item>
+          <item>
+            <name>Census and government statistics</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Department of Transportation</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Environmental technology</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Fishes</name>
+          </item>
+          <item>
+            <name>General public lands matters</name>
+          </item>
+          <item>
+            <name>Government corporations and government-sponsored enterprises</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Hunting and fishing</name>
+          </item>
+          <item>
+            <name>Hybrid, electric, and advanced technology vehicles</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Labor standards</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Libraries and archives</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Life, casualty, property insurance</name>
+          </item>
+          <item>
+            <name>Marine and inland water transportation</name>
+          </item>
+          <item>
+            <name>Mexico</name>
+          </item>
+          <item>
+            <name>Minority and disadvantaged businesses</name>
+          </item>
+          <item>
+            <name>Motor carriers</name>
+          </item>
+          <item>
+            <name>Motor fuels</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>National Railroad Passenger Corporation (Amtrak)</name>
+          </item>
+          <item>
+            <name>Navigation, waterways, harbors</name>
+          </item>
+          <item>
+            <name>Noise pollution</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Product safety and quality</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Public participation and lobbying</name>
+          </item>
+          <item>
+            <name>Public transit</name>
+          </item>
+          <item>
+            <name>Railroads</name>
+          </item>
+          <item>
+            <name>Regional and metropolitan planning</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>Urban and suburban affairs and development</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>GROW AMERICA Act</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>PETRI</lastName>
+        <bioguideId>P000265</bioguideId>
+        <middleName />
+        <fullName>Rep. Petri, Thomas E. [R-WI-6]</fullName>
+        <identifiers>
+          <lisID>912</lisID>
+          <gpoId>8219</gpoId>
+          <bioguideId>P000265</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <firstName>TOM</firstName>
+        <party>R</party>
+        <state>WI</state>
+        <byRequestType>Two Sponsors by request</byRequestType>
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-06-12T07:19:56Z</createDate>
+    <billNumber>4834</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-06-11T14:01:05Z</date>
+            </item>
+          </activities>
+          <name>Science, Space, and Technology Committee</name>
+          <type>Standing</type>
+          <systemCode>hssy00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Research and Technology Subcommittee</name>
+              <systemCode>hssy15</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-07-15T13:47:23Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-06-11T14:01:10Z</date>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Water, Power and Oceans Subcommittee</name>
+              <systemCode>hsii13</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-07-08T16:27:45Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+              <systemCode>hsii24</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-07-08T16:27:39Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Fisheries, Wildlife, Oceans, and Insular Affairs Subcommittee</name>
+              <systemCode>hsii22</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-07-08T16:27:31Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Federal Lands Subcommittee</name>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-07-08T16:27:19Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-06-11T14:00:54Z</date>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+              <systemCode>hsif17</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-06-13T15:04:46Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-06-11T14:00:49Z</date>
+            </item>
+          </activities>
+          <name>Transportation and Infrastructure Committee</name>
+          <type>Standing</type>
+          <systemCode>hspw00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Water Resources and Environment Subcommittee</name>
+              <systemCode>hspw02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-06-12T20:21:35Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+              <systemCode>hspw14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-06-12T20:21:24Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <systemCode>hspw12</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-06-12T20:21:14Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+              <systemCode>hspw13</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-06-12T20:21:01Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Coast Guard and Maritime Transportation Subcommittee</name>
+              <systemCode>hspw07</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-06-12T20:20:50Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Aviation Subcommittee</name>
+              <systemCode>hspw05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-06-12T20:20:40Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-06-11T14:01:25Z</date>
+            </item>
+          </activities>
+          <name>Rules Committee</name>
+          <type>Standing</type>
+          <systemCode>hsru00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-06-11T14:01:20Z</date>
+            </item>
+          </activities>
+          <name>Budget Committee</name>
+          <type>Standing</type>
+          <systemCode>hsbu00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-06-11T14:01:15Z</date>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-06-11T14:01:00Z</date>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. PETRI:H.R. 4834Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution,specifically Clause 1, Clause 3, Clause 7 and Clause 18.[Page H5319]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Rail for America Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Federal Public Transportation Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>GROW AMERICA Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Generating Renewal, Opportunity, and Work with Accelerated Mobility, Efficiency, and Rebuilding of Infrastructure and Communities throughout America Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To authorize highway infrastructure and safety, transit, motor carrier, rail, and other surface transportation programs, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>GROW AMERICA Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

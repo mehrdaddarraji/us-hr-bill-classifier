@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Supply Our Soldiers Act of 2013 - Directs the Secretary of Defense (DOD) to provide for a program under which postal benefits are provided to a member of the Armed Forces who is on active duty and who is either: (1) serving in Iraq or Afghanistan, or (2) hospitalized at a military medical facility as a result of such service. Provides the postal benefits in the form of coupons or other evidence of credit (vouchers) to use for postal-free mailings.</p> <p>Makes the benefits program applicable during FY2014-FY2019.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2013-05-15</actionDate>
+          <versionCode>00</versionCode>
+          <updateDate>2013-05-15T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-08-06T15:41:50Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2013-05-15</introducedDate>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Supply Our Soldiers Act of 2013</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To provide for free mailing privileges for personal correspondence and parcels sent to members of the Armed Forces serving on active duty in Iraq or Afghanistan.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Supply Our Soldiers Act of 2013</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <congress>113</congress>
+    <billNumber>1996</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 68 (Wednesday, May 15, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KING of New York:H.R. 1996.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 6The Congress shall have Power . . . To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H2655]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2018-06-05T16:22:07Z</updateDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <date>2013-06-20T17:31:02Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <date>2013-05-15T14:00:23Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2013-05-16T07:02:05Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <byRequestType />
+        <middleName>T.</middleName>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <lastName>KING</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <bioguideId>K000210</bioguideId>
+        <firstName>PETER</firstName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-06-20</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-05-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2013-05-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2013-05-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <lastName>MALONEY</lastName>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>M000087</bioguideId>
+        <district>12</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+          <gpoId>8075</gpoId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <firstName>CAROLYN</firstName>
+      </item>
+      <item>
+        <lastName>Runyan</lastName>
+        <fullName>Rep. Runyan, Jon [R-NJ-3]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <bioguideId>R000594</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2039</lisID>
+          <gpoId>8045</gpoId>
+          <bioguideId>R000594</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <firstName>Jon</firstName>
+      </item>
+      <item>
+        <lastName>PETRI</lastName>
+        <fullName>Rep. Petri, Thomas E. [R-WI-6]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <bioguideId>P000265</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8219</gpoId>
+          <lisID>912</lisID>
+          <bioguideId>P000265</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <firstName>TOM</firstName>
+      </item>
+      <item>
+        <lastName>Young</lastName>
+        <fullName>Rep. Young, C. W. Bill [R-FL-13]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <bioguideId>Y000031</bioguideId>
+        <district>13</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>Y000031</bioguideId>
+          <gpoId>7882</gpoId>
+          <lisID>1255</lisID>
+        </identifiers>
+        <middleName>Bill</middleName>
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <firstName>C. W.</firstName>
+      </item>
+      <item>
+        <lastName>DEFAZIO</lastName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <bioguideId>D000191</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <firstName>PETER</firstName>
+      </item>
+      <item>
+        <lastName>TIERNEY</lastName>
+        <fullName>Rep. Tierney, John F. [D-MA-6]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <bioguideId>T000266</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7971</gpoId>
+          <lisID>1535</lisID>
+          <bioguideId>T000266</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <firstName>JOHN</firstName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2013-06-20</actionDate>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Afghanistan</name>
+          </item>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Iraq</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military medicine</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>U.S. Postal Service</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <title>Supply Our Soldiers Act of 2013</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

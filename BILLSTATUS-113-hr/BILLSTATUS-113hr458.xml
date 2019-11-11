@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>458</billNumber>
+    <introducedDate>2013-02-04</introducedDate>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <laws />
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:01:35Z</updateDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2013-02-04</actionDate>
+          <lastSummaryUpdateDate>2013-02-22T15:02:29Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Fallen Heroes Family Act of 2013 - Amends the Immigration and Nationality Act to include as a nonimmigrant alien an alien who is the parent of a child who: (1) is a U.S. citizen; (2) was born outside the United States and its outlying possessions; and (3) had a natural parent who served honorably in an active-duty status in the U.S. Armed Forces and died on or after September 11, 2001, from an injury or disease incurred in or aggravated by that service.</p> <p>Defines &quot;parent&quot; to include a legal guardian or other person standing in loco parentis for purposes of: (1) such nonimmigrant alien; and (2) immediate relative status with respect to aliens who are not subject to direct numerical limitations.</p> <p>Sets forth related conditions concerning: (1) employment, (2) period of authorized admission, and (3) number of aliens to be admitted for each such child.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-02-04T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <committeeReports />
+    <createDate>2013-02-05T07:00:56Z</createDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <title>Fallen Heroes Family Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend the Immigration and Nationality Act to provide for nonimmigrant status for an alien who is the parent or legal guardian of a United States citizen child if the child was born abroad and is the child of a deceased member of the Armed Forces of the United States.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Fallen Heroes Family Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-02-28</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-02-04</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2013-02-04</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2013-02-04</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-02-28T21:38:08Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-04T19:01:45Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-02-28</actionDate>
+      <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+      <links />
+    </latestAction>
+    <cosponsors />
+    <sponsors>
+      <item>
+        <fullName>Rep. Issa, Darrell E. [R-CA-49]</fullName>
+        <identifiers>
+          <lisID>1640</lisID>
+          <bioguideId>I000056</bioguideId>
+          <gpoId>7854</gpoId>
+        </identifiers>
+        <bioguideId>I000056</bioguideId>
+        <party>R</party>
+        <state>CA</state>
+        <firstName>DARRELL</firstName>
+        <byRequestType />
+        <district>49</district>
+        <lastName>ISSA</lastName>
+        <middleName>E.</middleName>
+      </item>
+    </sponsors>
+    <title>Fallen Heroes Family Act of 2013</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 16 (Monday, February 4, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ISSA:H.R. 458.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 4; 14th Amendment.[Page H343]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>786</billNumber>
+    <introducedDate>2013-02-15</introducedDate>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <laws />
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:05:06Z</updateDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-02-15T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2013-03-23T14:53:44Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Tar Sands Tax Loophole Elimination Act - Amends the Internal Revenue Code to include tar sands in the definition of &quot;crude oil&quot; for purposes of the excise tax on petroleum.</p>]]></text>
+          <actionDate>2013-02-15</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <committeeReports />
+    <createDate>2013-02-16T07:00:52Z</createDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Tar Sands Tax Loophole Elimination Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to clarify that tar sands are crude oil for purposes of the Federal excise tax on petroleum.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Tar Sands Tax Loophole Elimination Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2013-02-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2013-02-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2013-02-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-15T14:03:25Z</date>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-02-15</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B000574</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <identifiers>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <firstName>EARL</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <lastName>BLUMENAUER</lastName>
+        <district>3</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000556</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>G000556</bioguideId>
+          <gpoId>7302</gpoId>
+          <lisID>1914</lisID>
+        </identifiers>
+        <firstName>Alan</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Grayson, Alan [D-FL-9]</fullName>
+        <lastName>Grayson</lastName>
+        <district>9</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000096</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>P000096</bioguideId>
+          <lisID>1510</lisID>
+          <gpoId>8050</gpoId>
+        </identifiers>
+        <firstName>WILLIAM</firstName>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <lastName>PASCRELL</lastName>
+        <district>9</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001032</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>H001032</bioguideId>
+          <gpoId>8054</gpoId>
+          <lisID>1580</lisID>
+        </identifiers>
+        <firstName>RUSH</firstName>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <fullName>Rep. Holt, Rush [D-NJ-12]</fullName>
+        <lastName>HOLT</lastName>
+        <district>12</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000002</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+          <lisID>850</lisID>
+          <gpoId>8069</gpoId>
+        </identifiers>
+        <firstName>JERROLD</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <lastName>NADLER</lastName>
+        <district>10</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001090</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+        </identifiers>
+        <firstName>Matt</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <lastName>Cartwright</lastName>
+        <district>17</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000933</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <identifiers>
+          <lisID>832</lisID>
+          <gpoId>8199</gpoId>
+          <bioguideId>M000933</bioguideId>
+        </identifiers>
+        <firstName>JAMES</firstName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <fullName>Rep. Moran, James P. [D-VA-8]</fullName>
+        <lastName>MORAN</lastName>
+        <district>8</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000215</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>355</lisID>
+          <gpoId>7819</gpoId>
+          <bioguideId>E000215</bioguideId>
+        </identifiers>
+        <firstName>ANNA</firstName>
+        <party>D</party>
+        <middleName>G.</middleName>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <lastName>ESHOO</lastName>
+        <district>18</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000607</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <identifiers>
+          <lisID>2171</lisID>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <lastName>Pocan</lastName>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001036</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>1471</lisID>
+          <bioguideId>C001036</bioguideId>
+          <gpoId>7828</gpoId>
+        </identifiers>
+        <firstName>LOIS</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Capps, Lois [D-CA-24]</fullName>
+        <lastName>CAPPS</lastName>
+        <district>24</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001068</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <lisID>2101</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Jared</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <lastName>Huffman</lastName>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000191</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <firstName>PETER</firstName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <lastName>DEFAZIO</lastName>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>Q000023</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <identifiers>
+          <gpoId>7925</gpoId>
+          <lisID>1967</lisID>
+          <bioguideId>Q000023</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <lastName>Quigley</lastName>
+        <district>5</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-11-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>V000128</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <identifiers>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <firstName>Chris</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Van Hollen, Chris [D-MD-8]</fullName>
+        <lastName>Van Hollen</lastName>
+        <district>8</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-11-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000344</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <gpoId>7832</gpoId>
+          <lisID>1526</lisID>
+        </identifiers>
+        <firstName>BRAD</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <lastName>SHERMAN</lastName>
+        <district>30</district>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <fullName>Rep. Markey, Edward J. [D-MA-5]</fullName>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <bioguideId>M000133</bioguideId>
+        <party>D</party>
+        <state>MA</state>
+        <firstName>EDWARD</firstName>
+        <byRequestType />
+        <district>5</district>
+        <lastName>MARKEY</lastName>
+        <middleName>J.</middleName>
+      </item>
+    </sponsors>
+    <title>Tar Sands Tax Loophole Elimination Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 25 (Friday, February 15, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MARKEY:H.R. 786.Congress has the power to enact this legislation pursuantto the following:Section 8 of Article I of the United States Constitution.``The Congress shall have Power To lay and collect Taxes,Duties, Imposts and Excises, to pay the Debts and provide forthe common Defence and general Welfare of the United States;but all Duties, Imposts and Excises shall be uniformthroughout the United States.''[Page H598]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

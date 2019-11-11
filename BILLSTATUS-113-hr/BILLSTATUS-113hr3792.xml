@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2014-01-24</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-19</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-19</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-19</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-12-19</introducedDate>
+    <notes />
+    <calendarNumbers />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Repeals a provision of the Bipartisan Budget Act of 2013 that reduces the cost-of-living adjustment to the retirement pay of members of the Armed Forces under age 62.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-12-19</actionDate>
+          <lastSummaryUpdateDate>2014-03-12T21:27:06Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2013-12-19T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>3792</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>W000804</bioguideId>
+          <lisID>1886</lisID>
+          <gpoId>8192</gpoId>
+        </identifiers>
+        <lastName>Wittman</lastName>
+        <district>1</district>
+        <middleName>J.</middleName>
+        <firstName>Robert</firstName>
+        <byRequestType />
+        <bioguideId>W000804</bioguideId>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. WITTMAN:H.R. 3792.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 and Article I, Section 8,Clause 14 of the Constitution of the United States.[Page H8126]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3794</number>
+        <latestTitle>To repeal the annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3797</number>
+        <latestTitle>To repeal an annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3798</number>
+        <latestTitle>To repeal an annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3804</number>
+        <latestTitle>To repeal the annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62.</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3807</number>
+        <latestTitle>Uphold Our Promise to Veterans Act</latestTitle>
+      </item>
+      <item>
+        <type>SRES</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-12-18</actionDate>
+          <text>Referred to the Committee on Armed Services. (text of measure as introduced: CR S8981)</text>
+        </latestAction>
+        <number>323</number>
+        <latestTitle>A resolution expressing the sense of the Senate on maintaining the current annual adjustment in retired pay for members of the Armed Forces under the age of 62.</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-12-18</actionDate>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+        </latestAction>
+        <number>1856</number>
+        <latestTitle>A bill to repeal section 403 of the Bipartisan Budget Act of 2013, relating to an annual adjustment of retired pay for members of the Armed Forces under the age of 62.</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-12-19</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>1869</number>
+        <latestTitle>Keeping Our Promise to Our Military Heroes Act</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3790</number>
+        <latestTitle>To repeal the annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62.</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-28</actionDate>
+          <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        </latestAction>
+        <number>3787</number>
+        <latestTitle>To repeal the annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-16</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 296.</text>
+        </latestAction>
+        <number>1931</number>
+        <latestTitle>Responsible Unemployment Compensation Extension Act of 2014</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-06-20</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>4134</number>
+        <latestTitle>America First Act</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3788</number>
+        <latestTitle>To repeal the reductions in military retirement benefits made by the Bipartisan Budget Act of 2013 and to require inclusion of the taxpayer's social security number to claim the refundable portion of the child tax credit.</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3793</number>
+        <latestTitle>Military Retirement Restoration Act</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3801</number>
+        <latestTitle>To repeal the reductions in military retirement benefits made by the Bipartisan Budget Act of 2013 and to authorize the United States Postal Service to implement a modified Saturday delivery schedule.</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-12-17</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>1844</number>
+        <latestTitle>Military Retirement Restoration Act</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-02-04</actionDate>
+          <text>Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S736)</text>
+        </latestAction>
+        <number>1950</number>
+        <latestTitle>Comprehensive Veterans Health and Benefits and Military Retirement Pay Restoration Act of 2014</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-02-12</actionDate>
+          <text>Returned to the Calendar. Calendar No. 298.</text>
+        </latestAction>
+        <number>1963</number>
+        <latestTitle>A bill to repeal section 403 of the Bipartisan Budget Act of 2013.</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-02-03</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 300.</text>
+        </latestAction>
+        <number>1977</number>
+        <latestTitle>Honor Our Promise Act</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-15</actionDate>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+        </latestAction>
+        <number>1930</number>
+        <latestTitle>Uphold Our Promise to Veterans Act</latestTitle>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To repeal the reduction in the annual percentage increases of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To repeal the reduction in the annual percentage increases of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62.</title>
+      </item>
+    </titles>
+    <updateDate>2016-10-25T16:09:53Z</updateDate>
+    <recordedVotes />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <actionDate>2014-01-24</actionDate>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </latestAction>
+    <createDate>2013-12-20T07:01:24Z</createDate>
+    <title>To repeal the reduction in the annual percentage increases of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62.</title>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Rigell, E. Scott [R-VA-2]</fullName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2068</lisID>
+          <bioguideId>R000589</bioguideId>
+          <gpoId>8193</gpoId>
+        </identifiers>
+        <bioguideId>R000589</bioguideId>
+        <district>2</district>
+        <firstName>E.</firstName>
+        <lastName>Rigell</lastName>
+        <middleName>Scott</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <sponsorshipDate>2013-12-19</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2065</lisID>
+          <bioguideId>F000461</bioguideId>
+          <gpoId>8173</gpoId>
+        </identifiers>
+        <bioguideId>F000461</bioguideId>
+        <district>17</district>
+        <firstName>Bill</firstName>
+        <lastName>Flores</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <sponsorshipDate>2014-01-28</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <name>Military Personnel Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-01-24T21:02:44Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-12-19T16:02:30Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

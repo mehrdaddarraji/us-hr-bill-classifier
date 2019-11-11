@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-03-27</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <date>2014-03-27T13:03:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Foreign Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-03-28T07:21:30Z</createDate>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <actionDate>2014-03-27</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-03-27</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-03-27</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-03-27</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. TURNER:H.R. 4346.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clauses 12, 13, 14 and 18 of theConstitution.[Page H2746]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>4346</billNumber>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>NATO Alliance Recognition and Promotion Act - Expresses the sense of Congress that: (1) the United States should remain committed to maintaining a military presence in Europe to promote allied interoperability and provide assurance to North American Treaty Alliance (NATO) allies in the region; and (2) at the September 2014 NATO Summit in Wales, the United States, along with NATO allies, should continue to pursue enlargement initiatives for the aspirant countries.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2014-03-27</actionDate>
+          <updateDate>2014-03-27T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-04-03T15:31:22Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Albania</name>
+          </item>
+          <item>
+            <name>Alliances</name>
+          </item>
+          <item>
+            <name>Bulgaria</name>
+          </item>
+          <item>
+            <name>Collective security</name>
+          </item>
+          <item>
+            <name>Croatia</name>
+          </item>
+          <item>
+            <name>Czech Republic</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Estonia</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Hungary</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Latvia</name>
+          </item>
+          <item>
+            <name>Lithuania</name>
+          </item>
+          <item>
+            <name>Poland</name>
+          </item>
+          <item>
+            <name>Romania</name>
+          </item>
+          <item>
+            <name>Slovakia</name>
+          </item>
+          <item>
+            <name>Slovenia</name>
+          </item>
+          <item>
+            <name>United Kingdom</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>NATO Alliance Recognition and Promotion Act</title>
+    <updateDate>2016-10-25T16:12:04Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>NATO Alliance Recognition and Promotion Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To encourage continued enlargement of the North Atlantic Treaty Organization.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>NATO Alliance Recognition and Promotion Act</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>OH</state>
+        <firstName>Michael</firstName>
+        <byRequestType />
+        <bioguideId>T000463</bioguideId>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <lastName>Turner</lastName>
+        <party>R</party>
+        <middleName>R.</middleName>
+        <district>10</district>
+        <identifiers>
+          <lisID>1741</lisID>
+          <bioguideId>T000463</bioguideId>
+          <gpoId>8093</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <number>2283</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>NATO Alliance Recognition and Promotion Act</latestTitle>
+        <type>S</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Foreign Relations.</text>
+          <actionDate>2014-05-01</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Jackie</firstName>
+        <middleName />
+        <lastName>Walorski</lastName>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000813</bioguideId>
+          <gpoId />
+          <lisID>2128</lisID>
+        </identifiers>
+        <bioguideId>W000813</bioguideId>
+        <district>2</district>
+        <state>IN</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>CHARLES</firstName>
+        <middleName>B.</middleName>
+        <lastName>RANGEL</lastName>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8076</gpoId>
+          <bioguideId>R000053</bioguideId>
+          <lisID>944</lisID>
+        </identifiers>
+        <bioguideId>R000053</bioguideId>
+        <district>13</district>
+        <state>NY</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>HOWARD</firstName>
+        <middleName>P.</middleName>
+        <lastName>MCKEON</lastName>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <fullName>Rep. McKeon, Howard P. "Buck" [R-CA-25]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>778</lisID>
+          <bioguideId>M000508</bioguideId>
+          <gpoId>7830</gpoId>
+        </identifiers>
+        <bioguideId>M000508</bioguideId>
+        <district>25</district>
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Austin</firstName>
+        <middleName />
+        <lastName>Scott</lastName>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001189</bioguideId>
+          <gpoId>7905</gpoId>
+          <lisID>2009</lisID>
+        </identifiers>
+        <bioguideId>S001189</bioguideId>
+        <district>8</district>
+        <state>GA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <middleName>M.</middleName>
+        <lastName>SHIMKUS</lastName>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000364</bioguideId>
+          <gpoId>7939</gpoId>
+          <lisID>1527</lisID>
+        </identifiers>
+        <bioguideId>S000364</bioguideId>
+        <district>15</district>
+        <state>IL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Ted</firstName>
+        <middleName />
+        <lastName>Poe</lastName>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+          <bioguideId>P000592</bioguideId>
+        </identifiers>
+        <bioguideId>P000592</bioguideId>
+        <district>2</district>
+        <state>TX</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Brett</firstName>
+        <middleName />
+        <lastName>Guthrie</lastName>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1922</lisID>
+          <bioguideId>G000558</bioguideId>
+          <gpoId>7954</gpoId>
+        </identifiers>
+        <bioguideId>G000558</bioguideId>
+        <district>2</district>
+        <state>KY</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Candice</firstName>
+        <middleName>S.</middleName>
+        <lastName>Miller</lastName>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <fullName>Rep. Miller, Candice S. [R-MI-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1731</lisID>
+          <bioguideId>M001150</bioguideId>
+          <gpoId>8589</gpoId>
+        </identifiers>
+        <bioguideId>M001150</bioguideId>
+        <district>10</district>
+        <state>MI</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <middleName>L.</middleName>
+        <lastName>MICA</lastName>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <fullName>Rep. Mica, John L. [R-FL-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000689</bioguideId>
+          <lisID>800</lisID>
+          <gpoId>7879</gpoId>
+        </identifiers>
+        <bioguideId>M000689</bioguideId>
+        <district>7</district>
+        <state>FL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Mario</firstName>
+        <middleName />
+        <lastName>Diaz-Balart</lastName>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7893</gpoId>
+          <lisID>1717</lisID>
+          <bioguideId>D000600</bioguideId>
+        </identifiers>
+        <bioguideId>D000600</bioguideId>
+        <district>25</district>
+        <state>FL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>William</firstName>
+        <middleName>L.</middleName>
+        <lastName>Enyart</lastName>
+        <sponsorshipDate>2014-04-02</sponsorshipDate>
+        <fullName>Rep. Enyart, William L. [D-IL-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2125</lisID>
+          <bioguideId>E000292</bioguideId>
+        </identifiers>
+        <bioguideId>E000292</bioguideId>
+        <district>12</district>
+        <state>IL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>CHRISTOPHER</firstName>
+        <middleName>H.</middleName>
+        <lastName>SMITH</lastName>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1071</lisID>
+          <bioguideId>S000522</bioguideId>
+          <gpoId>8046</gpoId>
+        </identifiers>
+        <bioguideId>S000522</bioguideId>
+        <district>4</district>
+        <state>NJ</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <middleName />
+        <lastName>Cotton</lastName>
+        <sponsorshipDate>2014-04-28</sponsorshipDate>
+        <fullName>Rep. Cotton, Tom [R-AR-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+          <lisID>2098</lisID>
+        </identifiers>
+        <bioguideId>C001095</bioguideId>
+        <district>4</district>
+        <state>AR</state>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

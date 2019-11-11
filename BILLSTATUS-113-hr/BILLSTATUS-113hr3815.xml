@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2014-01-07</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Budget Committee</name>
+          <systemCode>hsbu00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-01-07T19:01:45Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-01-07T19:01:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. MARINO:H.R. 3815.Congress has the power to enact this legislation pursuantto the following:This bill is introduced pursuant to clause 1 of section 8of article I of the Constitution (the General Welfare Clause)and clause 18 of section 8 of article I of the Constitution(the Necessary and Proper Clause).[Page H20]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <identifiers>
+          <gpoId>8128</gpoId>
+          <bioguideId>M001179</bioguideId>
+          <lisID>2053</lisID>
+        </identifiers>
+        <bioguideId>M001179</bioguideId>
+        <party>R</party>
+        <byRequestType />
+        <middleName />
+        <state>PA</state>
+        <lastName>Marino</lastName>
+        <district>10</district>
+        <firstName>Tom</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <billType>HR</billType>
+    <committeeReports />
+    <congress>113</congress>
+    <notes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To repeal the Biggert-Waters Flood Insurance Reform Act of 2012.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To repeal the Biggert-Waters Flood Insurance Reform Act of 2012.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <createDate>2014-01-08T07:02:03Z</createDate>
+    <originChamber>House</originChamber>
+    <cosponsors />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2014-01-07T05:00:00Z</updateDate>
+          <actionDate>2014-01-07</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Repeals the Biggert-Waters Flood Insurance Reform Act of 2012, but retains, until September 30, 2017, the financing of the National Flood Insurance Program.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2014-03-13T16:38:02Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-08</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR H56-57, H58, H59, H60, H61-62)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H56-57</url>
+            <name>H56-57</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H58</url>
+            <name>H58</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H59</url>
+            <name>H59</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H60</url>
+            <name>H60</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H61-62</url>
+            <name>H61-62</name>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-07</actionDate>
+        <text>Referred to House Budget</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-07</actionDate>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-07</actionDate>
+        <text>Referred to House Financial Services</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-07</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-07</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Floods and storm protection</name>
+          </item>
+          <item>
+            <name>Insurance industry and regulation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <title>To repeal the Biggert-Waters Flood Insurance Reform Act of 2012.</title>
+    <updateDate>2016-10-25T16:09:57Z</updateDate>
+    <billNumber>3815</billNumber>
+    <latestAction>
+      <actionDate>2014-01-08</actionDate>
+      <text>Sponsor introductory remarks on measure. (CR H56-57, H58, H59, H60, H61-62)</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

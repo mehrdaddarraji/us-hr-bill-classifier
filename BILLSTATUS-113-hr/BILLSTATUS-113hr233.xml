@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-01-14</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-01-14</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-01-14</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-01-14</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-01-14</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Pay Our Bills Act</latestTitle>
+        <number>3372</number>
+        <latestAction>
+          <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2013-10-29</actionDate>
+        </latestAction>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2013-01-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000560</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <identifiers>
+          <gpoId>8206</gpoId>
+          <lisID>1675</lisID>
+          <bioguideId>L000560</bioguideId>
+        </identifiers>
+        <firstName>RICK</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <lastName>LARSEN</lastName>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000800</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+          <lisID>1879</lisID>
+        </identifiers>
+        <firstName>Peter</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <lastName>Welch</lastName>
+        <district>0</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000397</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <firstName>ZOE</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <lastName>LOFGREN</lastName>
+        <district>19</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001090</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <identifiers>
+          <lisID>2159</lisID>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <firstName>Matt</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <lastName>Cartwright</lastName>
+        <district>17</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <firstName>JAMES</firstName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <lastName>MCGOVERN</lastName>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <identifiers>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+          <lisID>1857</lisID>
+        </identifiers>
+        <firstName>Keith</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <lastName>Ellison</lastName>
+        <district>5</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000933</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>M000933</bioguideId>
+          <lisID>832</lisID>
+          <gpoId>8199</gpoId>
+        </identifiers>
+        <firstName>JAMES</firstName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <fullName>Rep. Moran, James P. [D-VA-8]</fullName>
+        <lastName>MORAN</lastName>
+        <district>8</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001068</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001068</bioguideId>
+          <lisID>2101</lisID>
+        </identifiers>
+        <firstName>Jared</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <lastName>Huffman</lastName>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000579</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>2111</lisID>
+          <gpoId />
+          <bioguideId>L000579</bioguideId>
+        </identifiers>
+        <firstName>Alan</firstName>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <lastName>Lowenthal</lastName>
+        <district>47</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H000636</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8171</gpoId>
+          <lisID>1490</lisID>
+          <bioguideId>H000636</bioguideId>
+        </identifiers>
+        <firstName>RUBEN</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Hinojosa, Ruben [D-TX-15]</fullName>
+        <lastName>HINOJOSA</lastName>
+        <district>15</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001084</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+        </identifiers>
+        <firstName>David</firstName>
+        <party>D</party>
+        <middleName>N.</middleName>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <lastName>Cicilline</lastName>
+        <district>1</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <lastName>LEE</lastName>
+        <district>13</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001059</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7825</gpoId>
+          <lisID>1774</lisID>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <firstName>Jim</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <lastName>Costa</lastName>
+        <district>16</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-01-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001032</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <identifiers>
+          <lisID>1580</lisID>
+          <gpoId>8054</gpoId>
+          <bioguideId>H001032</bioguideId>
+        </identifiers>
+        <firstName>RUSH</firstName>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <fullName>Rep. Holt, Rush [D-NJ-12]</fullName>
+        <lastName>HOLT</lastName>
+        <district>12</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-01-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>J000032</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+        </identifiers>
+        <firstName>SHEILA</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <lastName>JACKSON LEE</lastName>
+        <district>18</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-01-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000597</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <identifiers>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <firstName>Chellie</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <lastName>Pingree</lastName>
+        <district>1</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-02-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <firstName>ELEANOR</firstName>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <district>0</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001227</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <identifiers>
+          <gpoId>8119</gpoId>
+          <lisID>1469</lisID>
+          <bioguideId>B001227</bioguideId>
+        </identifiers>
+        <firstName>ROBERT</firstName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <lastName>BRADY</lastName>
+        <district>1</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000404</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>M000404</bioguideId>
+          <gpoId>8211</gpoId>
+          <lisID>766</lisID>
+        </identifiers>
+        <firstName>JIM</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. McDermott, Jim [D-WA-7]</fullName>
+        <lastName>MCDERMOTT</lastName>
+        <district>7</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000714</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+          <lisID>229</lisID>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <lastName>CONYERS</lastName>
+        <district>13</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H000324</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <identifiers>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <firstName>ALCEE</firstName>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <lastName>HASTINGS</lastName>
+        <district>20</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000808</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <gpoId>7889</gpoId>
+          <lisID>2004</lisID>
+        </identifiers>
+        <firstName>Frederica</firstName>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <lastName>Wilson</lastName>
+        <district>24</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001078</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <firstName>Gerald</firstName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <lastName>Connolly</lastName>
+        <district>11</district>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-01-15T07:02:09Z</createDate>
+    <introducedDate>2013-01-14</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-01-14</actionDate>
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To amend chapter 31 of title 31, United States Code, to provide for an orderly process by which the debt ceiling is increased.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To amend chapter 31 of title 31, United States Code, to provide for an orderly process by which the debt ceiling is increased.</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T15:58:58Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <fullName>Rep. Honda, Michael M. [D-CA-17]</fullName>
+        <identifiers>
+          <lisID>1634</lisID>
+          <bioguideId>H001034</bioguideId>
+          <gpoId>7820</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>MICHAEL</firstName>
+        <lastName>HONDA</lastName>
+        <bioguideId>H001034</bioguideId>
+        <state>CA</state>
+        <district>17</district>
+      </item>
+    </sponsors>
+    <title>To amend chapter 31 of title 31, United States Code, to provide for an orderly process by which the debt ceiling is increased.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2013-01-14</actionDate>
+          <lastSummaryUpdateDate>2013-10-25T20:51:23Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Authorizes an extension of the presidential authority to modify the public debt ceiling (subject to enactment of a congressional joint resolution of disapproval).</p> <p>Authorizes the Secretary of the Treasury to borrow an additional amount estimated to be sufficient to meet commitments for one year whenever the President certifies to Congress that the public debt subject to limit is within $100 billion of the $16.394 trillion limit and that further borrowing is required to meet existing commitments. </p> <p>Prohibits the debt limit from being raised if, within 50 calendar days after Congress receives that certification, a joint resolution is enacted disapproving the President's exercise of authority with respect to such additional amount.</p> <p>Applies current requirements for expedited consideration of the joint resolution in both houses, with certain exceptions including:</p> <ul> <li>the September 14, 2011, termination of the period making it in order in the Senate to consider such a joint resolution;</li> <li>the authorized $400 billion increase in the public debt allowed even though Congress overrides the President's veto of the joint resolution; and </li> <li>the required sequestration ($400 billion reduction in spending) if the President signs the joint resolution, allows it to become law without his signature, or Congress overrides a veto of it.</li> </ul>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-01-14T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>233</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Rules Committee</name>
+          <subcommittees />
+          <systemCode>hsru00</systemCode>
+          <activities>
+            <item>
+              <date>2013-01-14T19:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2013-01-14T19:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 3 (Monday, January 14, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HONDA:H.R. 233.Congress has the power to enact this legislation pursuantto the following:Section 8 of article I of the Constitution and section 4 ofthe 14th amendment to the Constitution[Page H86]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

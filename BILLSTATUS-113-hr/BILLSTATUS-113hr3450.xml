@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-11-15</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-11-12</actionDate>
+        <text>Referred to House Ways and Means</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-11-12</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-11-12</actionDate>
+        <text>Referred to House Energy and Commerce</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-11-12</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-11-12</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>2</district>
+        <fullName>Rep. Ellmers, Renee L. [R-NC-2]</fullName>
+        <lastName>Ellmers</lastName>
+        <middleName>L.</middleName>
+        <state>NC</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8025</gpoId>
+          <lisID>2036</lisID>
+          <bioguideId>E000291</bioguideId>
+        </identifiers>
+        <firstName>Renee</firstName>
+        <bioguideId>E000291</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mrs. ELLMERS:H.R. 3450.Congress has the power to enact this legislation pursuantto the following:The authority to enact this bill is derived from, but maynot be limited to, Clause 1 of Section 8 of Article I of theUnited States Constitution.[Page H6998]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3450</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:08:31Z</updateDate>
+    <laws />
+    <createDate>2013-11-13T07:01:08Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-11-12T19:01:20Z</date>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-11-15T16:30:43Z</date>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-11-12T19:01:25Z</date>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-11-12</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2014-02-14T21:41:04Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Health Insurance Freedom Act of 2013 - Amends the Patient Protection and Affordable Care Act (PPACA), with respect to the definition of a qualified health plan, to allow a health insurance issuer to offer coverage that: (1) provides the essential health benefits package required of a qualified health plan other than the minimum benefits required under the essential benefits and level of coverage requirements, and (2) meets federal and state benefit requirements as otherwise applied as of October 1, 2013, in the state in which the coverage is offered.</p> <p>Makes such coverage ineligible: (1) for the premium assistance income tax credit or PPACA cost-sharing reductions; and (2) to be treated as a bronze, silver, gold, or platinum plan or be taken into account for purposes of determining the applicable second lowest cost silver plan.</p> <p>Makes this Act's amendments effective as if they were included in the enactment of PPACA.</p> <BR>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-11-12T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <lastName>Blackburn</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Marsha</firstName>
+        <bioguideId>B001243</bioguideId>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-11-20</sponsorshipDate>
+        <state>TN</state>
+      </item>
+      <item>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <lastName>Harris</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Andy</firstName>
+        <bioguideId>H001052</bioguideId>
+        <identifiers>
+          <gpoId>7976</gpoId>
+          <lisID>2026</lisID>
+          <bioguideId>H001052</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-11-20</sponsorshipDate>
+        <state>MD</state>
+      </item>
+      <item>
+        <fullName>Rep. Fleming, John [R-LA-4]</fullName>
+        <lastName>Fleming</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <middleName />
+        <firstName>John</firstName>
+        <bioguideId>F000456</bioguideId>
+        <identifiers>
+          <lisID>1924</lisID>
+          <bioguideId>F000456</bioguideId>
+          <gpoId>7962</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-11-20</sponsorshipDate>
+        <state>LA</state>
+      </item>
+      <item>
+        <fullName>Rep. Price, Tom [R-GA-6]</fullName>
+        <lastName>Price</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Tom</firstName>
+        <bioguideId>P000591</bioguideId>
+        <identifiers>
+          <lisID>1778</lisID>
+          <gpoId>7903</gpoId>
+          <bioguideId>P000591</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-11-20</sponsorshipDate>
+        <state>GA</state>
+      </item>
+      <item>
+        <fullName>Rep. Barton, Joe [R-TX-6]</fullName>
+        <lastName>BARTON</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <middleName>L.</middleName>
+        <firstName>JOE</firstName>
+        <bioguideId>B000213</bioguideId>
+        <identifiers>
+          <gpoId>8162</gpoId>
+          <lisID>62</lisID>
+          <bioguideId>B000213</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-11-20</sponsorshipDate>
+        <state>TX</state>
+      </item>
+      <item>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <lastName>Olson</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>22</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Pete</firstName>
+        <bioguideId>O000168</bioguideId>
+        <identifiers>
+          <bioguideId>O000168</bioguideId>
+          <gpoId>8178</gpoId>
+          <lisID>1955</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-11-20</sponsorshipDate>
+        <state>TX</state>
+      </item>
+      <item>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <lastName>Duncan</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <bioguideId>D000615</bioguideId>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+          <gpoId>8143</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-11-20</sponsorshipDate>
+        <state>SC</state>
+      </item>
+      <item>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <lastName>Pearce</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Stevan</firstName>
+        <bioguideId>P000588</bioguideId>
+        <identifiers>
+          <bioguideId>P000588</bioguideId>
+          <lisID>1738</lisID>
+          <gpoId>8057</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-11-20</sponsorshipDate>
+        <state>NM</state>
+      </item>
+      <item>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <lastName>Roe</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <middleName>P.</middleName>
+        <firstName>David</firstName>
+        <bioguideId>R000582</bioguideId>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-11-20</sponsorshipDate>
+        <state>TN</state>
+      </item>
+      <item>
+        <fullName>Rep. Ribble, Reid J. [R-WI-8]</fullName>
+        <lastName>Ribble</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>R</party>
+        <middleName>J.</middleName>
+        <firstName>Reid</firstName>
+        <bioguideId>R000587</bioguideId>
+        <identifiers>
+          <lisID>2073</lisID>
+          <gpoId>8221</gpoId>
+          <bioguideId>R000587</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-05</sponsorshipDate>
+        <state>WI</state>
+      </item>
+      <item>
+        <fullName>Rep. Rokita, Todd [R-IN-4]</fullName>
+        <lastName>Rokita</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Todd</firstName>
+        <bioguideId>R000592</bioguideId>
+        <identifiers>
+          <bioguideId>R000592</bioguideId>
+          <gpoId>7943</gpoId>
+          <lisID>2017</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-05</sponsorshipDate>
+        <state>IN</state>
+      </item>
+      <item>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <lastName>Hartzler</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Vicky</firstName>
+        <bioguideId>H001053</bioguideId>
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-05</sponsorshipDate>
+        <state>MO</state>
+      </item>
+      <item>
+        <fullName>Rep. Terry, Lee [R-NE-2]</fullName>
+        <lastName>TERRY</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <middleName />
+        <firstName>LEE</firstName>
+        <bioguideId>T000459</bioguideId>
+        <identifiers>
+          <bioguideId>T000459</bioguideId>
+          <lisID>1566</lisID>
+          <gpoId>8039</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-05</sponsorshipDate>
+        <state>NE</state>
+      </item>
+      <item>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <lastName>Pittenger</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Robert</firstName>
+        <bioguideId>P000606</bioguideId>
+        <identifiers>
+          <bioguideId>P000606</bioguideId>
+          <lisID>2141</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-05</sponsorshipDate>
+        <state>NC</state>
+      </item>
+      <item>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <lastName>Lance</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Leonard</firstName>
+        <bioguideId>L000567</bioguideId>
+        <identifiers>
+          <bioguideId>L000567</bioguideId>
+          <lisID>1936</lisID>
+          <gpoId>8049</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-01-13</sponsorshipDate>
+        <state>NJ</state>
+      </item>
+      <item>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <lastName>Johnson</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Bill</firstName>
+        <bioguideId>J000292</bioguideId>
+        <identifiers>
+          <bioguideId>J000292</bioguideId>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-02-03</sponsorshipDate>
+        <state>OH</state>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Insurance industry and regulation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Health Insurance Freedom Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Patient Protection and Affordable Care Act to allow individuals to opt out of the minimum required health benefits by permitting health insurance issuers to offer qualified health plans that offer alternative benefits to the minimum essential health benefits otherwise required, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Health Insurance Freedom Act of 2013</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Health Insurance Freedom Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-11-12</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-11-15</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

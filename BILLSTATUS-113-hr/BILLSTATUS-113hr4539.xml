@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2014-05-01</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors />
+    <recordedVotes />
+    <latestAction>
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 27.</text>
+      <links />
+      <actionDate>2014-06-11</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:12:46Z</updateDate>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2014-06-11</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 27.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-11</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-05-21</actionDate>
+        <committee>
+          <systemCode>hsba15</systemCode>
+          <name>Financial Institutions and Consumer Credit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <links />
+        <actionDate>2014-05-01</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-05-01</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-05-01</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2014-05-27T20:18:55Z</lastSummaryUpdateDate>
+          <actionDate>2014-05-01</actionDate>
+          <text><![CDATA[<p>Bureau Research Transparency Act - Amends the Consumer Financial Protection Act of 2010 to require the Consumer Financial Protection Bureau (CFPB), any time it issues a research paper available to the public, to accompany it with all studies, data, and other analyses on which it was based.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2014-05-01T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Bureau Research Transparency Act</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Fitzpatrick</lastName>
+        <bioguideId>F000451</bioguideId>
+        <middleName>G.</middleName>
+        <fullName>Rep. Fitzpatrick, Michael G. [R-PA-8]</fullName>
+        <identifiers>
+          <lisID>1797</lisID>
+          <gpoId>8126</gpoId>
+          <bioguideId>F000451</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <firstName>Michael</firstName>
+        <party>R</party>
+        <state>PA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-05-02T07:23:17Z</createDate>
+    <billNumber>4539</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Financial Institutions and Consumer Credit Subcommittee</name>
+              <systemCode>hsba15</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2014-05-21T21:08:56Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Financial Services Committee</name>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2014-06-11T17:52:55Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2014-05-01T13:01:20Z</date>
+            </item>
+          </activities>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. FITZPATRICK:H.R. 4539.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H3408]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates>
+      <item>
+        <url>http://www.cbo.gov/publication/45622</url>
+        <pubDate>2014-08-05T17:33:00Z</pubDate>
+        <title>H.R. 4539, Bureau Research Transparency Act</title>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/45622</url>
+        <pubDate>2014-08-05T17:33:00Z</pubDate>
+        <title>H.R. 4539, Bureau Research Transparency Act</title>
+      </item>
+    </cboCostEstimates>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Bureau Research Transparency Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To require the Bureau of Consumer Financial Protection, when issuing a research paper, to include all studies, data, and other analyses on which the paper was based.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Bureau Research Transparency Act</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

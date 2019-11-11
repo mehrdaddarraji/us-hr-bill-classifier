@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-04-08</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-01</actionDate>
+        <committee>
+          <systemCode>hsif17</systemCode>
+          <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Judiciary</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-27</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-27</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Energy and Commerce</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-27</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-27</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-27</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>3</district>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <lastName>Paulsen</lastName>
+        <middleName />
+        <state>MN</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>1930</lisID>
+          <bioguideId>P000594</bioguideId>
+          <gpoId>8003</gpoId>
+        </identifiers>
+        <firstName>Erik</firstName>
+        <bioguideId>P000594</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. PAULSEN:H.R. 867.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8[Page H702]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>867</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T15:59:45Z</updateDate>
+    <laws />
+    <createDate>2013-02-28T07:00:51Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-02-27T15:03:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-04-08T21:20:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2013-02-27T15:03:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-03-01T21:31:43Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+              <systemCode>hsif17</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Metal Theft Prevention Act of 2013 - Prohibits stealing specified metal being used in or affecting interstate or foreign commerce, the theft of which harms critical infrastructure, including metal used as part of an electrical substation, power line, cellular tower, telephone land line, highway equipment and facilities, railroad equipment and facilities, water well, reservoir, or sewage line. Sets penalties of a fine, 10 years' imprisonment, or both, for violations.</p> <p>Defines "specified metal" to include metal that is: (1) marked with the name, logo, or initials of a city, county, state, or federal government entity, a railroad, an electric, gas, or water company, a telephone company, a cable company, a retail establishment, or a public utility; (2) part of certain infrastructure items, such as a street light pole, guard rail, storm water grate, or grave marker; (3) a wire or cable commonly used by communications and electrical utilities; or (4) copper, aluminum, and other metal that is valuable for recycling or reuse as raw metal (except for aluminum cans).</p> <p>Prohibits a recycling agent from purchasing such metal: (1) unless the seller provides documentation of ownership of, or other proof of the authority of the seller to sell, such metal and there is a reasonable basis to believe that the documentation provided is valid (does not require the agent to independently verify such validity); or (2) that the agent knows, or has a reasonable basis to believe, to be stolen. Subjects violators to a civil penalty of up to $10,000 per violation.</p> <p>Sets forth recycling agent record-keeping and confidentiality requirements. Prohibits a recycling agent from paying cash for a single purchase of such metal of more than $100. Considers more than 1 purchase in any 48-hour period from the same seller to be a single purchase. </p> <p>Exempts from such documentation requirements or purchase limits any recycling agent that is subject to a state or local law that requires obtaining such documentation or that limits such purchases.</p> <p>Authorizes specified enforcement actions by the Attorney General and state attorneys general or equivalent state regulators. </p> <p>Directs the U.S. Sentencing Commission to review and amend the Federal Sentencing Guidelines and policy statements applicable to a person convicted of the theft of such metal.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-02-27</actionDate>
+          <lastSummaryUpdateDate>2013-05-24T17:03:09Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2013-02-27T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Kline, John [R-MN-2]</fullName>
+        <lastName>Kline</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000363</bioguideId>
+        <identifiers>
+          <gpoId>8002</gpoId>
+          <lisID>1733</lisID>
+          <bioguideId>K000363</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+        <middleName />
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+      </item>
+      <item>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <lastName>Cicilline</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001084</bioguideId>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+        </identifiers>
+        <firstName>David</firstName>
+        <middleName>N.</middleName>
+        <sponsorshipDate>2013-03-12</sponsorshipDate>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>RI</state>
+      </item>
+      <item>
+        <fullName>Rep. Schock, Aaron [R-IL-18]</fullName>
+        <lastName>Schock</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001179</bioguideId>
+        <identifiers>
+          <bioguideId>S001179</bioguideId>
+          <lisID>1920</lisID>
+          <gpoId>7938</gpoId>
+        </identifiers>
+        <firstName>Aaron</firstName>
+        <middleName />
+        <sponsorshipDate>2013-06-12</sponsorshipDate>
+        <district>18</district>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+      </item>
+      <item>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <lastName>Wittman</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000804</bioguideId>
+        <identifiers>
+          <bioguideId>W000804</bioguideId>
+          <lisID>1886</lisID>
+          <gpoId>8192</gpoId>
+        </identifiers>
+        <firstName>Robert</firstName>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2014-03-04</sponsorshipDate>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2013-06-17</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 88.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <congress>113</congress>
+        <number>394</number>
+        <latestTitle>Metal Theft Prevention Act of 2013</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Crimes against property</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Metals</name>
+          </item>
+          <item>
+            <name>Railroads</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>U.S. Sentencing Commission</name>
+          </item>
+          <item>
+            <name>Water storage</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Metal Theft Prevention Act of 2013</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To prohibit and deter the theft of metal, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Metal Theft Prevention Act of 2013</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Metal Theft Prevention Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-02-27</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-04-08</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

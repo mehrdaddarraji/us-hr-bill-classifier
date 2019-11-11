@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2014-06-05</introducedDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 113-489</citation>
+      </committeeReport>
+    </committeeReports>
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <bioguideId>M001166</bioguideId>
+        <sponsorshipDate>2014-06-05</sponsorshipDate>
+        <district>9</district>
+        <firstName>Jerry</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1832</lisID>
+          <bioguideId>M001166</bioguideId>
+          <gpoId>7816</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <lastName>McNerney</lastName>
+        <middleName />
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <links />
+      <actionDate>2014-06-24</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>2</number>
+        <latestAction>
+          <actionDate>2014-11-17</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 601.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>American Energy Solutions for Lower Costs and More American Jobs Act</latestTitle>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:13:49Z</updateDate>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <reportedToHouse>1</reportedToHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <actionStageOverride>2</actionStageOverride>
+        <considerationByHouse>1</considerationByHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-06-24</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>16:33:56</actionTime>
+        <actionCode>H37300</actionCode>
+        <actionDate>2014-06-23</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H5606</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H5606</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5606)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>16:33:56</actionTime>
+        <actionCode>8000</actionCode>
+        <actionDate>2014-06-23</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H5606</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H5606</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5606)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>16:29:31</actionTime>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2014-06-23</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 4801</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/4801</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4801.</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>16:29:29</actionTime>
+        <actionCode>H30000</actionCode>
+        <actionDate>2014-06-23</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H5606-5607</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H5606-5607</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H5606-5607)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>16:29:01</actionTime>
+        <actionCode>H30300</actionCode>
+        <actionDate>2014-06-23</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Mr. Kinzinger (IL) moved to suspend the rules and pass the bill.</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H12410</actionCode>
+        <actionDate>2014-06-23</actionDate>
+        <type>Calendars</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 364.</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H12200</actionCode>
+        <actionDate>2014-06-23</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 113-489</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/489</url>
+          </link>
+        </links>
+        <text>Reported by the Committee on Energy and Commerce. H. Rept. 113-489.</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <actionDate>2014-06-23</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 113-489</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/489</url>
+          </link>
+        </links>
+        <text>Reported by the Committee on Energy and Commerce. H. Rept. 113-489.</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2014-06-10</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-10</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-09</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-06</actionDate>
+        <committee>
+          <name>Energy and Power Subcommittee</name>
+          <systemCode>hsif03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-06-05</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2014-06-05</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2014-06-05</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>15</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00364</calendar>
+      </item>
+    </calendarNumbers>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-06-24T16:27:18Z</lastSummaryUpdateDate>
+          <updateDate>2014-06-05T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDate>2014-06-05</actionDate>
+          <text><![CDATA[<p>Directs the Secretary of Energy (DOE) to submit a report within one year on the impact of thermal insulation on both energy and water use systems for potable hot and chilled water in federal buildings and on the return on investment of installing the insulation. Requires the report to include: (1) an analysis based on the cost of municipal or regional water for delivered water and the avoided cost of new water; and (2) a summary of energy and water savings, including short-term and long-term (20 years) projections of such savings.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2014-06-27T19:14:02Z</lastSummaryUpdateDate>
+          <updateDate>2014-06-23T12:58:34Z</updateDate>
+          <name>Passed House without amendment</name>
+          <actionDate>2014-06-23</actionDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Directs the Secretary of Energy (DOE) to submit a report within one year on the impact of thermal insulation on both energy and water use systems for potable hot and chilled water in federal buildings and on the return on investment of installing the insulation. Requires the report to include: (1) an analysis based on the cost of municipal or regional water for delivered water and the avoided cost of new water; and (2) a summary of energy and water savings, including short-term and long-term (20 years) projections of such savings.</p>]]></text>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <versionCode>81</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Water storage</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>To require the Secretary of Energy to prepare a report on the impact of thermal insulation on both energy and water use for potable hot water.</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Kinzinger</lastName>
+        <bioguideId>K000378</bioguideId>
+        <middleName />
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <identifiers>
+          <lisID>2014</lisID>
+          <bioguideId>K000378</bioguideId>
+          <gpoId>7931</gpoId>
+        </identifiers>
+        <district>16</district>
+        <firstName>Adam</firstName>
+        <party>R</party>
+        <state>IL</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-06-06T07:22:01Z</createDate>
+    <billNumber>4801</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2014-06-24T16:18:14Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsif03</systemCode>
+              <activities>
+                <item>
+                  <date>2014-06-06T16:38:53Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Energy and Power Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2014-06-23T16:32:33Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2014-06-10T20:07:12Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2014-06-05T19:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H5072-H5073]By Mr. KINZINGER of Illinois:H.R. 4801.[[Page H5073]]Congress has the power to enact this legislation pursuantto the following:Article I, Section 9, Clause 7 of the Constitution statesthat; a regular statement and account of receipts andexpenditures of all public money shall be published from timeto time.</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates>
+      <item>
+        <url>http://www.cbo.gov/publication/45466</url>
+        <pubDate>2014-06-20T22:01:42Z</pubDate>
+        <title>H.R. 4801, a bill to require the Secretary of Energy to prepare a report on the impact of thermal insulation on both energy and water use for potable hot water</title>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/45466</url>
+        <pubDate>2014-06-20T22:01:42Z</pubDate>
+        <title>H.R. 4801, a bill to require the Secretary of Energy to prepare a report on the impact of thermal insulation on both energy and water use for potable hot water</title>
+      </item>
+    </cboCostEstimates>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To require the Secretary of Energy to prepare a report on the impact of thermal insulation on both energy and water use for potable hot water.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To require the Secretary of Energy to prepare a report on the impact of thermal insulation on both energy and water use for potable hot water.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

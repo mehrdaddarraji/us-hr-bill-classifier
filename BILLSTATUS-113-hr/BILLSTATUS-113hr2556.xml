@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-09-24</actionDate>
+        <committee>
+          <name>Research and Technology Subcommittee</name>
+          <systemCode>hssy15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Research and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-06-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        <committee>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-06-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-06-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>17</district>
+        <fullName>Rep. Honda, Michael M. [D-CA-17]</fullName>
+        <lastName>HONDA</lastName>
+        <middleName>M.</middleName>
+        <state>CA</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1634</lisID>
+          <bioguideId>H001034</bioguideId>
+          <gpoId>7820</gpoId>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+        <bioguideId>H001034</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. HONDA:H.R. 2556.Congress has the power to enact this legislation pursuantto the following:section 8 of article I of the Constitution.[Page H4144]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2556</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:05:17Z</updateDate>
+    <laws />
+    <createDate>2013-06-28T07:01:13Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Science, Space, and Technology Committee</name>
+          <subcommittees>
+            <item>
+              <name>Research and Technology Subcommittee</name>
+              <systemCode>hssy15</systemCode>
+              <activities>
+                <item>
+                  <date>2013-09-24T13:07:36Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hssy00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-06-27T14:02:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-06-27T04:00:00Z</updateDate>
+          <actionDate>2013-06-27</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Excellence in Cybersecurity Act - Requires the Director of the National Institute of Standards and Technology (NIST) to establish five Vertical Centers of Excellence on Cybersecurity to: (1) identify and analyze existing and future cybersecurity challenges faced by various industries, (2) create solutions and promote best practices to address such challenges, and (3) collaborate with individuals in those industries to share knowledge. </p> <p>Requires the Director to select for each Center: (1) a manager, (2) an appropriate location, and (3) a particular industry to be the focus of its work. </p> <p>Requires the Director and each manager to jointly select a group of experts to: (1) identify and analyze existing and future cybersecurity challenges faced by the industry selected for the Center; (2) create cost-effective, repeatable, and scalable solutions; (3) collaborate, convene discussions, and share knowledge with individuals in that industry; and (4) create educational programs to promote best practices for such individuals.</p> <p>Directs each Center to: (1) work within the Cybersecurity Framework created pursuant to Executive Order 13636, entitled &quot;Improving Critical Infrastructure Cybersecurity&quot;; (2) collaborate with each of the other Centers; (3) encourage relationships among individuals in the industry selected for the Center; and (4) share best practices and lessons learned from the work of the Center with those individuals. </p> <p>Requires the Director to submit to Congress a report describing the cybersecurity challenges, solutions, and best practices addressed by each Center.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-08-12T22:30:00Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <cosponsors />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Department of Commerce</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Trade secrets and economic espionage</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Excellence in Cybersecurity Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>To provide for the establishment of Vertical Centers of Excellence on Cybersecurity to create solutions to, and promote best practices for, industry-specific cybersecurity challenges.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Excellence in Cybersecurity Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Excellence in Cybersecurity Act</title>
+    <billType>HR</billType>
+    <introducedDate>2013-06-27</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-09-24</actionDate>
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

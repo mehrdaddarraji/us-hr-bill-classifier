@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-04-08</actionDate>
+        <committee>
+          <systemCode>hsii22</systemCode>
+          <name>Fisheries, Wildlife, Oceans, and Insular Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-01-31</actionDate>
+        <committee>
+          <systemCode>hsii22</systemCode>
+          <name>Fisheries, Wildlife, Oceans, and Insular Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-01-04</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-01-04</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-01-04</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <prayer>1</prayer>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2013-03-12</actionDate>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <number>533</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <congress>113</congress>
+        <latestTitle>A bill to correct the boundaries of the John H. Chafee Coastal Barrier Resources System Unit L06, Topsail, North Carolina.</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2014-04-08</actionDate>
+          <text>Subcommittee Hearings Held.</text>
+        </latestAction>
+        <number>4222</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestTitle>To correct the boundaries of John H. Chafee Coastal Barrier Resources System units in Florida, and for other purposes.</latestTitle>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors />
+    <notes />
+    <createDate>2013-01-05T07:00:46Z</createDate>
+    <introducedDate>2013-01-04</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2014-04-08</actionDate>
+      <text>Subcommittee Hearings Held.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To correct the boundaries of the John H. Chafee Coastal Barrier Resources System Unit L06, Topsail, North Carolina.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To correct the boundaries of the John H. Chafee Coastal Barrier Resources System Unit L06, Topsail, North Carolina.</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>North Carolina</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T15:58:44Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>WALTER</firstName>
+        <lastName>JONES</lastName>
+        <bioguideId>J000255</bioguideId>
+        <state>NC</state>
+        <district>3</district>
+      </item>
+    </sponsors>
+    <title>To correct the boundaries of the John H. Chafee Coastal Barrier Resources System Unit L06, Topsail, North Carolina.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Replaces the map included in the set of maps entitled &quot;Coastal Barrier Resources System&quot; (referred to in specified provisions of the Coastal Barrier Resources Act and relating to Unit L06 in the state of North Carolina) with another map relating to the same unit entitled &quot;John H. Chafee Coastal Barrier Resources System Corrected Unit L06.&quot;</p>]]></text>
+          <updateDate>2013-01-04T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-02-06T19:57:28Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-01-04</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>187</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsii22</systemCode>
+              <activities>
+                <item>
+                  <date>2014-04-08T14:21:01Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2013-01-31T21:49:53Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Fisheries, Wildlife, Oceans, and Insular Affairs Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2013-01-04T15:02:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 2 (Friday, January 4, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JONES:H.R. 187.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H54]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

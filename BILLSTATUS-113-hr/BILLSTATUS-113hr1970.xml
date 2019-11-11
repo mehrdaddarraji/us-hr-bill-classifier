@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-06-03</actionDate>
+        <committee>
+          <systemCode>hswm01</systemCode>
+          <name>Social Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Social Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-14</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-05-14</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-05-14</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-05-14</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-05-14</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestTitle>ASAP Act</latestTitle>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2013-08-29</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3026</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors />
+    <notes />
+    <createDate>2013-05-15T07:02:11Z</createDate>
+    <introducedDate>2013-05-14</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-06-03</actionDate>
+      <text>Referred to the Subcommittee on Social Security.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To direct the Secretary of the Treasury to ensure that social security benefits are paid, to prioritize payments when the United States is not able to issue new obligations due to the statutory debt limit, and to address a lapse in appropriations to fund the Armed Forces.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To direct the Secretary of the Treasury to ensure that social security benefits are paid, to prioritize payments when the United States is not able to issue new obligations due to the statutory debt limit, and to address a lapse in appropriations to fund the Armed Forces.</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Coast guard</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:21:57Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <identifiers>
+          <lisID>1801</lisID>
+          <bioguideId>G000552</bioguideId>
+          <gpoId>8157</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Louie</firstName>
+        <lastName>Gohmert</lastName>
+        <bioguideId>G000552</bioguideId>
+        <state>TX</state>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <title>To direct the Secretary of the Treasury to ensure that social security benefits are paid, to prioritize payments when the United States is not able to issue new obligations due to the statutory debt limit, and to address a lapse in appropriations to fund the Armed Forces.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2013-05-14</actionDate>
+          <lastSummaryUpdateDate>2013-05-29T21:24:16Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Amends title XI (General Provisions) of the Social Security Act with respect to the payment of cash benefits or administrative expenses from the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, the Federal Hospital Insurance Trust Fund, and the Federal Supplementary Medical Insurance Trust Fund (applicable federal funds) during any debt limit default period.</p> <p>Requires that during a debt limit default period public debt obligations held by the applicable federal fund be sold or redeemed in an amount not to exceed the sum of: (1) the face amount of obligations held by the fund which mature during the month in question; plus (2) the amount necessary only to pay such benefits or administrative expenses, and only to the extent cash assets of the fund are not available during that period to make such payments.</p> <p>Directs the Secretary of the Treasury, in order to undertake the sale or redemption of public debt obligations held by the applicable federal fund, to issue corresponding public debt obligations to the public in order to obtain the amounts necessary to make such payments, notwithstanding the public debt limit.</p> <p>Declares that, in the event that the Secretary is not able to issue obligations to make all authorized payments because the public debt limit has been reached, the Secretary shall give equal priority to the following: (1) payments of principal and interest on public debt; (2) payments of amounts that the Secretary of Defense (DOD) (and the Secretary of Homeland Security [DHS] in the case of the Coast Guard) determines to be necessary to continue pay and allowances (without interruption) to the Army, Navy, Air Force, Marine Corps, and Coast Guard, including their reserve components, who perform active service; (3) payments determined by the President (and reported to the Congress) to be necessary to continue U.S. priorities of its vital national security interests; and (4) payments for items and services under SSA title XVIII (Medicare).</p> <p>Makes appropriations, for any period of lapsed appropriations, out of any moneys in the Treasury not otherwise appropriated, to the Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard) to continue to provide pay and allowances (without interruption) to members of the U.S. armed forces.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-05-14T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1970</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hswm01</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-06-03T15:14:24Z</date>
+                </item>
+              </activities>
+              <name>Social Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-05-14T16:01:45Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+        </item>
+        <item>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-05-14T16:01:50Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+          <name>Armed Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 67 (Tuesday, May 14, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOHMERT:H.R. 1970.Congress has the power to enact this legislation pursuantto the following:Article I, Section 9, Clause 7 of the U.S. Constitutionsets forth the power of appropriations and states that ``NoMoney shall be drawn from the Treasury but in Consequence ofAppropriations made by Law. . . .''In addition, Article I, Section 8, Clause 1 states that``The Congress shall have the Power . . . to pay the Debtsand provide for the common Defence and general Welfare of theUnited States. . . .''Also, Article I, Section 8, Clauses 12 and 13 states thatCongress shall have power ``to raise and support Armies. ..'' and ``to provide and maintain a Navy.''Together, these specific constitutional provisionsestablish the congressional power of the purse, grantingCongress the authority to appropriate funds and pay U.S. debtin order to ensure that U.S. servicemembers will not losepay.[Page H2603]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

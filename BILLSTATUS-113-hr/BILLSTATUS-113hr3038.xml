@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>113</congress>
+    <introducedDate>2013-08-02</introducedDate>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. McCARTHY of California:H.R. 3038.Congress has the power to enact this legislation pursuantto the following:Article I, section 8, clause 3 of the Constitution of theUnited States.Article I, section 8, clause 18 of the Constitution of theUnited States.[Page H5402]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-08-02T04:00:00Z</updateDate>
+          <actionDate>2013-08-02</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Suborbital and Orbital Advancement and Regulatory Streamlining Act or SOARS Act - Amends commercial space launch licensing requirements.</p> <p>Revises the definition of &quot;launch services&quot; to include activities involved in the preparation of a launch vehicle (as under current law) or element thereof, including space flight participant training for a launch.</p> <p>Authorizes the Secretary of Transportation (DOT) to issue a single license or permit for flight of a launch or reentry vehicle, or element thereof, in support of a launch or reentry, even when the vehicle or element is not being launched or reentered. Requires the Secretary to ensure that all DOT regulations for a licensed or permitted launch or reentry are satisfied under a single license or permit.</p> <p>Authorizes the issuance of an experimental permit for a particular reusable suborbital rocket (as under current law) or rocket design after a license has been issued for the launch or reentry of a rocket of that design. Declares that any permits already issued shall remain valid for research and development (R&amp;D) and other specified purposes.</p> <p>Directs the Secretary to establish, under the Office of Commercial Space Transportation of the Federal Aviation Administration (FAA), a demonstration project to evaluate the benefits of using experimental aircraft for both the direct and indirect support of commercial space launch and reentry activities.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-11-12T16:14:15Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>SOARS Act</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>SOARS Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Suborbital and Orbital Advancement and Regulatory Streamlining Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To streamline the process of commercial space launch licensing and to establish demonstration projects involving the use of experimental aircraft in direct and indirect support of commercial space launch activities.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>SOARS Act</title>
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Science, Space, and Technology Committee</name>
+          <subcommittees>
+            <item>
+              <name>Space Subcommittee</name>
+              <systemCode>hssy16</systemCode>
+              <activities>
+                <item>
+                  <date>2013-12-13T19:32:17Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hssy00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-08-02T13:10:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-12-12</actionDate>
+          <text>By Senator Rockefeller from Committee on Commerce, Science, and Transportation filed written report. Report No. 113-318.</text>
+        </latestAction>
+        <number>2140</number>
+        <latestTitle>A bill to improve the transition between experimental permits and commercial licenses for commercial reusable launch vehicles.</latestTitle>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <createDate>2013-08-05T14:11:43Z</createDate>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <updateDate>2016-10-25T16:07:00Z</updateDate>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-12-13</actionDate>
+        <committee>
+          <name>Space Subcommittee</name>
+          <systemCode>hssy16</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Space.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-08-02</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-08-02</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-08-02</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Transportation</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Space flight and exploration</name>
+          </item>
+          <item>
+            <name>Spacecraft and satellites</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Posey</lastName>
+        <bioguideId>P000599</bioguideId>
+        <middleName />
+        <district>8</district>
+        <identifiers>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2013-08-02</sponsorshipDate>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>CRENSHAW</lastName>
+        <bioguideId>C001045</bioguideId>
+        <middleName />
+        <district>4</district>
+        <identifiers>
+          <bioguideId>C001045</bioguideId>
+          <gpoId>7876</gpoId>
+          <lisID>1643</lisID>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <firstName>ANDER</firstName>
+        <fullName>Rep. Crenshaw, Ander [R-FL-4]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bachmann</lastName>
+        <bioguideId>B001256</bioguideId>
+        <middleName />
+        <district>6</district>
+        <identifiers>
+          <bioguideId>B001256</bioguideId>
+          <lisID>1858</lisID>
+          <gpoId>8006</gpoId>
+        </identifiers>
+        <state>MN</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <firstName>Michele</firstName>
+        <fullName>Rep. Bachmann, Michele [R-MN-6]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>McCaul</lastName>
+        <bioguideId>M001157</bioguideId>
+        <middleName>T.</middleName>
+        <district>10</district>
+        <identifiers>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+          <lisID>1804</lisID>
+        </identifiers>
+        <state>TX</state>
+        <sponsorshipDate>2013-12-02</sponsorshipDate>
+        <firstName>Michael</firstName>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <notes />
+    <latestAction>
+      <actionDate>2013-12-13</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Space.</text>
+    </latestAction>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <billNumber>3038</billNumber>
+    <sponsors>
+      <item>
+        <firstName>Kevin</firstName>
+        <fullName>Rep. McCarthy, Kevin [R-CA-23]</fullName>
+        <lastName>McCarthy</lastName>
+        <party>R</party>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <bioguideId>M001165</bioguideId>
+          <lisID>1833</lisID>
+          <gpoId>7827</gpoId>
+        </identifiers>
+        <bioguideId>M001165</bioguideId>
+        <district>23</district>
+        <state>CA</state>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

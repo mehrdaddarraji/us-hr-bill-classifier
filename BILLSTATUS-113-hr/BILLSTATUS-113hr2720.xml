@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-07-23</actionDate>
+        <committee>
+          <name>Social Security Subcommittee</name>
+          <systemCode>hswm01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Social Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-07-18</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-07-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Sponsor introductory remarks on measure. (CR H4607)</text>
+        <committee />
+        <actionCode>B00100</actionCode>
+        <links>
+          <link>
+            <name>H4607</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H4607</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-07-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-07-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>3</district>
+        <fullName>Rep. Johnson, Sam [R-TX-3]</fullName>
+        <lastName>JOHNSON</lastName>
+        <middleName />
+        <state>TX</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>603</lisID>
+          <bioguideId>J000174</bioguideId>
+          <gpoId>8159</gpoId>
+        </identifiers>
+        <firstName>SAM</firstName>
+        <bioguideId>J000174</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. SAM JOHNSON of Texas:H.R. 2720.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1[Page H4725]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2720</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:05:55Z</updateDate>
+    <laws />
+    <createDate>2013-07-19T07:02:06Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-07-18T14:01:25Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hswm01</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-07-23T15:30:10Z</date>
+                </item>
+              </activities>
+              <name>Social Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2013-07-18</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Alexis Agin Identity Theft Protection Act of 2013 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to revise the treatment of death information furnished to or maintained by the Social Security Administration (SSA).</p> <p>Authorizes the Commissioner of Social Security to use or provide such information to federal and state agencies for statistical and research activities or to any federal agency for law enforcement or tax administration purposes.</p> <p>Authorizes disclosure of such information by: (1) federal and state agencies to contractors to assist with similar activities, (2) the Commissioner to entities concerning certain individuals who died more than three years earlier as well as to entities certified by the Commissioner, and (3) the Commissioner to the Secretary of Defense (DOD) to assist in the identification of remains. </p>]]></text>
+          <updateDate>2013-07-18T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-10-22T15:30:23Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2013-07-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>BECERRA</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>34</district>
+        <fullName>Rep. Becerra, Xavier [D-CA-34]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>7836</gpoId>
+          <bioguideId>B000287</bioguideId>
+          <lisID>70</lisID>
+        </identifiers>
+        <bioguideId>B000287</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>XAVIER</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>McCaul</lastName>
+        <state>TX</state>
+        <party>R</party>
+        <district>10</district>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <middleName>T.</middleName>
+        <identifiers>
+          <lisID>1804</lisID>
+          <bioguideId>M001157</bioguideId>
+          <gpoId>8166</gpoId>
+        </identifiers>
+        <bioguideId>M001157</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Black</lastName>
+        <state>TN</state>
+        <party>R</party>
+        <district>6</district>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001273</bioguideId>
+          <lisID>2063</lisID>
+          <gpoId>8153</gpoId>
+        </identifiers>
+        <bioguideId>B001273</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Diane</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Buchanan</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <district>16</district>
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001260</bioguideId>
+          <lisID>1840</lisID>
+          <gpoId>7885</gpoId>
+        </identifiers>
+        <bioguideId>B001260</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Vern</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cardenas</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>29</district>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2107</lisID>
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <bioguideId>C001097</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tony</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Blackburn</lastName>
+        <state>TN</state>
+        <party>R</party>
+        <district>7</district>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <bioguideId>B001243</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marsha</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wilson</lastName>
+        <state>SC</state>
+        <party>R</party>
+        <district>2</district>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <bioguideId>W000795</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joe</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Yoho</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <district>3</district>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <middleName>S.</middleName>
+        <identifiers>
+          <bioguideId>Y000065</bioguideId>
+          <lisID>2115</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>Y000065</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ted</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Kelly</lastName>
+        <state>PA</state>
+        <party>R</party>
+        <district>3</district>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>8708</gpoId>
+          <lisID>2051</lisID>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+        <bioguideId>K000376</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Renacci</lastName>
+        <state>OH</state>
+        <party>R</party>
+        <district>16</district>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>2048</lisID>
+          <bioguideId>R000586</bioguideId>
+          <gpoId>8106</gpoId>
+        </identifiers>
+        <bioguideId>R000586</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>James</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Griffin</lastName>
+        <state>AR</state>
+        <party>R</party>
+        <district>2</district>
+        <fullName>Rep. Griffin, Tim [R-AR-2]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>G000567</bioguideId>
+          <lisID>1990</lisID>
+          <gpoId>7794</gpoId>
+        </identifiers>
+        <bioguideId>G000567</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tim</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LARSON</lastName>
+        <state>CT</state>
+        <party>D</party>
+        <district>1</district>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+          <gpoId>7866</gpoId>
+        </identifiers>
+        <bioguideId>L000557</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>RANGEL</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <district>13</district>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <middleName>B.</middleName>
+        <identifiers>
+          <gpoId>8076</gpoId>
+          <lisID>944</lisID>
+          <bioguideId>R000053</bioguideId>
+        </identifiers>
+        <bioguideId>R000053</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>CHARLES</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Schwartz</lastName>
+        <state>PA</state>
+        <party>D</party>
+        <district>13</district>
+        <fullName>Rep. Schwartz, Allyson Y. [D-PA-13]</fullName>
+        <middleName>Y.</middleName>
+        <identifiers>
+          <gpoId>8131</gpoId>
+          <bioguideId>S001162</bioguideId>
+          <lisID>1798</lisID>
+        </identifiers>
+        <bioguideId>S001162</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Allyson</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DAVIS</lastName>
+        <state>IL</state>
+        <party>D</party>
+        <district>7</district>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <middleName>K.</middleName>
+        <identifiers>
+          <lisID>1477</lisID>
+          <bioguideId>D000096</bioguideId>
+          <gpoId>7927</gpoId>
+        </identifiers>
+        <bioguideId>D000096</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>DANNY</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LEWIS</lastName>
+        <state>GA</state>
+        <party>D</party>
+        <district>5</district>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>7902</gpoId>
+          <lisID>688</lisID>
+          <bioguideId>L000287</bioguideId>
+        </identifiers>
+        <bioguideId>L000287</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>THOMPSON</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>5</district>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+          <bioguideId>T000460</bioguideId>
+        </identifiers>
+        <bioguideId>T000460</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>MIKE</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-08-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Pingree</lastName>
+        <state>ME</state>
+        <party>D</party>
+        <district>1</district>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <bioguideId>P000597</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Chellie</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-09-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>RYAN</lastName>
+        <state>OH</state>
+        <party>D</party>
+        <district>13</district>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <bioguideId>R000577</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>TIM</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-09-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>KIND</lastName>
+        <state>WI</state>
+        <party>D</party>
+        <district>3</district>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <bioguideId>K000188</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>RON</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-09-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Schock</lastName>
+        <state>IL</state>
+        <party>R</party>
+        <district>18</district>
+        <fullName>Rep. Schock, Aaron [R-IL-18]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001179</bioguideId>
+          <gpoId>7938</gpoId>
+          <lisID>1920</lisID>
+        </identifiers>
+        <bioguideId>S001179</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Aaron</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-09-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MORAN</lastName>
+        <state>VA</state>
+        <party>D</party>
+        <district>8</district>
+        <fullName>Rep. Moran, James P. [D-VA-8]</fullName>
+        <middleName>P.</middleName>
+        <identifiers>
+          <gpoId>8199</gpoId>
+          <lisID>832</lisID>
+          <bioguideId>M000933</bioguideId>
+        </identifiers>
+        <bioguideId>M000933</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>YOUNG</lastName>
+        <state>AK</state>
+        <party>R</party>
+        <district>0</district>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <bioguideId>Y000033</bioguideId>
+          <lisID>1256</lisID>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <bioguideId>Y000033</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>DON</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Keating</lastName>
+        <state>MA</state>
+        <party>D</party>
+        <district>9</district>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <bioguideId>K000375</bioguideId>
+          <gpoId>7975</gpoId>
+          <lisID>2025</lisID>
+        </identifiers>
+        <bioguideId>K000375</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>William</firstName>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Census and government statistics</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>Social Security Administration</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Alexis Agin Identity Theft Protection Act of 2013</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To amend title II of the Social Security Act to provide for the treatment of death information furnished to or maintained by the Social Security Administration, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Alexis Agin Identity Theft Protection Act of 2013</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Alexis Agin Identity Theft Protection Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-07-18</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-07-23</actionDate>
+      <text>Referred to the Subcommittee on Social Security.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

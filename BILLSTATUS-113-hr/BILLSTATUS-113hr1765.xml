@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>113-9</number>
+      </item>
+    </laws>
+    <actions>
+      <actionTypeCounts>
+        <generalDebate>2</generalDebate>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <placeholderTextForE>3</placeholderTextForE>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <presentedToPresident>1</presentedToPresident>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <freeText>1</freeText>
+        <considerationByHouse>1</considerationByHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <becamePublicLaw>2</becamePublicLaw>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <billReferrals>3</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/1765/text/pl</url>
+            <name>Public Law No: 113-9</name>
+          </link>
+        </links>
+        <type>President</type>
+        <text>Became Public Law No: 113-9.</text>
+        <actionCode>E40000</actionCode>
+        <committee />
+        <actionDate>2013-05-01</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/1765/text/pl</url>
+            <name>Public Law No: 113-9</name>
+          </link>
+        </links>
+        <type>BecameLaw</type>
+        <text>Became Public Law No: 113-9.</text>
+        <actionCode>36000</actionCode>
+        <committee />
+        <actionDate>2013-05-01</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>President</type>
+        <text>Signed by President.</text>
+        <actionCode>E30000</actionCode>
+        <committee />
+        <actionDate>2013-05-01</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>BecameLaw</type>
+        <text>Signed by President.</text>
+        <actionCode>36000</actionCode>
+        <committee />
+        <actionDate>2013-05-01</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>Floor</type>
+        <text>Presented to President.</text>
+        <actionCode>E20000</actionCode>
+        <committee />
+        <actionDate>2013-04-30</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>President</type>
+        <text>Presented to President.</text>
+        <actionCode>28000</actionCode>
+        <committee />
+        <actionDate>2013-04-30</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-04-30</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2013-04-30</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Pursuant to the order of 4/25/13, ordered received, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links />
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Pursuant to the order of 4/25/13, ordered received, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+        <actionCode>17000</actionCode>
+        <committee />
+        <actionDate>2013-04-30</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/1765</url>
+            <name>H.R. 1765</name>
+          </link>
+        </links>
+        <actionTime>13:10:12</actionTime>
+        <text>UNANIMOUS CONSENT - Mr. Latham asked unanimous consent that in the engrossment of H.R. 1765, the Clerk strike "account" on page 2, line 14, and insert "accounts". Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-04-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionTime>12:13:42</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <actionDate>2013-04-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H2364-2365</url>
+            <name>H2364-2365</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2013/roll125.xml</url>
+            <name>Roll no. 125</name>
+          </link>
+        </links>
+        <actionTime>12:13:41</actionTime>
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 361 - 41 (Roll no. 125). (text: CR H2364-2365)</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <committee />
+        <actionDate>2013-04-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H2364-2365</url>
+            <name>H2364-2365</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2013/roll125.xml</url>
+            <name>Roll no. 125</name>
+          </link>
+        </links>
+        <actionTime>12:13:41</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 361 - 41 (Roll no. 125).(text: CR H2364-2365)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <committee />
+        <actionDate>2013-04-26</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/1765</url>
+            <name>H.R. 1765</name>
+          </link>
+        </links>
+        <actionTime>10:57:09</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1765.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-04-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H2364-2374</url>
+            <name>H2364-2374</name>
+          </link>
+        </links>
+        <actionTime>10:57:07</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H2364-2374)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <actionDate>2013-04-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionTime>10:56:34</actionTime>
+        <text>Mr. Latham moved to suspend the rules and pass the bill.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <committee />
+        <actionDate>2013-04-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Appropriations, and in addition to the Committees on Transportation and Infrastructure, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+        <actionDate>2013-04-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Appropriations, and in addition to the Committees on Transportation and Infrastructure, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <actionDate>2013-04-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Appropriations, and in addition to the Committees on Transportation and Infrastructure, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <actionDate>2013-04-26</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Appropriations, and in addition to the Committees on Transportation and Infrastructure, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsap00</systemCode>
+          <name>Appropriations Committee</name>
+        </committee>
+        <actionDate>2013-04-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2013-04-26</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2013-04-26</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Reducing Flight Delays Act of 2013</latestTitle>
+        <number>853</number>
+        <latestAction>
+          <text>Message on Senate action sent to the House.</text>
+          <actionDate>2013-04-30</actionDate>
+        </latestAction>
+        <type>S</type>
+      </item>
+      <item>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Reducing Flight Delays Act of 2013</latestTitle>
+        <number>818</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2013-04-25</actionDate>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors />
+    <notes />
+    <createDate>2013-04-27T07:02:11Z</createDate>
+    <introducedDate>2013-04-26</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links>
+        <link>
+          <url>https://www.congress.gov/bill/113th-congress/house-bill/1765/text/pl</url>
+          <name>Public Law No: 113-9</name>
+        </link>
+      </links>
+      <actionDate>2013-05-01</actionDate>
+      <text>Became Public Law No: 113-9.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType>Short Title</parentTitleType>
+        <titleType>Short Titles as Enacted</titleType>
+        <chamberCode />
+        <title>Reducing Flight Delays Act of 2013</title>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <title>Reducing Flight Delays Act of 2013</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Reducing Flight Delays Act of 2013</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To provide the Secretary of Transportation with the flexibility to transfer certain funds to prevent reduced operations and staffing of the Federal Aviation Administration, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Reducing Flight Delays Act of 2013</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Transportation</name>
+          </item>
+          <item>
+            <name>Employee leave</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:16:26Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Latham, Tom [R-IA-3]</fullName>
+        <identifiers>
+          <bioguideId>L000111</bioguideId>
+          <gpoId>7917</gpoId>
+          <lisID>666</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>TOM</firstName>
+        <lastName>LATHAM</lastName>
+        <bioguideId>L000111</bioguideId>
+        <state>IA</state>
+        <district>3</district>
+      </item>
+    </sponsors>
+    <title>Reducing Flight Delays Act of 2013</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2013-04-26</actionDate>
+          <lastSummaryUpdateDate>2013-05-01T14:26:29Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Reducing Flight Delays Act of 2013 - Authorizes the Secretary of Transportation (DOT), notwithstanding the Consolidated and Further Continuing Appropriations Act, 2013 (P.L. 113-6), any other provision of law, or sequestration order, to transfer for FY2013 to any Federal Aviation Administration (FAA) appropriations accounts (such as the one for air traffic control operations) a certain amount from funds otherwise made available for discretionary grants-in-aid under the airport improvement program or any other FAA program.</p> <p>Makes any transferred amount available immediately for obligation and expenditure as directly appropriated budget authority.</p> <p>Prohibits any such transfer of funds unless the Secretary notifies Congress at least five days in advance.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-04-26T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <versionCode>81</versionCode>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <actionDate>2013-04-26</actionDate>
+          <lastSummaryUpdateDate>2013-05-01T14:26:37Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Reducing Flight Delays Act of 2013 - Authorizes the Secretary of Transportation (DOT), notwithstanding the Consolidated and Further Continuing Appropriations Act, 2013 (P.L. 113-6), any other provision of law, or sequestration order, to transfer for FY2013 to any Federal Aviation Administration (FAA) appropriations accounts (such as the one for air traffic control operations) a certain amount from funds otherwise made available for discretionary grants-in-aid under the airport improvement program or any other FAA program.</p> <p>Makes any transferred amount available immediately for obligation and expenditure as directly appropriated budget authority.</p> <p>Prohibits any such transfer of funds unless the Secretary notifies Congress at least five days in advance.</p>]]></text>
+          <name>Passed House without amendment</name>
+          <updateDate>2013-04-26T12:14:55Z</updateDate>
+        </item>
+        <item>
+          <versionCode>49</versionCode>
+          <actionDesc>Public Law</actionDesc>
+          <actionDate>2013-05-01</actionDate>
+          <lastSummaryUpdateDate>2013-05-02T15:04:40Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Reducing Flight Delays Act of 2013 - Authorizes the Secretary of Transportation (DOT), notwithstanding the Consolidated and Further Continuing Appropriations Act, 2013 (P.L. 113-6), any other provision of law, or sequestration order, to transfer for FY2013 to any Federal Aviation Administration (FAA) appropriations accounts (such as the one for air traffic control operations) a certain amount from funds otherwise made available for discretionary grants-in-aid under the airport improvement program or any other FAA program.</p> <p>Makes any transferred amount available immediately for obligation and expenditure as directly appropriated budget authority.</p> <p>Prohibits any such transfer of funds unless the Secretary notifies Congress at least five days in advance.</p>]]></text>
+          <name>Public Law</name>
+          <updateDate>2013-05-02T03:59:58Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1765</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsbu00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-26T14:00:31Z</date>
+            </item>
+          </activities>
+          <name>Budget Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-26T14:00:26Z</date>
+            </item>
+          </activities>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsap00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-26T14:00:21Z</date>
+            </item>
+          </activities>
+          <name>Appropriations Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>125</rollNumber>
+        <url>http://clerk.house.gov/evs/2013/roll125.xml</url>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <date>2013-04-26T16:13:41Z</date>
+        <chamber>House</chamber>
+        <congress>113</congress>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 59 (Friday, April 26, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LATHAM:H.R. 1765.Congress has the power to enact this legislation pursuantto the following:The principal constitutional authority for this legislationis clause 7 of section 9 of article I of the Constitution ofthe United States (the appropriation power), which states:``No Money shall be drawn from the Treasury, but inConsequence of Appropriations made by Law . . .'' Inaddition, clause 1 of section 8 of article I of theConstitution (the spending power) provides: ``The Congressshall have the Power . . . to pay the Debts and provide forthe common Defence and general Welfare of the United States .. . .'' Together, these specific constitutional provisionsestablish the congressional power of the purse, grantingCongress the authority to appropriate funds, to determinetheir purpose, amount, and period of availability, and to setforth terms and conditions governing their use.[Page H2394]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

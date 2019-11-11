@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-02-08</actionDate>
+        <committee>
+          <systemCode>hsif16</systemCode>
+          <name>Communications and Technology Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Communications and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-06</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-06</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-06</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>18</district>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <lastName>ESHOO</lastName>
+        <middleName>G.</middleName>
+        <state>CA</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+          <lisID>355</lisID>
+        </identifiers>
+        <firstName>ANNA</firstName>
+        <bioguideId>E000215</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Ms. ESHOO:H.R. 539.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8Article IV, Section 3[Page H414]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>539</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T15:58:37Z</updateDate>
+    <laws />
+    <createDate>2013-02-07T07:00:55Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-02-06T14:01:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-02-08T22:23:00Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Communications and Technology Subcommittee</name>
+              <systemCode>hsif16</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Federal Communications Commission Collaboration Act of 2013 - Amends the Communications Act of 1934 to allow a bipartisan majority of Commissioners of the Federal Communications Commission (FCC), notwithstanding a specified open meeting provision, to hold a meeting that is closed to the public to discuss official business if: (1) no agency action is taken, (2) each person present is an FCC Commissioner or employee or a member or person on the staff of a joint board to which the FCC has referred a matter under such Act, and (3) an attorney from the FCC's Office of General Counsel is present. </p> <p>Defines &quot;bipartisan majority of Commissioners&quot; as at least three Commissioners including at least one Commissioner for each political party of which any Commissioner is a member and at least one unaffiliated Commissioner if any Commissioner has no political affiliation. </p> <p>Requires public disclosure of the meeting, attendees, and matters discussed.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-02-06</actionDate>
+          <lastSummaryUpdateDate>2013-03-04T20:50:17Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2013-02-06T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>S000364</bioguideId>
+          <lisID>1527</lisID>
+          <gpoId>7939</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-02-06</sponsorshipDate>
+        <party>R</party>
+        <lastName>SHIMKUS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000364</bioguideId>
+        <state>IL</state>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <firstName>JOHN</firstName>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>316</lisID>
+          <bioguideId>D000482</bioguideId>
+          <gpoId>8132</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-02-06</sponsorshipDate>
+        <party>D</party>
+        <lastName>DOYLE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000482</bioguideId>
+        <state>PA</state>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>MIKE</firstName>
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-02-25</sponsorshipDate>
+        <party>D</party>
+        <lastName>RUSH</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000515</bioguideId>
+        <state>IL</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <firstName>BOBBY</firstName>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+          <lisID>1814</lisID>
+          <gpoId>7810</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-02-25</sponsorshipDate>
+        <party>D</party>
+        <lastName>Matsui</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001163</bioguideId>
+        <state>CA</state>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>O.</middleName>
+        <firstName>Doris</firstName>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B000213</bioguideId>
+          <lisID>62</lisID>
+          <gpoId>8162</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <party>R</party>
+        <lastName>BARTON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B000213</bioguideId>
+        <state>TX</state>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <firstName>JOE</firstName>
+        <fullName>Rep. Barton, Joe [R-TX-6]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-04-09</sponsorshipDate>
+        <party>D</party>
+        <lastName>Welch</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000800</bioguideId>
+        <state>VT</state>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Peter</firstName>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <actionDate>2013-02-07</actionDate>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>245</number>
+        <type>S</type>
+        <latestTitle>Federal Communications Commission Collaboration Act of 2013</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Broadcasting, cable, digital technologies</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Lawyers and legal services</name>
+          </item>
+          <item>
+            <name>Public participation and lobbying</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Federal Communications Commission Collaboration Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>To amend the Communications Act of 1934 to authorize a bipartisan majority of Commissioners of the Federal Communications Commission to hold nonpublic collaborative discussions, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Federal Communications Commission Collaboration Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Federal Communications Commission Collaboration Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-02-06</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-02-08</actionDate>
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

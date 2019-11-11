@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2014-12-11</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <district>8</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Reichert</lastName>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <sponsorshipDate>2014-12-11</sponsorshipDate>
+        <middleName>G.</middleName>
+        <firstName>David</firstName>
+        <identifiers>
+          <lisID>1810</lisID>
+          <bioguideId>R000578</bioguideId>
+          <gpoId>8212</gpoId>
+        </identifiers>
+        <bioguideId>R000578</bioguideId>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to House Education and the Workforce</text>
+      <links />
+      <actionDate>2014-12-11</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <number>2171</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-07-08</actionDate>
+          <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+        </latestAction>
+        <latestTitle>Lifetime Income Disclosure Act</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <number>4376</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-06-13</actionDate>
+          <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+        </latestAction>
+        <latestTitle>Retirement Security Act of 2014</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <number>1145</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-06-12</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <latestTitle>Lifetime Income Disclosure Act</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <number>1970</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-29</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>Retirement Security Act of 2014</latestTitle>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:17:53Z</updateDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-12-11</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Education and the Workforce</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-12-11</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-12-11</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-12-11</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-12-11</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Small Businesses Add Value for Employees Act of 2014 or the SAVE Act of 2014 - Amends the Internal Revenue Code, with respect to employer-established simple individual retirement accounts (IRAs) and pension plans, to:</p> <ul> <li> repeal restrictions on rollovers from simple IRAs to qualified retirement plans; </li> <li> allow employers to elect to terminate simple IRAs at any time during the year; </li> <li> repeal the increased 25% penalty on premature distributions from simple IRAs within the first two plan years;</li> <li> allow additional nonelective employer contributions to simple IRAs not exceeding 10% of compensation; </li> <li> establish automatic deferral IRAs to permit the automatic enrollment of employees earning at least $5,000 in a preceding year; </li> <li>establish secure deferral arrangements for automatically enrolling employees at 6% of pay with annual increases;</li> <li>allow small employers a new tax credit for the cost of adopting safe harbor requirements for secure deferral arrangements;</li> <li>allow a transfer of unused benefits in a flexible spending arrangement to a qualified retirement or eligible deferred compensation plan; </li> <li> increase the tax credit for small employer pension plan startup costs; and </li> <li> establish multiple small employer retirement plans that provide for automatic employee contributions.</li> </ul> <p>Requires: (1) the Secretary of the Treasury to promulgate regulations regarding the timing of notices to participants in automatic contribution pension plans; (2) the Office of Financial Education of the Department of the Treasury to develop and implement an outreach plan to educate small businesses on the types and benefits of available retirement plans; (3) the Secretaries of the Treasury and Labor to develop recommendations for small businesses to improve retirement outcomes; and (4) the Secretary of the Treasury, in consultation with the Secretary of Education, to develop age-appropriate financial literacy curricula for elementary and secondary schools.</p> <p>Amends the Employee Retirement Income Security Act of 1974 (ERISA) to: (1) exempt IRAs that permit payroll deductions from additional pension plan requirements, (2) require disclosures relating to lifetime income from pension plans and annuities, and (3) set forth safe harbor criteria for the selection of an annuity contract and an insurer. </p>]]></text>
+          <actionDate>2014-12-11</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2014-12-11T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-01-27T21:11:30Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Department of Labor</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Financial literacy</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Income tax deferral</name>
+          </item>
+          <item>
+            <name>Insurance industry and regulation</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>SAVE Act of 2014</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>KIND</lastName>
+        <bioguideId>K000188</bioguideId>
+        <middleName />
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <district>3</district>
+        <firstName>RON</firstName>
+        <party>D</party>
+        <state>WI</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-12-12T05:02:15Z</createDate>
+    <billNumber>5875</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-12-11T14:03:45Z</date>
+            </item>
+          </activities>
+          <name>Education and the Workforce Committee</name>
+          <type>Standing</type>
+          <systemCode>hsed00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-12-11T14:03:40Z</date>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. KIND:H.R. 5875.Congress has the power to enact this legislation pursuantto the following:Article I Section 8.[Page H9304]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>SAVE Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Small Businesses Add Value for Employees Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to encourage retirement savings by modifying requirements with respect to employer-established IRAs, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>SAVE Act of 2014</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-01-24</actionDate>
+        <committee>
+          <systemCode>hsas25</systemCode>
+          <name>Tactical Air and Land Forces Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Tactical Air and Land Forces.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-12-05</actionDate>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Armed Services.</text>
+      </item>
+      <item>
+        <actionDate>2013-12-05</actionDate>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2013-12-05</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>4</district>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <lastName>Hartzler</lastName>
+        <middleName />
+        <state>MO</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+          <gpoId>8012</gpoId>
+          <lisID>2032</lisID>
+        </identifiers>
+        <firstName>Vicky</firstName>
+        <bioguideId>H001053</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mrs. HARTZLER:H.R. 3657.Congress has the power to enact this legislation pursuantto the following:The constitutional authority on which this bill rest is thepower of Congress ``to provide for the common Defence'', ``toraise and support Armies'', ``to provide and maintain aNavy'' and ``to make Rules for the Government and Regulationof the land and naval Forces'' as enumerated in Article I,Section 8 of the United States Constitution.[Page H7567]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3657</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:09:26Z</updateDate>
+    <laws />
+    <createDate>2013-12-06T07:01:05Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <date>2013-12-05T14:02:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Tactical Air and Land Forces Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2014-01-24T20:56:34Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsas25</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsas00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-12-05T05:00:00Z</updateDate>
+          <actionDate>2013-12-05</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Prohibits the obligation or expenditure of any Department of Defense (DOD) funds to retire, prepare to retire, or place in storage any A-10 aircraft until: (1) the Secretary of the Air Force certifies that the F-35A aircraft has achieved full operational capability and Block 4A capabilities and that a sufficient number of F-35A aircraft exists in the Air Force inventory to replace the A-10 aircraft in order to meet close air support capability requirements of the combatant commands; and (2) the Comptroller General submits a report that assesses whether each such certification is comprehensive, fully supported, and sufficiently detailed and that identifies any shortcomings, limitations, or other reportable matters that affect the quality or findings of any such certification.</p> <UL> <UL> </UL> </UL> <BR>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2014-01-06T20:30:21Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2093</lisID>
+          <bioguideId>B001279</bioguideId>
+          <gpoId>8368</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Barber</lastName>
+        <middleName />
+        <sponsorshipDate>2013-12-05</sponsorshipDate>
+        <district>2</district>
+        <firstName>Ron</firstName>
+        <fullName>Rep. Barber, Ron [D-AZ-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001279</bioguideId>
+        <state>AZ</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>636</lisID>
+          <bioguideId>K000220</bioguideId>
+          <gpoId>7898</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>KINGSTON</lastName>
+        <middleName />
+        <sponsorshipDate>2013-12-05</sponsorshipDate>
+        <district>1</district>
+        <firstName>JACK</firstName>
+        <fullName>Rep. Kingston, Jack [R-GA-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000220</bioguideId>
+        <state>GA</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8589</gpoId>
+          <lisID>1731</lisID>
+          <bioguideId>M001150</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Miller</lastName>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2013-12-05</sponsorshipDate>
+        <district>10</district>
+        <firstName>Candice</firstName>
+        <fullName>Rep. Miller, Candice S. [R-MI-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001150</bioguideId>
+        <state>MI</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1753</lisID>
+          <gpoId>8189</gpoId>
+          <bioguideId>B001250</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bishop</lastName>
+        <middleName />
+        <sponsorshipDate>2013-12-11</sponsorshipDate>
+        <district>1</district>
+        <firstName>Rob</firstName>
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001250</bioguideId>
+        <state>UT</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Shea-Porter</lastName>
+        <middleName />
+        <sponsorshipDate>2014-01-08</sponsorshipDate>
+        <district>1</district>
+        <firstName>Carol</firstName>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001170</bioguideId>
+        <state>NH</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001189</bioguideId>
+          <lisID>2009</lisID>
+          <gpoId>7905</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Scott</lastName>
+        <middleName />
+        <sponsorshipDate>2014-01-08</sponsorshipDate>
+        <district>8</district>
+        <firstName>Austin</firstName>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001189</bioguideId>
+        <state>GA</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8044</gpoId>
+          <lisID>699</lisID>
+          <bioguideId>L000554</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LOBIONDO</lastName>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <district>2</district>
+        <firstName>FRANK</firstName>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000554</bioguideId>
+        <state>NJ</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cole</lastName>
+        <middleName />
+        <sponsorshipDate>2014-02-25</sponsorshipDate>
+        <district>4</district>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001053</bioguideId>
+        <state>OK</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1912</lisID>
+          <bioguideId>C001077</bioguideId>
+          <gpoId>7864</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Coffman</lastName>
+        <middleName />
+        <sponsorshipDate>2014-02-25</sponsorshipDate>
+        <district>6</district>
+        <firstName>Mike</firstName>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001077</bioguideId>
+        <state>CO</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1790</lisID>
+          <bioguideId>C001061</bioguideId>
+          <gpoId>8013</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cleaver</lastName>
+        <middleName />
+        <sponsorshipDate>2014-02-27</sponsorshipDate>
+        <district>5</district>
+        <firstName>Emanuel</firstName>
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001061</bioguideId>
+        <state>MO</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>635</lisID>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>KING</lastName>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2014-04-28</sponsorshipDate>
+        <district>2</district>
+        <firstName>PETER</firstName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000210</bioguideId>
+        <state>NY</state>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestAction>
+          <actionDate>2013-11-21</actionDate>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+        </latestAction>
+        <number>1764</number>
+        <type>S</type>
+        <latestTitle>A bill to limit the retirement of A-10 aircraft.</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestAction>
+          <actionDate>2014-06-20</actionDate>
+          <text>Referred to the Subcommittee on Seapower and Projection Forces.</text>
+        </latestAction>
+        <number>4230</number>
+        <type>HR</type>
+        <latestTitle>To limit the retirement of KC-10 aircraft.</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>To limit the retirement of A-10 aircraft.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To limit the retirement of A-10 aircraft.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>To limit the retirement of A-10 aircraft.</title>
+    <billType>HR</billType>
+    <introducedDate>2013-12-05</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2014-01-24</actionDate>
+      <text>Referred to the Subcommittee on Tactical Air and Land Forces.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-06-03</actionDate>
+        <committee>
+          <systemCode>hswm04</systemCode>
+          <name>Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2013-05-23</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-05-23</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-05-23</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <actionDate>2013-12-17</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1839</number>
+        <type>S</type>
+        <latestTitle>GSP UPDATE Act</latestTitle>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <lastName>Smith</lastName>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>NE</state>
+        <bioguideId>S001172</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001172</bioguideId>
+          <lisID>1860</lisID>
+          <gpoId>8040</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <firstName>Adrian</firstName>
+      </item>
+      <item>
+        <lastName>LOWEY</lastName>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>L000480</bioguideId>
+        <district>17</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000480</bioguideId>
+          <lisID>709</lisID>
+          <gpoId>8079</gpoId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2013-07-08</sponsorshipDate>
+        <firstName>NITA</firstName>
+      </item>
+      <item>
+        <lastName>Huffman</lastName>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>H001068</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2101</lisID>
+          <gpoId />
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-07-08</sponsorshipDate>
+        <firstName>Jared</firstName>
+      </item>
+      <item>
+        <lastName>Roskam</lastName>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <bioguideId>R000580</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1848</lisID>
+          <bioguideId>R000580</bioguideId>
+          <gpoId>7926</gpoId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2013-07-17</sponsorshipDate>
+        <firstName>Peter</firstName>
+      </item>
+      <item>
+        <lastName>Polis</lastName>
+        <fullName>Rep. Polis, Jared [D-CO-2]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+        <bioguideId>P000598</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000598</bioguideId>
+          <lisID>1910</lisID>
+          <gpoId>7860</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-07-19</sponsorshipDate>
+        <firstName>Jared</firstName>
+      </item>
+      <item>
+        <lastName>Bonamici</lastName>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <bioguideId>B001278</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2014-01-15</sponsorshipDate>
+        <firstName>Suzanne</firstName>
+      </item>
+      <item>
+        <lastName>Duckworth</lastName>
+        <fullName>Rep. Duckworth, Tammy [D-IL-8]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <bioguideId>D000622</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2123</lisID>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2014-01-31</sponsorshipDate>
+        <firstName>Tammy</firstName>
+      </item>
+      <item>
+        <lastName>BLUMENAUER</lastName>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <bioguideId>B000574</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2014-02-27</sponsorshipDate>
+        <firstName>EARL</firstName>
+      </item>
+      <item>
+        <lastName>Bordallo</lastName>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>GU</state>
+        <bioguideId>B001245</bioguideId>
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7911</gpoId>
+          <lisID>1723</lisID>
+          <bioguideId>B001245</bioguideId>
+        </identifiers>
+        <middleName>Z.</middleName>
+        <sponsorshipDate>2014-04-28</sponsorshipDate>
+        <firstName>Madeleine</firstName>
+      </item>
+      <item>
+        <lastName>Paulsen</lastName>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <bioguideId>P000594</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1930</lisID>
+          <gpoId>8003</gpoId>
+          <bioguideId>P000594</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2014-04-28</sponsorshipDate>
+        <firstName>Erik</firstName>
+      </item>
+      <item>
+        <lastName>Clarke</lastName>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>C001067</bioguideId>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2014-04-30</sponsorshipDate>
+        <firstName>Yvette</firstName>
+      </item>
+      <item>
+        <lastName>Brownley</lastName>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>B001285</bioguideId>
+        <district>26</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2106</lisID>
+          <gpoId />
+          <bioguideId>B001285</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2014-05-02</sponsorshipDate>
+        <firstName>Julia</firstName>
+      </item>
+      <item>
+        <lastName>Smith</lastName>
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <bioguideId>S001195</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2191</lisID>
+          <gpoId />
+          <bioguideId>S001195</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2014-06-10</sponsorshipDate>
+        <firstName>Jason</firstName>
+      </item>
+      <item>
+        <lastName>Perlmutter</lastName>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+        <bioguideId>P000593</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000593</bioguideId>
+          <gpoId>7865</gpoId>
+          <lisID>1835</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2014-07-10</sponsorshipDate>
+        <firstName>Ed</firstName>
+      </item>
+      <item>
+        <lastName>Kuster</lastName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <bioguideId>K000382</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2145</lisID>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2014-09-08</sponsorshipDate>
+        <firstName>Ann</firstName>
+      </item>
+      <item>
+        <lastName>TIBERI</lastName>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <bioguideId>T000462</bioguideId>
+        <district>12</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8102</gpoId>
+          <bioguideId>T000462</bioguideId>
+          <lisID>1664</lisID>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <firstName>PATRICK</firstName>
+      </item>
+      <item>
+        <lastName>Renacci</lastName>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <bioguideId>R000586</bioguideId>
+        <district>16</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8106</gpoId>
+          <lisID>2048</lisID>
+          <bioguideId>R000586</bioguideId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <firstName>James</firstName>
+      </item>
+      <item>
+        <lastName>Boustany</lastName>
+        <fullName>Rep. Boustany, Charles W., Jr. [R-LA-3]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <bioguideId>B001255</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001255</bioguideId>
+          <lisID>1787</lisID>
+          <gpoId>7965</gpoId>
+        </identifiers>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2014-11-19</sponsorshipDate>
+        <firstName>Charles</firstName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-05-24T07:01:35Z</createDate>
+    <introducedDate>2013-05-23</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-06-03</actionDate>
+      <text>Referred to the Subcommittee on Trade.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>GSP UPDATE Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>GSP Update for Production Diversification and Trade Enhancement Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>To make certain luggage and travel articles eligible for duty-free treatment under the Generalized System of Preferences, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>GSP UPDATE Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Tariffs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Foreign Trade and International Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:23:13Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Crenshaw, Ander [R-FL-4]</fullName>
+        <identifiers>
+          <gpoId>7876</gpoId>
+          <bioguideId>C001045</bioguideId>
+          <lisID>1643</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>ANDER</firstName>
+        <lastName>CRENSHAW</lastName>
+        <bioguideId>C001045</bioguideId>
+        <state>FL</state>
+        <district>4</district>
+      </item>
+    </sponsors>
+    <title>GSP UPDATE Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-05-30T20:30:37Z</lastSummaryUpdateDate>
+          <actionDate>2013-05-23</actionDate>
+          <text><![CDATA[<p>GSP Update for Production Diversification and Trade Enhancement Act or GSP UPDATE Act - Amends the Trade Act of 1974 to authorize the President to designate certain luggage and travel articles as eligible for duty-free treatment under the Generalized System of Preferences (GSP). </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-05-23T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>2139</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-05-23T13:05:10Z</date>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <subcommittees>
+            <item>
+              <name>Trade Subcommittee</name>
+              <systemCode>hswm04</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-06-03T15:17:40Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 74 (Thursday, May 23, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CRENSHAW:H.R. 2139.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the U.S. Constitution,commonly referred to as the Commerce Clause. The CommerceClause states that the Congress shall have power to regulateCommerce with foreign Nations, and among the several States,and with the Indian tribes. This bill changes U.S. trade[Page H2956]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

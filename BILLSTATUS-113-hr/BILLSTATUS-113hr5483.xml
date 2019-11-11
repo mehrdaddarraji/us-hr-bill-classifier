@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-09-19</actionDate>
+        <committee>
+          <systemCode>hsif03</systemCode>
+          <name>Energy and Power Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-09-16</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Energy and Commerce</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-09-16</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-09-16</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Armed Services</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-09-16</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-09-16</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-09-16</introducedDate>
+    <updateDate>2016-10-25T16:16:28Z</updateDate>
+    <createDate>2014-09-17T04:56:53Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-09-16T14:02:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-09-19T14:39:40Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif03</systemCode>
+              <name>Energy and Power Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-09-16T14:02:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>H001051</bioguideId>
+        <district>22</district>
+        <middleName>L.</middleName>
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <state>NY</state>
+        <fullName>Rep. Hanna, Richard L. [R-NY-22]</fullName>
+        <lastName>Hanna</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2044</lisID>
+          <gpoId>8085</gpoId>
+          <bioguideId>H001051</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>B001283</bioguideId>
+        <district>1</district>
+        <middleName />
+        <firstName>Jim</firstName>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <state>OK</state>
+        <fullName>Rep. Bridenstine, Jim [R-OK-1]</fullName>
+        <lastName>Bridenstine</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2155</lisID>
+          <bioguideId>B001283</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>A000369</bioguideId>
+        <district>2</district>
+        <middleName>E.</middleName>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <state>NV</state>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <lastName>Amodei</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2090</lisID>
+          <bioguideId>A000369</bioguideId>
+          <gpoId>8366</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>R000395</bioguideId>
+        <district>5</district>
+        <middleName />
+        <firstName>HAROLD</firstName>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <state>KY</state>
+        <fullName>Rep. Rogers, Harold [R-KY-5]</fullName>
+        <lastName>ROGERS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000395</bioguideId>
+          <lisID>977</lisID>
+          <gpoId>7957</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>C001095</bioguideId>
+        <district>4</district>
+        <middleName />
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <state>AR</state>
+        <fullName>Rep. Cotton, Tom [R-AR-4]</fullName>
+        <lastName>Cotton</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>R000578</bioguideId>
+        <district>8</district>
+        <middleName>G.</middleName>
+        <firstName>David</firstName>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <state>WA</state>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <lastName>Reichert</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1810</lisID>
+          <gpoId>8212</gpoId>
+          <bioguideId>R000578</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>L000571</bioguideId>
+        <district>0</district>
+        <middleName>M.</middleName>
+        <firstName>Cynthia</firstName>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <state>WY</state>
+        <fullName>Rep. Lummis, Cynthia M. [R-WY-At Large]</fullName>
+        <lastName>Lummis</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1960</lisID>
+          <bioguideId>L000571</bioguideId>
+          <gpoId>8225</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>P000602</bioguideId>
+        <district>4</district>
+        <middleName />
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <state>KS</state>
+        <fullName>Rep. Pompeo, Mike [R-KS-4]</fullName>
+        <lastName>Pompeo</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7952</gpoId>
+          <lisID>2022</lisID>
+          <bioguideId>P000602</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>P000588</bioguideId>
+        <district>2</district>
+        <middleName />
+        <firstName>Stevan</firstName>
+        <sponsorshipDate>2014-09-17</sponsorshipDate>
+        <state>NM</state>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <lastName>Pearce</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1738</lisID>
+          <gpoId>8057</gpoId>
+          <bioguideId>P000588</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>C001047</bioguideId>
+        <district>2</district>
+        <middleName>MOORE</middleName>
+        <firstName>SHELLEY</firstName>
+        <sponsorshipDate>2014-09-17</sponsorshipDate>
+        <state>WV</state>
+        <fullName>Rep. Capito, Shelley Moore [R-WV-2]</fullName>
+        <lastName>CAPITO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>K000210</bioguideId>
+        <district>2</district>
+        <middleName>T.</middleName>
+        <firstName>PETER</firstName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <state>NY</state>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <lastName>KING</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>M001187</bioguideId>
+        <district>11</district>
+        <middleName />
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <state>NC</state>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <lastName>Meadows</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>R000011</bioguideId>
+        <district>3</district>
+        <middleName>J.</middleName>
+        <firstName>NICK</firstName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <state>WV</state>
+        <fullName>Rep. Rahall, Nick J., II [D-WV-3]</fullName>
+        <lastName>RAHALL</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>940</lisID>
+          <gpoId>8224</gpoId>
+          <bioguideId>R000011</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>B001280</bioguideId>
+        <district>11</district>
+        <middleName>L.</middleName>
+        <firstName>Kerry</firstName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <state>MI</state>
+        <fullName>Rep. Bentivolio, Kerry L. [R-MI-11]</fullName>
+        <lastName>Bentivolio</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2135</lisID>
+          <bioguideId>B001280</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>S001172</bioguideId>
+        <district>3</district>
+        <middleName />
+        <firstName>Adrian</firstName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <state>NE</state>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <lastName>Smith</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1860</lisID>
+          <gpoId>8040</gpoId>
+          <bioguideId>S001172</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>H001057</bioguideId>
+        <district>1</district>
+        <middleName />
+        <firstName>Tim</firstName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <state>KS</state>
+        <fullName>Rep. Huelskamp, Tim [R-KS-1]</fullName>
+        <lastName>Huelskamp</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2020</lisID>
+          <bioguideId>H001057</bioguideId>
+          <gpoId>7949</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>B001282</bioguideId>
+        <district>6</district>
+        <middleName />
+        <firstName>Andy</firstName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <state>KY</state>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <lastName>Barr</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2131</lisID>
+          <bioguideId>B001282</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>B001269</bioguideId>
+        <district>11</district>
+        <middleName />
+        <firstName>Lou</firstName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <state>PA</state>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <lastName>Barletta</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2054</lisID>
+          <gpoId>8129</gpoId>
+          <bioguideId>B001269</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Firefighter Equipment Protection Act of 2014</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Firefighter Equipment Protection Act of 2014</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend title 10, United States Code, to continue the national security exemption from emissions regulations when an excess Department of Defense vehicle covered by the exemption is transferred to a firefighting agency in a State or to any other State agency.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Firefighter Equipment Protection Act of 2014</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. GRIFFIN of Arkansas:H.R. 5483.Congress has the power to enact this legislation pursuantto the following:Article 1, Clause 1, Section 8 of the United StatesConstitution which reads: ``The Congress shall have Power tolay and collect Taxes, Duties, Imposts, and Excises, to paythe Debts, and provide for the common Defense and GeneralWelfare of the United States; but all Duties and Imposts andExcises shall be uniform throughout the United States.''[Page H7618]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Firefighter Equipment Protection Act of 2014 - Codifies a national security exemption from emissions regulations for excess personal property of the Department of Defense (DOD) that is transferred under specified DOD property transfer programs to a firefighting agency in a state or to another state agency.</p>]]></text>
+          <actionDate>2014-09-16</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2014-09-16T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-10-08T15:48:31Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <actionDate>2014-09-19</actionDate>
+    </latestAction>
+    <billNumber>5483</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>2</district>
+        <firstName>Tim</firstName>
+        <party>R</party>
+        <fullName>Rep. Griffin, Tim [R-AR-2]</fullName>
+        <bioguideId>G000567</bioguideId>
+        <identifiers>
+          <lisID>1990</lisID>
+          <gpoId>7794</gpoId>
+          <bioguideId>G000567</bioguideId>
+        </identifiers>
+        <lastName>Griffin</lastName>
+        <middleName />
+        <state>AR</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

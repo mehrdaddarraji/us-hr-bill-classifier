@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2013-02-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2013-02-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2013-02-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Education Tax Fraud Prevention Act</latestTitle>
+        <number>2702</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2014-07-30</actionDate>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <lastName>Schock</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Aaron</firstName>
+        <state>IL</state>
+        <identifiers>
+          <lisID>1920</lisID>
+          <bioguideId>S001179</bioguideId>
+          <gpoId>7938</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001179</bioguideId>
+        <middleName />
+        <party>R</party>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <district>18</district>
+        <fullName>Rep. Schock, Aaron [R-IL-18]</fullName>
+      </item>
+      <item>
+        <lastName>Westmoreland</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Lynn</firstName>
+        <state>GA</state>
+        <identifiers>
+          <gpoId>7900</gpoId>
+          <lisID>1779</lisID>
+          <bioguideId>W000796</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000796</bioguideId>
+        <middleName>A.</middleName>
+        <party>R</party>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <district>3</district>
+        <fullName>Rep. Westmoreland, Lynn A. [R-GA-3]</fullName>
+      </item>
+      <item>
+        <lastName>Roe</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000582</bioguideId>
+        <middleName>P.</middleName>
+        <party>R</party>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <district>1</district>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-02-28T07:00:51Z</createDate>
+    <introducedDate>2013-02-27</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-02-27</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Internal Revenue Code of 1986 to require the social security number of the student and the employer identification number of the educational institution for purposes of education tax credits.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To amend the Internal Revenue Code of 1986 to require the social security number of the student and the employer identification number of the educational institution for purposes of education tax credits.</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:05:54Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <identifiers>
+          <bioguideId>B001273</bioguideId>
+          <lisID>2063</lisID>
+          <gpoId>8153</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Diane</firstName>
+        <lastName>Black</lastName>
+        <bioguideId>B001273</bioguideId>
+        <state>TN</state>
+        <district>6</district>
+      </item>
+    </sponsors>
+    <title>To amend the Internal Revenue Code of 1986 to require the social security number of the student and the employer identification number of the educational institution for purposes of education tax credits.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Amends the Internal Revenue Code to require: (1) individuals who claim a tax credit for qualified tuition and related expenses under the Hope Scholarship tax credit or the Lifetime Learning tax credit&nbsp;to include their social security numbers on their tax returns, and (2) the educational institutions&nbsp;of such individuals&nbsp;to provide their employer identification numbers.</p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-03-23T14:56:54Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2013-02-27</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-02-27T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>856</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-27T15:02:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 28 (Wednesday, February 27, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BLACK:H.R. 856.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1The Congress shall have the Power to lay and collect Taxes,Duties, Imposts and Excises, to pay the Debts and provide forthe common Defense and general Welfare of the United States;but all Duties, Imposts and Excises shall be uniformthroughout the United States.[Page H702]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-01-18</actionDate>
+        <committee>
+          <name>Environment and the Economy Subcommittee</name>
+          <systemCode>hsif18</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment and the Economy.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-01-15</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-01-15</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-01-15</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>1</district>
+        <fullName>Rep. Braley, Bruce L. [D-IA-1]</fullName>
+        <lastName>Braley</lastName>
+        <middleName>L.</middleName>
+        <state>IA</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001259</bioguideId>
+          <gpoId>7914</gpoId>
+          <lisID>1845</lisID>
+        </identifiers>
+        <firstName>Bruce</firstName>
+        <bioguideId>B001259</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. BRALEY of Iowa:H.R. 275.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clause 18 of the UnitedStates Constitution.[Page H172]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>275</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T15:57:46Z</updateDate>
+    <laws />
+    <createDate>2013-01-16T07:02:11Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-15T15:00:05Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsif18</systemCode>
+              <name>Environment and the Economy Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-01-18T21:26:14Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>End Radon in Schools Act - Directs the Administrator of the Environmental Protection Agency (EPA) to review, update, revise, and publish the Radon Measurements In Schools Guidelines with current information and guidance on radon testing in public elementary and secondary schools.</p> <p>Directs the Administrator, subject to the availability of appropriations, to award grants to states to: (1) follow the updated Guidelines, (2) test radon levels in their public elementary and secondary schools, and (3) provide funds to their local educational agencies (LEAs) to mitigate and re-test radon levels in schools found to have radon levels that the updated Guidelines deem unsafe.</p> <p>Requires the Administrator to conduct such mitigation directly or by contract if an LEA does not certify to its state that it will use grant funds to mitigate unsafe radon levels at its schools.</p> <p>Gives highest grant priority to states whose total landmass lies in Radon Zone 1 and second highest priority to states with at least 50% of their landmass in Radon Zone 1. Defines &quot;Radon Zone 1&quot; as areas that have a predicted average indoor radon screening level greater than four picocuries per liter.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-01-18T22:41:49Z</lastSummaryUpdateDate>
+          <actionDate>2013-01-15</actionDate>
+          <updateDate>2013-01-15T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Loebsack</lastName>
+        <middleName />
+        <sponsorshipDate>2013-04-09</sponsorshipDate>
+        <district>2</district>
+        <firstName>David</firstName>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000565</bioguideId>
+        <state>IA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2127</lisID>
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bustos</lastName>
+        <middleName />
+        <sponsorshipDate>2013-04-09</sponsorshipDate>
+        <district>17</district>
+        <firstName>Cheri</firstName>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001286</bioguideId>
+        <state>IL</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>666</lisID>
+          <gpoId>7917</gpoId>
+          <bioguideId>L000111</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LATHAM</lastName>
+        <middleName />
+        <sponsorshipDate>2013-07-10</sponsorshipDate>
+        <district>3</district>
+        <firstName>TOM</firstName>
+        <fullName>Rep. Latham, Tom [R-IA-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000111</bioguideId>
+        <state>IA</state>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Radiation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>End Radon in Schools Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To establish a grant program to test and mitigate radon levels in public schools, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>End Radon in Schools Act</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>End Radon in Schools Act</title>
+    <billType>HR</billType>
+    <introducedDate>2013-01-15</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-01-18</actionDate>
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

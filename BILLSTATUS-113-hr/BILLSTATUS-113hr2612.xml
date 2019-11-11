@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000147</bioguideId>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+        <firstName>ELEANOR</firstName>
+        <middleName>HOLMES</middleName>
+        <sponsorshipDate>2013-07-08</sponsorshipDate>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+      </item>
+      <item>
+        <fullName>Rep. Shuster, Bill [R-PA-9]</fullName>
+        <lastName>Shuster</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001154</bioguideId>
+        <identifiers>
+          <gpoId>8127</gpoId>
+          <lisID>1681</lisID>
+          <bioguideId>S001154</bioguideId>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <middleName />
+        <sponsorshipDate>2013-07-08</sponsorshipDate>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+      </item>
+      <item>
+        <fullName>Rep. Rahall, Nick J., II [D-WV-3]</fullName>
+        <lastName>RAHALL</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000011</bioguideId>
+        <identifiers>
+          <gpoId>8224</gpoId>
+          <lisID>940</lisID>
+          <bioguideId>R000011</bioguideId>
+        </identifiers>
+        <firstName>NICK</firstName>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2013-07-08</sponsorshipDate>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>WV</state>
+      </item>
+      <item>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <lastName>Williams</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000816</bioguideId>
+        <identifiers>
+          <lisID>2165</lisID>
+          <bioguideId>W000816</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Roger</firstName>
+        <middleName />
+        <sponsorshipDate>2014-01-31</sponsorshipDate>
+        <district>25</district>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Placed on the Union Calendar, Calendar No. 493.</text>
+        <actionCode>H12410</actionCode>
+        <actionDate>2014-12-11</actionDate>
+        <links />
+        <type>Calendars</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-656.</text>
+        <actionCode>H12200</actionCode>
+        <actionDate>2014-12-11</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/656</url>
+            <name>H. Rept. 113-656</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-656.</text>
+        <actionCode>5000</actionCode>
+        <actionDate>2014-12-11</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/656</url>
+            <name>H. Rept. 113-656</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-10</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-10</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-10</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-09</actionDate>
+        <committee>
+          <systemCode>hspw13</systemCode>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-07-08</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2013-07-08</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2013-07-08</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>3</placeholderTextForH>
+        <reportedToHouse>1</reportedToHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <billType>HR</billType>
+    <title>Public Buildings Savings and Reform Act of 2013</title>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-07-08</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-08-27T17:35:01Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Public Buildings Savings and Reform Act of 2013 - Sets forth new requirements for the purchase or lease of federal office space, for limiting rental costs for such space, and for suspending the construction of new courthouses. Requires that the acquisition in FY2014-2017 of new federal office space through lease or purchase be offset by the elimination of at least a corresponding amount of space. Prohibits the Administrator of the General Services Administration (GSA) from increasing the size or amount of its real property inventory as compared to the FY2012 real property baseline, except for space offsets specifically identified or for emergency or national security purposes. </p> <p>Requires the Administrator to include in the prospectus submitted to Congress for a proposed federal building a justification for such space.</p> <p>Requires the Inspector General of GSA to review the Public Buildings Service (PBS) internship program, recent graduate program, and similar programs and report on costs associated with each program and related matters. </p> <p>Suspends the payment of any bonus, performance award, or similar expenditure for Senior Executive Service (SES) employees until the Administrator reports to Congress on the PBS system for awarding bonuses and performance awards. </p> <p>Requires the Administrator to report on: (1) leases of federal office space, (2) conferences to be hosted by PBS, (3) PBS administrative expenses, (4) utilization rates of owned and leased public buildings, (5) any increase or decrease of 5% or more in the cost of public projects, and (6) PBS acquisition activities that conserve existing resources and reduce costs.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-07-08T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDate>2014-12-11</actionDate>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <versionCode>79</versionCode>
+          <lastSummaryUpdateDate>2015-01-24T16:36:16Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</b></p> <p>Public Buildings Savings and Reform Act of 2013 - Sets forth new requirements for the purchase or lease of federal office space, for limiting rental costs for such space, and for suspending the construction of new courthouses. </p> <p>(Sec. 2) Requires any prospectus that proposes new federal office space in FY2014-FY2017, whether leased or owned, to contain information outlining the details of the elimination of at least a corresponding amount of space. Prohibits the Administrator of the General Services Administration (GSA) from increasing the size or amount of GSA's real property inventory as compared to the FY2012 real property baseline, except for space offsets specifically identified or for emergency or national security purposes determined by the President. </p> <p>(Sec. 3) Prohibits the Administrator from leasing space at an amount below the average annual rental rate thresholds that exceeds the maximum rental rate established for the respective geographical location, unless notification is given to the House Committee on Transportation and Infrastructure and the Senate Committee on Environment and Public Works (Committees) in writing at least 10 days before the execution of such lease. Requires the Administrator, not less than 30 days before entering into any lease-construction agreement, to notify the Committees of the intent to enter into such an agreement. </p> <p>(Sec. 4) Requires the Administrator to submit a list to the Committees of all leases, including lease-construction agreements, entered into by GSA for the previous fiscal year, with information on the size of the space, location, and annual rental rates. </p> <p>(Sec. 5) Requires the Administrator to include in the prospectus submitted to Congress for a proposed federal building a justification for the space requested. </p> <p>(Sec. 6) Prohibits the Administrator from beginning construction of any new courthouse if: (1) construction has not begun on or before the date of enactment of this Act, and (2) the design and construction of the new courthouse fails to comply with specified courtroom sharing requirements.</p> <p>(Sec. 7) Directs the Inspector General of GSA to review the the Public Buildings Service's (PBS's) internship program, recent graduate program, and any similar program and report to the Committees on the costs associated with each program, the value added to PBS by the programs, recommendations on improving the programs, and compliance with federal hiring laws, practices, and standards. </p> <p>(Sec. 8) Prohibits funds in the Federal Buildings Fund from being made available for bonuses, performance awards, or similar expenditures for a member of the Senior Executive Service until the Administrator reports the findings and conclusions of a review of PBS's system of awarding bonuses and performance awards.</p> <p>Requires the Administrator to submit to the Committees a report on conferences proposed to be hosted by PBS for the subsequent fiscal year, including the purpose of, and a detailed budget for, each conference. </p> <p>(Sec. 9) Requires the Administrator to submit a proposed budget for PBS administrative expenses for the following fiscal year. Prohibits amounts from the Federal Buildings Fund from being used for PBS administrative expenses unless a specific amount is authorized for a given fiscal year. </p> <p>(Sec. 10) Terminates resolution approvals for projects adopted by the Committees unless a lease is executed or a construction, alteration, repair, design, or acquisition project is initiated with five years of such approvals. </p> <p>(Sec. 11) Limits the authority of executive agencies to lease space for a public building. Requires the Administrator to comply with requirements of the Small Business Act when using commercial leasing services.</p> <p>Authorizes the Administrator to delegate authority to manage the procurement of leases to an appropriate executive agency. Requires the Administrator to report to the Committees on the effectiveness of such delegation authority.</p> <p>(Sec. 12) Requires the Administrator: (1) to develop, implement, and report on a method of measuring actual utilization rates of GSA's owned and leased inventory of public buildings space and a plan for incorporating such utilization rates into performance metrics for owned and leased buildings by region; (2) with tenant agencies, to certify annually the actual number of personnel housed in each building in the GSA inventory; (3) to maintain a database of utilization rates and metrics; and (4) to submit to the Committees all agency Real Property Cost Savings and Innovation Plans submitted pursuant to the Management Procedures Memorandum 2013-02 of the Office of Management and Budget (OMB). </p> <p>(Sec. 13) Requires the Administrator to notify the Committees of: (1) any increase of more than 5% of an estimated maximum cost, or (2) any increase or decrease of 5% or more in the scope or size of a project. Prohibits any increase or decrease of more than 10% in the scope or size of a project unless an amended prospectus is submitted and approved. </p> <p>(Sec. 14) Requires the Administrator to report to the Committees on how PBS, through its acquisition activities, conserves existing urban, suburban, and rural resources, encourages the development and redevelopment of urban, suburban, and rural areas, and reduces costs to PBS and improves the social, economic, environmental, and cultural conditions of the communities in such areas. </p>]]></text>
+          <name>Reported to House without amendment</name>
+          <updateDate>2014-12-11T18:45:43Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. BARLETTA:H.R. 2612.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution,specifically Clause 1 (relating to providing for the generalwelfare of the United States) and Clause 18 (relating to thepower to make all laws necessary and proper for carrying outthe powers vested in Congress) and clause 17 (relating toauthority over the district as the seat of government), andArticle IV, Section 3, Clause 2 (relating to the power ofCongress to dispose of and make all needful rules andregulations respecting the territory or other propertybelonging to the United States).[Page H4213]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Building construction</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>General Services Administration</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>Urban and suburban affairs and development</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>2612</billNumber>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00493</calendar>
+      </item>
+    </calendarNumbers>
+    <cboCostEstimates>
+      <item>
+        <url>http://www.cbo.gov/publication/44620</url>
+        <title>H.R. 2612, Public Buildings Savings and Reform Act of 2013</title>
+        <pubDate>2013-09-25T20:40:00Z</pubDate>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/44620</url>
+        <title>H.R. 2612, Public Buildings Savings and Reform Act of 2013</title>
+        <pubDate>2013-09-25T20:40:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <titles>
+      <item>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Reported to House</titleType>
+        <title>Public Buildings Savings and Reform Act of 2013</title>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Public Buildings Savings and Reform Act of 2013</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 40, United States Code, to improve the functioning and management of the Public Buildings Service.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Public Buildings Savings and Reform Act of 2013</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <middleName />
+        <lastName>Barletta</lastName>
+        <firstName>Lou</firstName>
+        <byRequestType />
+        <bioguideId>B001269</bioguideId>
+        <identifiers>
+          <bioguideId>B001269</bioguideId>
+          <lisID>2054</lisID>
+          <gpoId>8129</gpoId>
+        </identifiers>
+        <party>R</party>
+        <district>11</district>
+        <state>PA</state>
+      </item>
+    </sponsors>
+    <updateDate>2016-10-25T16:05:31Z</updateDate>
+    <relatedBills />
+    <notes />
+    <amendments />
+    <createDate>2013-07-09T07:01:26Z</createDate>
+    <introducedDate>2013-07-08</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+              <systemCode>hspw13</systemCode>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2013-07-10T18:03:42Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-07-09T18:03:08Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2014-12-11T14:58:39Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2013-07-10T15:16:17Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2013-07-08T18:00:53Z</date>
+            </item>
+          </activities>
+          <systemCode>hspw00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 113-656</citation>
+      </committeeReport>
+    </committeeReports>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2014-12-11</actionDate>
+      <links />
+      <text>Placed on the Union Calendar, Calendar No. 493.</text>
+    </latestAction>
+    <congress>113</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

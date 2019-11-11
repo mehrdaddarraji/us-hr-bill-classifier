@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2014-07-30</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2014-09-11</sponsorshipDate>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>0</district>
+        <identifiers>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <state>VT</state>
+        <firstName>Peter</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000800</bioguideId>
+        <lastName>Welch</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+      <links />
+      <actionDate>2014-11-17</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:15:40Z</updateDate>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-11-17</actionDate>
+        <committee>
+          <name>Workforce Protections Subcommittee</name>
+          <systemCode>hsed10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Workforce Protections.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-11-17</actionDate>
+        <committee>
+          <name>Early Childhood, Elementary, and Secondary Education Subcommittee</name>
+          <systemCode>hsed14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-07-30</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2014-07-30</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2014-07-30</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2014-07-30T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Investing for Tomorrow's Schools Act of 2014 - Authorizes the Secretary of the Treasury to enter into cooperative agreements with states to establish state and multistate infrastructure banks that make loans to local educational agencies, public libraries, and charter schools or their developers to construct or renovate public elementary or secondary schools and public libraries. Requires loans also to community learning centers to connect and improve broadband services.</p> <p>Grants congressional consent to states for interstate compacts to establish multistate infrastructure banks.</p> <p>Directs the Secretary to make grants to such banks to provide initial capital for such loans.</p> <p>Requires states to contribute from nonfederal sources at least 25% of the amount of each federal capitalization grant made to the state and contributed to the bank.</p> <p>Lists types of projects eligible for such bank loans.</p> <p>Requires borrowers to use, to the maximum extent practicable, green construction or renovation practices that are consistent with: (1) Leadership in Energy and Environmental Design (LEED) green building rating standards, (2) Energy Star standards, (3) Collaborative for High Performance Schools (CHPS) criteria, (4) Green Building Initiative environmental design and rating standards (Green Globes), or (5) equivalent standards adopted by the entities that have jurisdiction over them.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2014-07-30</actionDate>
+          <lastSummaryUpdateDate>2014-10-06T21:29:09Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Building construction</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Educational technology and distance education</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Environmental technology</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Labor standards</name>
+          </item>
+          <item>
+            <name>Libraries and archives</name>
+          </item>
+          <item>
+            <name>Noise pollution</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Investing for Tomorrow's Schools Act of 2014</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Huffman</lastName>
+        <bioguideId>H001068</bioguideId>
+        <middleName />
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <identifiers>
+          <lisID>2101</lisID>
+          <bioguideId>H001068</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <firstName>Jared</firstName>
+        <party>D</party>
+        <state>CA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-07-31T05:20:45Z</createDate>
+    <billNumber>5259</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Workforce Protections Subcommittee</name>
+              <systemCode>hsed10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-11-17T22:07:06Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Early Childhood, Elementary, and Secondary Education Subcommittee</name>
+              <systemCode>hsed14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-11-17T21:26:07Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Education and the Workforce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-07-30T14:00:48Z</date>
+            </item>
+          </activities>
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. HUFFMAN:H.R. 5259.Congress has the power to enact this legislation pursuantto the following:clause 1 of section 8 of article I of the Constitution[Page H7127]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Investing for Tomorrow's Schools Act of 2014</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To establish State infrastructure banks for education.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Investing for Tomorrow's Schools Act of 2014</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

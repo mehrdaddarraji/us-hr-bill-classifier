@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-01-31</actionDate>
+        <committee>
+          <name>Federal Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-01-31</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-01-04</actionDate>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-01-04</actionDate>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-01-04</actionDate>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-01-04</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-01-04</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Christensen, Donna M. [D-VI-At Large]</fullName>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2013-02-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>VI</state>
+        <bioguideId>C000380</bioguideId>
+        <firstName>DONNA</firstName>
+        <identifiers>
+          <lisID>1474</lisID>
+          <bioguideId>C000380</bioguideId>
+          <gpoId>8203</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <lastName>CHRISTENSEN</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Hanna, Richard L. [R-NY-22]</fullName>
+        <party>R</party>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2013-02-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>H001051</bioguideId>
+        <firstName>Richard</firstName>
+        <identifiers>
+          <bioguideId>H001051</bioguideId>
+          <lisID>2044</lisID>
+          <gpoId>8085</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>22</district>
+        <lastName>Hanna</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Young, C. W. Bill [R-FL-13]</fullName>
+        <party>R</party>
+        <middleName>Bill</middleName>
+        <sponsorshipDate>2013-02-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <bioguideId>Y000031</bioguideId>
+        <firstName>C. W.</firstName>
+        <identifiers>
+          <bioguideId>Y000031</bioguideId>
+          <gpoId>7882</gpoId>
+          <lisID>1255</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+        <lastName>Young</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Runyan, Jon [R-NJ-3]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-02-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <bioguideId>R000594</bioguideId>
+        <firstName>Jon</firstName>
+        <identifiers>
+          <bioguideId>R000594</bioguideId>
+          <lisID>2039</lisID>
+          <gpoId>8045</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <lastName>Runyan</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Grimm, Michael G. [R-NY-11]</fullName>
+        <party>R</party>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>G000569</bioguideId>
+        <firstName>Michael</firstName>
+        <identifiers>
+          <lisID>2041</lisID>
+          <bioguideId>G000569</bioguideId>
+          <gpoId>8074</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+        <lastName>Grimm</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <party>R</party>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2013-02-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <bioguideId>L000566</bioguideId>
+        <firstName>Robert</firstName>
+        <identifiers>
+          <bioguideId>L000566</bioguideId>
+          <gpoId>8095</gpoId>
+          <lisID>1885</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <lastName>Latta</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <party>R</party>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2013-02-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <bioguideId>W000804</bioguideId>
+        <firstName>Robert</firstName>
+        <identifiers>
+          <lisID>1886</lisID>
+          <bioguideId>W000804</bioguideId>
+          <gpoId>8192</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <lastName>Wittman</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Benishek, Dan [R-MI-1]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-02-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <bioguideId>B001271</bioguideId>
+        <firstName>Dan</firstName>
+        <identifiers>
+          <lisID>2027</lisID>
+          <gpoId>7986</gpoId>
+          <bioguideId>B001271</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <lastName>Benishek</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2013-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <bioguideId>J000255</bioguideId>
+        <firstName>WALTER</firstName>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <lastName>JONES</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-02-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <bioguideId>M001144</bioguideId>
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <lisID>1685</lisID>
+          <bioguideId>M001144</bioguideId>
+          <gpoId>7873</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <lastName>Miller</lastName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-01-05T07:00:46Z</createDate>
+    <introducedDate>2013-01-04</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-01-31</actionDate>
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Man in the Sea Memorial Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To authorize the placement at the former Navy Dive School at the Washington Navy Yard of a memorial to honor the members of the Armed Forces who have served as divers and whose service in defense of the United States has been carried out beneath the waters of the world.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Man in the Sea Memorial Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>District of Columbia</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Monuments and memorials</name>
+          </item>
+          <item>
+            <name>Veterans' organizations and recognition</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T15:58:34Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <identifiers>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+          <gpoId>7881</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Gus</firstName>
+        <lastName>Bilirakis</lastName>
+        <bioguideId>B001257</bioguideId>
+        <state>FL</state>
+        <district>12</district>
+      </item>
+    </sponsors>
+    <title>Man in the Sea Memorial Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-01-04</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2013-01-25T17:52:06Z</lastSummaryUpdateDate>
+          <updateDate>2013-01-04T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Man in the Sea Memorial Act - Authorizes the Secretary of the Navy to permit a third party to establish and maintain, at a suitable location at the former Navy Dive School at the Washington Navy Yard (District of Columbia) a memorial to honor members of the Armed Forces who have served as divers and whose service in defense of the United States has been carried out beneath the waters of the world.</p> <p>Prohibits the use of federal funds for designing, procuring, preparing, installing, or maintaining the memorial.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>165</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-01-04T15:07:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <date>2013-01-31T21:52:52Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Federal Lands Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Natural Resources Committee</name>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2013-01-04T15:07:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsas00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <date>2013-01-31T18:49:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Armed Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 2 (Friday, January 4, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BILIRAKIS:H.R. 165.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to Article I, Section 8 ofthe United States Constitution (Clauses 12, 13, 14, 16, and17) which grants Congress the power to raise and support anArmy; to provide and maintain a Navy; to make rules for thegovernment and regulation of the land and naval forces; toprovide for organizing, arming, and disciplining the militia;and to exercise authority over all places purchased for theerection of forts, magazines, dock-yards, and other needfulbuildings.[Page H53]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

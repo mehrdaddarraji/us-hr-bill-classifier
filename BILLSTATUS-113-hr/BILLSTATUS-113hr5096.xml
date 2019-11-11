@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-09-02</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2014-07-14</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-07-14</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-07-14</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-07-14</introducedDate>
+    <updateDate>2016-10-25T16:15:05Z</updateDate>
+    <createDate>2014-07-15T05:05:24Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-09-02T14:27:09Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-07-14T16:01:45Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>CEJA</title>
+    <titles>
+      <item>
+        <title>CEJA</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Civilian Extraterritorial Jurisdiction Act of 2014</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend title 18, United States Code, to clarify and expand Federal criminal jurisdiction over Federal contractors and employees outside the United States, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>CEJA</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. PRICE of North Carolina:H.R. 5096.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clauses 1 (``[to] provide for thecommon Defense and general Welfare of the United States'')and 10 (``[t]o define and punish. . . Offenses against theLaw of Nations'').However, the Supreme Court has held that Congress'sauthority to legislate with respect to matters outside U.S.boundaries is based on national sovereignty in foreignaffairs and, consequently, is not limited by the enumeratedpowers delegated to Congress. For example, in United Statesv. Curtiss-Wright Export Corp. (1936), the Supreme Courtruled that the ``broad statement that the federal governmentcan exercise no powers except those specifically enumeratedin the Constitution, and such implied powers as are necessaryand proper to carry into effect the enumerated powers, iscategorically true only in respect of our internal affairs.''On March 30, 2011, in United States v. Brehm, the UnitedStates District Court for the Eastern District of Virginiaupheld the constitutionality of the Military ExtraterritorialJurisdiction Act (MEJA, on which the current legislation ismodeled), on this basis.[Page H6216]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2014-09-16T19:57:32Z</lastSummaryUpdateDate>
+          <actionDate>2014-07-14</actionDate>
+          <text><![CDATA[<p>Civilian Extraterritorial Jurisdiction Act of 2014 or the CEJA - Amends the federal criminal code to grant jurisdiction over and impose penalties on federal contractors and employees who commit certain crimes outside of the United States while employed by or accompanying any agency of the United States other than the Department of Defense (DOD) or while so employed and stationed or deployed in a country outside of the United States pursuant to a treaty or executive agreement in furtherance of a border security initiative with that country. Sets forth the crimes under federal law that are covered by this Act. </p> <p>Provides for an optional venue for offenses under this Act involving federal employees and contractors overseas in the district in which is headquartered the U.S. agency that: (1) employs the offender, or any one or two or more joint offenders; or (2) the offender is accompanying, or that any one or two or more joint offenders is accompanying.</p> <p>Requires the statute of limitations for an offense under this Act to be suspended for the period during which the alleged offender is outside the United States or is a fugitive from justice.</p> <p>Directs the Attorney General to: (1) assign personnel and resources through task forces to investigate allegations of criminal offenses by federal contractors and employees overseas, and (2) report to Congress annually on the number of prosecutions and actions taken. Grants the Attorney General principal authority for the enforcement of this Act.</p> <p>Makes this Act inapplicable to the authorized intelligence activities of the U.S. government.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2014-07-14T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>2598</number>
+        <latestAction>
+          <actionDate>2014-07-14</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S4456-4458)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>CEJA</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Jurisdiction and venue</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <actionDate>2014-09-02</actionDate>
+    </latestAction>
+    <billNumber>5096</billNumber>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>4</district>
+        <firstName>DAVID</firstName>
+        <party>D</party>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <bioguideId>P000523</bioguideId>
+        <identifiers>
+          <lisID>930</lisID>
+          <gpoId>8027</gpoId>
+          <bioguideId>P000523</bioguideId>
+        </identifiers>
+        <lastName>PRICE</lastName>
+        <middleName>E.</middleName>
+        <state>NC</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

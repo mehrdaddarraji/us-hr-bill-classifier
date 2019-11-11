@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-05-30</actionDate>
+        <committee>
+          <name>Energy and Power Subcommittee</name>
+          <systemCode>hsif03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to House Energy and Commerce</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2014-05-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2014-05-28</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to House Ways and Means</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2014-05-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <text>Sponsor introductory remarks on measure. (CR E848)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2014-05-28</actionDate>
+        <actionCode>B00100</actionCode>
+        <links>
+          <link>
+            <name>E848</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/extensions-of-remarks-section/page/E848</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2014-05-28</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2014-05-28</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-05-28</introducedDate>
+    <updateDate>2016-10-25T16:13:39Z</updateDate>
+    <createDate>2014-05-29T07:02:47Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2014-05-28T16:01:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsif03</systemCode>
+              <activities>
+                <item>
+                  <date>2014-05-30T17:51:48Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Energy and Power Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2014-05-28T16:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Managed Carbon Price Act of 2014</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Managed Carbon Price Act of 2014</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to reduce greenhouse gas emissions by requiring a Federal emission permit for the sale or use of covered substances and to return funds to the American people.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Managed Carbon Price Act of 2014</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. McDERMOTT:H.R. 4754.Congress has the power to enact this legislation pursuantto the following:Clause 1 of Section 8 of Article 1 of the United StatesConstitution____________________[Page H4910]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2014-07-17T22:16:00Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Managed Carbon Price Act of 2014 - Amends the Internal Revenue Code to require covered persons (i.e., U.S. coal producers, oil refinery operators, first sellers of natural gas, and producers of other greenhouse gas [GHG] emission substances and importers of any GHG emission substance) to purchase a federal emission permit from the Secretary of the Treasury for the sale, combustion, or other use of such a substance. Exempts from such requirement use of a GHG emission substance: (1) as material in the production of another article by such person, or (2) for noncombustion agricultural purposes.</p> <p>Requires the Secretary to impose a GHG emission permit equivalency fee on imports of carbon intensive goods.</p> <p>Requires federal emission permits to be: (1) denominated in one-quarter carbon dioxide equivalents, and (2) purchased within 14 calendar days before or after a GHG emission substance is produced or entered into the United States. </p> <p>Requires the Secretary to: (1) establish a price for obtaining a permit for a year based on a determination of the dollar amount necessary to meet specified emissions reductions targets, (2) publish a five-year price schedule for permits by January 1, 2016, for each of the five years from 2017 to 2021, and (3) publish a 10-year schedule of the minimum and maximum prices for permits by January 1, 2023, and every 10 years thereafter. Sets minimum prices. Authorizes the Secretary to reduce permit prices if target reductions are being exceeded and to increase such prices if target reductions are not being met. </p> <p>Establishes emission reduction targets for 2015 through 2059 decreasing from 100% to 20% of the carbon dioxide equivalents emitted in the United States in 2005. </p> <p>Requires the Secretary to report annually on: (1) the extent to which such limitations are being achieved, (2) GHG emission permits sold and their impact on GHG emissions, and (3) worldwide GHG emissions in relation to 2005 emissions.</p> <p>Defines a &quot;carbon dioxide equivalent&quot; as the quantity of a GHG emission substance that makes the same contribution to global warming as one metric ton of carbon dioxide. Requires the Administrator to publish and update a schedule listing such quantity for each GHG emission substance. </p> <p>Requires: (1) repayment of permit fees to specified permittees that use GHG emission substances in a manner that will make a negligible or no contribution to global warming, and (2) payment of the permit equivalency fees to exporters of carbon-intensive goods.</p> <p>Imposes a tax on covered persons who fail to obtain a required permit.</p> <p>Establishes the Energy and Economic Security Trust Fund into which revenue raised from permit sales shall be deposited. Requires the Fund to be used to pay monthly dividends to taxpayers and for deficit reduction.</p>]]></text>
+          <updateDate>2014-05-28T04:00:00Z</updateDate>
+          <actionDate>2014-05-28</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>Coal</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Pollution liability</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <actionDate>2014-05-30</actionDate>
+    </latestAction>
+    <billNumber>4754</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>7</district>
+        <firstName>JIM</firstName>
+        <party>D</party>
+        <fullName>Rep. McDermott, Jim [D-WA-7]</fullName>
+        <bioguideId>M000404</bioguideId>
+        <identifiers>
+          <bioguideId>M000404</bioguideId>
+          <gpoId>8211</gpoId>
+          <lisID>766</lisID>
+        </identifiers>
+        <lastName>MCDERMOTT</lastName>
+        <middleName />
+        <state>WA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

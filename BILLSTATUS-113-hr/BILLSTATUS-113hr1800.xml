@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2013-04-26</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2013-11-14T14:37:51Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-26T14:01:15Z</date>
+            </item>
+          </activities>
+          <systemCode>hsba00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsba16</systemCode>
+              <name>Capital Markets and Government Sponsored Enterprises Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2013-10-23T16:51:20Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestAction>
+          <actionDate>2013-10-23</actionDate>
+          <text>Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.</text>
+        </latestAction>
+        <number>31</number>
+        <type>HR</type>
+        <latestTitle>Next Steps for Credit Availability Act</latestTitle>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. GRIMM:H.R. 1800.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3[Page H2395]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <fullName>Rep. Grimm, Michael G. [R-NY-11]</fullName>
+        <identifiers>
+          <gpoId>8074</gpoId>
+          <lisID>2041</lisID>
+          <bioguideId>G000569</bioguideId>
+        </identifiers>
+        <bioguideId>G000569</bioguideId>
+        <party>R</party>
+        <byRequestType />
+        <middleName>G.</middleName>
+        <state>NY</state>
+        <lastName>Grimm</lastName>
+        <district>11</district>
+        <firstName>Michael</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <billType>HR</billType>
+    <committeeReports />
+    <congress>113</congress>
+    <notes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Small Business Credit Availability Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Investment Company Act of 1940 to allow business development companies to purchase, otherwise acquire, or hold certain securities, to change the asset coverage ratio and treatment of preferred stock for business development companies, and to direct the Securities and Exchange Commission to revise certain rules relating to business development companies.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Small Business Credit Availability Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <createDate>2013-04-27T07:02:11Z</createDate>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Graves</lastName>
+        <bioguideId>G000560</bioguideId>
+        <middleName />
+        <district>14</district>
+        <identifiers>
+          <bioguideId>G000560</bioguideId>
+          <lisID>1979</lisID>
+          <gpoId>7906</gpoId>
+        </identifiers>
+        <state>GA</state>
+        <sponsorshipDate>2013-04-26</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Graves, Tom [R-GA-14]</fullName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Small Business Credit Availability Act - Amends the Investment Company Act of 1940 to allow a business development company (BDC) to own or acquire securities or other interests in the business of a registered investment adviser or adviser to an investment company.</p> <p>Reduces from 200% to 150% the asset coverage requirements applicable to BDCs. Allows a BDC to issue stock.</p> <p>Directs the Securities and Exchange Commission (SEC) to revise various rules under the Securities Act of 1933 and to revise forms as necessary to allow a BDC to use security offering rules available to other issuers that are required to file security issuance reports under the Securities Exchange Act of 1934.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-04-26</actionDate>
+          <lastSummaryUpdateDate>2013-05-21T20:12:06Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2013-04-26T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-11-14</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 31 - 26.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-11-14</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-10-23</actionDate>
+        <committee>
+          <systemCode>hsba16</systemCode>
+          <name>Capital Markets and Government Sponsored Enterprises Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-04-26</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2013-04-26</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2013-04-26</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <actionStageOverride>1</actionStageOverride>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates>
+      <item>
+        <url>http://www.cbo.gov/publication/45253</url>
+        <pubDate>2014-04-11T21:28:07Z</pubDate>
+        <title>H.R. 1800, Small Business Credit Availability Act</title>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/45253</url>
+        <pubDate>2014-04-11T21:28:07Z</pubDate>
+        <title>H.R. 1800, Small Business Credit Availability Act</title>
+      </item>
+    </cboCostEstimates>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Securities and Exchange Commission (SEC)</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <title>Small Business Credit Availability Act</title>
+    <updateDate>2016-10-25T16:02:53Z</updateDate>
+    <billNumber>1800</billNumber>
+    <latestAction>
+      <actionDate>2013-11-14</actionDate>
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 31 - 26.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

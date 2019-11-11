@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on House Administration.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2013-10-28</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2013-10-28</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2013-10-28</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>1</district>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <lastName>Harris</lastName>
+        <middleName />
+        <state>MD</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2026</lisID>
+          <gpoId>7976</gpoId>
+          <bioguideId>H001052</bioguideId>
+        </identifiers>
+        <firstName>Andy</firstName>
+        <bioguideId>H001052</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. HARRIS:H.R. 3356.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 4 of the U.S. Constitution, which grantsCongress the authority to make laws governing the time,places and manner of holding federal elections.[Page H6828]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3356</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:08:10Z</updateDate>
+    <laws />
+    <createDate>2013-10-29T10:40:21Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-10-28T16:02:15Z</date>
+            </item>
+          </activities>
+          <name>House Administration Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-10-28</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-11-18T17:43:18Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Clean Campaign Contributions Act of 2013 - Amends the Federal Election Campaign Act of 1971 with respect to the use of campaign contributions to: (1) apply the prohibition against the conversion to personal use of contributions accepted by candidates also to contributions accepted by political committees; and (2) allow the use of contributions accepted by political committees for authorized expenditures in connection with political activities.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-10-28T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <lastName>Amodei</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>A000369</bioguideId>
+        <identifiers>
+          <bioguideId>A000369</bioguideId>
+          <gpoId>8366</gpoId>
+          <lisID>2090</lisID>
+        </identifiers>
+        <firstName>Mark</firstName>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+      </item>
+      <item>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <lastName>Brooks</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001274</bioguideId>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+        </identifiers>
+        <firstName>Mo</firstName>
+        <middleName />
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <state>AL</state>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <number>3466</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>No Political Funds for Personal Use Act</latestTitle>
+        <latestAction>
+          <actionDate>2013-11-13</actionDate>
+          <text>Referred to the House Committee on House Administration.</text>
+        </latestAction>
+        <congress>113</congress>
+      </item>
+      <item>
+        <number>5011</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>MERIT Act</latestTitle>
+        <latestAction>
+          <actionDate>2014-09-02</actionDate>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        </latestAction>
+        <congress>113</congress>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Clean Campaign Contributions Act of 2013</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To amend the Federal Election Campaign Act of 1971 to apply the prohibition against the conversion of contributions to personal use to contributions to political committees, to clarify that contributions accepted by political committees may be used for authorized expenditures in connection with their political activities and for other lawful purposes, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Clean Campaign Contributions Act of 2013</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Clean Campaign Contributions Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-10-28</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-10-28</actionDate>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

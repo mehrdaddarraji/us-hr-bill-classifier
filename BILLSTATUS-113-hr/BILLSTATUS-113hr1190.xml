@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-03-25</actionDate>
+        <committee>
+          <systemCode>hsii06</systemCode>
+          <name>Energy and Mineral Resources Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2013-03-14</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-03-14</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-03-14</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestTitle>Keep American Natural Gas Here Act</latestTitle>
+        <latestAction>
+          <actionDate>2013-03-25</actionDate>
+          <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        </latestAction>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>1191</number>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <lastName>HOLT</lastName>
+        <firstName>RUSH</firstName>
+        <bioguideId>H001032</bioguideId>
+        <identifiers>
+          <bioguideId>H001032</bioguideId>
+          <gpoId>8054</gpoId>
+          <lisID>1580</lisID>
+        </identifiers>
+        <fullName>Rep. Holt, Rush [D-NJ-12]</fullName>
+        <party>D</party>
+        <state>NJ</state>
+        <sponsorshipDate>2013-03-14</sponsorshipDate>
+        <middleName>D.</middleName>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-03-15T07:01:12Z</createDate>
+    <introducedDate>2013-03-14</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-03-25</actionDate>
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Keep America's Oil Here Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To provide that the Secretary of the Interior may accept bids on any new oil and gas leases of Federal lands (including submerged lands) only from bidders certifying that all oil produced pursuant to such leases, and all refined petroleum products produced from such oil, shall be offered for sale only in the United States, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Keep America's Oil Here Act</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Energy prices</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>General public lands matters</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:11:01Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <fullName>Rep. Markey, Edward J. [D-MA-5]</fullName>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>EDWARD</firstName>
+        <lastName>MARKEY</lastName>
+        <bioguideId>M000133</bioguideId>
+        <state>MA</state>
+        <district>5</district>
+      </item>
+    </sponsors>
+    <title>Keep America's Oil Here Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Keep America's Oil Here Act - Authorizes the Secretary of the Interior to accept bids on any new oil and gas leases of federal lands (including submerged lands) only from bidders certifying that all crude oil produced under such leases, and all refined petroleum products made from such crude oil, shall be offered for sale only in the United States.</p> <p>Authorizes the President to waive such limited leasing authorization upon specified determinations, including that waiver is in the national interest because it will not lead to: (1) an increase in domestic consumption of crude oil obtained from countries hostile to U.S. interests or that have political and economic instability compromising energy supply security, (2) higher costs to oil refiners purchasing the crude oil than the refiners would have to pay in the absence of such a waiver, and (3) higher gasoline costs paid by consumers than they would have to pay in the absence of such a waiver.</p> <p>Declares this Act without force or effect 10 years after enactment of this Act.</p> <p>Instructs the Secretary of the Interior and the Comptroller General to report separately to Congress on the impact of this Act upon: (1) oil production on federal lands, (2) consumption of oil and refined petroleum products in the United States, and (3) prices and markets for oil and refined petroleum products in the United States. <UL><UL> </UL> </UL> <p> <UL> <UL> </UL> </UL>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-04-02T19:34:13Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2013-03-14</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-03-14T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1190</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsii06</systemCode>
+              <name>Energy and Mineral Resources Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-03-25T20:17:33Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-14T14:02:15Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 37 (Thursday, March 14, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MARKEY:H.R. 1190.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H1429]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

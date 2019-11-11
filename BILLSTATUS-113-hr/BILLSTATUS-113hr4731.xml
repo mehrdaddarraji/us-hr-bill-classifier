@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-11-17</actionDate>
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+          <activities>
+            <item>
+              <date>2014-05-22T13:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-11-17T21:46:21Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Higher Education and Workforce Training Subcommittee</name>
+              <systemCode>hsed13</systemCode>
+            </item>
+          </subcommittees>
+          <name>Education and the Workforce Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <date>2014-05-22T13:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-07-07T21:23:22Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Commodity Exchanges, Energy, and Credit Subcommittee</name>
+              <systemCode>hsag22</systemCode>
+            </item>
+          </subcommittees>
+          <name>Agriculture Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2014-05-22T13:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-05-23T17:49:18Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsru00</systemCode>
+          <activities>
+            <item>
+              <date>2014-05-22T13:01:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Rules Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsbu00</systemCode>
+          <activities>
+            <item>
+              <date>2014-05-22T13:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Budget Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2014-05-22T13:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-05-23T07:31:37Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2014-11-17</actionDate>
+        <committee>
+          <systemCode>hsed13</systemCode>
+          <name>Higher Education and Workforce Training Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-07-07</actionDate>
+        <committee>
+          <systemCode>hsag22</systemCode>
+          <name>Commodity Exchanges, Energy, and Credit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Department Operations, Oversight, and Nutrition.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-05-23</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Education and the Workforce</text>
+        <links />
+        <actionDate>2014-05-22</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Energy and Commerce</text>
+        <links />
+        <actionDate>2014-05-22</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Rules</text>
+        <links />
+        <actionDate>2014-05-22</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Budget</text>
+        <links />
+        <actionDate>2014-05-22</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <links />
+        <actionDate>2014-05-22</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Agriculture, and in addition to the Committees on Ways and Means, the Budget, Rules, Energy and Commerce, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionDate>2014-05-22</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Agriculture</text>
+        <links />
+        <actionDate>2014-05-22</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-05-22</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-05-22</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>3</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>6</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-05-22</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. JORDAN:H.R. 4731.Congress has the power to enact this legislation pursuantto the following:The bill makes specific changes to existing law in a mannerthat returns power to the States and to the people, inaccordance with Amendment X of the United staes Constitution.[Page H4830]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>4731</billNumber>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Welfare Reform Act of 2014 - Amends the Food and Nutrition Act of 2008 to declare that it should be the purpose of the supplemental nutrition assistance program (SNAP, formerly the food stamp program) to increase employment, encourage healthy marriage, and promote prosperous self-sufficiency, which means the ability of households to maintain an income above the poverty level without services and benefits from the federal government.</p> <p>Declares that food or a food product shall be considered a food under such Act only if it is a bare essential (as determined by the Secretary of Agriculture [USDA]).</p> <p>Defines "able-bodied, work capable adult" and "physically or mentally incapable of work." </p> <p>Prescribes additional conditions of participation, denying SNAP eligibility, for instance, to any able-bodied, work-capable adult who: (1) refuses to register for employment or without good cause accept an offer of employment at a certain wage, (2) refuses without good cause to give a state agency sufficient information of his or her employment status or job availability, (3) voluntarily quits a job or reduces work effort below 30 hours a week unless another adult in the same family unit increases employment to make up the difference, or (4) is on strike because of a labor dispute other than a lockout.</p> <p>Revises SNAP eligibility requirements for students with dependent children.</p> <p>Denies SNAP eligibility to members of a program-eligible family required by the state agency to participate in work activation unless the relevant one or more adults in such family comply with the work activation standards. Terminates benefits for all family members for failure to participate in work activation during a given month.</p> <p>Prescribes work activation standards for a family unit with adult members required to participate in work activation. Gives states the option to require greater amounts of work activations for work capable family units.</p> <p>Requires each state participating in SNAP to carry out a work activation program whose goals are to: (1) encourage and assist able-bodied, work-capable adult SNAP recipients to obtain paid employment; (2) reduce dependence on government assistance; and (3) ensure that able-bodied, work-capable adult SNAP recipients make a contribution to society and the taxpayers in exchange for assistance received.</p> <p>Sets forth mandatory state work activation participation rates.</p> <p>Prescribes requirements for: (1) funding reductions as a penalty for inadequate state performance, (2) restoration in funding resulting from improved state performance, and (3) rewards to states for reducing government dependence.</p> <p>Amends the American Recovery and Reinvestment Act of 2009 to terminate its temporary increase in SNAP benefits. </p> <p>Requires the President's budget to include the total level of means-tested welfare spending by the federal government as well as the total by all states, local governments, and the federal government for the most recent year for which such data is available, and estimated levels for the fiscal year during which the budget submission is made.</p> <p>Amends the Congressional Budget Act of 1974 to define "means-tested welfare spending" and specifies the federal programs on which welfare spending shall be means-tested, and which federal programs shall not be.</p> <p>Requires reports to congressional budget committees and the concurrent resolution on the budget to include specified information with respect to means-tested welfare spending, and requires a point of order in both chambers of Congress if the means-tested welfare spending limit is to be exceeded. </p> <p>Amends the Social Security Act (SSA) to authorize the Secretary of Health and Human Services (HHS) to make grants to states to reward reductions in poverty and government dependence and increases in self-sufficiency. </p> <p>Restricts funding for health benefits coverage that includes abortion.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2014-05-22</actionDate>
+          <updateDate>2014-05-22T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-06-09T18:52:41Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Abortion</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Welfare Reform Act of 2014</title>
+    <updateDate>2016-10-25T16:13:32Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Welfare Reform Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To help individuals receiving assistance under means-tested welfare programs obtain self-sufficiency, to provide information on total spending on means-tested welfare programs, to provide an overall spending limit on means-tested welfare programs, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Welfare Reform Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>OH</state>
+        <firstName>Jim</firstName>
+        <byRequestType />
+        <bioguideId>J000289</bioguideId>
+        <fullName>Rep. Jordan, Jim [R-OH-4]</fullName>
+        <lastName>Jordan</lastName>
+        <party>R</party>
+        <middleName />
+        <district>4</district>
+        <identifiers>
+          <bioguideId>J000289</bioguideId>
+          <lisID>1868</lisID>
+          <gpoId>8094</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2014-02-11</actionDate>
+        </latestAction>
+        <latestTitle>Welfare Reform and Upward Mobility Act</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2015</number>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <bioguideId>S001195</bioguideId>
+        <identifiers>
+          <lisID>2191</lisID>
+          <bioguideId>S001195</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Smith</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jason</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <fullName>Rep. Smith, Jason T. [R-MO-8]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>8</district>
+        <sponsorshipDate>2014-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>B001256</bioguideId>
+        <identifiers>
+          <lisID>1858</lisID>
+          <gpoId>8006</gpoId>
+          <bioguideId>B001256</bioguideId>
+        </identifiers>
+        <lastName>Bachmann</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Michele</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <fullName>Rep. Bachmann, Michele [R-MN-6]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>6</district>
+        <sponsorshipDate>2014-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>H001057</bioguideId>
+        <identifiers>
+          <lisID>2020</lisID>
+          <gpoId>7949</gpoId>
+          <bioguideId>H001057</bioguideId>
+        </identifiers>
+        <lastName>Huelskamp</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tim</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>KS</state>
+        <fullName>Rep. Huelskamp, Tim [R-KS-1]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>1</district>
+        <sponsorshipDate>2014-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>B001243</bioguideId>
+        <identifiers>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <lastName>Blackburn</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Marsha</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>7</district>
+        <sponsorshipDate>2014-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>W000814</bioguideId>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+          <gpoId />
+          <lisID>2161</lisID>
+        </identifiers>
+        <lastName>Weber</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Randy</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <fullName>Rep. Weber, Randy K. Sr. [R-TX-14]</fullName>
+        <party>R</party>
+        <middleName>K.</middleName>
+        <district>14</district>
+        <sponsorshipDate>2014-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>L000571</bioguideId>
+        <identifiers>
+          <lisID>1960</lisID>
+          <bioguideId>L000571</bioguideId>
+          <gpoId>8225</gpoId>
+        </identifiers>
+        <lastName>Lummis</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Cynthia</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>WY</state>
+        <fullName>Rep. Lummis, Cynthia M. [R-WY-At Large]</fullName>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <district>0</district>
+        <sponsorshipDate>2014-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>D000621</bioguideId>
+        <identifiers>
+          <lisID>2116</lisID>
+          <gpoId />
+          <bioguideId>D000621</bioguideId>
+        </identifiers>
+        <lastName>DeSantis</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ron</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <fullName>Rep. DeSantis, Ron [R-FL-6]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>6</district>
+        <sponsorshipDate>2014-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>S000018</bioguideId>
+        <identifiers>
+          <lisID>1009</lisID>
+          <bioguideId>S000018</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>SALMON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>MATT</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <fullName>Rep. Salmon, Matt [R-AZ-5]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>5</district>
+        <sponsorshipDate>2014-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>P000591</bioguideId>
+        <identifiers>
+          <lisID>1778</lisID>
+          <bioguideId>P000591</bioguideId>
+          <gpoId>7903</gpoId>
+        </identifiers>
+        <lastName>Price</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <fullName>Rep. Price, Tom [R-GA-6]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>6</district>
+        <sponsorshipDate>2014-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>D000615</bioguideId>
+        <identifiers>
+          <lisID>2057</lisID>
+          <gpoId>8143</gpoId>
+          <bioguideId>D000615</bioguideId>
+        </identifiers>
+        <lastName>Duncan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>3</district>
+        <sponsorshipDate>2014-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>S001189</bioguideId>
+        <identifiers>
+          <lisID>2009</lisID>
+          <gpoId>7905</gpoId>
+          <bioguideId>S001189</bioguideId>
+        </identifiers>
+        <lastName>Scott</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Austin</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>8</district>
+        <sponsorshipDate>2014-05-29</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>O000168</bioguideId>
+        <identifiers>
+          <lisID>1955</lisID>
+          <bioguideId>O000168</bioguideId>
+          <gpoId>8178</gpoId>
+        </identifiers>
+        <lastName>Olson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Pete</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>22</district>
+        <sponsorshipDate>2014-05-29</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>M001182</bioguideId>
+        <identifiers>
+          <lisID>2059</lisID>
+          <gpoId>8145</gpoId>
+          <bioguideId>M001182</bioguideId>
+        </identifiers>
+        <lastName>Mulvaney</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mick</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <fullName>Rep. Mulvaney, Mick [R-SC-5]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>5</district>
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

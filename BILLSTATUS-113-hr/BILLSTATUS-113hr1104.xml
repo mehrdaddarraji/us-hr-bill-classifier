@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-04-11</actionDate>
+        <committee>
+          <systemCode>hswm02</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-20</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-20</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-13</actionDate>
+        <text>Referred to House Ways and Means</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-13</actionDate>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-13</actionDate>
+        <text>Referred to House Oversight and Government Reform</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-13</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-13</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <actionStageOverride>1</actionStageOverride>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>1</district>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <lastName>CLAY</lastName>
+        <middleName>LACY</middleName>
+        <state>MO</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8009</gpoId>
+          <bioguideId>C001049</bioguideId>
+          <lisID>1654</lisID>
+        </identifiers>
+        <firstName>WM.</firstName>
+        <bioguideId>C001049</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. CLAY:H.R. 1104.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 of the Constitution of theUnited States grants the Congress the power to enact thislaw.[Page H1396]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1104</billNumber>
+    <cboCostEstimates>
+      <item>
+        <url>http://www.cbo.gov/publication/44270</url>
+        <title>H.R. 1104, Federal Advisory Committee Act Amendments of 2013</title>
+        <pubDate>2013-05-23T18:57:41Z</pubDate>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/44270</url>
+        <title>H.R. 1104, Federal Advisory Committee Act Amendments of 2013</title>
+        <pubDate>2013-05-23T18:57:41Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <updateDate>2016-10-25T16:00:37Z</updateDate>
+    <laws />
+    <createDate>2013-03-14T07:01:12Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hswm02</systemCode>
+              <activities>
+                <item>
+                  <date>2013-04-11T14:50:03Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2013-03-13T14:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <date>2013-03-20T17:14:55Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-03-13T14:00:53Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Federal Advisory Committee Act Amendments of 2013 - Amends the Federal Advisory Committee Act (FACA) to require appointments to federal agency advisory committees to be made without regard to political affiliation or activity, unless otherwise required by federal statute. Directs the head of an agency, prior to appointing members to an advisory committee, to give interested persons an opportunity to suggest potential committee members.</p> <p>Requires an individual appointed to an advisory committee who is not a full-time or permanent part-time officer or employee of the federal government to be designated as: (1) a special government employee if the individual is providing advice based on the individual's expertise or experience, or (2) a representative if the individual is representing the views of an entity outside of the federal government. Prohibits an agency from designating committee members as representatives to avoid subjecting them to federal ethics rules and requirements.</p> <p> Requires each agency head to ensure that advice and recommendations of an advisory committee that reports to the agency are the result of the advisory committee's judgment, independent from the agency.</p> <p> Provides that an individual who is not an officer or employee of the federal government shall be regarded as a member of an advisory committee if the individual regularly attends and participates in committee meetings as if the individual were a member, even if the individual does not have the right to vote or veto the advice or recommendations of the committee.</p> <p>Requires each agency head to make available on the agency's Internet site specified information about each of the agency's advisory committees and their activities and to designate an Advisory Committee Management Officer to be responsible for the establishment, management, and supervision of the agency's advisory committees. Requires the Comptroller General to review compliance by agencies with FACA.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-04-03T21:40:05Z</lastSummaryUpdateDate>
+          <actionDate>2013-03-13</actionDate>
+          <updateDate>2013-03-13T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>CUMMINGS</lastName>
+        <bioguideId>C000984</bioguideId>
+        <middleName>E.</middleName>
+        <district>7</district>
+        <identifiers>
+          <lisID>256</lisID>
+          <bioguideId>C000984</bioguideId>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <state>MD</state>
+        <sponsorshipDate>2013-03-13</sponsorshipDate>
+        <firstName>ELIJAH</firstName>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Connolly</lastName>
+        <bioguideId>C001078</bioguideId>
+        <middleName>E.</middleName>
+        <district>11</district>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <state>VA</state>
+        <sponsorshipDate>2013-03-13</sponsorshipDate>
+        <firstName>Gerald</firstName>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>COOPER</lastName>
+        <bioguideId>C000754</bioguideId>
+        <middleName>H.</middleName>
+        <district>5</district>
+        <identifiers>
+          <gpoId>8152</gpoId>
+          <bioguideId>C000754</bioguideId>
+          <lisID>231</lisID>
+        </identifiers>
+        <state>TN</state>
+        <sponsorshipDate>2013-07-18</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Political parties and affiliation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Federal Advisory Committee Act Amendments of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend the Federal Advisory Committee Act to increase the transparency of Federal advisory committees, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Federal Advisory Committee Act Amendments of 2013</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Federal Advisory Committee Act Amendments of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-03-13</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-04-11</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

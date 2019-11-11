@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <prayer>1</prayer>
+        <placeholderTextForH>4</placeholderTextForH>
+        <committeeDischarged>1</committeeDischarged>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+      </actionTypeCounts>
+      <item>
+        <text>Placed on the Union Calendar, Calendar No. 85.</text>
+        <actionCode>H12410</actionCode>
+        <committee />
+        <type>Calendars</type>
+        <actionDate>2013-06-24</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Committee on Armed Services discharged.</text>
+        <actionCode>H12300</actionCode>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <type>Discharge</type>
+        <actionDate>2013-06-24</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Committee on Armed Services discharged.</text>
+        <actionCode>5500</actionCode>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2013-06-24</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-120, Part I.</text>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2013-06-24</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/120</url>
+            <name>H. Rept. 113-120</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-120, Part I.</text>
+        <actionCode>5000</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2013-06-24</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/120</url>
+            <name>H. Rept. 113-120</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2013-05-15</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-15</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-15</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-04-26</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-04-08</actionDate>
+        <committee>
+          <systemCode>hsas03</systemCode>
+          <name>Readiness Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-28</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-20</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-03-20</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-20</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-03-20</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-03-20</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors />
+    <notes />
+    <createDate>2013-03-21T07:01:11Z</createDate>
+    <introducedDate>2013-03-20</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 113-120</citation>
+      </committeeReport>
+    </committeeReports>
+    <latestAction>
+      <links />
+      <actionDate>2013-06-24</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 85.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode>H</chamberCode>
+        <title>White Sands Missile Range Security Enhancement Act</title>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Reported to House</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>White Sands Missile Range Security Enhancement Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>To provide for the transfer of certain public land currently administered by the Bureau of Land Management to the administrative jurisdiction of the Secretary of the Army for inclusion in White Sands Missile Range, New Mexico, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>White Sands Missile Range Security Enhancement Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+          <item>
+            <name>New Mexico</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:12:09Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <identifiers>
+          <gpoId>8057</gpoId>
+          <bioguideId>P000588</bioguideId>
+          <lisID>1738</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>Stevan</firstName>
+        <lastName>Pearce</lastName>
+        <bioguideId>P000588</bioguideId>
+        <state>NM</state>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <title>White Sands Missile Range Security Enhancement Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-03-20</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2013-04-17T16:28:04Z</lastSummaryUpdateDate>
+          <updateDate>2013-03-20T04:00:00Z</updateDate>
+          <text><![CDATA[<p>White Sands Missile Range Security Enhancement Act - Directs the Secretary of the Interior to transfer certain Bureau of Land Management (BLM) land in Dona Ana County, New Mexico, to the administrative jurisdiction of the Secretary of the Army for inclusion in the White Sands Missile Range for use for military purposes. </p> <p>Requires the Secretary, if a grazing permit or lease exists for any part of such land to be transferred, to transfer the grazing rights associated with such permit or lease to other public land that is acceptable to the permit or lease holder so that the grazing rights continue having the same value to such holder. </p>]]></text>
+        </item>
+        <item>
+          <actionDate>2013-06-24</actionDate>
+          <versionCode>18</versionCode>
+          <actionDesc>Reported to House amended, Part I</actionDesc>
+          <name>Reported to House amended, Part I</name>
+          <lastSummaryUpdateDate>2013-09-09T20:30:02Z</lastSummaryUpdateDate>
+          <updateDate>2013-06-24T10:51:55Z</updateDate>
+          <text><![CDATA[<p>White Sands Missile Range Security Enhancement Act - Directs the Secretary of the Interior (the Secretary) to transfer certain Bureau of Land Management (BLM) land in Dona Ana County, New Mexico, to the administrative jurisdiction of the Secretary of the Army for inclusion in the White Sands Missile Range for use for military purposes.</p> <p>Requires the Secretary to publish in the Federal Register a legal description and map of the public land to be transferred. </p> <p>Requires the transfer to be made without reimbursement, except that the Secretary of the Army shall reimburse the Secretary for any costs incurred in preparing the legal description and map. </p> <p>Requires the Secretary, if a grazing permit or lease exists for any part of such land to be transferred, to transfer or relocate the grazing allotments associated with such permit or lease to other public land that is acceptable to the permit or lease holder so that the grazing continues to have the same value to such holder.</p> <p>Declares that nothing in this Act shall be construed to: (1) establish a reservation in favor of the United States with respect to any water or water right on lands transferred by this Act, or (2) authorize the appropriation of water on lands transferred by this Act except in accordance with applicable state law. <p>Withdraws such land from all forms of appropriation under the public land laws, including the mining laws and geothermal leasing laws, so long as such lands remain under the Secretary of the Army's administrative jurisdiction.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1299</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Armed Services Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsas03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-04-08T15:15:54Z</date>
+                </item>
+              </activities>
+              <name>Readiness Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2013-06-24T15:44:05Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-20T14:01:05Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2013-05-15T19:35:28Z</date>
+                </item>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2013-04-26T20:26:41Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-03-28T20:26:41Z</date>
+                </item>
+              </activities>
+              <name>Federal Lands Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2013-06-24T15:43:39Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2013-05-15T19:35:37Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-20T14:01:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2013-06-13T14:53:00Z</pubDate>
+        <url>http://www.cbo.gov/publication/44343</url>
+        <title>H.R. 1299, White Sands Missile Range Security Enhancement Act</title>
+      </item>
+      <item>
+        <pubDate>2013-06-13T14:53:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/44343</url>
+        <title>H.R. 1299, White Sands Missile Range Security Enhancement Act</title>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 41 (Wednesday, March 20, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PEARCE:H.R. 1299.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, Clause 2 of the Constitution of theUnited States grants Congress the power to enact this law.[Page H1720]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers>
+      <item>
+        <calendar>U00085</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

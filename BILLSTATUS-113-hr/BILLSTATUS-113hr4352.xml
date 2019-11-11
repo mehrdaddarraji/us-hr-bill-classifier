@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2014-04-01</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2014-04-01</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2014-04-01</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-04-01</introducedDate>
+    <updateDate>2016-10-25T16:12:05Z</updateDate>
+    <createDate>2014-04-02T07:23:21Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-04-01T16:02:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Jolly, David [R-FL-13]</fullName>
+        <identifiers>
+          <lisID>2199</lisID>
+          <bioguideId>J000296</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Jolly</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <firstName>David</firstName>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <party>R</party>
+        <state>FL</state>
+        <bioguideId>J000296</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <identifiers>
+          <bioguideId>C001066</bioguideId>
+          <lisID>1839</lisID>
+          <gpoId>7883</gpoId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Castor</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <firstName>Kathy</firstName>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <party>D</party>
+        <state>FL</state>
+        <bioguideId>C001066</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <identifiers>
+          <lisID>2035</lisID>
+          <gpoId>8022</gpoId>
+          <bioguideId>P000601</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Palazzo</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <firstName>Steven</firstName>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <party>R</party>
+        <state>MS</state>
+        <bioguideId>P000601</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <identifiers>
+          <lisID>2053</lisID>
+          <bioguideId>M001179</bioguideId>
+          <gpoId>8128</gpoId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Marino</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <party>R</party>
+        <state>PA</state>
+        <bioguideId>M001179</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <identifiers>
+          <bioguideId>R000583</bioguideId>
+          <gpoId>7888</gpoId>
+          <lisID>1916</lisID>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rooney</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <firstName>Thomas</firstName>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <party>R</party>
+        <state>FL</state>
+        <bioguideId>R000583</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. Nugent, Richard B. [R-FL-11]</fullName>
+        <identifiers>
+          <gpoId>7877</gpoId>
+          <lisID>2001</lisID>
+          <bioguideId>N000185</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Nugent</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2014-04-03</sponsorshipDate>
+        <party>R</party>
+        <state>FL</state>
+        <bioguideId>N000185</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>MALONEY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <firstName>CAROLYN</firstName>
+        <sponsorshipDate>2014-04-04</sponsorshipDate>
+        <party>D</party>
+        <state>NY</state>
+        <bioguideId>M000087</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>JONES</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <firstName>WALTER</firstName>
+        <sponsorshipDate>2014-05-22</sponsorshipDate>
+        <party>R</party>
+        <state>NC</state>
+        <bioguideId>J000255</bioguideId>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Flood Insurance Integrity Act of 2014</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Flood Insurance Integrity Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To require the Government Accountability Office to conduct periodic reviews of the flood insurance rates and flood insurance rate maps under the national flood insurance program, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Flood Insurance Integrity Act of 2014</title>
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. BILIRAKIS:H.R. 4352.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the United StatesConstitution, which grants Congress the power to lay andcollect taxes, duties, imposts and excises, to pay the debtsand provide for the common defence and general welfare of theUnited States.Article 1, Section 8, Clause 3, of the United StatesConstitution, which grants Congress the power to regulatecommerce with foreign nations, and among the several states,and with the Indian tribes.[Page H2802]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-05-22T21:34:29Z</lastSummaryUpdateDate>
+          <updateDate>2014-04-01T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDate>2014-04-01</actionDate>
+          <text><![CDATA[<p>Flood Insurance Integrity Act of 2014 - Directs the Comptroller General (GAO) to review every four years the rate tables established by the Federal Emergency Management Agency (FEMA) for implementing the national flood insurance program under the National Flood Insurance Act of 1968 (NFIA), and determine whether: (1) the chargeable premium rates for flood insurance coverage determined by those tables are actuarially sound, based on standard actuarial practices used in the private sector; and (2) such chargeable premium rates are sufficient to ensure the long-term financial sustainability of the national flood insurance program.</p> <p>Directs GAO to review annually the process for establishing and updating flood insurance rate maps and determine the degree of accuracy of the mapping process.</p> <UL> </UL> <p> <BR> <BR>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Floods and storm protection</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Financial Services.</text>
+      <actionDate>2014-04-01</actionDate>
+    </latestAction>
+    <billNumber>4352</billNumber>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>12</district>
+        <firstName>Gus</firstName>
+        <party>R</party>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <bioguideId>B001257</bioguideId>
+        <identifiers>
+          <lisID>1838</lisID>
+          <bioguideId>B001257</bioguideId>
+          <gpoId>7881</gpoId>
+        </identifiers>
+        <lastName>Bilirakis</lastName>
+        <middleName>M.</middleName>
+        <state>FL</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

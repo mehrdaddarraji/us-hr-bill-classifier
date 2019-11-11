@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <actionDate>2014-01-10</actionDate>
+          <text>Referred to the House Committee on Armed Services.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>3844</number>
+        <type>HR</type>
+        <latestTitle>To amend title 10, United States Code, to require cost or price to the Federal Government be given at least equal importance as technical or other criteria in evaluating competitive proposals for defense contracts.</latestTitle>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-04-01T19:55:30Z</lastSummaryUpdateDate>
+          <actionDate>2013-03-13</actionDate>
+          <text><![CDATA[<p>Requires that, in the evaluation of competitive proposals for defense contracts, cost or price to the government be given at least equal importance as all other evaluation factors combined. Allows the waiver of such requirement by the agency head concerned. Directs the Secretary of Defense (DOD) to submit to Congress, and post publicly, a report on each waiver issued.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-03-13T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2013-03-13</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend title 10, United States Code, to require cost or price to the Federal Government be given at least equal importance as technical or other criteria in evaluating competitive proposals for defense contracts.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend title 10, United States Code, to require cost or price to the Federal Government be given at least equal importance as technical or other criteria in evaluating competitive proposals for defense contracts.</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <congress>113</congress>
+    <billNumber>1109</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 36 (Wednesday, March 13, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GRAYSON:H.R. 1109.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3``The Congress shall have Power . . . To regulate Commercewith foreign Nations and among the several States, and withthe Indian Tribes.''[Page H1397]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2018-06-05T16:10:18Z</updateDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsas03</systemCode>
+              <name>Readiness Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-03-26T14:02:18Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-13T14:02:25Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2013-03-14T07:01:11Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Grayson, Alan [D-FL-9]</fullName>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <bioguideId>G000556</bioguideId>
+          <gpoId>7302</gpoId>
+          <lisID>1914</lisID>
+        </identifiers>
+        <district>9</district>
+        <lastName>Grayson</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <bioguideId>G000556</bioguideId>
+        <firstName>Alan</firstName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-03-26</actionDate>
+        <committee>
+          <systemCode>hsas03</systemCode>
+          <name>Readiness Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-03-13</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2013-03-13</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2013-03-13</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/52815</url>
+        <pubDate>2017-06-13T18:45:00Z</pubDate>
+        <title>H.R. 1109, a bill to amend section 203 of the Federal Power Act</title>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/53703</url>
+        <pubDate>2018-03-29T15:00:18Z</pubDate>
+        <title>H.R. 1109, an act to amend section 203 of the Federal Power Act</title>
+      </item>
+    </cboCostEstimates>
+    <cosponsors />
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2013-03-26</actionDate>
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <title>To amend title 10, United States Code, to require cost or price to the Federal Government be given at least equal importance as technical or other criteria in evaluating competitive proposals for defense contracts.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

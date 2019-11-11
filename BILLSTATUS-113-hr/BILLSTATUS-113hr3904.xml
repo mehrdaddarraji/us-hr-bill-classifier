@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws />
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-16</actionDate>
+        <text>Referred to the House Committee on House Administration.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-16</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-16</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-01-16</introducedDate>
+    <notes />
+    <calendarNumbers />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Amends the Supplemental Appropriations Act, 1971 to reduce from five years to one year the period of availability to former Speakers of the House of Representatives of entitlements to use of office, allowance, franked mail, and additional staff to facilitate the administration, settlement, and conclusion of matters pertaining to or arising out of his or her incumbency as Speaker.</p> <p>Starts the one-year period on the date of the expiration of an individual's service as Speaker (currently, at the expiration of the individual's term of office as a Representative in Congress).</p>]]></text>
+          <lastSummaryUpdateDate>2014-03-05T16:31:21Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2014-01-16T05:00:00Z</updateDate>
+          <actionDate>2014-01-16</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional leadership</name>
+          </item>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>3904</billNumber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>B001252</bioguideId>
+          <gpoId>7909</gpoId>
+          <lisID>1780</lisID>
+        </identifiers>
+        <lastName>Barrow</lastName>
+        <district>12</district>
+        <middleName />
+        <firstName>John</firstName>
+        <byRequestType />
+        <bioguideId>B001252</bioguideId>
+        <fullName>Rep. Barrow, John [D-GA-12]</fullName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. BARROW of Georgia:H.R. 3904.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H1242]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To reduce the period of the availability of allowances for former Speakers of the House of Representatives to one year, beginning on the date of the expiration of an individual's service as Speaker.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To reduce the period of the availability of allowances for former Speakers of the House of Representatives to one year, beginning on the date of the expiration of an individual's service as Speaker.</title>
+      </item>
+    </titles>
+    <updateDate>2016-10-25T16:10:15Z</updateDate>
+    <recordedVotes />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <actionDate>2014-01-16</actionDate>
+      <text>Referred to the House Committee on House Administration.</text>
+    </latestAction>
+    <createDate>2014-01-17T07:02:02Z</createDate>
+    <title>To reduce the period of the availability of allowances for former Speakers of the House of Representatives to one year, beginning on the date of the expiration of an individual's service as Speaker.</title>
+    <cosponsors />
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-01-16T15:03:40Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>House Administration Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

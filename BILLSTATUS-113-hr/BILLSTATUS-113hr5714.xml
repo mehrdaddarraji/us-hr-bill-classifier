@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-12-03</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssaf00</systemCode>
+          <activities>
+            <item>
+              <date>2014-12-03T20:41:38Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <date>2014-11-14T14:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Agriculture Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-11-15T04:50:02Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <considerationByHouse>1</considerationByHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-12-03</actionDate>
+        <committee>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <systemCode>ssaf00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>12:32:39</actionTime>
+        <actionCode>H38310</actionCode>
+        <actionDate>2014-12-02</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>12:32:37</actionTime>
+        <actionCode>H37300</actionCode>
+        <actionDate>2014-12-02</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H8231</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H8231</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8231)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>12:32:37</actionTime>
+        <actionCode>8000</actionCode>
+        <actionDate>2014-12-02</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H8231</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H8231</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8231)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>12:26:21</actionTime>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2014-12-02</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 5714</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/5714</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5714.</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>12:26:19</actionTime>
+        <actionCode>H30000</actionCode>
+        <actionDate>2014-12-02</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H8231-8232</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H8231-8232</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H8231-8232)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>12:25:57</actionTime>
+        <actionCode>H30300</actionCode>
+        <actionDate>2014-12-02</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Mr. Thompson (PA) moved to suspend the rules and pass the bill.</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-11-14</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Agriculture.</text>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2014-11-14</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2014-11-14</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-11-14</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. SCHRADER:H.R. 5714.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the United StatesConstitution.[Page H7996]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>5714</billNumber>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2014-11-28T15:58:56Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Pest Management Records Modernization Act - Amends the Food, Agriculture, Conservation, and Trade Act of 1990 to authorize commercial applicators of pesticides to create, retain, submit, and convey a pesticide application-related record, report, data, or other information in electronic form to satisfy any federal, state, or local law.</p>]]></text>
+          <updateDate>2014-11-14T05:00:00Z</updateDate>
+          <actionDate>2014-11-14</actionDate>
+        </item>
+        <item>
+          <versionCode>81</versionCode>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <name>Passed House without amendment</name>
+          <lastSummaryUpdateDate>2014-12-05T23:22:21Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Pest Management Records Modernization Act - Amends the Food, Agriculture, Conservation, and Trade Act of 1990 to authorize commercial applicators of pesticides to create, retain, submit, and convey a pesticide application-related record, report, data, or other information in electronic form to satisfy any federal, state, or local law.</p>]]></text>
+          <updateDate>2014-12-02T14:17:18Z</updateDate>
+          <actionDate>2014-12-02</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Pest management</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Pest Management Records Modernization Act</title>
+    <updateDate>2016-10-25T16:17:17Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Pest Management Records Modernization Act</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Pest Management Records Modernization Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To permit commercial applicators of pesticides to create, retain, submit, and convey pesticide application-related records, reports, data, and other information in electronic form.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Pest Management Records Modernization Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>OR</state>
+        <firstName>Kurt</firstName>
+        <byRequestType />
+        <bioguideId>S001180</bioguideId>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+        <lastName>Schrader</lastName>
+        <party>D</party>
+        <middleName />
+        <district>5</district>
+        <identifiers>
+          <lisID>1950</lisID>
+          <gpoId>8118</gpoId>
+          <bioguideId>S001180</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>3001</number>
+        <type>HR</type>
+        <latestTitle>21st Century Pest Management Records Act</latestTitle>
+        <latestAction>
+          <actionDate>2013-08-02</actionDate>
+          <text>Referred to the House Committee on Agriculture.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <bioguideId>T000467</bioguideId>
+        <district>5</district>
+        <middleName />
+        <firstName>Glenn</firstName>
+        <sponsorshipDate>2014-11-14</sponsorshipDate>
+        <state>PA</state>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <lastName>Thompson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+          <lisID>1952</lisID>
+          <gpoId>8123</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

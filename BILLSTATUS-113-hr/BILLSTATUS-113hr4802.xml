@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <considerationByHouse>1</considerationByHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <placeholderTextForH>3</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-07-23</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>16:29:21</actionTime>
+        <actionCode>H38310</actionCode>
+        <actionDate>2014-07-22</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>16:29:20</actionTime>
+        <actionCode>H37300</actionCode>
+        <actionDate>2014-07-22</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6607</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H6607</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6607)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>16:29:20</actionTime>
+        <actionCode>8000</actionCode>
+        <actionDate>2014-07-22</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6607</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H6607</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6607)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>16:20:15</actionTime>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2014-07-22</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 4802</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/4802</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4802.</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>16:20:12</actionTime>
+        <actionCode>H30000</actionCode>
+        <actionDate>2014-07-22</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6606-6609</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H6606-6609</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H6606-6609)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>16:20:02</actionTime>
+        <actionCode>H30300</actionCode>
+        <actionDate>2014-07-22</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Mr. Hudson moved to suspend the rules and pass the bill, as amended.</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H12410</actionCode>
+        <actionDate>2014-07-03</actionDate>
+        <type>Calendars</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 384.</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H12200</actionCode>
+        <actionDate>2014-07-03</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 113-512</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/512</url>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-512.</text>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <actionDate>2014-07-03</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 113-512</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/512</url>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-512.</text>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2014-06-11</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-11</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-11</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee on Transportation Security Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-09</actionDate>
+        <committee>
+          <name>Transportation Security Subcommittee</name>
+          <systemCode>hshm07</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Transportation Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-06-05</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2014-06-05</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2014-06-05</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-06-05</introducedDate>
+    <updateDate>2016-10-25T16:13:49Z</updateDate>
+    <createDate>2014-06-06T07:22:01Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <activities>
+            <item>
+              <date>2014-07-23T21:23:17Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>hshm00</systemCode>
+          <activities>
+            <item>
+              <date>2014-07-03T17:37:43Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2014-06-11T20:48:23Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2014-06-05T19:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Homeland Security Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hshm07</systemCode>
+              <activities>
+                <item>
+                  <date>2014-06-11T20:48:03Z</date>
+                  <name>Discharged from</name>
+                </item>
+                <item>
+                  <date>2014-06-09T17:44:09Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Transportation Security Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>R000588</bioguideId>
+        <identifiers>
+          <bioguideId>R000588</bioguideId>
+          <gpoId>7960</gpoId>
+          <lisID>2023</lisID>
+        </identifiers>
+        <lastName>Richmond</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Cedric</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2014-06-09</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>M001157</bioguideId>
+        <identifiers>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <lastName>McCaul</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Michael</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <party>R</party>
+        <middleName>T.</middleName>
+        <district>10</district>
+        <sponsorshipDate>2014-06-10</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>T000193</bioguideId>
+        <identifiers>
+          <bioguideId>T000193</bioguideId>
+          <lisID>1151</lisID>
+          <gpoId>8020</gpoId>
+        </identifiers>
+        <lastName>THOMPSON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>BENNIE</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>2</district>
+        <sponsorshipDate>2014-06-25</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Gerardo Hernandez Airport Security Act of 2014</title>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <title>Gerardo Hernandez Airport Security Act of 2014</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <title>Gerardo Hernandez Airport Security Act of 2014</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Airport Security Enhancement Act of 2014</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To improve intergovernmental planning for and communication during security incidents at domestic airports, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Gerardo Hernandez Airport Security Act of 2014</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. HUDSON:H.R. 4802.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, the Congress shall have power to layand collect taxes, duties, imposts and excises, to pay debtsand provide for the common defence and general welfare of theUnited States.[Page H5073]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 113-512</citation>
+      </committeeReport>
+    </committeeReports>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2014-07-21T21:24:38Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Airport Security Enhancement Act of 2014 - Directs the Assistant Secretary of Homeland Security (Transportation Security) of the Department of Homeland Security (DHS) to: (1) conduct outreach to all U.S. airports at which the Transportation Security Administration (TSA) performs, or oversees the implementation and performance of, security measures; and (2) give necessary technical assistance to verify that such airports have in place individualized working plans for responding to security incidents inside the airport perimeter, including active shooters, acts of terrorism, and incidents that target passenger-screening checkpoints.</p> <p> Requires the Assistant Secretary to: (1) identify best practices that exist across airports for security incident planning, management, and training; and (2) establish a mechanism through which to share those best practices with other airport operators nationwide.</p> <p>Requires the Assistant Secretary also to: (1) certify annually to specified congressional committees that all screening personnel have participated in practical training exercises for active shooter scenarios, and (2) analyze for those same committees how TSA can use cost savings achieved through efficiencies to increase over the next five fiscal years the funding available for checkpoint screening law enforcement support reimbursable agreements.</p>]]></text>
+          <updateDate>2014-06-05T04:00:00Z</updateDate>
+          <actionDate>2014-06-05</actionDate>
+        </item>
+        <item>
+          <versionCode>17</versionCode>
+          <actionDesc>Reported to House amended</actionDesc>
+          <name>Reported to House amended</name>
+          <lastSummaryUpdateDate>2014-07-24T19:24:22Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Gerardo Hernandez Airport Security Act of 2014 - (Sec. 3) Directs the Assistant Secretary of Homeland Security (Transportation Security) of the Department of Homeland Security (DHS) to: (1) conduct outreach to all U.S. airports at which the Transportation Security Administration (TSA) performs, or oversees the implementation and performance of, security measures; and (2) give necessary technical assistance to verify that such airports have in place individualized working plans for responding to security incidents inside the airport perimeter, including active shooters, acts of terrorism, and incidents that target passenger-screening checkpoints.</p> <p>Requires the Assistant Secretary to report to Congress on the outreach findings, including an analysis of the level of preparedness such airports have to respond to such incidents.</p> <p> (Sec. 4) Requires the Assistant Secretary to: (1) identify best practices that exist across airports for security incident planning, management, and training; and (2) establish a mechanism through which to share those best practices with other airport operators nationwide.</p> <p>(Sec. 5) Requires the Assistant Secretary also to: (1) certify annually to specified congressional committees that all screening personnel have participated in practical training exercises for active shooter scenarios, and (2) analyze for those same committees how TSA can use cost savings achieved through efficiencies to increase over the next five fiscal years the funding available for checkpoint screening law enforcement support reimbursable agreements.</p> <p>(Sec. 7) Declares that no additional appropriations are authorized to carry out this Act. Requires this Act to be carried out using amounts otherwise available.</p> <p>(Sec. 8) Requires the Assistant Secretary to review the interoperable communications capabilities of law enforcement, fire, and medical personnel responsible for responding to security incidents at all U.S. airports at which the TSA performs, or oversees the implementation and performance of, security measures.</p>]]></text>
+          <updateDate>2014-07-03T11:04:02Z</updateDate>
+          <actionDate>2014-07-03</actionDate>
+        </item>
+        <item>
+          <versionCode>36</versionCode>
+          <actionDesc>Passed House amended</actionDesc>
+          <name>Passed House amended</name>
+          <lastSummaryUpdateDate>2014-07-24T19:24:58Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was reported to the House on July 3, 2014. The summary of that version is repeated here.)</b></p> <p>Gerardo Hernandez Airport Security Act of 2014 - (Sec. 3) Directs the Assistant Secretary of Homeland Security (Transportation Security) of the Department of Homeland Security (DHS) to: (1) conduct outreach to all U.S. airports at which the Transportation Security Administration (TSA) performs, or oversees the implementation and performance of, security measures; and (2) give necessary technical assistance to verify that such airports have in place individualized working plans for responding to security incidents inside the airport perimeter, including active shooters, acts of terrorism, and incidents that target passenger-screening checkpoints.</p> <p>Requires the Assistant Secretary to report to Congress on the outreach findings, including an analysis of the level of preparedness such airports have to respond to such incidents.</p> <p> (Sec. 4) Requires the Assistant Secretary to: (1) identify best practices that exist across airports for security incident planning, management, and training; and (2) establish a mechanism through which to share those best practices with other airport operators nationwide.</p> <p>(Sec. 5) Requires the Assistant Secretary also to: (1) certify annually to specified congressional committees that all screening personnel have participated in practical training exercises for active shooter scenarios, and (2) analyze for those same committees how TSA can use cost savings achieved through efficiencies to increase over the next five fiscal years the funding available for checkpoint screening law enforcement support reimbursable agreements.</p> <p>(Sec. 7) Declares that no additional appropriations are authorized to carry out this Act. Requires this Act to be carried out using amounts otherwise available.</p> <p>(Sec. 8) Requires the Assistant Secretary to review the interoperable communications capabilities of law enforcement, fire, and medical personnel responsible for responding to security incidents at all U.S. airports at which the TSA performs, or oversees the implementation and performance of, security measures.</p>]]></text>
+          <updateDate>2014-07-22T16:00:05Z</updateDate>
+          <actionDate>2014-07-22</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 4802, Gerardo Hernandez Airport Security Act of 2014</title>
+        <url>http://www.cbo.gov/publication/45476</url>
+        <pubDate>2014-06-24T20:16:02Z</pubDate>
+      </item>
+      <item>
+        <title>H.R. 4802, Gerardo Hernandez Airport Security Act of 2014</title>
+        <url>https://www.cbo.gov/publication/45476</url>
+        <pubDate>2014-06-24T20:16:02Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Emergency communications systems</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Homeland security</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2014-07-23</actionDate>
+    </latestAction>
+    <billNumber>4802</billNumber>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>8</district>
+        <firstName>Richard</firstName>
+        <party>R</party>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <bioguideId>H001067</bioguideId>
+        <identifiers>
+          <bioguideId>H001067</bioguideId>
+          <gpoId />
+          <lisID>2140</lisID>
+        </identifiers>
+        <lastName>Hudson</lastName>
+        <middleName />
+        <state>NC</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00384</calendar>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

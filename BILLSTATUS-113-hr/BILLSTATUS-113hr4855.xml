@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-06-12</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-06-12T13:02:35Z</date>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-06-13T07:17:48Z</createDate>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2014-06-12</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-06-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-06-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-06-12</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. GERLACH:H.R. 4855.Congress has the power to enact this legislation pursuantto the following:The Congress enacts this bill pursuant to Clause 1 ofSection 8 of Article I of the United States Constitution.[Page H5364]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>4855</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Amends the Internal Revenue Code to exempt from the definition of "passive activity," for purposes of the passive loss tax rules, any qualified research activity carried on by a high technology research small business pass-thru entity.</p> <p>Defines "high technology research small business pass-thru entity" as any domestic pass-thru entity if: (1) more than 75% of the entity's expenditures are paid or incurred in connection with qualified research, or (2) more than 50% of the entity's expenditures constitute qualified research expenses. Designates a high technology research entity as a small business if such entity has 250 or fewer full-time employees and does not have aggregate gross assets in excess of $150 million. </p>]]></text>
+          <lastSummaryUpdateDate>2014-07-02T20:40:18Z</lastSummaryUpdateDate>
+          <updateDate>2014-06-12T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2014-06-12</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Capital gains tax</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>To amend the Internal Revenue Code of 1986 to provide an exception from the passive loss rules for investments in high technology research small business pass-thru entities.</title>
+    <updateDate>2016-10-25T16:14:02Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to provide an exception from the passive loss rules for investments in high technology research small business pass-thru entities.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to provide an exception from the passive loss rules for investments in high technology research small business pass-thru entities.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>PA</state>
+        <firstName>Jim</firstName>
+        <byRequestType />
+        <bioguideId>G000549</bioguideId>
+        <fullName>Rep. Gerlach, Jim [R-PA-6]</fullName>
+        <lastName>Gerlach</lastName>
+        <party>R</party>
+        <middleName />
+        <district>6</district>
+        <identifiers>
+          <lisID>1743</lisID>
+          <gpoId>8124</gpoId>
+          <bioguideId>G000549</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>COMPETE Act of 2014</latestTitle>
+        <number>2715</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2014-07-31</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>Start-up Jobs and Innovation Act</latestTitle>
+        <number>1658</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2013-11-06</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>A bill to amend the Internal Revenue Code of 1986 to extend the exclusion for small business stock, to provide incentives for small business high technology research investment, and for other purposes.</latestTitle>
+        <number>2139</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2014-03-13</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <district>1</district>
+        <firstName>RICHARD</firstName>
+        <state>MA</state>
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <lastName>NEAL</lastName>
+        <party>D</party>
+        <bioguideId>N000015</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>854</lisID>
+          <gpoId>7967</gpoId>
+          <bioguideId>N000015</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>3</district>
+        <firstName>Mike</firstName>
+        <state>PA</state>
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <lastName>Kelly</lastName>
+        <party>R</party>
+        <bioguideId>K000376</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <gpoId>8708</gpoId>
+          <lisID>2051</lisID>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>3</district>
+        <firstName>RON</firstName>
+        <state>WI</state>
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <lastName>KIND</lastName>
+        <party>D</party>
+        <bioguideId>K000188</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+          <lisID>1498</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>18</district>
+        <firstName>Aaron</firstName>
+        <state>IL</state>
+        <sponsorshipDate>2014-06-18</sponsorshipDate>
+        <fullName>Rep. Schock, Aaron [R-IL-18]</fullName>
+        <lastName>Schock</lastName>
+        <party>R</party>
+        <bioguideId>S001179</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1920</lisID>
+          <bioguideId>S001179</bioguideId>
+          <gpoId>7938</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <firstName>JOHN</firstName>
+        <state>CT</state>
+        <sponsorshipDate>2014-07-24</sponsorshipDate>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <lastName>LARSON</lastName>
+        <party>D</party>
+        <bioguideId>L000557</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+          <gpoId>7866</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

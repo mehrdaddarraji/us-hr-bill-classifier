@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-03-12</actionDate>
+        <committee>
+          <name>Transportation Security Subcommittee</name>
+          <systemCode>hshm07</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Transportation Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-07</actionDate>
+        <committee>
+          <name>Aviation Subcommittee</name>
+          <systemCode>hspw05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Transportation and Infrastructure</text>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Homeland Security</text>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>6</district>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <lastName>Black</lastName>
+        <middleName />
+        <state>TN</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8153</gpoId>
+          <bioguideId>B001273</bioguideId>
+          <lisID>2063</lisID>
+        </identifiers>
+        <firstName>Diane</firstName>
+        <bioguideId>B001273</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mrs. BLACK:H.R. 999.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution[Page H1321]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>999</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:00:20Z</updateDate>
+    <laws />
+    <createDate>2013-03-07T07:01:11Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Homeland Security Committee</name>
+          <subcommittees>
+            <item>
+              <name>Transportation Security Subcommittee</name>
+              <systemCode>hshm07</systemCode>
+              <activities>
+                <item>
+                  <date>2013-03-12T13:56:35Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hshm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-03-06T15:05:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <systemCode>hspw12</systemCode>
+              <activities>
+                <item>
+                  <date>2013-03-08T16:20:06Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Aviation Subcommittee</name>
+              <systemCode>hspw05</systemCode>
+              <activities>
+                <item>
+                  <date>2013-03-07T16:19:37Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-03-06T15:05:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Revises requirements with respect to the training of aliens and other individuals designated by the Secretary of Homeland Security (DHS) in the operation of certain aircraft.</p> <p>Authorizes a flight instructor, pilot school, or aviation training center to provide training to an individual in the operation of an aircraft with a takeoff weight of more than 12,500 pounds only if that individual has been checked against databases available to the Assistant Secretary of Homeland Security (Transportation Security Administration [TSA]) that he or she is: (1) a U.S. citizen, (2) a U.S. national, (3) a permanent resident, or (4) an alien temporarily admitted to the United States as a nonimmigrant for the purpose of obtaining such training.</p> <p>Directs the Secretary to require Federal Aviation Administration (FAA) certification of flight schools.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2013-05-02T20:27:17Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2013-03-06</actionDate>
+          <updateDate>2013-03-06T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>P000592</bioguideId>
+          <gpoId>8158</gpoId>
+          <lisID>1802</lisID>
+        </identifiers>
+        <bioguideId>P000592</bioguideId>
+        <district>2</district>
+        <firstName>Ted</firstName>
+        <lastName>Poe</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestTitle>Flight School Security Act of 2013</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1245</number>
+        <latestAction>
+          <actionDate>2013-03-27</actionDate>
+          <text>Referred to the Subcommittee on Transportation Security.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Homeland security</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+          <item>
+            <name>Vocational and technical education</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>To amend title 49, United States Code, to require that individuals seeking training in the operation of certain aircraft be checked against immigration information in the possession of the Secretary of Homeland Security to ensure that such individuals are citizens or nationals of the United States, lawful permanent resident aliens, or nonimmigrants admitted for a limited period to obtain such training, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend title 49, United States Code, to require that individuals seeking training in the operation of certain aircraft be checked against immigration information in the possession of the Secretary of Homeland Security to ensure that such individuals are citizens or nationals of the United States, lawful permanent resident aliens, or nonimmigrants admitted for a limited period to obtain such training, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>To amend title 49, United States Code, to require that individuals seeking training in the operation of certain aircraft be checked against immigration information in the possession of the Secretary of Homeland Security to ensure that such individuals are citizens or nationals of the United States, lawful permanent resident aliens, or nonimmigrants admitted for a limited period to obtain such training, and for other purposes.</title>
+    <billType>HR</billType>
+    <introducedDate>2013-03-06</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-03-12</actionDate>
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

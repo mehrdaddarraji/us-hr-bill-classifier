@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <introducedDate>2014-09-17</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2014-10-08T17:40:19Z</lastSummaryUpdateDate>
+          <actionDate>2014-09-17</actionDate>
+          <text><![CDATA[<p>Martin Luther King, Jr. National Historical Park Act of 2014 - Redesignates the Martin Luther King, Junior, National Historic Site in the state of Georgia as the &quot;Martin Luther King, Jr. National Historical Park.&quot; Replaces the current boundary map with an updated map dated April 2009.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2014-09-17T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2014-09-24T15:55:55Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2014-09-17T14:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <updateDate>2016-10-25T16:16:35Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <district>5</district>
+        <bioguideId>L000287</bioguideId>
+        <firstName>JOHN</firstName>
+        <byRequestType />
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>L000287</bioguideId>
+          <lisID>688</lisID>
+          <gpoId>7902</gpoId>
+        </identifiers>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <lastName>LEWIS</lastName>
+      </item>
+    </sponsors>
+    <amendments />
+    <title>Martin Luther King, Jr. National Historical Park Act of 2014</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Georgia</name>
+          </item>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <links />
+      <actionDate>2014-09-24</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <congress>113</congress>
+    <createDate>2014-09-18T05:11:15Z</createDate>
+    <originChamber>House</originChamber>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. LEWIS:H.R. 5517.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I of the United States Constitutionand its subsequent amendments, and further clarified andinterpreted by the Supreme Court of the United States.[Page H7676]</pre>]]></constitutionalAuthorityStatementText>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-09-24</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-09-17</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-09-17</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-09-17</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <billNumber>5517</billNumber>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <firstName>JERROLD</firstName>
+        <state>NY</state>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <identifiers>
+          <gpoId>8069</gpoId>
+          <lisID>850</lisID>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>N000002</bioguideId>
+        <middleName />
+        <district>10</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>NADLER</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>CHARLES</firstName>
+        <state>NY</state>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <identifiers>
+          <gpoId>8076</gpoId>
+          <lisID>944</lisID>
+          <bioguideId>R000053</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>R000053</bioguideId>
+        <middleName>B.</middleName>
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>RANGEL</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>SHEILA</firstName>
+        <state>TX</state>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <identifiers>
+          <gpoId>8174</gpoId>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>J000032</bioguideId>
+        <middleName />
+        <district>18</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>JACKSON LEE</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>ELEANOR</firstName>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Steve</firstName>
+        <state>TN</state>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <identifiers>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>C001068</bioguideId>
+        <middleName />
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cohen</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>BARBARA</firstName>
+        <state>CA</state>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>L000551</bioguideId>
+        <middleName />
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LEE</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>ALCEE</firstName>
+        <state>FL</state>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <identifiers>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>H000324</bioguideId>
+        <middleName>L.</middleName>
+        <district>20</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>HASTINGS</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>ELIOT</firstName>
+        <state>NY</state>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <identifiers>
+          <lisID>344</lisID>
+          <gpoId>8078</gpoId>
+          <bioguideId>E000179</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>E000179</bioguideId>
+        <middleName>L.</middleName>
+        <district>16</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>ENGEL</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>GREGORY</firstName>
+        <state>NY</state>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <identifiers>
+          <lisID>1506</lisID>
+          <gpoId>8067</gpoId>
+          <bioguideId>M001137</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>M001137</bioguideId>
+        <middleName>W.</middleName>
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MEEKS</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>David</firstName>
+        <state>GA</state>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <identifiers>
+          <lisID>1722</lisID>
+          <gpoId>7910</gpoId>
+          <bioguideId>S001157</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>S001157</bioguideId>
+        <middleName />
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Scott</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>CORRINE</firstName>
+        <state>FL</state>
+        <fullName>Rep. Brown, Corrine [D-FL-5]</fullName>
+        <identifiers>
+          <lisID>132</lisID>
+          <gpoId>7875</gpoId>
+          <bioguideId>B000911</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>B000911</bioguideId>
+        <middleName />
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BROWN</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>SANDER</firstName>
+        <state>MI</state>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <identifiers>
+          <gpoId>7997</gpoId>
+          <lisID>683</lisID>
+          <bioguideId>L000263</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>L000263</bioguideId>
+        <middleName>M.</middleName>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LEVIN</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Yvette</firstName>
+        <state>NY</state>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>C001067</bioguideId>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Clarke</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>CHAKA</firstName>
+        <state>PA</state>
+        <fullName>Rep. Fattah, Chaka [D-PA-2]</fullName>
+        <identifiers>
+          <lisID>371</lisID>
+          <gpoId>8120</gpoId>
+          <bioguideId>F000043</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>F000043</bioguideId>
+        <middleName />
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>FATTAH</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>EDDIE</firstName>
+        <state>TX</state>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <identifiers>
+          <bioguideId>J000126</bioguideId>
+          <gpoId>8186</gpoId>
+          <lisID>599</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>J000126</bioguideId>
+        <middleName>BERNICE</middleName>
+        <district>30</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>JOHNSON</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Henry</firstName>
+        <state>GA</state>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <identifiers>
+          <lisID>1843</lisID>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>J000288</bioguideId>
+        <middleName>C. "Hank"</middleName>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Johnson</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Marcia</firstName>
+        <state>OH</state>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+        <identifiers>
+          <bioguideId>F000455</bioguideId>
+          <lisID>1895</lisID>
+          <gpoId>8101</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>F000455</bioguideId>
+        <middleName>L.</middleName>
+        <district>11</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Fudge</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>ELIJAH</firstName>
+        <state>MD</state>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <identifiers>
+          <bioguideId>C000984</bioguideId>
+          <gpoId>7982</gpoId>
+          <lisID>256</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>C000984</bioguideId>
+        <middleName>E.</middleName>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CUMMINGS</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Frederica</firstName>
+        <state>FL</state>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <gpoId>7889</gpoId>
+          <lisID>2004</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <bioguideId>W000808</bioguideId>
+        <middleName>S.</middleName>
+        <district>24</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wilson</lastName>
+      </item>
+    </cosponsors>
+    <notes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Martin Luther King, Jr. National Historical Park Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To redesignate the Martin Luther King, Junior, National Historic Site in the State of Georgia, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Martin Luther King, Jr. National Historical Park Act of 2014</title>
+      </item>
+    </titles>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

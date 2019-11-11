@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <prayer>1</prayer>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-05-21</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-04-02</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-14</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2013-03-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <links />
+        <actionDate>2013-03-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2013-03-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2013-03-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2013-03-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <sponsorshipDate>2013-04-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Carson</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1889</lisID>
+          <bioguideId>C001072</bioguideId>
+          <gpoId>7946</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Andre</firstName>
+        <bioguideId>C001072</bioguideId>
+        <state>IN</state>
+        <district>7</district>
+      </item>
+      <item>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipDate>2013-04-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>JONES</lastName>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>WALTER</firstName>
+        <bioguideId>J000255</bioguideId>
+        <state>NC</state>
+        <district>3</district>
+      </item>
+      <item>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipDate>2013-04-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MCGOVERN</lastName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <bioguideId>M000312</bioguideId>
+        <state>MA</state>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <sponsorshipDate>2013-04-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Roe</lastName>
+        <party>R</party>
+        <middleName>P.</middleName>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <bioguideId>R000582</bioguideId>
+        <state>TN</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <sponsorshipDate>2013-04-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Stivers</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+          <gpoId>8105</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <bioguideId>S001187</bioguideId>
+        <state>OH</state>
+        <district>15</district>
+      </item>
+      <item>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+          <lisID>1748</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marsha</firstName>
+        <bioguideId>B001243</bioguideId>
+        <state>TN</state>
+        <district>7</district>
+      </item>
+      <item>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <sponsorshipDate>2013-04-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Swalwell</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Eric</firstName>
+        <bioguideId>S001193</bioguideId>
+        <state>CA</state>
+        <district>15</district>
+      </item>
+      <item>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SHIMKUS</lastName>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>1527</lisID>
+          <bioguideId>S000364</bioguideId>
+          <gpoId>7939</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <bioguideId>S000364</bioguideId>
+        <state>IL</state>
+        <district>15</district>
+      </item>
+      <item>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>McKinley</lastName>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <identifiers>
+          <bioguideId>M001180</bioguideId>
+          <gpoId>8222</gpoId>
+          <lisID>2074</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <bioguideId>M001180</bioguideId>
+        <state>WV</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BRADY</lastName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>1469</lisID>
+          <bioguideId>B001227</bioguideId>
+          <gpoId>8119</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>ROBERT</firstName>
+        <bioguideId>B001227</bioguideId>
+        <state>PA</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Davis</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+          <lisID>2126</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Rodney</firstName>
+        <bioguideId>D000619</bioguideId>
+        <state>IL</state>
+        <district>13</district>
+      </item>
+      <item>
+        <fullName>Rep. Andrews, Robert E. [D-NJ-1]</fullName>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>ANDREWS</lastName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>21</lisID>
+          <gpoId>8043</gpoId>
+          <bioguideId>A000210</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>ROBERT</firstName>
+        <bioguideId>A000210</bioguideId>
+        <state>NJ</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Whitfield, Ed [R-KY-1]</fullName>
+        <sponsorshipDate>2013-06-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>WHITFIELD</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000413</bioguideId>
+          <gpoId>7953</gpoId>
+          <lisID>1222</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>EDWARD</firstName>
+        <bioguideId>W000413</bioguideId>
+        <state>KY</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <sponsorshipDate>2013-06-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LARSEN</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000560</bioguideId>
+          <lisID>1675</lisID>
+          <gpoId>8206</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>RICK</firstName>
+        <bioguideId>L000560</bioguideId>
+        <state>WA</state>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Michaud, Michael H. [D-ME-2]</fullName>
+        <sponsorshipDate>2013-06-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Michaud</lastName>
+        <party>D</party>
+        <middleName>H.</middleName>
+        <identifiers>
+          <lisID>1730</lisID>
+          <bioguideId>M001149</bioguideId>
+          <gpoId>7985</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michael</firstName>
+        <bioguideId>M001149</bioguideId>
+        <state>ME</state>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <sponsorshipDate>2013-06-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Harris</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <gpoId>7976</gpoId>
+          <lisID>2026</lisID>
+          <bioguideId>H001052</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Andy</firstName>
+        <bioguideId>H001052</bioguideId>
+        <state>MD</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Schock, Aaron [R-IL-18]</fullName>
+        <sponsorshipDate>2013-07-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Schock</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>1920</lisID>
+          <bioguideId>S001179</bioguideId>
+          <gpoId>7938</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Aaron</firstName>
+        <bioguideId>S001179</bioguideId>
+        <state>IL</state>
+        <district>18</district>
+      </item>
+      <item>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Collins</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>2151</lisID>
+          <bioguideId>C001092</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Chris</firstName>
+        <bioguideId>C001092</bioguideId>
+        <state>NY</state>
+        <district>27</district>
+      </item>
+      <item>
+        <fullName>Rep. Gibson, Christopher P. [R-NY-19]</fullName>
+        <sponsorshipDate>2013-08-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gibson</lastName>
+        <party>R</party>
+        <middleName>P.</middleName>
+        <identifiers>
+          <bioguideId>G000564</bioguideId>
+          <lisID>2043</lisID>
+          <gpoId>8081</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Christopher</firstName>
+        <bioguideId>G000564</bioguideId>
+        <state>NY</state>
+        <district>19</district>
+      </item>
+      <item>
+        <fullName>Rep. Maffei, Daniel B. [D-NY-24]</fullName>
+        <sponsorshipDate>2013-09-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Maffei</lastName>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <identifiers>
+          <gpoId>7506</gpoId>
+          <bioguideId>M001171</bioguideId>
+          <lisID>1943</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Daniel</firstName>
+        <bioguideId>M001171</bioguideId>
+        <state>NY</state>
+        <district>24</district>
+      </item>
+      <item>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <sponsorshipDate>2013-09-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DAVIS</lastName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>1641</lisID>
+          <bioguideId>D000598</bioguideId>
+          <gpoId>7858</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>SUSAN</firstName>
+        <bioguideId>D000598</bioguideId>
+        <state>CA</state>
+        <district>53</district>
+      </item>
+      <item>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <sponsorshipDate>2013-10-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Ruiz</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>2109</lisID>
+          <gpoId />
+          <bioguideId>R000599</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Raul</firstName>
+        <bioguideId>R000599</bioguideId>
+        <state>CA</state>
+        <district>36</district>
+      </item>
+      <item>
+        <fullName>Rep. Israel, Steve [D-NY-3]</fullName>
+        <sponsorshipDate>2013-11-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>ISRAEL</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>I000057</bioguideId>
+          <gpoId>8063</gpoId>
+          <lisID>1663</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>STEVE</firstName>
+        <bioguideId>I000057</bioguideId>
+        <state>NY</state>
+        <district>3</district>
+      </item>
+      <item>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <sponsorshipDate>2013-12-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Rooney</lastName>
+        <party>R</party>
+        <middleName>J.</middleName>
+        <identifiers>
+          <gpoId>7888</gpoId>
+          <lisID>1916</lisID>
+          <bioguideId>R000583</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Thomas</firstName>
+        <bioguideId>R000583</bioguideId>
+        <state>FL</state>
+        <district>17</district>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-03-07T07:01:11Z</createDate>
+    <introducedDate>2013-03-06</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-05-21</actionDate>
+      <text>Subcommittee Hearings Held.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <title>To direct the Secretary of Defense to establish a task force on urotrauma.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To direct the Secretary of Defense to establish a task force on urotrauma.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Sex and reproductive health</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:09:00Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <identifiers>
+          <gpoId>7954</gpoId>
+          <lisID>1922</lisID>
+          <bioguideId>G000558</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Brett</firstName>
+        <lastName>Guthrie</lastName>
+        <bioguideId>G000558</bioguideId>
+        <state>KY</state>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <title>To direct the Secretary of Defense to establish a task force on urotrauma.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-03-06</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2013-03-28T12:32:34Z</lastSummaryUpdateDate>
+          <updateDate>2013-03-06T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Directs the Secretary of Defense (DOD), in order to continue and expand the DOD report submitted in 2011, to establish the Task Force on Urotrauma to: (1) conduct a study on urotrauma (injury to the urinary tract from a penetrating, blunt, blast, thermal, chemical, or biological cause) among members of the Armed Forces and veterans; and (2) provide an interim and final report to the congressional defense and veterans committees on such study.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>984</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2013-05-21T18:38:53Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-04-02T19:45:18Z</date>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-06T15:03:50Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Armed Services Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-03-14T20:30:51Z</date>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-06T15:03:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-09-26T12:39:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/53149</url>
+        <title>H.R. 984, Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017</title>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 32 (Wednesday, March 6, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GUTHRIE:H.R. 984.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 12The Congress shall have Power to raise and support Armies,but no Appropriation of Money to that Use shall be for alonger term than two Years;[Page H1320]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

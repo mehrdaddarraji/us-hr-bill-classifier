@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-04-25</actionDate>
+        <committee>
+          <systemCode>hshm11</systemCode>
+          <name>Border and Maritime Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-04-16</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <type>IntroReferral</type>
+        <actionDate>2014-03-26</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Judiciary</text>
+        <type>IntroReferral</type>
+        <actionDate>2014-03-26</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2014-03-26</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Homeland Security</text>
+        <type>IntroReferral</type>
+        <actionDate>2014-03-26</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2014-03-26</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2014-03-26</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>3</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>16</district>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <lastName>O'Rourke</lastName>
+        <middleName />
+        <state>TX</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>O000170</bioguideId>
+          <lisID>2162</lisID>
+        </identifiers>
+        <firstName>Beto</firstName>
+        <bioguideId>O000170</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. O'ROURKE:H.R. 4303.Congress has the power to enact this legislation pursuantto the following:Clause 18 of Section 8 of Article I of the ConstitutionTo make all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by the Constitution in the Government of theUnited States, or in any Department or Office thereof.[Page H2695]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>4303</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:11:52Z</updateDate>
+    <laws />
+    <createDate>2014-03-27T07:22:40Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <date>2014-03-26T14:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Border and Maritime Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2014-04-25T21:22:48Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hshm11</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hshm00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2014-03-26T14:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2014-04-16T20:50:50Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2014-03-26T14:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Border Enforcement Accountability, Oversight, and Community Engagement Act of 2014 - Establishes: (1) the Department of Homeland Security Border Oversight Commission, and (2) a northern border subcommittee and a southern border subcommittee within the Commission. </p> <p>Requires the Commission and the subcommittees to: (1) recommend border enforcement policy improvements; (2) evaluate policies of federal agencies operating along the borders to protect due process and human rights of border residents and visitors, protect land owner private property rights, and reduce the number of migrant deaths; (3) recommend safety improvements for U.S. Customs and Border Protection (CBP) personnel; and (4) evaluate training and the extent to which CBP supervisory and management personnel practices encourage workforce development and promote field safety. </p> <p>Amends the Homeland Security Act of 2002 to rename the position of Citizenship and Immigration Services Ombudsman in the Department of Homeland Security (DHS) as the Ombudsman for Border and Immigration Related Concerns. Revises related function and administrative provisions, including requiring the Ombudsman to establish a Border Community Liaison Office in each Border Patrol sector on the northern and southern borders.</p> <p>Sets forth specified training and continuing education requirements for CBP and U.S. Immigration and Customs Enforcement (ICE) personnel.</p> <p>Directs the Secretary of Homeland Security to submit to Congress an assessment of current guidelines for managing ports of entry under DHS control.</p> <p> Directs: (1) CBP to report to Congress regarding deaths occurring along the U.S.-Mexico border, and (2) the Government Accountability Office (GAO) to review such report.</p> <p>Directs: (1) GAO to examine the extent to which CBP has clarified use of force policies, and (2) the Secretary to require CBP to implement any recommendations contained in such examination.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2014-03-26</actionDate>
+          <lastSummaryUpdateDate>2014-04-29T18:49:47Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2014-03-26T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1738</lisID>
+          <bioguideId>P000588</bioguideId>
+          <gpoId>8057</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Pearce</lastName>
+        <middleName />
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+        <district>2</district>
+        <firstName>Stevan</firstName>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000588</bioguideId>
+        <state>NM</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2167</lisID>
+          <bioguideId>V000132</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Vela</lastName>
+        <middleName />
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+        <district>34</district>
+        <firstName>Filemon</firstName>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000132</bioguideId>
+        <state>TX</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>V000131</bioguideId>
+          <lisID>2166</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Veasey</lastName>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2014-03-28</sponsorshipDate>
+        <district>33</district>
+        <firstName>Marc</firstName>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000131</bioguideId>
+        <state>TX</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>T000193</bioguideId>
+          <lisID>1151</lisID>
+          <gpoId>8020</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>THOMPSON</lastName>
+        <middleName />
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <district>2</district>
+        <firstName>BENNIE</firstName>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000193</bioguideId>
+        <state>MS</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2112</lisID>
+          <bioguideId>V000130</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Vargas</lastName>
+        <middleName />
+        <sponsorshipDate>2014-04-03</sponsorshipDate>
+        <district>51</district>
+        <firstName>Juan</firstName>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000130</bioguideId>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7924</gpoId>
+          <bioguideId>G000535</bioguideId>
+          <lisID>478</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>GUTIERREZ</lastName>
+        <middleName>V.</middleName>
+        <sponsorshipDate>2014-04-08</sponsorshipDate>
+        <district>4</district>
+        <firstName>LUIS</firstName>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000535</bioguideId>
+        <state>IL</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8374</gpoId>
+          <bioguideId>D000617</bioguideId>
+          <lisID>2096</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DelBene</lastName>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2014-05-06</sponsorshipDate>
+        <district>1</district>
+        <firstName>Suzan</firstName>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000617</bioguideId>
+        <state>WA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>E000288</bioguideId>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Ellison</lastName>
+        <middleName />
+        <sponsorshipDate>2014-06-25</sponsorshipDate>
+        <district>5</district>
+        <firstName>Keith</firstName>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000288</bioguideId>
+        <state>MN</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Customs enforcement</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Due process and equal protection</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Immigrant health and welfare</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Property rights</name>
+          </item>
+          <item>
+            <name>Technology assessment</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Border Enforcement Accountability, Oversight, and Community Engagement Act of 2014</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To increase transparency, accountability, and community engagement within U.S. Customs and Border Protection, provide independent oversight of border security activities, improve training for U.S. Customs and Border Protection agents and officers, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Border Enforcement Accountability, Oversight, and Community Engagement Act of 2014</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Border Enforcement Accountability, Oversight, and Community Engagement Act of 2014</title>
+    <billType>HR</billType>
+    <introducedDate>2014-03-26</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2014-04-25</actionDate>
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-09-19</actionDate>
+        <committee>
+          <name>Environment and the Economy Subcommittee</name>
+          <systemCode>hsif18</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment and the Economy.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-09-18</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2014-09-18</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2014-09-18</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-09-18</introducedDate>
+    <updateDate>2016-10-25T16:16:40Z</updateDate>
+    <createDate>2014-09-19T10:01:46Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-09-18T13:04:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-09-19T14:44:54Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif18</systemCode>
+              <name>Environment and the Economy Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <fullName>Rep. Waxman, Henry A. [D-CA-33]</fullName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <district>33</district>
+        <identifiers>
+          <lisID>1209</lisID>
+          <gpoId>7835</gpoId>
+          <bioguideId>W000215</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>HENRY</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000215</bioguideId>
+        <lastName>WAXMAN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Assistance, Quality, and Affordability Act of 2014</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Assistance, Quality, and Affordability Act of 2014</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend the Safe Drinking Water Act to increase assistance for States, water systems, and disadvantaged communities; to encourage good financial and environmental management of water systems; to strengthen the Environmental Protection Agency's ability to enforce the requirements of the Act; and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Assistance, Quality, and Affordability Act of 2014</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. TONKO:H.R. 5534.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3[Page H7888]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2014-09-18</actionDate>
+          <updateDate>2014-09-18T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-03-27T19:31:07Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Assistance, Quality, and Affordability Act of 2014 - Amends the Safe Drinking Water Act to reauthorize, revise, and increase funding for the drinking water state revolving fund (SRF) for FY2015-FY2017. (The Drinking Water SRF program awards capitalization grants to states, which in turn provide financial assistance to public water systems for infrastructure improvements.) Expands the list of activities for which the SRF may be used and revises the process for prioritizing applications for SRF funds.</p> <p> Sets forth requirements concerning SRF funded projects using goods produced in the United States and giving prevailing wages to laborers and mechanics.</p> <p> Revises requirements for state Intended Use Plans for SRF funds, in part by requiring the plans to list systems that are not in compliance with national primary drinking water regulation and reserve a specified amount of funding for assistance for disadvantaged communities.</p> <p> Raises the cap on SRF funding that may be used for projects in American Samoa, Northern Mariana Islands, Guam, and the Virgin Islands.</p> <p> Repeals requirements for regulations on variance technologies. Repeals state authority to grant variances for compliance with a drinking water regulation requirement specifying a maximum contaminant level or treatment technique.</p> <p> Directs the EPA to:</p> <ul> <li>study the presence of pharmaceuticals and personal care products in drinking water sources,</li> <li>establish requirements for electronic submission of compliance monitoring data by public water systems,</li> <li>collect data on best practices for administration of SRF programs, and</li> <li>implement a voluntary certification program for effective water loss and leak control technology.</li> </ul> <p> Reauthorizes a program to provide technical assistance to enable small public water systems to achieve and maintain compliance with applicable national primary drinking water regulations for FY2015-FY2019.</p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>American Samoa</name>
+          </item>
+          <item>
+            <name>Buy American requirements</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Environmental Protection Agency (EPA)</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Environmental technology</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Guam</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Metals</name>
+          </item>
+          <item>
+            <name>Northern Mariana Islands</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>U.S. territories and protectorates</name>
+          </item>
+          <item>
+            <name>Virgin Islands</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+      <actionDate>2014-09-19</actionDate>
+    </latestAction>
+    <billNumber>5534</billNumber>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>20</district>
+        <firstName>Paul</firstName>
+        <party>D</party>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <bioguideId>T000469</bioguideId>
+        <identifiers>
+          <lisID>1942</lisID>
+          <gpoId>8082</gpoId>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+        <lastName>Tonko</lastName>
+        <middleName />
+        <state>NY</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

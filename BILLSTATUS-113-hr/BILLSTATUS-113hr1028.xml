@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-07</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>7</district>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <lastName>CAPUANO</lastName>
+        <middleName>E.</middleName>
+        <state>MA</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7973</gpoId>
+          <lisID>1564</lisID>
+          <bioguideId>C001037</bioguideId>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+        <bioguideId>C001037</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. CAPUANO:H.R. 1028.Congress has the power to enact this legislation pursuantto the following:Article I, section 8, clause 1 (relating to the generalwelfare of the United States); and Article I, section 8,clause 3 (relating to the power to regulate interstatecommerce).[Page H1328]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1028</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:00:25Z</updateDate>
+    <laws />
+    <createDate>2013-03-08T07:01:11Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-03-07T17:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>End Unnecessary Borrowing Act of 2013 - Amends the National Housing Act with respect to the requirement that the Secretary of Housing and Urban Development (HUD) endeavor to ensure that the Mutual Mortgage Insurance Fund attains a capital ratio of not less than 2% within 10 years after enactment of that requirement (November 5, 1990) and to ensure that the Fund maintains at least that capital ratio at all times thereafter.</p> <p>Prohibits these requirements from being construed to authorize or require the Secretary to borrow any amounts to comply with the capital ratio requirement.</p> <p>Limits the use of any authority of the Secretary to borrow from the Treasury for the Mutual Mortgage Insurance Fund only to the extent necessary to pay claims on mortgage insurance that is an obligation of such Fund.</p> <p><BR> </p>]]></text>
+          <lastSummaryUpdateDate>2013-03-20T21:30:19Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-03-07T05:00:00Z</updateDate>
+          <actionDate>2013-03-07</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ellison</lastName>
+        <bioguideId>E000288</bioguideId>
+        <middleName />
+        <district>5</district>
+        <identifiers>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <state>MN</state>
+        <sponsorshipDate>2013-03-15</sponsorshipDate>
+        <firstName>Keith</firstName>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>CLAY</lastName>
+        <bioguideId>C001049</bioguideId>
+        <middleName>LACY</middleName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1654</lisID>
+          <bioguideId>C001049</bioguideId>
+          <gpoId>8009</gpoId>
+        </identifiers>
+        <state>MO</state>
+        <sponsorshipDate>2013-03-15</sponsorshipDate>
+        <firstName>WM.</firstName>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>SHERMAN</lastName>
+        <bioguideId>S000344</bioguideId>
+        <middleName />
+        <district>30</district>
+        <identifiers>
+          <gpoId>7832</gpoId>
+          <lisID>1526</lisID>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2013-04-10</sponsorshipDate>
+        <firstName>BRAD</firstName>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2013-03-04</actionDate>
+          <text>Referred to the House Committee on Financial Services.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <congress>113</congress>
+        <number>941</number>
+        <latestTitle>End Unnecessary Borrowing Act of 2013</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>End Unnecessary Borrowing Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To ensure that any authority of the Mutual Mortgage Insurance Fund to borrow amounts from the Treasury is used only to pay mortgage insurance claims.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>End Unnecessary Borrowing Act of 2013</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>End Unnecessary Borrowing Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-03-07</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-03-07</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

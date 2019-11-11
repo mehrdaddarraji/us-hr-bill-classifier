@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>3</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>3</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-04-11</actionDate>
+        <committee>
+          <name>Trade Subcommittee</name>
+          <systemCode>hswm04</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-04-08</actionDate>
+        <committee>
+          <name>Immigration and Border Security Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-14</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-13</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Transportation and Infrastructure, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-03-13</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Transportation and Infrastructure, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-03-13</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Transportation and Infrastructure, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-03-13</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Transportation and Infrastructure, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-03-13</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-03-13</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2013-01-30</actionDate>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S401-402)</text>
+        </latestAction>
+        <number>178</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>Cross-Border Trade Enhancement Act of 2013</latestTitle>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <party>R</party>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2013-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>M001157</bioguideId>
+        <firstName>Michael</firstName>
+        <identifiers>
+          <gpoId>8166</gpoId>
+          <lisID>1804</lisID>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+        <lastName>McCaul</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>V000132</bioguideId>
+        <firstName>Filemon</firstName>
+        <identifiers>
+          <bioguideId>V000132</bioguideId>
+          <lisID>2167</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>34</district>
+        <lastName>Vela</lastName>
+      </item>
+      <item>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>O000170</bioguideId>
+        <firstName>Beto</firstName>
+        <identifiers>
+          <lisID>2162</lisID>
+          <bioguideId>O000170</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>16</district>
+        <lastName>O'Rourke</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Gallego, Pete P. [D-TX-23]</fullName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2013-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>G000572</bioguideId>
+        <firstName>Pete</firstName>
+        <identifiers>
+          <lisID>2164</lisID>
+          <bioguideId>G000572</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>23</district>
+        <lastName>Gallego</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>F000460</bioguideId>
+        <firstName>Blake</firstName>
+        <identifiers>
+          <gpoId>8183</gpoId>
+          <bioguideId>F000460</bioguideId>
+          <lisID>2067</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>27</district>
+        <lastName>Farenthold</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Hinojosa, Ruben [D-TX-15]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-03-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>H000636</bioguideId>
+        <firstName>RUBEN</firstName>
+        <identifiers>
+          <lisID>1490</lisID>
+          <bioguideId>H000636</bioguideId>
+          <gpoId>8171</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>15</district>
+        <lastName>HINOJOSA</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>V000130</bioguideId>
+        <firstName>Juan</firstName>
+        <identifiers>
+          <lisID>2112</lisID>
+          <bioguideId>V000130</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>51</district>
+        <lastName>Vargas</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2013-10-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <bioguideId>N000127</bioguideId>
+        <firstName>RICHARD</firstName>
+        <identifiers>
+          <lisID>867</lisID>
+          <bioguideId>N000127</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <lastName>NOLAN</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2014-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>W000816</bioguideId>
+        <firstName>Roger</firstName>
+        <identifiers>
+          <bioguideId>W000816</bioguideId>
+          <gpoId />
+          <lisID>2165</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>25</district>
+        <lastName>Williams</lastName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-03-14T07:01:11Z</createDate>
+    <introducedDate>2013-03-13</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-04-11</actionDate>
+      <text>Referred to the Subcommittee on Trade.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Cross-Border Trade Enhancement Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To provide for alternative financing arrangements for the provision of certain services and the construction and maintenance of infrastructure at land border ports of entry, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Cross-Border Trade Enhancement Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Customs enforcement</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:10:17Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <identifiers>
+          <bioguideId>C001063</bioguideId>
+          <lisID>1807</lisID>
+          <gpoId>8184</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Henry</firstName>
+        <lastName>Cuellar</lastName>
+        <bioguideId>C001063</bioguideId>
+        <state>TX</state>
+        <district>28</district>
+      </item>
+    </sponsors>
+    <title>Cross-Border Trade Enhancement Act of 2013</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-03-26T20:38:50Z</lastSummaryUpdateDate>
+          <actionDate>2013-03-13</actionDate>
+          <text><![CDATA[<p>Cross-Border Trade Enhancement Act of 2013 - Authorizes the Secretary of Homeland Security (DHS) to enter into agreements with persons for the U.S. Customs and Border Protection (CBP) to provide customs and immigration services at a land border port of entry, subject to payment of a fee to reimburse the CBP for providing such services. Declares that nothing in this grant of authority shall be construed to reduce the responsibilities or duties of the CBP to provide services at land border ports of entry that have been authorized by law and federally-funded.</p> <p>Directs the Administrator of General Services to establish procedures for evaluating proposals submitted by persons to: (1) enter into cost-sharing or reimbursement agreements with the General Services Administration (GSA) for the construction or maintenance of infrastructure at a land border port of entry, and (2) provide GSA an unconditional gift of property for use in the construction or maintenance of such infrastructure.</p> <p>Prescribes minimum requirements for such procedures.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-03-13T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1108</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hswm04</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-04-11T14:51:54Z</date>
+                </item>
+              </activities>
+              <name>Trade Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-13T14:02:10Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-04-08T21:27:34Z</date>
+                </item>
+              </activities>
+              <name>Immigration and Border Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-13T14:02:20Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hspw13</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-03-14T14:19:54Z</date>
+                </item>
+              </activities>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-13T14:02:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 36 (Wednesday, March 13, 2013)][Pages H1396-H1397]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CUELLAR:H.R. 1108.Congress has the power to enact this legislation pursuantto the following:The U.S. Constitution Article I, Section 8: Powers ofCongress Clause 18[[Page H1397]]The Congress shall have power . . . To make all laws whichshall be necessary and proper for carrying into execution theforegoing powers, and all other powers vested by thisConstitution in the government of the United States, or inany department or officer thereof.</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

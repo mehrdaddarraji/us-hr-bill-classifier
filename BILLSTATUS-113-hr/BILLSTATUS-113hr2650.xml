@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors />
+    <actions>
+      <actionTypeCounts>
+        <passedSenate>1</passedSenate>
+        <reportedToHouse>1</reportedToHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <billReferrals>1</billReferrals>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <sentToHouse>1</sentToHouse>
+        <committeeDischarged>1</committeeDischarged>
+        <presentedToPresident>1</presentedToPresident>
+        <placeholderTextForH>3</placeholderTextForH>
+        <becamePublicLaw>2</becamePublicLaw>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <generalDebate>1</generalDebate>
+        <referredToCommittee>1</referredToCommittee>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <prayer>1</prayer>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForE>3</placeholderTextForE>
+        <considerationByHouse>1</considerationByHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-03-21</actionDate>
+        <actionCode>E40000</actionCode>
+        <text>Became Public Law No: 113-88.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/2650/text/pl</url>
+            <name>Public Law No: 113-88</name>
+          </link>
+        </links>
+        <type>President</type>
+      </item>
+      <item>
+        <actionDate>2014-03-21</actionDate>
+        <actionCode>36000</actionCode>
+        <text>Became Public Law No: 113-88.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/2650/text/pl</url>
+            <name>Public Law No: 113-88</name>
+          </link>
+        </links>
+        <type>BecameLaw</type>
+      </item>
+      <item>
+        <actionDate>2014-03-21</actionDate>
+        <actionCode>E30000</actionCode>
+        <text>Signed by President.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>President</type>
+      </item>
+      <item>
+        <actionDate>2014-03-21</actionDate>
+        <actionCode>36000</actionCode>
+        <text>Signed by President.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>BecameLaw</type>
+      </item>
+      <item>
+        <actionDate>2014-03-18</actionDate>
+        <actionCode>E20000</actionCode>
+        <text>Presented to President.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-03-18</actionDate>
+        <actionCode>28000</actionCode>
+        <text>Presented to President.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>President</type>
+      </item>
+      <item>
+        <actionDate>2014-03-14</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-03-13</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-03-13</actionDate>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-03-13</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S1668</url>
+            <name>S1668</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S1668)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2014-03-13</actionDate>
+        <actionCode>14500</actionCode>
+        <text>Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S1668)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S1668</url>
+            <name>S1668</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-12-09</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-12-03</actionDate>
+        <actionCode>H37300</actionCode>
+        <actionTime>14:09:10</actionTime>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7425)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H7425</url>
+            <name>H7425</name>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2013-12-03</actionDate>
+        <actionCode>8000</actionCode>
+        <actionTime>14:09:10</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7425)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H7425</url>
+            <name>H7425</name>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2013-12-03</actionDate>
+        <actionCode>H8D000</actionCode>
+        <actionTime>14:01:01</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2650.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/2650</url>
+            <name>H.R. 2650</name>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2013-12-03</actionDate>
+        <actionCode>H30000</actionCode>
+        <actionTime>14:00:59</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H7425-7426)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H7425-7426</url>
+            <name>H7425-7426</name>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2013-12-03</actionDate>
+        <actionCode>H30300</actionCode>
+        <actionTime>14:00:39</actionTime>
+        <text>Mr. McClintock moved to suspend the rules and pass the bill, as amended.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2013-09-10</actionDate>
+        <actionCode>H12410</actionCode>
+        <text>Placed on the Union Calendar, Calendar No. 141.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2013-09-10</actionDate>
+        <actionCode>H12200</actionCode>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 113-194.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/194</url>
+            <name>H. Rept. 113-194</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-09-10</actionDate>
+        <actionCode>5000</actionCode>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 113-194.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/194</url>
+            <name>H. Rept. 113-194</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-31</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-31</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-31</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Indian and Alaska Native Affairs Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-23</actionDate>
+        <committee>
+          <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+          <systemCode>hsii24</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-15</actionDate>
+        <committee>
+          <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+          <systemCode>hsii24</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-10</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-07-10</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-07-10</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <billType>HR</billType>
+    <title>Fond du Lac Band of Lake Superior Chippewa Non-Intercourse Act of 2013</title>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Fond du Lac Band of Lake Superior Chippewa Non-Intercourse Act of 2013 - Authorizes the Fond du Lac Band of Lake Superior Chippewa in Minnesota to lease, sell, convey, warrant, or otherwise transfer all or any portion of its interest in any real property that is not held in trust by the United States for the Band's benefit.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2013-07-17T21:07:00Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2013-07-10</actionDate>
+          <updateDate>2013-07-10T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <versionCode>79</versionCode>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Fond du Lac Band of Lake Superior Chippewa Non-Intercourse Act of 2013 - Authorizes the Fond du Lac Band of Lake Superior Chippewa in Minnesota to lease, sell, convey, warrant, or otherwise transfer all or any portion of its interest in any real property that is not held in trust by the United States for the Band's benefit.</p>]]></text>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2013-10-30T20:05:57Z</lastSummaryUpdateDate>
+          <name>Reported to House without amendment</name>
+          <actionDate>2013-09-10</actionDate>
+          <updateDate>2013-09-10T13:58:40Z</updateDate>
+        </item>
+        <item>
+          <versionCode>36</versionCode>
+          <text><![CDATA[<p> Authorizes the Fond du Lac Band of Lake Superior Chippewa in Minnesota to lease, sell, convey, warrant, or otherwise transfer all or any portion of its interest in any real property that is not held in trust by the United States for the Band's benefit.</p>]]></text>
+          <actionDesc>Passed House amended</actionDesc>
+          <lastSummaryUpdateDate>2013-12-31T19:52:34Z</lastSummaryUpdateDate>
+          <name>Passed House amended</name>
+          <actionDate>2013-12-03</actionDate>
+          <updateDate>2013-12-03T13:05:43Z</updateDate>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was passed by the House on December 3, 2013. The summary of that version is repeated here.)</b></p> <p> Authorizes the Fond du Lac Band of Lake Superior Chippewa in Minnesota to lease, sell, convey, warrant, or otherwise transfer all or any portion of its interest in any real property that is not held in trust by the United States for the Band's benefit.</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2014-03-27T21:23:56Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <actionDate>2014-03-13</actionDate>
+          <updateDate>2014-03-13T13:02:37Z</updateDate>
+        </item>
+        <item>
+          <versionCode>49</versionCode>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was passed by the House on December 3, 2013. The summary of that version is repeated here.)</b></p> <p> Authorizes the Fond du Lac Band of Lake Superior Chippewa in Minnesota to lease, sell, convey, warrant, or otherwise transfer all or any portion of its interest in any real property that is not held in trust by the United States for the Band's benefit.</p>]]></text>
+          <actionDesc>Public Law</actionDesc>
+          <lastSummaryUpdateDate>2014-05-08T19:48:14Z</lastSummaryUpdateDate>
+          <name>Public Law</name>
+          <actionDate>2014-03-21</actionDate>
+          <updateDate>2014-03-22T03:59:59Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. NOLAN:H.R. 2650.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3 of the United StatesConstitution vests Congress with the authority to engage inrelations with the tribes.The clause states that the United States Congress shallhave power ``to regulate Commerce with foreign Nations, andamong the several States, and with the Indian Tribes.''[Page H4370]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Minnesota</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>2650</billNumber>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00141</calendar>
+      </item>
+    </calendarNumbers>
+    <cboCostEstimates>
+      <item>
+        <url>http://www.cbo.gov/publication/44520</url>
+        <title>H.R. 2650, Fond du Lac Band of Lake Superior Chippewa Nonintercourse Act of 2013</title>
+        <pubDate>2013-08-22T18:21:00Z</pubDate>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/44520</url>
+        <title>H.R. 2650, Fond du Lac Band of Lake Superior Chippewa Nonintercourse Act of 2013</title>
+        <pubDate>2013-08-22T18:21:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <laws>
+      <item>
+        <number>113-88</number>
+        <type>Public Law</type>
+      </item>
+    </laws>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Fond du Lac Band of Lake Superior Chippewa Non-Intercourse Act of 2013</title>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Fond du Lac Band of Lake Superior Chippewa Non-Intercourse Act of 2013</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To allow the Fond du Lac Band of Lake Superior Chippewa in the State of Minnesota to lease or transfer certain land.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Fond du Lac Band of Lake Superior Chippewa Non-Intercourse Act of 2013</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <middleName />
+        <lastName>NOLAN</lastName>
+        <firstName>RICHARD</firstName>
+        <byRequestType />
+        <bioguideId>N000127</bioguideId>
+        <identifiers>
+          <bioguideId>N000127</bioguideId>
+          <lisID>867</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <district>8</district>
+        <state>MN</state>
+      </item>
+    </sponsors>
+    <updateDate>2016-10-25T16:05:40Z</updateDate>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-10-30</actionDate>
+          <text>Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        </latestAction>
+        <number>920</number>
+        <latestTitle>Fond du Lac Band of Lake Superior Chippewa Non-Intercourse Act of 2013</latestTitle>
+      </item>
+    </relatedBills>
+    <notes />
+    <amendments />
+    <createDate>2013-07-11T07:01:24Z</createDate>
+    <introducedDate>2013-07-10</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Other</type>
+          <name>Indian Affairs Committee</name>
+          <subcommittees />
+          <systemCode>slia00</systemCode>
+          <activities>
+            <item>
+              <date>2014-03-14T00:07:50Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2013-12-09T20:32:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii24</systemCode>
+              <activities>
+                <item>
+                  <date>2013-07-31T15:42:00Z</date>
+                  <name>Discharged from</name>
+                </item>
+                <item>
+                  <date>2013-07-23T21:43:15Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2013-07-15T13:05:35Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2013-09-10T17:51:55Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2013-07-31T15:42:55Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-07-10T14:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 113-194</citation>
+      </committeeReport>
+    </committeeReports>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2014-03-21</actionDate>
+      <links>
+        <link>
+          <url>https://www.congress.gov/bill/113th-congress/house-bill/2650/text/pl</url>
+          <name>Public Law No: 113-88</name>
+        </link>
+      </links>
+      <text>Became Public Law No: 113-88.</text>
+    </latestAction>
+    <congress>113</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

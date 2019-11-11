@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills>
+      <item>
+        <latestTitle>Cyber Warrior Act of 2013</latestTitle>
+        <type>S</type>
+        <congress>113</congress>
+        <latestAction>
+          <actionDate>2013-03-22</actionDate>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+        </latestAction>
+        <number>658</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2013-04-18</actionDate>
+          <lastSummaryUpdateDate>2013-04-29T19:36:32Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Cyber Warrior Act of 2013 - Directs the Secretary of Defense (DOD) to establish in each state and the District of Columbia a separate team of National Guard members to be known as the Cyber and Computer Network Incident Response Team to perform analysis and protection in support of programs to prepare for and respond to emergencies involving an attack or natural disaster impacting a computer, electronic, or cyber network. </p> <p>Authorizes National Guard members to assist the combatant commands in developing and expanding their capacity to prepare for and respond to such events.</p> <p>Prohibits members from performing such duties unless the Secretary certifies to Congress that the members possess the requisite skills, training, and equipment to be proficient in all mission requirements.</p> <p>Requires the homeland defense activities for which the Secretary is authorized to provide funds to a governor for National Guard units to include: (1) the National Guard's provision of cyber emergency education and training for state and local law enforcement and governmental personnel; and (2) upon a governor's order, the National Guard's performance of activities undertaken by state and local governments to prepare for and respond to such emergencies.</p> <p>Sets forth requirements for the Secretaries of the Army and the Air Force to provide appropriate cyber training to members of the Army National Guard and Air National Guard.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-04-18T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2013-04-18</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Cyber Warrior Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend titles 10 and 32, United States Code, to enhance capabilities to prepare for and respond to cyber emergencies, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Cyber Warrior Act of 2013</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <congress>113</congress>
+    <billNumber>1640</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 53 (Thursday, April 18, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ISRAEL:H.R. 1640.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8.[Page H2160]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2018-06-05T16:15:38Z</updateDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-18T14:01:25Z</date>
+            </item>
+          </activities>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <name>Emerging Threats and Capabilities Subcommittee</name>
+              <systemCode>hsas26</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-05-06T20:24:04Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2013-04-19T07:02:08Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Israel, Steve [D-NY-3]</fullName>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <lisID>1663</lisID>
+          <gpoId>8063</gpoId>
+          <bioguideId>I000057</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <lastName>ISRAEL</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <bioguideId>I000057</bioguideId>
+        <firstName>STEVE</firstName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-05-06</actionDate>
+        <committee>
+          <systemCode>hsas26</systemCode>
+          <name>Emerging Threats and Capabilities Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Intelligence, Emerging Threats &amp; Capabilities.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <actionDate>2013-04-18</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-04-18</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-04-18</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001051</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <identifiers>
+          <lisID>2044</lisID>
+          <bioguideId>H001051</bioguideId>
+          <gpoId>8085</gpoId>
+        </identifiers>
+        <firstName>Richard</firstName>
+        <party>R</party>
+        <middleName>L.</middleName>
+        <fullName>Rep. Hanna, Richard L. [R-NY-22]</fullName>
+        <lastName>Hanna</lastName>
+        <district>22</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001162</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <identifiers>
+          <lisID>1798</lisID>
+          <bioguideId>S001162</bioguideId>
+          <gpoId>8131</gpoId>
+        </identifiers>
+        <firstName>Allyson</firstName>
+        <party>D</party>
+        <middleName>Y.</middleName>
+        <fullName>Rep. Schwartz, Allyson Y. [D-PA-13]</fullName>
+        <lastName>Schwartz</lastName>
+        <district>13</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>E000292</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2125</lisID>
+          <bioguideId>E000292</bioguideId>
+        </identifiers>
+        <firstName>William</firstName>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <fullName>Rep. Enyart, William L. [D-IL-12]</fullName>
+        <lastName>Enyart</lastName>
+        <district>12</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000601</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <identifiers>
+          <lisID>2035</lisID>
+          <bioguideId>P000601</bioguideId>
+          <gpoId>8022</gpoId>
+        </identifiers>
+        <firstName>Steven</firstName>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <lastName>Palazzo</lastName>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000375</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <identifiers>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+          <lisID>2025</lisID>
+        </identifiers>
+        <firstName>William</firstName>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <lastName>Keating</lastName>
+        <district>9</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000011</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>WV</state>
+        <identifiers>
+          <lisID>940</lisID>
+          <gpoId>8224</gpoId>
+          <bioguideId>R000011</bioguideId>
+        </identifiers>
+        <firstName>NICK</firstName>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <fullName>Rep. Rahall, Nick J., II [D-WV-3]</fullName>
+        <lastName>RAHALL</lastName>
+        <district>3</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-05-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001150</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>M001150</bioguideId>
+          <lisID>1731</lisID>
+          <gpoId>8589</gpoId>
+        </identifiers>
+        <firstName>Candice</firstName>
+        <party>R</party>
+        <middleName>S.</middleName>
+        <fullName>Rep. Miller, Candice S. [R-MI-10]</fullName>
+        <lastName>Miller</lastName>
+        <district>10</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-05-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000599</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Raul</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <lastName>Ruiz</lastName>
+        <district>36</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001171</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <identifiers>
+          <lisID>1943</lisID>
+          <bioguideId>M001171</bioguideId>
+          <gpoId>7506</gpoId>
+        </identifiers>
+        <firstName>Daniel</firstName>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <fullName>Rep. Maffei, Daniel B. [D-NY-24]</fullName>
+        <lastName>Maffei</lastName>
+        <district>24</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-06-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001280</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <identifiers>
+          <lisID>2135</lisID>
+          <bioguideId>B001280</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Kerry</firstName>
+        <party>R</party>
+        <middleName>L.</middleName>
+        <fullName>Rep. Bentivolio, Kerry L. [R-MI-11]</fullName>
+        <lastName>Bentivolio</lastName>
+        <district>11</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-11-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000596</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>PR</state>
+        <identifiers>
+          <bioguideId>P000596</bioguideId>
+          <lisID>1953</lisID>
+          <gpoId>8138</gpoId>
+        </identifiers>
+        <firstName>Pedro</firstName>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <fullName>Rep. Pierluisi, Pedro R. [D-PR-At Large]</fullName>
+        <lastName>Pierluisi</lastName>
+        <district>0</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001170</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <lisID>1861</lisID>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <firstName>Carol</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <lastName>Shea-Porter</lastName>
+        <district>1</district>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2013-05-06</actionDate>
+      <text>Referred to the Subcommittee on Intelligence, Emerging Threats &amp; Capabilities.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Homeland security</name>
+          </item>
+          <item>
+            <name>Military civil functions</name>
+          </item>
+          <item>
+            <name>Military command and structure</name>
+          </item>
+          <item>
+            <name>Military education and training</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Natural disasters</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <title>Cyber Warrior Act of 2013</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

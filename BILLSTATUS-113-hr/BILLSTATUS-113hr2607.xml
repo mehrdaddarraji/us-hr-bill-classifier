@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-07-05</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2013-06-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-06-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-06-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>8</district>
+        <fullName>Rep. Van Hollen, Chris [D-MD-8]</fullName>
+        <lastName>Van Hollen</lastName>
+        <middleName />
+        <state>MD</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <firstName>Chris</firstName>
+        <bioguideId>V000128</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. VAN HOLLEN:H.R. 2607.Congress has the power to enact this legislation pursuantto the following:clause 1 of section 8 of article I of the Constitutionclause 2 of section 5 of article I of the Constitutionclause 18 of section 8 of article I of the Constitution[Page H4177]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2607</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:05:27Z</updateDate>
+    <laws />
+    <createDate>2013-06-29T07:01:31Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2013-07-05T15:04:13Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2013-06-28T13:04:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Caroline Pryce Walker Conquer Childhood Cancer Reauthorization Act - Amends the Public Health Service Act to reauthorize through FY2018 cancer research programs under the Caroline Pryce Walker Conquer Childhood Cancer Act of 2008. </p> <p> Replaces the current pediatric cancer research and awareness grant program carried out by the Secretary of Health and Human Services (HHS) with a comprehensive children's cancer biorepositories program.</p> <p>Authorizes the Director of the National Institutes of Health (NIH) to make awards to eligible applicants to build upon existing initiatives to collect biospecimens and clinical and demographic information (including date of diagnosis, age at diagnosis, and patient's gender, race, and ethnicity) for at least 90% of all children, adolescents, and young adults with cancer in Comprehensive Children's Cancer Biorepositories for the purpose of achieving a better understanding of the cause of such cancers and the effects of treatments.</p> <p>Permits award amounts to be used to: (1) acquire, preserve, and store high quality, donated biospecimens and associated clinical and demographic information on children, adolescents, and young adults diagnosed with cancer in the United States; (2) maintain a secure searchable database for scientists and qualified health care professionals to research such biospecimens and data; and (3) make available and distribute such biospecimens and data to researchers and professionals for peer-reviewed research. </p> <p>Revises the national childhood cancer registry grant program to require the Director of the Centers for Disease Control and Prevention (CDC) to award grants to state cancer registries to enhance and expand infrastructure to track the epidemiology of cancer in children, adolescents, and young adults.</p> <p>Requires a Comptroller General (GAO) report regarding the barriers to conducting pediatric studies of oncologic therapies in applications for new drugs or biological products under the Federal Food, Drug, and Cosmetic Act, including recommendations to improve development and access to new therapies as well as assessments of: (1) the feasibility of requiring studies for a pediatric oncologic indication if the therapeutic target of a drug or biologic product for an adult oncologic indication is highly relevant to any pediatric cancer to which it could apply, and (2) the impact of altering the current exemption for orphan drug designations relating to rare diseases or conditions.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2013-10-16T18:03:32Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2013-06-28</actionDate>
+          <updateDate>2013-06-28T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2013-06-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>McCaul</lastName>
+        <state>TX</state>
+        <party>R</party>
+        <district>10</district>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <middleName>T.</middleName>
+        <identifiers>
+          <lisID>1804</lisID>
+          <bioguideId>M001157</bioguideId>
+          <gpoId>8166</gpoId>
+        </identifiers>
+        <bioguideId>M001157</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-06-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>UPTON</lastName>
+        <state>MI</state>
+        <party>R</party>
+        <district>6</district>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>7991</gpoId>
+          <lisID>1177</lisID>
+          <bioguideId>U000031</bioguideId>
+        </identifiers>
+        <bioguideId>U000031</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>FRED</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-06-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Speier</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>14</district>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1890</lisID>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <bioguideId>S001175</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jackie</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-06-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Reichert</lastName>
+        <state>WA</state>
+        <party>R</party>
+        <district>8</district>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <middleName>G.</middleName>
+        <identifiers>
+          <lisID>1810</lisID>
+          <bioguideId>R000578</bioguideId>
+          <gpoId>8212</gpoId>
+        </identifiers>
+        <bioguideId>R000578</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-06-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Castor</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <district>14</district>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1839</lisID>
+          <bioguideId>C001066</bioguideId>
+          <gpoId>7883</gpoId>
+        </identifiers>
+        <bioguideId>C001066</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kathy</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-06-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>KING</lastName>
+        <state>NY</state>
+        <party>R</party>
+        <district>2</district>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <middleName>T.</middleName>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <bioguideId>K000210</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>PETER</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-06-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>WAXMAN</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>33</district>
+        <fullName>Rep. Waxman, Henry A. [D-CA-33]</fullName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>W000215</bioguideId>
+          <lisID>1209</lisID>
+          <gpoId>7835</gpoId>
+        </identifiers>
+        <bioguideId>W000215</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>HENRY</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-06-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Harper</lastName>
+        <state>MS</state>
+        <party>R</party>
+        <district>3</district>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>8021</gpoId>
+          <lisID>1933</lisID>
+          <bioguideId>H001045</bioguideId>
+        </identifiers>
+        <bioguideId>H001045</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gregg</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cohen</lastName>
+        <state>TN</state>
+        <party>D</party>
+        <district>9</district>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cartwright</lastName>
+        <state>PA</state>
+        <party>D</party>
+        <district>17</district>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2159</lisID>
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <bioguideId>C001090</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Matt</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bonner</lastName>
+        <state>AL</state>
+        <party>R</party>
+        <district>1</district>
+        <fullName>Rep. Bonner, Jo [R-AL-1]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>7786</gpoId>
+          <lisID>1703</lisID>
+          <bioguideId>B001244</bioguideId>
+        </identifiers>
+        <bioguideId>B001244</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jo</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>WOLF</lastName>
+        <state>VA</state>
+        <party>R</party>
+        <district>10</district>
+        <fullName>Rep. Wolf, Frank R. [R-VA-10]</fullName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <gpoId>8201</gpoId>
+          <bioguideId>W000672</bioguideId>
+          <lisID>1238</lisID>
+        </identifiers>
+        <bioguideId>W000672</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>FRANK</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Buchanan</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <district>16</district>
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>7885</gpoId>
+          <lisID>1840</lisID>
+          <bioguideId>B001260</bioguideId>
+        </identifiers>
+        <bioguideId>B001260</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Vern</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Roe</lastName>
+        <state>TN</state>
+        <party>R</party>
+        <district>1</district>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <middleName>P.</middleName>
+        <identifiers>
+          <gpoId>8148</gpoId>
+          <lisID>1954</lisID>
+          <bioguideId>R000582</bioguideId>
+        </identifiers>
+        <bioguideId>R000582</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Grimm</lastName>
+        <state>NY</state>
+        <party>R</party>
+        <district>11</district>
+        <fullName>Rep. Grimm, Michael G. [R-NY-11]</fullName>
+        <middleName>G.</middleName>
+        <identifiers>
+          <bioguideId>G000569</bioguideId>
+          <lisID>2041</lisID>
+          <gpoId>8074</gpoId>
+        </identifiers>
+        <bioguideId>G000569</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MORAN</lastName>
+        <state>VA</state>
+        <party>D</party>
+        <district>8</district>
+        <fullName>Rep. Moran, James P. [D-VA-8]</fullName>
+        <middleName>P.</middleName>
+        <identifiers>
+          <lisID>832</lisID>
+          <bioguideId>M000933</bioguideId>
+          <gpoId>8199</gpoId>
+        </identifiers>
+        <bioguideId>M000933</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-07-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Posey</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <district>8</district>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+          <lisID>1915</lisID>
+          <gpoId>7887</gpoId>
+        </identifiers>
+        <bioguideId>P000599</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bill</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-08-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Miller</lastName>
+        <state>MI</state>
+        <party>R</party>
+        <district>10</district>
+        <fullName>Rep. Miller, Candice S. [R-MI-10]</fullName>
+        <middleName>S.</middleName>
+        <identifiers>
+          <bioguideId>M001150</bioguideId>
+          <gpoId>8589</gpoId>
+          <lisID>1731</lisID>
+        </identifiers>
+        <bioguideId>M001150</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Candice</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-08-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Pittenger</lastName>
+        <state>NC</state>
+        <party>R</party>
+        <district>9</district>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000606</bioguideId>
+          <lisID>2141</lisID>
+        </identifiers>
+        <bioguideId>P000606</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Robert</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-09-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DesJarlais</lastName>
+        <state>TN</state>
+        <party>R</party>
+        <district>4</district>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2062</lisID>
+          <bioguideId>D000616</bioguideId>
+          <gpoId>8151</gpoId>
+        </identifiers>
+        <bioguideId>D000616</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Scott</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-09-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Shea-Porter</lastName>
+        <state>NH</state>
+        <party>D</party>
+        <district>1</district>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <bioguideId>S001170</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Carol</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Connolly</lastName>
+        <state>VA</state>
+        <party>D</party>
+        <district>11</district>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <gpoId>8202</gpoId>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <bioguideId>C001078</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gerald</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BACHUS</lastName>
+        <state>AL</state>
+        <party>R</party>
+        <district>6</district>
+        <fullName>Rep. Bachus, Spencer [R-AL-6]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>38</lisID>
+          <bioguideId>B000013</bioguideId>
+          <gpoId>7791</gpoId>
+        </identifiers>
+        <bioguideId>B000013</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>SPENCER</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>PETERSON</lastName>
+        <state>MN</state>
+        <party>D</party>
+        <district>7</district>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <middleName>C.</middleName>
+        <identifiers>
+          <gpoId>8007</gpoId>
+          <bioguideId>P000258</bioguideId>
+          <lisID>910</lisID>
+        </identifiers>
+        <bioguideId>P000258</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>COLLIN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Himes</lastName>
+        <state>CT</state>
+        <party>D</party>
+        <district>4</district>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>H001047</bioguideId>
+          <lisID>1913</lisID>
+          <gpoId>7869</gpoId>
+        </identifiers>
+        <bioguideId>H001047</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>James</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>PASTOR</lastName>
+        <state>AZ</state>
+        <party>D</party>
+        <district>7</district>
+        <fullName>Rep. Pastor, Ed [D-AZ-7]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>893</lisID>
+          <gpoId>7801</gpoId>
+          <bioguideId>P000099</bioguideId>
+        </identifiers>
+        <bioguideId>P000099</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ED</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MCCARTHY</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <district>4</district>
+        <fullName>Rep. McCarthy, Carolyn [D-NY-4]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>M000309</bioguideId>
+          <lisID>1503</lisID>
+          <gpoId>8065</gpoId>
+        </identifiers>
+        <bioguideId>M000309</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>CAROLYN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Lipinski</lastName>
+        <state>IL</state>
+        <party>D</party>
+        <district>3</district>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <middleName>William</middleName>
+        <identifiers>
+          <bioguideId>L000563</bioguideId>
+          <lisID>1781</lisID>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <bioguideId>L000563</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Daniel</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Maloney</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <district>18</district>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <middleName>Patrick</middleName>
+        <identifiers>
+          <bioguideId>M001185</bioguideId>
+          <gpoId />
+          <lisID>2150</lisID>
+        </identifiers>
+        <bioguideId>M001185</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Sean</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Walberg</lastName>
+        <state>MI</state>
+        <party>R</party>
+        <district>7</district>
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000798</bioguideId>
+          <lisID>1855</lisID>
+          <gpoId>7992</gpoId>
+        </identifiers>
+        <bioguideId>W000798</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tim</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-11-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MALONEY</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <district>12</district>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <middleName>B.</middleName>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <bioguideId>M000087</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>CAROLYN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-11-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>ISRAEL</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <district>3</district>
+        <fullName>Rep. Israel, Steve [D-NY-3]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>I000057</bioguideId>
+          <lisID>1663</lisID>
+          <gpoId>8063</gpoId>
+        </identifiers>
+        <bioguideId>I000057</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>STEVE</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-11-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Pocan</lastName>
+        <state>WI</state>
+        <party>D</party>
+        <district>2</district>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <bioguideId>P000607</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LEVIN</lastName>
+        <state>MI</state>
+        <party>D</party>
+        <district>9</district>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <gpoId>7997</gpoId>
+          <lisID>683</lisID>
+          <bioguideId>L000263</bioguideId>
+        </identifiers>
+        <bioguideId>L000263</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>SANDER</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SCHIFF</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>28</district>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <middleName>B.</middleName>
+        <identifiers>
+          <gpoId>7834</gpoId>
+          <lisID>1635</lisID>
+          <bioguideId>S001150</bioguideId>
+        </identifiers>
+        <bioguideId>S001150</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ADAM</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Pingree</lastName>
+        <state>ME</state>
+        <party>D</party>
+        <district>1</district>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <bioguideId>P000597</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Chellie</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-01-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Beatty</lastName>
+        <state>OH</state>
+        <party>D</party>
+        <district>3</district>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2153</lisID>
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <bioguideId>B001281</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joyce</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-01-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SCHAKOWSKY</lastName>
+        <state>IL</state>
+        <party>D</party>
+        <district>9</district>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <middleName>D.</middleName>
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <bioguideId>S001145</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JANICE</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-01-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Loebsack</lastName>
+        <state>IA</state>
+        <party>D</party>
+        <district>2</district>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <bioguideId>L000565</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-01-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MCGOVERN</lastName>
+        <state>MA</state>
+        <party>D</party>
+        <district>2</district>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <middleName>P.</middleName>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-01-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Yarmuth</lastName>
+        <state>KY</state>
+        <party>D</party>
+        <district>3</district>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>Y000062</bioguideId>
+          <lisID>1853</lisID>
+          <gpoId>7955</gpoId>
+        </identifiers>
+        <bioguideId>Y000062</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-02-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CAPPS</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>24</district>
+        <fullName>Rep. Capps, Lois [D-CA-24]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1471</lisID>
+          <bioguideId>C001036</bioguideId>
+          <gpoId>7828</gpoId>
+        </identifiers>
+        <bioguideId>C001036</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>LOIS</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>ESHOO</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>18</district>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <middleName>G.</middleName>
+        <identifiers>
+          <gpoId>7819</gpoId>
+          <lisID>355</lisID>
+          <bioguideId>E000215</bioguideId>
+        </identifiers>
+        <bioguideId>E000215</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ANNA</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Walz</lastName>
+        <state>MN</state>
+        <party>D</party>
+        <district>1</district>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <middleName>J.</middleName>
+        <identifiers>
+          <bioguideId>W000799</bioguideId>
+          <lisID>1856</lisID>
+          <gpoId>8001</gpoId>
+        </identifiers>
+        <bioguideId>W000799</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Timothy</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LOFGREN</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>19</district>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+        </identifiers>
+        <bioguideId>L000397</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ZOE</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Lance</lastName>
+        <state>NJ</state>
+        <party>R</party>
+        <district>7</district>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000567</bioguideId>
+          <lisID>1936</lisID>
+          <gpoId>8049</gpoId>
+        </identifiers>
+        <bioguideId>L000567</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Leonard</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BISHOP</lastName>
+        <state>GA</state>
+        <party>D</party>
+        <district>2</district>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>91</lisID>
+          <bioguideId>B000490</bioguideId>
+          <gpoId>7899</gpoId>
+        </identifiers>
+        <bioguideId>B000490</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>SANFORD</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Ellison</lastName>
+        <state>MN</state>
+        <party>D</party>
+        <district>5</district>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>E000288</bioguideId>
+          <gpoId>8005</gpoId>
+          <lisID>1857</lisID>
+        </identifiers>
+        <bioguideId>E000288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Keith</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+        <state>DC</state>
+        <party>D</party>
+        <district>0</district>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELEANOR</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DAVIS</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>53</district>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>D000598</bioguideId>
+          <lisID>1641</lisID>
+          <gpoId>7858</gpoId>
+        </identifiers>
+        <bioguideId>D000598</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>SUSAN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Michaud</lastName>
+        <state>ME</state>
+        <party>D</party>
+        <district>2</district>
+        <fullName>Rep. Michaud, Michael H. [D-ME-2]</fullName>
+        <middleName>H.</middleName>
+        <identifiers>
+          <bioguideId>M001149</bioguideId>
+          <lisID>1730</lisID>
+          <gpoId>7985</gpoId>
+        </identifiers>
+        <bioguideId>M001149</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Kennedy</lastName>
+        <state>MA</state>
+        <party>D</party>
+        <district>4</district>
+        <fullName>Rep. Kennedy, Joseph P. III [D-MA-4]</fullName>
+        <middleName>P.</middleName>
+        <identifiers>
+          <bioguideId>K000379</bioguideId>
+          <gpoId />
+          <lisID>2172</lisID>
+        </identifiers>
+        <bioguideId>K000379</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joseph</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>YOUNG</lastName>
+        <state>AK</state>
+        <party>R</party>
+        <district>0</district>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <bioguideId>Y000033</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>DON</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-06-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Tonko</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <district>20</district>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>T000469</bioguideId>
+          <lisID>1942</lisID>
+          <gpoId>8082</gpoId>
+        </identifiers>
+        <bioguideId>T000469</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-06-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CAPITO</lastName>
+        <state>WV</state>
+        <party>R</party>
+        <district>2</district>
+        <fullName>Rep. Capito, Shelley Moore [R-WV-2]</fullName>
+        <middleName>MOORE</middleName>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <bioguideId>C001047</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHELLEY</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-06-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>NOLAN</lastName>
+        <state>MN</state>
+        <party>D</party>
+        <district>8</district>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>N000127</bioguideId>
+          <lisID>867</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>N000127</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>RICHARD</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-06-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Paulsen</lastName>
+        <state>MN</state>
+        <party>R</party>
+        <district>3</district>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1930</lisID>
+          <bioguideId>P000594</bioguideId>
+          <gpoId>8003</gpoId>
+        </identifiers>
+        <bioguideId>P000594</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Erik</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-06-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Carney</lastName>
+        <state>DE</state>
+        <party>D</party>
+        <district>0</district>
+        <fullName>Rep. Carney, John C., Jr. [D-DE-At Large]</fullName>
+        <middleName>C.</middleName>
+        <identifiers>
+          <lisID>1999</lisID>
+          <bioguideId>C001083</bioguideId>
+          <gpoId>7872</gpoId>
+        </identifiers>
+        <bioguideId>C001083</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MICA</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <district>7</district>
+        <fullName>Rep. Mica, John L. [R-FL-7]</fullName>
+        <middleName>L.</middleName>
+        <identifiers>
+          <gpoId>7879</gpoId>
+          <lisID>800</lisID>
+          <bioguideId>M000689</bioguideId>
+        </identifiers>
+        <bioguideId>M000689</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Ross</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <district>15</district>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>R000593</bioguideId>
+          <lisID>2003</lisID>
+          <gpoId>7884</gpoId>
+        </identifiers>
+        <bioguideId>R000593</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Dennis</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Dent</lastName>
+        <state>PA</state>
+        <party>R</party>
+        <district>15</district>
+        <fullName>Rep. Dent, Charles W. [R-PA-15]</fullName>
+        <middleName>W.</middleName>
+        <identifiers>
+          <lisID>1799</lisID>
+          <bioguideId>D000604</bioguideId>
+          <gpoId>8133</gpoId>
+        </identifiers>
+        <bioguideId>D000604</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Charles</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Jolly</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <district>13</district>
+        <fullName>Rep. Jolly, David [R-FL-13]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>J000296</bioguideId>
+          <lisID>2199</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>J000296</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SLAUGHTER</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <district>25</district>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>S000480</bioguideId>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+        </identifiers>
+        <bioguideId>S000480</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>LOUISE</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Scott</lastName>
+        <state>GA</state>
+        <party>D</party>
+        <district>13</district>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001157</bioguideId>
+          <lisID>1722</lisID>
+          <gpoId>7910</gpoId>
+        </identifiers>
+        <bioguideId>S001157</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>TIERNEY</lastName>
+        <state>MA</state>
+        <party>D</party>
+        <district>6</district>
+        <fullName>Rep. Tierney, John F. [D-MA-6]</fullName>
+        <middleName>F.</middleName>
+        <identifiers>
+          <lisID>1535</lisID>
+          <gpoId>7971</gpoId>
+          <bioguideId>T000266</bioguideId>
+        </identifiers>
+        <bioguideId>T000266</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>HOLT</lastName>
+        <state>NJ</state>
+        <party>D</party>
+        <district>12</district>
+        <fullName>Rep. Holt, Rush [D-NJ-12]</fullName>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>1580</lisID>
+          <gpoId>8054</gpoId>
+          <bioguideId>H001032</bioguideId>
+        </identifiers>
+        <bioguideId>H001032</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>RUSH</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Polis</lastName>
+        <state>CO</state>
+        <party>D</party>
+        <district>2</district>
+        <fullName>Rep. Polis, Jared [D-CO-2]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>7860</gpoId>
+          <lisID>1910</lisID>
+          <bioguideId>P000598</bioguideId>
+        </identifiers>
+        <bioguideId>P000598</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jared</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CULBERSON</lastName>
+        <state>TX</state>
+        <party>R</party>
+        <district>7</district>
+        <fullName>Rep. Culberson, John Abney [R-TX-7]</fullName>
+        <middleName>ABNEY</middleName>
+        <identifiers>
+          <gpoId>8163</gpoId>
+          <lisID>1670</lisID>
+          <bioguideId>C001048</bioguideId>
+        </identifiers>
+        <bioguideId>C001048</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Delaney</lastName>
+        <state>MD</state>
+        <party>D</party>
+        <district>6</district>
+        <fullName>Rep. Delaney, John K. [D-MD-6]</fullName>
+        <middleName>K.</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000620</bioguideId>
+          <lisID>2133</lisID>
+        </identifiers>
+        <bioguideId>D000620</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MCCOLLUM</lastName>
+        <state>MN</state>
+        <party>D</party>
+        <district>4</district>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <bioguideId>M001143</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>BETTY</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>TERRY</lastName>
+        <state>NE</state>
+        <party>R</party>
+        <district>2</district>
+        <fullName>Rep. Terry, Lee [R-NE-2]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1566</lisID>
+          <bioguideId>T000459</bioguideId>
+          <gpoId>8039</gpoId>
+        </identifiers>
+        <bioguideId>T000459</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>LEE</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gibson</lastName>
+        <state>NY</state>
+        <party>R</party>
+        <district>19</district>
+        <fullName>Rep. Gibson, Christopher P. [R-NY-19]</fullName>
+        <middleName>P.</middleName>
+        <identifiers>
+          <lisID>2043</lisID>
+          <bioguideId>G000564</bioguideId>
+          <gpoId>8081</gpoId>
+        </identifiers>
+        <bioguideId>G000564</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Christopher</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-11-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DOYLE</lastName>
+        <state>PA</state>
+        <party>D</party>
+        <district>14</district>
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>D000482</bioguideId>
+          <lisID>316</lisID>
+          <gpoId>8132</gpoId>
+        </identifiers>
+        <bioguideId>D000482</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>MIKE</firstName>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2013-06-27</actionDate>
+        </latestAction>
+        <congress>113</congress>
+        <latestTitle>Caroline Pryce Walker Conquer Childhood Cancer Reauthorization Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1251</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Caroline Pryce Walker Conquer Childhood Cancer Reauthorization Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To establish programs with respect to childhood, adolescent, and young adult cancer.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Caroline Pryce Walker Conquer Childhood Cancer Reauthorization Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Caroline Pryce Walker Conquer Childhood Cancer Reauthorization Act</title>
+    <billType>HR</billType>
+    <introducedDate>2013-06-28</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-07-05</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

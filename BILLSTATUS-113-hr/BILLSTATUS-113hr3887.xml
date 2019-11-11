@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-15</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on House Administration.</text>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-15</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Sponsor introductory remarks on measure. (CR H229-230)</text>
+        <committee />
+        <actionCode>B00100</actionCode>
+        <links>
+          <link>
+            <name>H229-230</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H229-230</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-15</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-15</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>12</district>
+        <fullName>Rep. Rothfus, Keith J. [R-PA-12]</fullName>
+        <lastName>Rothfus</lastName>
+        <middleName>J.</middleName>
+        <state>PA</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2158</lisID>
+          <gpoId />
+          <bioguideId>R000598</bioguideId>
+        </identifiers>
+        <firstName>Keith</firstName>
+        <bioguideId>R000598</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. ROTHFUS:H.R. 3887.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1[Page H473]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3887</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:10:12Z</updateDate>
+    <laws />
+    <createDate>2014-01-16T07:02:04Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>House Administration Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-01-15T15:02:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Congressional Pay for Performance Act of 2014 - Requires the appropriate payroll administrator of each house of Congress to deposit in an escrow account all mandatory payments for compensation of Members of Congress serving in that house if by April 15 of any calendar year, beginning with 2015, that house has not agreed to a concurrent budget resolution for the fiscal year that begins on October 1 of the calendar year. Requires release to those Members of such payments after April 16 of the calendar year, only upon the earlier of: (1) the day on which that house agrees to a concurrent budget resolution for the fiscal year which begins on October 1 of that calendar year, or (2) the last day of Congress during which that calendar year occurs. <p>Sets forth similar requirements if by July 31 of a calendar year, beginning with 2014, a house of Congress has not passed each of the regular appropriation bills for the fiscal year which begins on October 1 of that calendar year. Requires release to the appropriate Members of salary payments after August 1 of the calendar year, only upon the earlier of: (1) the day on which that house has passed each of the regular appropriation bills for the fiscal year which begins on October 1 of that calendar year, or (2) the last day of Congress during which that calendar year occurs.</p> <p>Requires the payroll administrator of a house of Congress, in order to ensure that this Act is carried out in a manner consistent with the Constitution, to release for payments to Members of that house any amounts remaining in any escrow account under this Act on the last day of Congress during which the amounts were deposited in such account.</p>]]></text>
+          <lastSummaryUpdateDate>2014-03-05T22:21:36Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2014-01-15T05:00:00Z</updateDate>
+          <actionDate>2014-01-15</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>S000018</bioguideId>
+          <gpoId />
+          <lisID>1009</lisID>
+        </identifiers>
+        <sponsorshipDate>2014-01-15</sponsorshipDate>
+        <party>R</party>
+        <lastName>SALMON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000018</bioguideId>
+        <state>AZ</state>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>MATT</firstName>
+        <fullName>Rep. Salmon, Matt [R-AZ-5]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000621</bioguideId>
+          <lisID>2116</lisID>
+        </identifiers>
+        <sponsorshipDate>2014-01-15</sponsorshipDate>
+        <party>R</party>
+        <lastName>DeSantis</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000621</bioguideId>
+        <state>FL</state>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Ron</firstName>
+        <fullName>Rep. DeSantis, Ron [R-FL-6]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000605</bioguideId>
+          <lisID>2157</lisID>
+        </identifiers>
+        <sponsorshipDate>2014-01-27</sponsorshipDate>
+        <party>R</party>
+        <lastName>Perry</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000605</bioguideId>
+        <state>PA</state>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Scott</firstName>
+        <fullName>Rep. Perry, Scott [R-PA-4]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000589</bioguideId>
+          <lisID>2068</lisID>
+          <gpoId>8193</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <party>R</party>
+        <lastName>Rigell</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000589</bioguideId>
+        <state>VA</state>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>Scott</middleName>
+        <firstName>E.</firstName>
+        <fullName>Rep. Rigell, E. Scott [R-VA-2]</fullName>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <actionDate>2014-02-11</actionDate>
+          <text>Referred to House Administration</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>4043</number>
+        <type>HR</type>
+        <latestTitle>Getting Government to Work Act of 2014</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <actionDate>2013-02-04</actionDate>
+          <text>Became Public Law No: 113-3.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>325</number>
+        <type>HR</type>
+        <latestTitle>No Budget, No Pay Act of 2013</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Congressional Pay for Performance Act of 2014</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To hold the salaries of Members of a House of Congress in escrow if the House of Congress does not agree to a budget resolution or pass regular appropriation bills on a timely basis during a Congress, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Congressional Pay for Performance Act of 2014</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Congressional Pay for Performance Act of 2014</title>
+    <billType>HR</billType>
+    <introducedDate>2014-01-15</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2014-01-15</actionDate>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

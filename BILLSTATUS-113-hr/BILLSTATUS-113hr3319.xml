@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>3</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-10-25</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-10-23</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Referred to House Ways and Means</text>
+      </item>
+      <item>
+        <actionDate>2013-10-23</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to House Energy and Commerce</text>
+      </item>
+      <item>
+        <actionDate>2013-10-23</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2013-10-23</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <text>Referred to House Oversight and Government Reform</text>
+      </item>
+      <item>
+        <actionDate>2013-10-23</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2013-10-23</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>49</district>
+        <fullName>Rep. Issa, Darrell E. [R-CA-49]</fullName>
+        <lastName>ISSA</lastName>
+        <middleName>E.</middleName>
+        <state>CA</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>I000056</bioguideId>
+          <lisID>1640</lisID>
+          <gpoId>7854</gpoId>
+        </identifiers>
+        <firstName>DARRELL</firstName>
+        <bioguideId>I000056</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. ISSA:H.R. 3319.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3.[Page H6769]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3319</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:08:02Z</updateDate>
+    <laws />
+    <createDate>2013-10-24T07:01:04Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2013-10-23T14:04:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-10-25T15:33:16Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2013-10-23T14:04:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Oversight and Government Reform Committee</name>
+          <activities>
+            <item>
+              <date>2013-10-23T14:03:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Equal Healthcare Access Act - Requires the Office of Personnel Management (OPM) to administer a health insurance program for non-federal employees under the existing Federal Employees Health Benefits (FEHB) Program. Extends eligibility for such program to any qualified individual (i.e., any individual other than an individual who is enrolled or eligible to be enrolled in FEHB, including as a family member). </p> <p>Authorizes employers, under arrangements satisfactory to OPM, to: (1) offer their employees coverage under such program, and (2) make a contribution toward the cost of such coverage.</p> <p>Deems a health care plan under such program to be a plan offered through an Exchange established under the Patient Protection and Affordable Care Act for purposes of complying with the individual mandate to purchase health insurance. </p>]]></text>
+          <lastSummaryUpdateDate>2013-11-01T17:50:43Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-10-23T04:00:00Z</updateDate>
+          <actionDate>2013-10-23</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <firstName>WM.</firstName>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <sponsorshipDate>2013-10-23</sponsorshipDate>
+        <middleName>LACY</middleName>
+        <bioguideId>C001049</bioguideId>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>C001049</bioguideId>
+          <lisID>1654</lisID>
+          <gpoId>8009</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CLAY</lastName>
+        <district>1</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Mick</firstName>
+        <fullName>Rep. Mulvaney, Mick [R-SC-5]</fullName>
+        <sponsorshipDate>2013-10-23</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001182</bioguideId>
+        <state>SC</state>
+        <identifiers>
+          <lisID>2059</lisID>
+          <bioguideId>M001182</bioguideId>
+          <gpoId>8145</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Mulvaney</lastName>
+        <district>5</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <fullName>Rep. Culberson, John Abney [R-TX-7]</fullName>
+        <sponsorshipDate>2013-10-29</sponsorshipDate>
+        <middleName>ABNEY</middleName>
+        <bioguideId>C001048</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1670</lisID>
+          <bioguideId>C001048</bioguideId>
+          <gpoId>8163</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CULBERSON</lastName>
+        <district>7</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Price, Tom [R-GA-6]</fullName>
+        <sponsorshipDate>2013-10-29</sponsorshipDate>
+        <middleName />
+        <bioguideId>P000591</bioguideId>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>P000591</bioguideId>
+          <lisID>1778</lisID>
+          <gpoId>7903</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Price</lastName>
+        <district>6</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <middleName>E.</middleName>
+        <bioguideId>A000369</bioguideId>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>A000369</bioguideId>
+          <lisID>2090</lisID>
+          <gpoId>8366</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Amodei</lastName>
+        <district>2</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Eric</firstName>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <middleName>A. "Rick"</middleName>
+        <bioguideId>C001087</bioguideId>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>C001087</bioguideId>
+          <lisID>1989</lisID>
+          <gpoId>7793</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Crawford</lastName>
+        <district>1</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Rice, Tom [R-SC-7]</fullName>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000597</bioguideId>
+        <state>SC</state>
+        <identifiers>
+          <lisID>2160</lisID>
+          <bioguideId>R000597</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Rice</lastName>
+        <district>7</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Glenn</firstName>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <sponsorshipDate>2013-11-12</sponsorshipDate>
+        <middleName />
+        <bioguideId>T000467</bioguideId>
+        <state>PA</state>
+        <identifiers>
+          <gpoId>8123</gpoId>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Thompson</lastName>
+        <district>5</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Jason</firstName>
+        <fullName>Rep. Chaffetz, Jason [R-UT-3]</fullName>
+        <sponsorshipDate>2013-11-14</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001076</bioguideId>
+        <state>UT</state>
+        <identifiers>
+          <gpoId>8191</gpoId>
+          <bioguideId>C001076</bioguideId>
+          <lisID>1956</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Chaffetz</lastName>
+        <district>3</district>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Equal Healthcare Access Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To modernize the Federal Employees Health Benefits Program, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Equal Healthcare Access Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Equal Healthcare Access Act</title>
+    <billType>HR</billType>
+    <introducedDate>2013-10-23</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-10-25</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-12-10</actionDate>
+      <text>Referred to the House Committee on Armed Services.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <date>2014-12-10T15:03:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Armed Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-12-11T04:56:19Z</createDate>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <links />
+        <actionDate>2014-12-10</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR H8934)</text>
+        <links>
+          <link>
+            <name>H8934</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H8934</url>
+          </link>
+        </links>
+        <actionDate>2014-12-10</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-12-10</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-12-10</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-12-10</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. THOMPSON of Pennsylvania:H.R. 5832.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clause 14 of the UnitedStates Constitution which gives Congress the power ``to makeRules for the Government and Regulation of the land and navalForces.''[Page H9045]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>5832</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2014-12-10T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Proudly Restoring Officers of Prior Enlistment Retirement Act or the PROPER Act - Reduces to four the number of years&nbsp;that previously enlisted commissioned officers who have performed a certain minimum number of years of military service to become eligible for retirement must have actively served in the rank of commissioned officer in order to retire in the officer rank instead of in their previous enlisted rank. (Currently, a requirement for 10 years of active service as a commissioned officer has been reduced temporarily to 8 years.)</p> <p>Makes the reduction to four years applicable during the period&nbsp;from January 1, 2014, to September 30, 2016. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2014-12-10</actionDate>
+          <lastSummaryUpdateDate>2015-01-06T18:37:08Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>PROPER Act</title>
+    <updateDate>2016-10-25T16:17:44Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>PROPER Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Proudly Restoring Officers of Prior Enlistment Retirement Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 10, United States Code, to modify the enhanced selective discharge authority currently available to the Secretary of a military department to permit a commissioned officer in the Armed Forces who was appointed from the enlisted ranks and has at least 20 years of service, at least four years of which has been commissioned service, to retire in the officer's commissioned rank.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>PROPER Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>PA</state>
+        <firstName>Glenn</firstName>
+        <byRequestType />
+        <bioguideId>T000467</bioguideId>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <lastName>Thompson</lastName>
+        <party>R</party>
+        <middleName />
+        <district>5</district>
+        <identifiers>
+          <lisID>1952</lisID>
+          <gpoId>8123</gpoId>
+          <bioguideId>T000467</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2014-12-10</sponsorshipDate>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1856</lisID>
+          <gpoId>8001</gpoId>
+          <bioguideId>W000799</bioguideId>
+        </identifiers>
+        <state>MN</state>
+        <firstName>Timothy</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000799</bioguideId>
+        <lastName>Walz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-12-10</sponsorshipDate>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <district>13</district>
+        <identifiers>
+          <bioguideId>R000053</bioguideId>
+          <gpoId>8076</gpoId>
+          <lisID>944</lisID>
+        </identifiers>
+        <state>NY</state>
+        <firstName>CHARLES</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000053</bioguideId>
+        <lastName>RANGEL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-12-10</sponsorshipDate>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>1</district>
+        <identifiers>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <state>NH</state>
+        <firstName>Carol</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001170</bioguideId>
+        <lastName>Shea-Porter</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-12-10</sponsorshipDate>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>0</district>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+          <lisID>2144</lisID>
+        </identifiers>
+        <state>ND</state>
+        <firstName>Kevin</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001096</bioguideId>
+        <lastName>Cramer</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-12-10</sponsorshipDate>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <state>IL</state>
+        <firstName>BOBBY</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000515</bioguideId>
+        <lastName>RUSH</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-12-10</sponsorshipDate>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>10</district>
+        <identifiers>
+          <lisID>2053</lisID>
+          <gpoId>8128</gpoId>
+          <bioguideId>M001179</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001179</bioguideId>
+        <lastName>Marino</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-12-10</sponsorshipDate>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <party>R</party>
+        <middleName>E.</middleName>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>A000369</bioguideId>
+          <lisID>2090</lisID>
+          <gpoId>8366</gpoId>
+        </identifiers>
+        <state>NV</state>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000369</bioguideId>
+        <lastName>Amodei</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-12-10</sponsorshipDate>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>11</district>
+        <identifiers>
+          <gpoId>8129</gpoId>
+          <lisID>2054</lisID>
+          <bioguideId>B001269</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Lou</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001269</bioguideId>
+        <lastName>Barletta</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-12-10</sponsorshipDate>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>3</district>
+        <identifiers>
+          <lisID>2051</lisID>
+          <bioguideId>K000376</bioguideId>
+          <gpoId>8708</gpoId>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000376</bioguideId>
+        <lastName>Kelly</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-12-10</sponsorshipDate>
+        <fullName>Rep. Fitzpatrick, Michael G. [R-PA-8]</fullName>
+        <party>R</party>
+        <middleName>G.</middleName>
+        <district>8</district>
+        <identifiers>
+          <lisID>1797</lisID>
+          <gpoId>8126</gpoId>
+          <bioguideId>F000451</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Michael</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000451</bioguideId>
+        <lastName>Fitzpatrick</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-12-10</sponsorshipDate>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <state>SC</state>
+        <firstName>Joe</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000795</bioguideId>
+        <lastName>Wilson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-12-10</sponsorshipDate>
+        <fullName>Rep. Perry, Scott [R-PA-4]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>4</district>
+        <identifiers>
+          <lisID>2157</lisID>
+          <gpoId />
+          <bioguideId>P000605</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Scott</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000605</bioguideId>
+        <lastName>Perry</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-12-11</sponsorshipDate>
+        <fullName>Rep. Nugent, Richard B. [R-FL-11]</fullName>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <district>11</district>
+        <identifiers>
+          <bioguideId>N000185</bioguideId>
+          <lisID>2001</lisID>
+          <gpoId>7877</gpoId>
+        </identifiers>
+        <state>FL</state>
+        <firstName>Richard</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000185</bioguideId>
+        <lastName>Nugent</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-12-11</sponsorshipDate>
+        <fullName>Rep. Weber, Randy K. Sr. [R-TX-14]</fullName>
+        <party>R</party>
+        <middleName>K.</middleName>
+        <district>14</district>
+        <identifiers>
+          <lisID>2161</lisID>
+          <bioguideId>W000814</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>TX</state>
+        <firstName>Randy</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000814</bioguideId>
+        <lastName>Weber</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-12-11</sponsorshipDate>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <lisID>2128</lisID>
+          <gpoId />
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <state>IN</state>
+        <firstName>Jackie</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000813</bioguideId>
+        <lastName>Walorski</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

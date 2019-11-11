@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills>
+      <item>
+        <latestTitle>Jury ACCESS Act</latestTitle>
+        <type>S</type>
+        <congress>113</congress>
+        <latestAction>
+          <actionDate>2013-01-22</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <number>38</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Juror Non-Discrimination Act of 2013 - Amends the federal judicial code to prohibit the exclusion of citizens from service as a grand or petit juror in U.S. district courts or the Court of International Trade on account of sexual orientation or gender identity (thereby expanding the current prohibition on exclusion on account of race, color, religion, sex, national origin, or economic status).</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2013-01-18</actionDate>
+          <versionCode>00</versionCode>
+          <updateDate>2013-01-18T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-02-11T20:53:21Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2013-01-18</introducedDate>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Juror Non-Discrimination Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend title 28, United States Code, to prohibit the exclusion of individuals from service on a Federal jury on account of sexual orientation or gender identity.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Juror Non-Discrimination Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <congress>113</congress>
+    <billNumber>312</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 5 (Friday, January 18, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. DAVIS of California:H.R. 312.Congress has the power to enact this legislation pursuantto the following:Amendment XIV, Section 1[Page H177]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2018-06-05T16:00:00Z</updateDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-02-28T21:27:29Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-18T20:01:50Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2013-01-19T07:02:08Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <byRequestType />
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>D000598</bioguideId>
+          <gpoId>7858</gpoId>
+          <lisID>1641</lisID>
+        </identifiers>
+        <district>53</district>
+        <lastName>DAVIS</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>D000598</bioguideId>
+        <firstName>SUSAN</firstName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-02-28</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-01-18</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-01-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-01-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B000574</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <firstName>EARL</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <lastName>BLUMENAUER</lastName>
+        <district>3</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001080</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <firstName>Judy</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <lastName>Chu</lastName>
+        <district>27</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <lastName>Grijalva</lastName>
+        <district>3</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001047</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>H001047</bioguideId>
+          <lisID>1913</lisID>
+          <gpoId>7869</gpoId>
+        </identifiers>
+        <firstName>James</firstName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <lastName>Himes</lastName>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001034</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>1634</lisID>
+          <bioguideId>H001034</bioguideId>
+          <gpoId>7820</gpoId>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <fullName>Rep. Honda, Michael M. [D-CA-17]</fullName>
+        <lastName>HONDA</lastName>
+        <district>17</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <lastName>LEE</lastName>
+        <district>13</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <firstName>JAMES</firstName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <lastName>MCGOVERN</lastName>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001188</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <identifiers>
+          <lisID>2148</lisID>
+          <gpoId />
+          <bioguideId>M001188</bioguideId>
+        </identifiers>
+        <firstName>Grace</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <lastName>Meng</lastName>
+        <district>6</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001160</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <firstName>Gwen</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <lastName>Moore</lastName>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000933</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>M000933</bioguideId>
+          <lisID>832</lisID>
+          <gpoId>8199</gpoId>
+        </identifiers>
+        <firstName>JAMES</firstName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <fullName>Rep. Moran, James P. [D-VA-8]</fullName>
+        <lastName>MORAN</lastName>
+        <district>8</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <firstName>ELEANOR</firstName>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <district>0</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000030</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7852</gpoId>
+          <bioguideId>S000030</bioguideId>
+          <lisID>1522</lisID>
+        </identifiers>
+        <firstName>LORETTA</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Sanchez, Loretta [D-CA-46]</fullName>
+        <lastName>SANCHEZ</lastName>
+        <district>46</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001145</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <identifiers>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <firstName>JANICE</firstName>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <lastName>SCHAKOWSKY</lastName>
+        <district>9</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-01-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>V000128</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <firstName>Chris</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Van Hollen, Chris [D-MD-8]</fullName>
+        <lastName>Van Hollen</lastName>
+        <district>8</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001285</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>2106</lisID>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Julia</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <lastName>Brownley</lastName>
+        <district>26</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000607</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <identifiers>
+          <lisID>2171</lisID>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <lastName>Pocan</lastName>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000579</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>2111</lisID>
+          <gpoId />
+          <bioguideId>L000579</bioguideId>
+        </identifiers>
+        <firstName>Alan</firstName>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <lastName>Lowenthal</lastName>
+        <district>47</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000556</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <identifiers>
+          <gpoId>7302</gpoId>
+          <lisID>1914</lisID>
+          <bioguideId>G000556</bioguideId>
+        </identifiers>
+        <firstName>Alan</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Grayson, Alan [D-FL-9]</fullName>
+        <lastName>Grayson</lastName>
+        <district>9</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000608</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000608</bioguideId>
+          <gpoId />
+          <lisID>2113</lisID>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <party>D</party>
+        <middleName>H.</middleName>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <lastName>Peters</lastName>
+        <district>52</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-03-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001175</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+          <lisID>1890</lisID>
+        </identifiers>
+        <firstName>Jackie</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <lastName>Speier</lastName>
+        <district>14</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>V000130</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>2112</lisID>
+          <bioguideId>V000130</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Juan</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <lastName>Vargas</lastName>
+        <district>51</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000344</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7832</gpoId>
+          <lisID>1526</lisID>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <firstName>BRAD</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <lastName>SHERMAN</lastName>
+        <district>30</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000191</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <identifiers>
+          <lisID>279</lisID>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+        </identifiers>
+        <firstName>PETER</firstName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <lastName>DEFAZIO</lastName>
+        <district>4</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000053</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <identifiers>
+          <lisID>944</lisID>
+          <bioguideId>R000053</bioguideId>
+          <gpoId>8076</gpoId>
+        </identifiers>
+        <firstName>CHARLES</firstName>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <lastName>RANGEL</lastName>
+        <district>13</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <identifiers>
+          <gpoId>8005</gpoId>
+          <lisID>1857</lisID>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <firstName>Keith</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <lastName>Ellison</lastName>
+        <district>5</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-05-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001193</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+        </identifiers>
+        <firstName>Eric</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <lastName>Swalwell</lastName>
+        <district>15</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001084</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+        </identifiers>
+        <firstName>David</firstName>
+        <party>D</party>
+        <middleName>N.</middleName>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <lastName>Cicilline</lastName>
+        <district>1</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-06-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001097</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>2107</lisID>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <firstName>Tony</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <lastName>Cardenas</lastName>
+        <district>29</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000266</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <identifiers>
+          <gpoId>7971</gpoId>
+          <bioguideId>T000266</bioguideId>
+          <lisID>1535</lisID>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <fullName>Rep. Tierney, John F. [D-MA-6]</fullName>
+        <lastName>TIERNEY</lastName>
+        <district>6</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001063</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>2089</lisID>
+          <gpoId>8360</gpoId>
+          <bioguideId>H001063</bioguideId>
+        </identifiers>
+        <firstName>Janice</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Hahn, Janice [D-CA-44]</fullName>
+        <lastName>Hahn</lastName>
+        <district>44</district>
+      </item>
+      <item>
+        <sponsorshipDate>2014-04-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000620</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <identifiers>
+          <lisID>2133</lisID>
+          <bioguideId>D000620</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>John</firstName>
+        <party>D</party>
+        <middleName>K.</middleName>
+        <fullName>Rep. Delaney, John K. [D-MD-6]</fullName>
+        <lastName>Delaney</lastName>
+        <district>6</district>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2013-02-28</actionDate>
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Federal district courts</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Sex, gender, sexual orientation discrimination</name>
+          </item>
+          <item>
+            <name>Specialized courts</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <title>Juror Non-Discrimination Act of 2013</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

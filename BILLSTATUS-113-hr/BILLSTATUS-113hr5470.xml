@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <introducedDate>2014-09-15</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Visa Waiver Program Improvement Act of 2014 - Amends the Immigration and Nationality Act to include terrorism risk as a factor the Secretary of Homeland Security (DHS) shall consider under the electronic system for travel authorization (ESTA) in determining the eligibility of an alien to travel to the United States. </p> <p>Directs the Secretary to report to Congress regarding: (1) the number of individuals, identified by their countries of citizenship or nationality, who were denied eligibility to travel, or whose eligibility was revoked, under ESTA because the individual was determined to be a U.S. security threat; (2) steps to strengthen ESTA; and (3) foreign government compliance with information sharing agreements concerning passport theft or loss and whether a country's citizens or nationals traveling to the United States pose a U.S. security threat.</p> <p>Authorizes the Secretary to suspend a country from the visa waiver program without prior notice if the country fails to comply with an agreement to share information regarding whether its citizens and nationals traveling to the United States pose a U.S. security threat.</p>]]></text>
+          <updateDate>2014-09-15T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2014-09-24T18:51:45Z</lastSummaryUpdateDate>
+          <actionDate>2014-09-15</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-09-15T16:03:25Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Immigration and Border Security Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-10-28T13:53:01Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-09-15T16:03:30Z</date>
+            </item>
+          </activities>
+          <name>Homeland Security Committee</name>
+          <type>Standing</type>
+          <systemCode>hshm00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Border and Maritime Security Subcommittee</name>
+              <systemCode>hshm11</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-09-18T19:54:02Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <updateDate>2016-10-25T16:16:25Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName>S.</middleName>
+        <district>10</district>
+        <bioguideId>M001150</bioguideId>
+        <firstName>Candice</firstName>
+        <byRequestType />
+        <state>MI</state>
+        <identifiers>
+          <lisID>1731</lisID>
+          <gpoId>8589</gpoId>
+          <bioguideId>M001150</bioguideId>
+        </identifiers>
+        <fullName>Rep. Miller, Candice S. [R-MI-10]</fullName>
+        <lastName>Miller</lastName>
+      </item>
+    </sponsors>
+    <amendments />
+    <title>Visa Waiver Program Improvement Act of 2014</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <links />
+      <actionDate>2014-10-28</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <congress>113</congress>
+    <createDate>2014-09-16T04:46:37Z</createDate>
+    <originChamber>House</originChamber>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mrs. MILLER of Michigan:H.R. 5470.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution.[Page H7529]</pre>]]></constitutionalAuthorityStatementText>
+    <actions>
+      <item>
+        <actionDate>2014-10-28</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee>
+          <systemCode>hshm11</systemCode>
+          <name>Border and Maritime Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Homeland Security</text>
+        <links />
+        <actionDate>2014-09-15</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionDate>2014-09-15</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Judiciary</text>
+        <links />
+        <actionDate>2014-09-15</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-09-15</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-09-15</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <billNumber>5470</billNumber>
+    <cosponsors>
+      <item>
+        <district>18</district>
+        <firstName>SHEILA</firstName>
+        <state>TX</state>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <lastName>JACKSON LEE</lastName>
+        <party>D</party>
+        <bioguideId>J000032</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>10</district>
+        <firstName>Michael</firstName>
+        <state>TX</state>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <lastName>McCaul</lastName>
+        <party>R</party>
+        <bioguideId>M001157</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>T.</middleName>
+        <identifiers>
+          <bioguideId>M001157</bioguideId>
+          <gpoId>8166</gpoId>
+          <lisID>1804</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <firstName>BENNIE</firstName>
+        <state>MS</state>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+        <bioguideId>T000193</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1151</lisID>
+          <bioguideId>T000193</bioguideId>
+          <gpoId>8020</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>8</district>
+        <firstName>Richard</firstName>
+        <state>NC</state>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <lastName>Hudson</lastName>
+        <party>R</party>
+        <bioguideId>H001067</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <bioguideId>H001067</bioguideId>
+          <lisID>2140</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <firstName>Ron</firstName>
+        <state>AZ</state>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <fullName>Rep. Barber, Ron [D-AZ-2]</fullName>
+        <lastName>Barber</lastName>
+        <party>D</party>
+        <bioguideId>B001279</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2093</lisID>
+          <bioguideId>B001279</bioguideId>
+          <gpoId>8368</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>9</district>
+        <firstName>Yvette</firstName>
+        <state>NY</state>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <lastName>Clarke</lastName>
+        <party>D</party>
+        <bioguideId>C001067</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>D.</middleName>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>26</district>
+        <firstName>Brian</firstName>
+        <state>NY</state>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <lastName>Higgins</lastName>
+        <party>D</party>
+        <bioguideId>H001038</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1794</lisID>
+          <bioguideId>H001038</bioguideId>
+          <gpoId>8088</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>14</district>
+        <firstName>Gary</firstName>
+        <state>MI</state>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <fullName>Rep. Peters, Gary C. [D-MI-14]</fullName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <bioguideId>P000595</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>C.</middleName>
+        <identifiers>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>8</district>
+        <firstName>Paul</firstName>
+        <state>CA</state>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <lastName>Cook</lastName>
+        <party>R</party>
+        <bioguideId>C001094</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <firstName>Tulsi</firstName>
+        <state>HI</state>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <lastName>Gabbard</lastName>
+        <party>D</party>
+        <bioguideId>G000571</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>5</district>
+        <firstName>Susan</firstName>
+        <state>IN</state>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <lastName>Brooks</lastName>
+        <party>R</party>
+        <bioguideId>B001284</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <identifiers>
+          <lisID>2129</lisID>
+          <bioguideId>B001284</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>19</district>
+        <firstName>Curt</firstName>
+        <state>FL</state>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <fullName>Rep. Clawson, Curt [R-FL-19]</fullName>
+        <lastName>Clawson</lastName>
+        <party>R</party>
+        <bioguideId>C001102</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2200</lisID>
+          <gpoId />
+          <bioguideId>C001102</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <firstName>PETER</firstName>
+        <state>NY</state>
+        <sponsorshipDate>2014-09-17</sponsorshipDate>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <lastName>KING</lastName>
+        <party>R</party>
+        <bioguideId>K000210</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>T.</middleName>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>12</district>
+        <firstName>Keith</firstName>
+        <state>PA</state>
+        <sponsorshipDate>2014-09-17</sponsorshipDate>
+        <fullName>Rep. Rothfus, Keith J. [R-PA-12]</fullName>
+        <lastName>Rothfus</lastName>
+        <party>R</party>
+        <bioguideId>R000598</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <identifiers>
+          <lisID>2158</lisID>
+          <bioguideId>R000598</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>7</district>
+        <firstName>Patrick</firstName>
+        <state>PA</state>
+        <sponsorshipDate>2014-09-17</sponsorshipDate>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <lastName>Meehan</lastName>
+        <party>R</party>
+        <bioguideId>M001181</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2052</lisID>
+          <bioguideId>M001181</bioguideId>
+          <gpoId>8125</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>7</district>
+        <firstName>JOHN</firstName>
+        <state>TX</state>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <fullName>Rep. Culberson, John Abney [R-TX-7]</fullName>
+        <lastName>CULBERSON</lastName>
+        <party>R</party>
+        <bioguideId>C001048</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>ABNEY</middleName>
+        <identifiers>
+          <bioguideId>C001048</bioguideId>
+          <lisID>1670</lisID>
+          <gpoId>8163</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>43</district>
+        <firstName>MAXINE</firstName>
+        <state>CA</state>
+        <sponsorshipDate>2014-09-19</sponsorshipDate>
+        <fullName>Rep. Waters, Maxine [D-CA-43]</fullName>
+        <lastName>WATERS</lastName>
+        <party>D</party>
+        <bioguideId>W000187</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1205</lisID>
+          <bioguideId>W000187</bioguideId>
+          <gpoId>7840</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Visa Waiver Program Improvement Act of 2014</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To clarify the grounds for ineligibility for travel to the United States regarding terrorism risk, to expand the criteria by which a country may be removed from the Visa Waiver Program, to require the Secretary of Homeland Security to submit a report on strengthening the Electronic System for Travel Authorization to better secure the international borders of the United States and prevent terrorists and instruments of terrorism from entering the United States, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Visa Waiver Program Improvement Act of 2014</title>
+        <chamberName />
+      </item>
+    </titles>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

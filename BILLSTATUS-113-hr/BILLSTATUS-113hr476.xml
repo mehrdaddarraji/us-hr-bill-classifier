@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on the Budget.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+        <actionDate>2013-02-04</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-02-04</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-02-04</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Conaway</lastName>
+        <party>R</party>
+        <middleName>Michael</middleName>
+        <identifiers>
+          <bioguideId>C001062</bioguideId>
+          <lisID>1805</lisID>
+          <gpoId>8167</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>K.</firstName>
+        <bioguideId>C001062</bioguideId>
+        <state>TX</state>
+        <district>11</district>
+      </item>
+      <item>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <sponsorshipDate>2013-02-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Palazzo</lastName>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>P000601</bioguideId>
+          <gpoId>8022</gpoId>
+          <lisID>2035</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steven</firstName>
+        <bioguideId>P000601</bioguideId>
+        <state>MS</state>
+        <district>4</district>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-02-05T07:00:56Z</createDate>
+    <introducedDate>2013-02-04</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-02-04</actionDate>
+      <text>Referred to the House Committee on the Budget.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>GAAP Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Generally Accepted Accounting Principles Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend title 31, United States Code, to require the President to submit with the budget an estimate of the deficit using generally accepted accounting principles, and to amend the Congressional Budget Act of 1974 to require the Congressional Budget Office to submit the same with its report to the Committees on the Budget of the House of Representatives and the Senate.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>GAAP Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:01:42Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Gingrey, Phil [R-GA-11]</fullName>
+        <identifiers>
+          <lisID>1720</lisID>
+          <gpoId>7908</gpoId>
+          <bioguideId>G000550</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Phil</firstName>
+        <lastName>Gingrey</lastName>
+        <bioguideId>G000550</bioguideId>
+        <state>GA</state>
+        <district>11</district>
+      </item>
+    </sponsors>
+    <title>GAAP Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-02-04T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2013-03-05T16:12:08Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Generally Accepted Accounting Principles Act or GAAP Act - Requires the President's budget submission to include an estimate of the deficit or surplus for the fiscal year concerned, prepared using generally accepted accounting principles.</p> <p>Amends the Congressional Budget Act of 1974 to require the alternative levels of total revenues, total new budget authority, and total outlays (including related surpluses and deficits) covered by the annual Congressional Budget Office (CBO) fiscal policy report to the congressional budget committees on the upcoming fiscal year to be prepared using both cash basis accounting and generally accepted accounting principles.</p>]]></text>
+          <actionDate>2013-02-04</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>476</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Budget Committee</name>
+          <subcommittees />
+          <systemCode>hsbu00</systemCode>
+          <activities>
+            <item>
+              <date>2013-02-04T19:02:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 16 (Monday, February 4, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GINGREY of Georgia:H.R. 476.Congress has the power to enact this legislation pursuantto the following:Article I, Section 9, Clause 7, that states ``. . . aregular Statement and Account of the Receipts andExpenditures of all public Money shall be published from timeto time.''[Page H343]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

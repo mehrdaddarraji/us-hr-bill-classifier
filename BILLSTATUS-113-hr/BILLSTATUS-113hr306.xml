@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>113</congress>
+    <notes />
+    <sponsors>
+      <item>
+        <middleName>William</middleName>
+        <byRequestType />
+        <bioguideId>L000563</bioguideId>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <state>IL</state>
+        <lastName>Lipinski</lastName>
+        <identifiers>
+          <lisID>1781</lisID>
+          <bioguideId>L000563</bioguideId>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <district>3</district>
+        <party>D</party>
+        <firstName>Daniel</firstName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Private Legislation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>For the relief of Corina de Chalup Turcinovic.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>For the relief of Corina de Chalup Turcinovic.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2013-01-15</introducedDate>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>15</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <reportedToHouse>1</reportedToHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <designationOfSpeakerProTempore>1</designationOfSpeakerProTempore>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <privateCalendarAssignment>1</privateCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <placeholderTextForH>3</placeholderTextForH>
+        <actionStageOverride>1</actionStageOverride>
+        <referredToCommittee>1</referredToCommittee>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <considerationByHouse>1</considerationByHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-07-16</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <links />
+        <actionTime>12:03:49</actionTime>
+        <committee />
+        <actionDate>2014-07-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <actionCode>H37100</actionCode>
+        <type>Floor</type>
+        <links />
+        <actionTime>12:03:46</actionTime>
+        <committee />
+        <actionDate>2014-07-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>On passage Passed without objection.</text>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <links />
+        <actionTime>12:03:46</actionTime>
+        <committee />
+        <actionDate>2014-07-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On passage Passed without objection.</text>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <links />
+        <actionTime>12:03:36</actionTime>
+        <committee />
+        <actionDate>2014-07-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered from the Private Calendar.</text>
+      </item>
+      <item>
+        <actionCode>H12430</actionCode>
+        <type>Calendars</type>
+        <links />
+        <committee />
+        <actionDate>2014-05-13</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Placed on the Private Calendar, Calendar No. 1.</text>
+      </item>
+      <item>
+        <actionCode>H12200</actionCode>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/445</url>
+            <name>H. Rept. 113-445</name>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2014-05-13</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Reported by the Committee on Judiciary. H. Rept. 113-445.</text>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/445</url>
+            <name>H. Rept. 113-445</name>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2014-05-13</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Reported by the Committee on Judiciary. H. Rept. 113-445.</text>
+      </item>
+      <item>
+        <actionDate>2014-04-30</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-04-30</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-04-04</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-04-04</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-01-15</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2013-01-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-01-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-01-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2014-05-05T13:06:53Z</pubDate>
+        <url>http://www.cbo.gov/publication/45329</url>
+        <title>H.R. 306, a bill for the relief of Corina de Chalup Turcinovic</title>
+      </item>
+      <item>
+        <pubDate>2014-05-05T13:06:53Z</pubDate>
+        <url>https://www.cbo.gov/publication/45329</url>
+        <title>H.R. 306, a bill for the relief of Corina de Chalup Turcinovic</title>
+      </item>
+    </cboCostEstimates>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-01-15</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2013-01-16T09:02:02Z</lastSummaryUpdateDate>
+          <updateDate>2013-01-15T05:00:00Z</updateDate>
+          <text><![CDATA[Provides for the relief of Corina de Chalup Turcinovic.]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills />
+    <laws />
+    <originChamber>House</originChamber>
+    <calendarNumbers>
+      <item>
+        <calendar>P00001</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <policyArea>
+      <name>Private Legislation</name>
+    </policyArea>
+    <recordedVotes />
+    <updateDate>2018-06-05T15:59:54Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-07-16T16:17:57Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Reported by</name>
+                  <date>2014-04-04T15:30:21Z</date>
+                </item>
+                <item>
+                  <name>Markup by</name>
+                  <date>2014-04-04T15:30:06Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-01-15T15:20:41Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2014-05-13T17:25:32Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2014-04-30T20:10:55Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-15T15:04:25Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <title>For the relief of Corina de Chalup Turcinovic.</title>
+    <createDate>2013-01-16T07:02:10Z</createDate>
+    <billType>HR</billType>
+    <billNumber>306</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 4 (Tuesday, January 15, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]Mr. LIPINSKI:H.R. 306.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 4 of the Constitution providesthat Congress shall have power to ``establish an uniform Ruleof Naturalization''. The Supreme Court has long found thatthis provision of the Constitution grants Congress plenarypower over immigration policy. As the Court found in Galvanv. Press, 347 U.S. 522, 531 (1954), ``that the formulation ofpolicies [pertaining to the entry of aliens and their rightto remain here] is entrusted exclusively to Congress hasbecome about as firmly imbedded in the legislative andjudicial tissues of our body politic as any aspect of ourgovernment.'' And, as the Court found in Kleindienst v.Mandel, 408 U.S. 753, 766 (1972) (quoting Boutilier v. INS,387 U.S. 118, 123 (1967)), ``[t]he Court without exceptionhas sustained Congress' `plenary power to make rules for theadmission of aliens and to exclude those who possess thosecharacteristics which Congress has forbidden.'''[Page H173]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 113-445</citation>
+      </committeeReport>
+    </committeeReports>
+    <latestAction>
+      <actionDate>2014-07-16</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

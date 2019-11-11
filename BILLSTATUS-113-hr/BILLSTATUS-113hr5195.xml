@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2014-07-24</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <district>16</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Kinzinger</lastName>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <sponsorshipDate>2014-07-24</sponsorshipDate>
+        <middleName />
+        <firstName>Adam</firstName>
+        <identifiers>
+          <bioguideId>K000378</bioguideId>
+          <gpoId>7931</gpoId>
+          <lisID>2014</lisID>
+        </identifiers>
+        <bioguideId>K000378</bioguideId>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gabbard</lastName>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <sponsorshipDate>2014-07-29</sponsorshipDate>
+        <middleName />
+        <firstName>Tulsi</firstName>
+        <identifiers>
+          <bioguideId>G000571</bioguideId>
+          <gpoId />
+          <lisID>2122</lisID>
+        </identifiers>
+        <bioguideId>G000571</bioguideId>
+        <state>HI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>8</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MORAN</lastName>
+        <fullName>Rep. Moran, James P. [D-VA-8]</fullName>
+        <sponsorshipDate>2014-07-29</sponsorshipDate>
+        <middleName>P.</middleName>
+        <firstName>JAMES</firstName>
+        <identifiers>
+          <lisID>832</lisID>
+          <gpoId>8199</gpoId>
+          <bioguideId>M000933</bioguideId>
+        </identifiers>
+        <bioguideId>M000933</bioguideId>
+        <state>VA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>15</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Stivers</lastName>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <sponsorshipDate>2014-07-29</sponsorshipDate>
+        <middleName />
+        <firstName>Steve</firstName>
+        <identifiers>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <bioguideId>S001187</bioguideId>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Became Public Law No: 113-160.</text>
+      <links>
+        <link>
+          <name>Public Law No: 113-160</name>
+          <url>https://www.congress.gov/bill/113th-congress/house-bill/5195/text/pl</url>
+        </link>
+      </links>
+      <actionDate>2014-08-08</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>S</type>
+        <number>2624</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2014-07-17</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Afghan Allies Protection Act of 2014</latestTitle>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:15:26Z</updateDate>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <passedSenate>1</passedSenate>
+        <becamePublicLaw>2</becamePublicLaw>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <billReferrals>2</billReferrals>
+        <presentedToPresident>1</presentedToPresident>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <generalDebate>1</generalDebate>
+        <introducedInSenate>1</introducedInSenate>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <sentToHouse>1</sentToHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <placeholderTextForE>3</placeholderTextForE>
+        <considerationByHouse>1</considerationByHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionCode>E40000</actionCode>
+        <actionDate>2014-08-08</actionDate>
+        <type>President</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>Public Law No: 113-160</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/5195/text/pl</url>
+          </link>
+        </links>
+        <text>Became Public Law No: 113-160.</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>36000</actionCode>
+        <actionDate>2014-08-08</actionDate>
+        <type>BecameLaw</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>Public Law No: 113-160</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/5195/text/pl</url>
+          </link>
+        </links>
+        <text>Became Public Law No: 113-160.</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>E30000</actionCode>
+        <actionDate>2014-08-08</actionDate>
+        <type>President</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Signed by President.</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>36000</actionCode>
+        <actionDate>2014-08-08</actionDate>
+        <type>BecameLaw</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Signed by President.</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>E20000</actionCode>
+        <actionDate>2014-08-04</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Presented to President.</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>28000</actionCode>
+        <actionDate>2014-08-04</actionDate>
+        <type>President</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Presented to President.</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2014-08-01</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-08-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5329</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5329</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Voice Vote. (consideration: CR S5329)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <actionDate>2014-08-01</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S5329</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5329</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S5329)</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2014-07-31</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate, read twice.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>14:33:43</actionTime>
+        <actionCode>H38310</actionCode>
+        <actionDate>2014-07-30</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>14:33:40</actionTime>
+        <actionCode>H37300</actionCode>
+        <actionDate>2014-07-30</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H7071</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H7071</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7071)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>14:33:40</actionTime>
+        <actionCode>8000</actionCode>
+        <actionDate>2014-07-30</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H7071</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H7071</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7071)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>14:06:47</actionTime>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2014-07-30</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 5195</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/5195</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5195.</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>14:06:45</actionTime>
+        <actionCode>H30000</actionCode>
+        <actionDate>2014-07-30</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H7070-7074</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H7070-7074</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H7070-7074)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>14:06:23</actionTime>
+        <actionCode>H30300</actionCode>
+        <actionDate>2014-07-30</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Mr. Holding moved to suspend the rules and pass the bill, as amended.</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2014-07-25</actionDate>
+        <committee>
+          <name>Immigration and Border Security Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-07-24</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Foreign Affairs</text>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <actionDate>2014-07-24</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-07-24</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Judiciary</text>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <actionDate>2014-07-24</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H6749</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H6749</url>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR H6749)</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2014-07-24</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2014-07-24</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-07-30T13:52:15Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2014-07-24T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2014-07-24</actionDate>
+          <text><![CDATA[<p>Afghan Allies Protection Act of 2014 - Amends the Afghan Allies Protection Act of 2009 to: (1) increase to 4,000 the number of Afghan special immigrant visas available in FY2014, and (2) extend unused visa carryover authority through December 31, 2016.</p> <p>Directs the Secretary of State to temporarily increase the fee or surcharge (by $1.50) for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas.</p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2014-07-31T20:28:32Z</lastSummaryUpdateDate>
+          <versionCode>36</versionCode>
+          <updateDate>2014-07-30T14:03:29Z</updateDate>
+          <actionDesc>Passed House amended</actionDesc>
+          <name>Passed House amended</name>
+          <actionDate>2014-07-30</actionDate>
+          <text><![CDATA[<p>Amends the Afghan Allies Protection Act of 2009 to increase by 1,000 the number of Afghan special immigrant visas available in FY2014. </p> <p>Requires, with regard to such visas, that: </p> <ul> <li>the period during which an alien must have been employed must terminate by December 31, 2014, </li> <li>the principal alien seeking special immigrant status shall apply to the Chief of Mission by December 31, 2014, and </li> <li>the authority to provide such status shall terminate on December 31, 2014. </ul> <p>Directs the Secretary of State, by January 1, 2015, to increase temporarily the fee or surcharge (by $1) for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas.</p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2014-08-04T18:50:05Z</lastSummaryUpdateDate>
+          <versionCode>82</versionCode>
+          <updateDate>2014-08-01T12:02:07Z</updateDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <name>Passed Senate without amendment</name>
+          <actionDate>2014-08-01</actionDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was passed by the House on July 30, 2014. The summary of that version is repeated here.)</b></p> <p>Amends the Afghan Allies Protection Act of 2009 to increase by 1,000 the number of Afghan special immigrant visas available in FY2014. </p> <p>Requires, with regard to such visas, that: </p> <ul> <li>the period during which an alien must have been employed must terminate by December 31, 2014, </li> <li>the principal alien seeking special immigrant status shall apply to the Chief of Mission by December 31, 2014, and </li> <li>the authority to provide such status shall terminate on December 31, 2014. </ul> <p>Directs the Secretary of State, by January 1, 2015, to increase temporarily the fee or surcharge (by $1) for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas.</p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2014-08-26T16:31:57Z</lastSummaryUpdateDate>
+          <versionCode>49</versionCode>
+          <updateDate>2014-08-09T03:59:58Z</updateDate>
+          <actionDesc>Public Law</actionDesc>
+          <name>Public Law</name>
+          <actionDate>2014-08-08</actionDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was passed by the House on July 30, 2014. The summary of that version is repeated here.)</b></p> <p>Amends the Afghan Allies Protection Act of 2009 to increase by 1,000 the number of Afghan special immigrant visas available in FY2014. </p> <p>Requires, with regard to such visas, that: </p> <ul> <li>the period during which an alien must have been employed must terminate by December 31, 2014, </li> <li>the principal alien seeking special immigrant status shall apply to the Chief of Mission by December 31, 2014, and </li> <li>the authority to provide such status shall terminate on December 31, 2014. </ul> <p>Directs the Secretary of State, by January 1, 2015, to increase temporarily the fee or surcharge (by $1) for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Afghanistan</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Emergency Afghan Allies Extension Act of 2014</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>BLUMENAUER</lastName>
+        <bioguideId>B000574</bioguideId>
+        <middleName />
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+        </identifiers>
+        <district>3</district>
+        <firstName>EARL</firstName>
+        <party>D</party>
+        <state>OR</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>113-160</number>
+      </item>
+    </laws>
+    <notes />
+    <createDate>2014-07-25T05:01:14Z</createDate>
+    <billNumber>5195</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-07-25T20:10:05Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-07-24T14:03:30Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <type>Standing</type>
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-07-24T14:03:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. BLUMENAUER:H.R. 5195.Congress has the power to enact this legislation pursuantto the following:Article I of the U.S. Constitution.[Page H6815]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Emergency Afghan Allies Extension Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide additional visas for the Afghan Special Immigrant Visa Program, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Emergency Afghan Allies Extension Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

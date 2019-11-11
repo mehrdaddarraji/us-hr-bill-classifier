@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2013-05-22</actionDate>
+          <lastSummaryUpdateDate>2013-08-23T19:53:04Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Information Technology Exchange Program Act of 2013 or ITEP Act of 2013 - Amends the National Defense Authorization Act for Fiscal Year 2010 to extend through FY2023 a pilot program for the temporary exchange of information technology personnel between the Department of Defense (DOD) and the private sector.</p> <p>Extends a related reporting requirement.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-05-22T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2013-05-22</introducedDate>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>ITEP Act of 2013</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Information Technology Exchange Program Act of 2013</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To amend the National Defense Authorization Act for Fiscal Year 2010 to extend the pilot program for the temporary exchange of information technology personnel.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>ITEP Act of 2013</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <congress>113</congress>
+    <billNumber>2105</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 73 (Wednesday, May 22, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KILMER:H.R. 2105.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1: The Congress shall havepower to lay and collect Taxes, Duties, Imposts and Excises,to pay the Debts and provide for the common Defence andgeneral Welfare of the United States; but all Duties, Impostsand Excises shall be uniform throughout the United States.[Page H2912]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2018-06-05T16:22:56Z</updateDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsas26</systemCode>
+              <name>Emerging Threats and Capabilities Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2013-06-20T17:32:51Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2013-05-22T14:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Armed Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2013-05-23T07:02:05Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <lisID>2169</lisID>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <bioguideId>K000381</bioguideId>
+        <firstName>Derek</firstName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-06-20</actionDate>
+        <committee>
+          <systemCode>hsas26</systemCode>
+          <name>Emerging Threats and Capabilities Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Intelligence, Emerging Threats &amp; Capabilities.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-22</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-05-22</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-05-22</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/52746</url>
+        <pubDate>2017-05-19T19:02:00Z</pubDate>
+        <title>H.R. 2105, NIST Small Business Cybersecurity Act of 2017</title>
+      </item>
+    </cboCostEstimates>
+    <cosponsors>
+      <item>
+        <lastName>Bridenstine</lastName>
+        <fullName>Rep. Bridenstine, Jim [R-OK-1]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <bioguideId>B001283</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2155</lisID>
+          <gpoId />
+          <bioguideId>B001283</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <firstName>Jim</firstName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2013-06-20</actionDate>
+      <text>Referred to the Subcommittee on Intelligence, Emerging Threats &amp; Capabilities.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <title>ITEP Act of 2013</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

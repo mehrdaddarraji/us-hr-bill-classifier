@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-05-23</actionDate>
+        <committee>
+          <name>Aviation Subcommittee</name>
+          <systemCode>hspw05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2013-05-22</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2013-05-22</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2013-05-22</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <firstName>BRAD</firstName>
+        <district>30</district>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>SHERMAN</lastName>
+        <bioguideId>S000344</bioguideId>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <firstName>HENRY</firstName>
+        <district>33</district>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000215</bioguideId>
+          <gpoId>7835</gpoId>
+          <lisID>1209</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>WAXMAN</lastName>
+        <bioguideId>W000215</bioguideId>
+        <fullName>Rep. Waxman, Henry A. [D-CA-33]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-05-23T07:02:05Z</createDate>
+    <introducedDate>2013-05-22</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-05-23</actionDate>
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Valley-Wide Noise Relief Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To allow mandatory nighttime curfews at certain airports, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Valley-Wide Noise Relief Act of 2013</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Noise pollution</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:23:02Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <identifiers>
+          <lisID>1635</lisID>
+          <bioguideId>S001150</bioguideId>
+          <gpoId>7834</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>ADAM</firstName>
+        <lastName>SCHIFF</lastName>
+        <bioguideId>S001150</bioguideId>
+        <state>CA</state>
+        <district>28</district>
+      </item>
+    </sponsors>
+    <title>Valley-Wide Noise Relief Act of 2013</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-05-22T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2013-05-29T18:41:59Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Valley-Wide Noise Relief Act of 2013 - Permits an airport sponsor to implement a total mandatory nighttime curfew (no aircraft operations during the 9-hour period beginning at 10 p.m.) if it: (1) had a voluntary curfew in effect for certain aircraft on November 5, 1990; and (2) was created by an intergovernmental agreement established by a state statute enacted before that date that, along with the statute, imposes noise mitigation obligations.</p> <p>Permits the sponsor of an airport meeting other criteria to implement a partial mandatory nighttime curfew (no operations for certain aircraft for not longer than the 9-hour period beginning at 10 p.m.) if it: (1) had a partial curfew in effect before November 5, 1990; (2) operates under the supervision of a board of airport commissioners that, on January 1, 2010, oversaw operation of three or more airports, at least two of which have airport operating certificates; and (3) on January 1, 2010, failed to comply with a cumulative noise standard established by state law.</p> <p>Requires an airport sponsor to provide airport users and other interested parties reasonable notice of the terms of the curfew, including the penalties for curfew violations, no later than 90 days before its implementation.</p>]]></text>
+          <actionDate>2013-05-22</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>2120</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-05-22T14:01:10Z</date>
+            </item>
+          </activities>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <name>Aviation Subcommittee</name>
+              <systemCode>hspw05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-05-23T13:38:18Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 73 (Wednesday, May 22, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SCHIFF:H.R. 2120.Congress has the power to enact this legislation pursuantto the following:The Valley-Wide Noise Relief Act is constitutional underArticle I, Section 8, Clause 18, the Necessary and ProperClause. The bill is constitutionally authorized under theNecessary and Proper Clause, which supports the expansion ofcongressional authority beyond the explicit authorities thatare directly discernible from the text.[Page H2913]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

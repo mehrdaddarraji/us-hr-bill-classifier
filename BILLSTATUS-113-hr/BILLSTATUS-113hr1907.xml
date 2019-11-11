@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-06-03</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hswm02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-10</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-05-09</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Ways and Means</text>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-05-09</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-05-09</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Energy and Commerce</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-05-09</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-05-09</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>9</district>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <lastName>SCHAKOWSKY</lastName>
+        <middleName>D.</middleName>
+        <state>IL</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <firstName>JANICE</firstName>
+        <bioguideId>S001145</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Ms. SCHAKOWSKY:H.R. 1907.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2569]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1907</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:03:13Z</updateDate>
+    <laws />
+    <createDate>2013-05-10T07:02:10Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hswm02</systemCode>
+              <activities>
+                <item>
+                  <date>2013-06-03T15:13:46Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2013-05-09T13:04:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2013-05-10T20:57:41Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2013-05-09T13:04:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-05-09</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2013-06-27T21:42:27Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Nurse Staffing Standards for Patient Safety and Quality Care Act of 2013 - Amends the Public Health Service Act to require hospitals to implement a staffing plan that includes a minimum direct care registered nurse-to-patient ratio by unit, adjustments above the minimum ratio under appropriate circumstances, and compliance with minimum licensed practical nurse staffing requirements. Requires the Secretary of Health and Human Services (HHS) to develop a national acuity tool to establish nurse staffing requirements above minimum ratios.</p> <p>Directs the Secretary to adjust Medicare payments to hospitals to cover additional costs incurred in providing services to Medicare beneficiaries that are attributable to compliance with such ratios.</p> <p>Authorizes a nurse to object to, or refuse to participate in, any activity, policy, practice, assignment or task if in good faith it would violate minimum ratios under this Act or if the nurse is not prepared by education, training, or experience to fulfill the assignment without compromising the safety of any patient or jeopardizing the license of the nurse. Prohibits a hospital from: (1) taking specified actions against a nurse based on the nurse's refusal to accept an assignment for such a reason; or (2) discriminating against any patient, employee, or any other individual for good faith complaints or grievances relating to the care, services, or conditions of the hospital or of any affiliated or related facilities. Prohibits actions by hospitals to restrain such rights. Sets forth enforcement provisions.</p> <p>Applies provisions of this Act through federal health programs, including Medicare, Medicaid, and Department of Veterans Affairs (VA) health benefits programs.</p> <p>Includes stipends in the nurse workforce loan repayment and scholarship program. Expands the nurse retention grant program to authorize programs to implement nurse preceptorship and mentorship projects.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-05-09T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <lastName>LOFGREN</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>19</district>
+        <party>D</party>
+        <middleName />
+        <firstName>ZOE</firstName>
+        <bioguideId>L000397</bioguideId>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <state>DC</state>
+      </item>
+      <item>
+        <fullName>Rep. Schwartz, Allyson Y. [D-PA-13]</fullName>
+        <lastName>Schwartz</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <party>D</party>
+        <middleName>Y.</middleName>
+        <firstName>Allyson</firstName>
+        <bioguideId>S001162</bioguideId>
+        <identifiers>
+          <gpoId>8131</gpoId>
+          <bioguideId>S001162</bioguideId>
+          <lisID>1798</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <state>PA</state>
+      </item>
+      <item>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <lastName>Moore</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Gwen</firstName>
+        <bioguideId>M001160</bioguideId>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <state>WI</state>
+      </item>
+      <item>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <lastName>SHERMAN</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>30</district>
+        <party>D</party>
+        <middleName />
+        <firstName>BRAD</firstName>
+        <bioguideId>S000344</bioguideId>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <lastName>LEE</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <party>D</party>
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <bioguideId>L000551</bioguideId>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <lastName>Ellison</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Keith</firstName>
+        <bioguideId>E000288</bioguideId>
+        <identifiers>
+          <lisID>1857</lisID>
+          <bioguideId>E000288</bioguideId>
+          <gpoId>8005</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <state>MN</state>
+      </item>
+      <item>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <lastName>Chu</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>27</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Judy</firstName>
+        <bioguideId>C001080</bioguideId>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <lastName>Lynch</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <firstName>Stephen</firstName>
+        <bioguideId>L000562</bioguideId>
+        <identifiers>
+          <lisID>1686</lisID>
+          <gpoId>7974</gpoId>
+          <bioguideId>L000562</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <state>MA</state>
+      </item>
+      <item>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <lastName>Keating</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <firstName>William</firstName>
+        <bioguideId>K000375</bioguideId>
+        <identifiers>
+          <gpoId>7975</gpoId>
+          <lisID>2025</lisID>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <state>MA</state>
+      </item>
+      <item>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <firstName>JAMES</firstName>
+        <bioguideId>M000312</bioguideId>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <state>MA</state>
+      </item>
+      <item>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <lastName>Speier</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Jackie</firstName>
+        <bioguideId>S001175</bioguideId>
+        <identifiers>
+          <bioguideId>S001175</bioguideId>
+          <lisID>1890</lisID>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Hahn, Janice [D-CA-44]</fullName>
+        <lastName>Hahn</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>44</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Janice</firstName>
+        <bioguideId>H001063</bioguideId>
+        <identifiers>
+          <gpoId>8360</gpoId>
+          <bioguideId>H001063</bioguideId>
+          <lisID>2089</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-17</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Markey, Edward J. [D-MA-5]</fullName>
+        <lastName>MARKEY</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <firstName>EDWARD</firstName>
+        <bioguideId>M000133</bioguideId>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-17</sponsorshipDate>
+        <state>MA</state>
+      </item>
+      <item>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <lastName>DEFAZIO</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <firstName>PETER</firstName>
+        <bioguideId>D000191</bioguideId>
+        <identifiers>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <state>OR</state>
+      </item>
+      <item>
+        <fullName>Rep. Enyart, William L. [D-IL-12]</fullName>
+        <lastName>Enyart</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>12</district>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <firstName>William</firstName>
+        <bioguideId>E000292</bioguideId>
+        <identifiers>
+          <lisID>2125</lisID>
+          <bioguideId>E000292</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <state>IL</state>
+      </item>
+      <item>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <lastName>Lowenthal</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>47</district>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <firstName>Alan</firstName>
+        <bioguideId>L000579</bioguideId>
+        <identifiers>
+          <lisID>2111</lisID>
+          <gpoId />
+          <bioguideId>L000579</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <lastName>Beatty</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Joyce</firstName>
+        <bioguideId>B001281</bioguideId>
+        <identifiers>
+          <lisID>2153</lisID>
+          <bioguideId>B001281</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <state>OH</state>
+      </item>
+      <item>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <lastName>RANGEL</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <firstName>CHARLES</firstName>
+        <bioguideId>R000053</bioguideId>
+        <identifiers>
+          <lisID>944</lisID>
+          <bioguideId>R000053</bioguideId>
+          <gpoId>8076</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-14</sponsorshipDate>
+        <state>NY</state>
+      </item>
+      <item>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <lastName>Cartwright</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>17</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Matt</firstName>
+        <bioguideId>C001090</bioguideId>
+        <identifiers>
+          <lisID>2159</lisID>
+          <bioguideId>C001090</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-14</sponsorshipDate>
+        <state>PA</state>
+      </item>
+      <item>
+        <fullName>Rep. Brown, Corrine [D-FL-5]</fullName>
+        <lastName>BROWN</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>D</party>
+        <middleName />
+        <firstName>CORRINE</firstName>
+        <bioguideId>B000911</bioguideId>
+        <identifiers>
+          <lisID>132</lisID>
+          <gpoId>7875</gpoId>
+          <bioguideId>B000911</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-07-08</sponsorshipDate>
+        <state>FL</state>
+      </item>
+      <item>
+        <fullName>Rep. Miller, George [D-CA-11]</fullName>
+        <lastName>MILLER</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <party>D</party>
+        <middleName />
+        <firstName>GEORGE</firstName>
+        <bioguideId>M000725</bioguideId>
+        <identifiers>
+          <gpoId>7812</gpoId>
+          <bioguideId>M000725</bioguideId>
+          <lisID>808</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-08-02</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Tierney, John F. [D-MA-6]</fullName>
+        <lastName>TIERNEY</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <firstName>JOHN</firstName>
+        <bioguideId>T000266</bioguideId>
+        <identifiers>
+          <lisID>1535</lisID>
+          <gpoId>7971</gpoId>
+          <bioguideId>T000266</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-08-02</sponsorshipDate>
+        <state>MA</state>
+      </item>
+      <item>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <lastName>NAPOLITANO</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>32</district>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <firstName>GRACE</firstName>
+        <bioguideId>N000179</bioguideId>
+        <identifiers>
+          <lisID>1602</lisID>
+          <bioguideId>N000179</bioguideId>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-09-10</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <lastName>JOHNSON</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>30</district>
+        <party>D</party>
+        <middleName>BERNICE</middleName>
+        <firstName>EDDIE</firstName>
+        <bioguideId>J000126</bioguideId>
+        <identifiers>
+          <bioguideId>J000126</bioguideId>
+          <lisID>599</lisID>
+          <gpoId>8186</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-09-10</sponsorshipDate>
+        <state>TX</state>
+      </item>
+      <item>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <lastName>Huffman</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Jared</firstName>
+        <bioguideId>H001068</bioguideId>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <lisID>2101</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-10-09</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <lastName>Garamendi</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>D</party>
+        <middleName />
+        <firstName>John</firstName>
+        <bioguideId>G000559</bioguideId>
+        <identifiers>
+          <gpoId>7815</gpoId>
+          <lisID>1973</lisID>
+          <bioguideId>G000559</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <lastName>Bordallo</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <party>D</party>
+        <middleName>Z.</middleName>
+        <firstName>Madeleine</firstName>
+        <bioguideId>B001245</bioguideId>
+        <identifiers>
+          <lisID>1723</lisID>
+          <bioguideId>B001245</bioguideId>
+          <gpoId>7911</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+        <state>GU</state>
+      </item>
+      <item>
+        <fullName>Rep. Horsford, Steven A. [D-NV-4]</fullName>
+        <lastName>Horsford</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <firstName>Steven</firstName>
+        <bioguideId>H001066</bioguideId>
+        <identifiers>
+          <bioguideId>H001066</bioguideId>
+          <lisID>2147</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-02-05</sponsorshipDate>
+        <state>NV</state>
+      </item>
+      <item>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <lastName>Peters</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>52</district>
+        <party>D</party>
+        <middleName>H.</middleName>
+        <firstName>Scott</firstName>
+        <bioguideId>P000608</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000608</bioguideId>
+          <lisID>2113</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-04-09</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <lastName>Brownley</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>26</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Julia</firstName>
+        <bioguideId>B001285</bioguideId>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-04-09</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <lastName>Shea-Porter</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Carol</firstName>
+        <bioguideId>S001170</bioguideId>
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <lisID>1861</lisID>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-05-29</sponsorshipDate>
+        <state>NH</state>
+      </item>
+      <item>
+        <fullName>Rep. Peters, Gary C. [D-MI-14]</fullName>
+        <lastName>Peters</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <party>D</party>
+        <middleName>C.</middleName>
+        <firstName>Gary</firstName>
+        <bioguideId>P000595</bioguideId>
+        <identifiers>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+          <lisID>1929</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-05-29</sponsorshipDate>
+        <state>MI</state>
+      </item>
+      <item>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <lastName>Takano</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>41</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Mark</firstName>
+        <bioguideId>T000472</bioguideId>
+        <identifiers>
+          <lisID>2110</lisID>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-07-09</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <lastName>Clark</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <firstName>Katherine</firstName>
+        <bioguideId>C001101</bioguideId>
+        <identifiers>
+          <bioguideId>C001101</bioguideId>
+          <gpoId />
+          <lisID>2196</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-07-11</sponsorshipDate>
+        <state>MA</state>
+      </item>
+      <item>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <lastName>RYAN</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <party>D</party>
+        <middleName />
+        <firstName>TIM</firstName>
+        <bioguideId>R000577</bioguideId>
+        <identifiers>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-07-28</sponsorshipDate>
+        <state>OH</state>
+      </item>
+      <item>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <lastName>CONYERS</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <party>D</party>
+        <middleName />
+        <firstName>JOHN</firstName>
+        <bioguideId>C000714</bioguideId>
+        <identifiers>
+          <lisID>229</lisID>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-07-28</sponsorshipDate>
+        <state>MI</state>
+      </item>
+      <item>
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <lastName>Bera</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Ami</firstName>
+        <bioguideId>B001287</bioguideId>
+        <identifiers>
+          <bioguideId>B001287</bioguideId>
+          <lisID>2102</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-08-01</sponsorshipDate>
+        <state>CA</state>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-04-16</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <number>739</number>
+        <latestTitle>National Nursing Shortage Reform and Patient Advocacy Act</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Military medicine</name>
+          </item>
+          <item>
+            <name>Nursing</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>Nurse Staffing Standards for Patient Safety and Quality Care Act of 2013</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend the Public Health Service Act to establish direct care registered nurse-to-patient staffing ratio requirements in hospitals, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Nurse Staffing Standards for Patient Safety and Quality Care Act of 2013</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Nurse Staffing Standards for Patient Safety and Quality Care Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-05-09</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-06-03</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

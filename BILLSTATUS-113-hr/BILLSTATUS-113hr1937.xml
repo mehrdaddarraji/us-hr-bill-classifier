@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-07-08</actionDate>
+        <committee>
+          <systemCode>hsed13</systemCode>
+          <name>Higher Education and Workforce Training Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-05-09</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-05-09</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-05-09</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>50</district>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <lastName>Hunter</lastName>
+        <middleName>D.</middleName>
+        <state>CA</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>1909</lisID>
+          <bioguideId>H001048</bioguideId>
+          <gpoId>7857</gpoId>
+        </identifiers>
+        <firstName>Duncan</firstName>
+        <bioguideId>H001048</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. HUNTER:H.R. 1937.Congress has the power to enact this legislation pursuantto the following:The Constitutional Authority for the Act is derived fromArticle 1, Section 8, Clauses 1 and 18.[Page H2570]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1937</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:03:19Z</updateDate>
+    <laws />
+    <createDate>2013-05-10T07:02:10Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsed00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-05-09T13:02:45Z</date>
+            </item>
+          </activities>
+          <name>Education and the Workforce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsed13</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-07-08T20:45:51Z</date>
+                </item>
+              </activities>
+              <name>Higher Education and Workforce Training Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Student Right to Know Before You Go Act of 2013 - Amends title IV (Student Assistance) of the Higher Education Act of 1965 (HEA) to require institutions of higher education (IHEs) to submit to the Secretary of Education data that the Secretary determines to be sufficient to complete all student components of reporting required for the Integrated Postsecondary Education Data System (IPEDS). Directs the Secretary to review that determination every five years.</p> <p>Requires the Secretary to: (1) establish common definitions for IHEs to follow in submitting the data required under this Act, and (2) determine both collection and reporting requirements.</p> <p>Directs the Secretary to require IHEs to identify student unit records to enable coding and reporting on: (1) students who participate in remedial education; (2) whether, and at what level, the student is seeking a degree; and (3) whether the student is seeking a certificate. (Student unit records are used to collect information at the student, rather than institutional, level.)</p> <p>Requires the Secretary to also calculate, within two years of this Act's enactment, at the institutional and program specific level: </p> <ul> <li> the percentage of students who receive federal, state, or institutional grants or loans; </li> <li> the average amount of federal loan debt students have accumulated by graduation; </li> <li> the average amount of total federal loan debt of students who do not complete a program of study two years after their last known enrollment in any IHE; </li> <li> student transfer rates by sector of transfer; </li> <li> rates of continuation to higher levels of education; and</li> <li> the percentage of students who receive the degree level they initially sought.</li> </ul> <p>Directs the Secretary to make those student outcome measures and the currently reported student level components of IPEDS available by specified student types that are differentiated on the basis of their: (1) receipt or non-receipt of federal Pell Grants or Stafford Loans, (2) participation in the Post-9/11 Veterans Educational Assistance Program, (3) enrollment status, and (4) enrollment intensity. </p> <p>Requires the Secretary, in cooperation with the Commissioner of Social Security, to establish a system which uses the student components of IPEDS to create earnings metrics that allow the publication of median annual earnings and employment data that is disaggregated by: (1) educational program, credential received, school, and state of employment; and (2) the 2-, 6-, and 15-year periods after educational program completion. </p> <p>Requires the information aggregated by the Secretary under this Act to be made available on IPEDS and posted on a website in a timely and user-friendly manner that protects personally identifiable information. </p> <p>Requires IHEs, within five years of this Act's enactment, to provide a prominently displayed link on their websites to the website containing such information. Eliminates, within five years of this Act's enactment, IHE data reporting requirements under the HEA that are deemed duplicative. </p> <p>Directs the Secretary to create a process through which IHEs and states may request and receive from the Department of Education aggregate student outcome data for the purposes of institutional improvement and program evaluation.</p> <p>Prohibits the unauthorized use of the data collected pursuant to this Act.</p>]]></text>
+          <actionDate>2013-05-09</actionDate>
+          <lastSummaryUpdateDate>2013-06-08T14:49:14Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-05-09T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Andrews, Robert E. [D-NJ-1]</fullName>
+        <lastName>ANDREWS</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <firstName>ROBERT</firstName>
+        <bioguideId>A000210</bioguideId>
+        <identifiers>
+          <lisID>21</lisID>
+          <gpoId>8043</gpoId>
+          <bioguideId>A000210</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <state>NJ</state>
+      </item>
+      <item>
+        <fullName>Rep. Petri, Thomas E. [R-WI-6]</fullName>
+        <lastName>PETRI</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <middleName />
+        <firstName>TOM</firstName>
+        <bioguideId>P000265</bioguideId>
+        <identifiers>
+          <bioguideId>P000265</bioguideId>
+          <lisID>912</lisID>
+          <gpoId>8219</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-05-07</sponsorshipDate>
+        <state>WI</state>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestTitle>Student Right to Know Before You Go Act of 2013</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>915</number>
+        <latestAction>
+          <actionDate>2014-07-31</actionDate>
+          <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Academic performance and assessments</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Student Right to Know Before You Go Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend the Higher Education Act of 1965 to update reporting requirements for institutions of higher education and provide for more accurate and complete data on student retention, graduation, and earnings outcomes at all levels of postsecondary enrollment.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Student Right to Know Before You Go Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Student Right to Know Before You Go Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-05-09</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-07-08</actionDate>
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

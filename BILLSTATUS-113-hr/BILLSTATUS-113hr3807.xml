@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>3</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>4</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-01-24</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-01-07</actionDate>
+        <committee>
+          <name>Conservation and Forestry Subcommittee</name>
+          <systemCode>hsag15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-12-27</actionDate>
+        <committee>
+          <name>Federal Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to House Agriculture</text>
+        <actionDate>2013-12-23</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to House Natural Resources</text>
+        <actionDate>2013-12-23</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to House Foreign Affairs</text>
+        <actionDate>2013-12-23</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committees on Foreign Affairs, Natural Resources, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2013-12-23</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <text>Referred to House Armed Services</text>
+        <actionDate>2013-12-23</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2013-12-23</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2013-12-23</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>2</district>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <lastName>Poe</lastName>
+        <middleName />
+        <state>TX</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+        </identifiers>
+        <firstName>Ted</firstName>
+        <bioguideId>P000592</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. POE of Texas:H.R. 3807.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 12[Page H8132]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3807</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:09:56Z</updateDate>
+    <laws />
+    <createDate>2013-12-24T07:01:21Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <date>2014-01-24T21:03:47Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <date>2013-12-23T15:00:52Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Agriculture Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsag15</systemCode>
+              <activities>
+                <item>
+                  <date>2014-01-07T18:11:38Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Conservation and Forestry Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <date>2013-12-23T15:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <date>2013-12-27T22:20:06Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Federal Lands Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2013-12-23T15:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <date>2013-12-23T15:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Uphold Our Promise to Veterans Act - Repeals the provision of the Bipartisan Budget Act of 2013 that reduces the cost-of-living adjustment to the retirement pay of members of the Armed Forces under age 62.</p> <p>Prohibits assistance to the Government of Egypt and economic and security assistance to the Government of&nbsp;Pakistan effective&nbsp;on the date of enactment of this Act with respect&nbsp;to funds made available beginning with FY2015.</p> <p>Requires: (1)&nbsp;8% of federal land managed by the Bureau of Land Management (BLM) and 8% of the National Forest System land to be offered for competitive sale by auction, and (2) proceeds from the sale of such lands to be used to reduce the annual federal budget deficit or the outstanding federal debt.</p>]]></text>
+          <actionDate>2013-12-23</actionDate>
+          <lastSummaryUpdateDate>2014-03-14T19:31:44Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-12-23T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+          <lisID>612</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>JONES</lastName>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2013-12-23</sponsorshipDate>
+        <district>3</district>
+        <firstName>WALTER</firstName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000255</bioguideId>
+        <state>NC</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>T000462</bioguideId>
+          <lisID>1664</lisID>
+          <gpoId>8102</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>TIBERI</lastName>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2014-01-07</sponsorshipDate>
+        <district>12</district>
+        <firstName>PATRICK</firstName>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000462</bioguideId>
+        <state>OH</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8183</gpoId>
+          <lisID>2067</lisID>
+          <bioguideId>F000460</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Farenthold</lastName>
+        <middleName />
+        <sponsorshipDate>2014-01-08</sponsorshipDate>
+        <district>27</district>
+        <firstName>Blake</firstName>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000460</bioguideId>
+        <state>TX</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+          <lisID>1931</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Luetkemeyer</lastName>
+        <middleName />
+        <sponsorshipDate>2014-01-08</sponsorshipDate>
+        <district>3</district>
+        <firstName>Blaine</firstName>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000569</bioguideId>
+        <state>MO</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>484</lisID>
+          <gpoId>8160</gpoId>
+          <bioguideId>H000067</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>HALL</lastName>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <district>4</district>
+        <firstName>RALPH</firstName>
+        <fullName>Rep. Hall, Ralph M. [R-TX-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H000067</bioguideId>
+        <state>TX</state>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-04-02</actionDate>
+          <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+        </latestAction>
+        <number>1017</number>
+        <latestTitle>American Land Act</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3792</number>
+        <latestTitle>To repeal the reduction in the annual percentage increases of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62.</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3794</number>
+        <latestTitle>To repeal the annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3797</number>
+        <latestTitle>To repeal an annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3798</number>
+        <latestTitle>To repeal an annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-12-18</actionDate>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+        </latestAction>
+        <number>1856</number>
+        <latestTitle>A bill to repeal section 403 of the Bipartisan Budget Act of 2013, relating to an annual adjustment of retired pay for members of the Armed Forces under the age of 62.</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-12-19</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>1869</number>
+        <latestTitle>Keeping Our Promise to Our Military Heroes Act</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-02-12</actionDate>
+          <text>Returned to the Calendar. Calendar No. 298.</text>
+        </latestAction>
+        <number>1963</number>
+        <latestTitle>A bill to repeal section 403 of the Bipartisan Budget Act of 2013.</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-16</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 296.</text>
+        </latestAction>
+        <number>1931</number>
+        <latestTitle>Responsible Unemployment Compensation Extension Act of 2014</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-15</actionDate>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+        </latestAction>
+        <number>1930</number>
+        <latestTitle>Uphold Our Promise to Veterans Act</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-06-20</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>4134</number>
+        <latestTitle>America First Act</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-02-03</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 300.</text>
+        </latestAction>
+        <number>1977</number>
+        <latestTitle>Honor Our Promise Act</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-02-04</actionDate>
+          <text>Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S736)</text>
+        </latestAction>
+        <number>1950</number>
+        <latestTitle>Comprehensive Veterans Health and Benefits and Military Retirement Pay Restoration Act of 2014</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3790</number>
+        <latestTitle>To repeal the annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62.</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3793</number>
+        <latestTitle>Military Retirement Restoration Act</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3801</number>
+        <latestTitle>To repeal the reductions in military retirement benefits made by the Bipartisan Budget Act of 2013 and to authorize the United States Postal Service to implement a modified Saturday delivery schedule.</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-12-17</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>1844</number>
+        <latestTitle>Military Retirement Restoration Act</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3804</number>
+        <latestTitle>To repeal the annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62.</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-28</actionDate>
+          <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        </latestAction>
+        <number>3787</number>
+        <latestTitle>To repeal the annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <number>3788</number>
+        <latestTitle>To repeal the reductions in military retirement benefits made by the Bipartisan Budget Act of 2013 and to require inclusion of the taxpayer's social security number to claim the refundable portion of the child tax credit.</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Egypt</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>Pakistan</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Uphold Our Promise to Veterans Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To repeal the annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Uphold Our Promise to Veterans Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Uphold Our Promise to Veterans Act</title>
+    <billType>HR</billType>
+    <introducedDate>2013-12-23</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2014-01-24</actionDate>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

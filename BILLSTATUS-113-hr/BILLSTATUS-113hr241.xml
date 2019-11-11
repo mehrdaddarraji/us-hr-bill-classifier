@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Veterans Timely Access to Health Care Act - Directs the Secretary of Veterans Affairs to ensure that the standard for access to care for a veteran seeking hospital care and medical services from the Department of Veterans Affairs (VA) is 30 days from the date the veteran contacts the VA.</p> <p>Directs the Secretary to periodically review the performance of VA medical facilities in meeting such standard.</p> <p>Requires quarterly reports from the Secretary to the congressional veterans' committees on the VA's experience with respect to appointment waiting times.</p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-02-11T17:17:21Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2013-01-14</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-01-14T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2013-01-14</introducedDate>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Veterans Timely Access to Health Care Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To direct the Secretary of Veterans Affairs to establish standards of access to care for veterans seeking health care from Department of Veterans Affairs medical facilities, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Veterans Timely Access to Health Care Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <congress>113</congress>
+    <billNumber>241</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 3 (Monday, January 14, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ROSS:H.R. 241.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, of the United States Constitutionreserves to Congress the power to raise and support Armiesand provide and maintain a Navy, as well as make Rules forthe Government and Regulation of the land and naval Forces.[Page H86]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2018-06-05T15:59:01Z</updateDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2013-05-21T18:38:05Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-02-08T15:48:55Z</date>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-14T19:02:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2013-01-15T07:02:09Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <byRequestType />
+        <middleName>A.</middleName>
+        <identifiers>
+          <gpoId>7884</gpoId>
+          <bioguideId>R000593</bioguideId>
+          <lisID>2003</lisID>
+        </identifiers>
+        <district>15</district>
+        <lastName>Ross</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <bioguideId>R000593</bioguideId>
+        <firstName>Dennis</firstName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <prayer>1</prayer>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-05-21</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-02-08</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2013-01-14</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2013-01-14</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2013-01-14</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Bentivolio, Kerry L. [R-MI-11]</fullName>
+        <sponsorshipDate>2013-01-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bentivolio</lastName>
+        <party>R</party>
+        <middleName>L.</middleName>
+        <identifiers>
+          <lisID>2135</lisID>
+          <bioguideId>B001280</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kerry</firstName>
+        <bioguideId>B001280</bioguideId>
+        <state>MI</state>
+        <district>11</district>
+      </item>
+      <item>
+        <fullName>Rep. Pastor, Ed [D-AZ-7]</fullName>
+        <sponsorshipDate>2013-02-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>PASTOR</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <gpoId>7801</gpoId>
+          <lisID>893</lisID>
+          <bioguideId>P000099</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>ED</firstName>
+        <bioguideId>P000099</bioguideId>
+        <state>AZ</state>
+        <district>7</district>
+      </item>
+      <item>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipDate>2013-02-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>JONES</lastName>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>WALTER</firstName>
+        <bioguideId>J000255</bioguideId>
+        <state>NC</state>
+        <district>3</district>
+      </item>
+      <item>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <sponsorshipDate>2013-02-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wittman</lastName>
+        <party>R</party>
+        <middleName>J.</middleName>
+        <identifiers>
+          <lisID>1886</lisID>
+          <bioguideId>W000804</bioguideId>
+          <gpoId>8192</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Robert</firstName>
+        <bioguideId>W000804</bioguideId>
+        <state>VA</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Whitfield, Ed [R-KY-1]</fullName>
+        <sponsorshipDate>2013-02-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>WHITFIELD</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000413</bioguideId>
+          <lisID>1222</lisID>
+          <gpoId>7953</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>EDWARD</firstName>
+        <bioguideId>W000413</bioguideId>
+        <state>KY</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <sponsorshipDate>2013-03-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Griffith</lastName>
+        <party>R</party>
+        <middleName>Morgan</middleName>
+        <identifiers>
+          <lisID>2070</lisID>
+          <gpoId>8200</gpoId>
+          <bioguideId>G000568</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>H.</firstName>
+        <bioguideId>G000568</bioguideId>
+        <state>VA</state>
+        <district>9</district>
+      </item>
+      <item>
+        <fullName>Rep. Graves, Tom [R-GA-14]</fullName>
+        <sponsorshipDate>2013-04-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Graves</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>1979</lisID>
+          <bioguideId>G000560</bioguideId>
+          <gpoId>7906</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <bioguideId>G000560</bioguideId>
+        <state>GA</state>
+        <district>14</district>
+      </item>
+      <item>
+        <fullName>Rep. Barber, Ron [D-AZ-2]</fullName>
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Barber</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001279</bioguideId>
+          <lisID>2093</lisID>
+          <gpoId>8368</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ron</firstName>
+        <bioguideId>B001279</bioguideId>
+        <state>AZ</state>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Rigell, E. Scott [R-VA-2]</fullName>
+        <sponsorshipDate>2013-05-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Rigell</lastName>
+        <party>R</party>
+        <middleName>Scott</middleName>
+        <identifiers>
+          <lisID>2068</lisID>
+          <bioguideId>R000589</bioguideId>
+          <gpoId>8193</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>E.</firstName>
+        <bioguideId>R000589</bioguideId>
+        <state>VA</state>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <sponsorshipDate>2013-05-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Posey</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bill</firstName>
+        <bioguideId>P000599</bioguideId>
+        <state>FL</state>
+        <district>8</district>
+      </item>
+      <item>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <sponsorshipDate>2013-05-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Stivers</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <bioguideId>S001187</bioguideId>
+        <state>OH</state>
+        <district>15</district>
+      </item>
+      <item>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cole</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <bioguideId>C001053</bioguideId>
+        <state>OK</state>
+        <district>4</district>
+      </item>
+      <item>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <sponsorshipDate>2013-05-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Crawford</lastName>
+        <party>R</party>
+        <middleName>A. "Rick"</middleName>
+        <identifiers>
+          <bioguideId>C001087</bioguideId>
+          <gpoId>7793</gpoId>
+          <lisID>1989</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Eric</firstName>
+        <bioguideId>C001087</bioguideId>
+        <state>AR</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <sponsorshipDate>2013-05-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Mullin</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>2156</lisID>
+          <gpoId />
+          <bioguideId>M001190</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Markwayne</firstName>
+        <bioguideId>M001190</bioguideId>
+        <state>OK</state>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Nunnelee, Alan [R-MS-1]</fullName>
+        <sponsorshipDate>2013-05-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Nunnelee</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>2034</lisID>
+          <bioguideId>N000186</bioguideId>
+          <gpoId>8019</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Alan</firstName>
+        <bioguideId>N000186</bioguideId>
+        <state>MS</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <sponsorshipDate>2013-05-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Yoho</lastName>
+        <party>R</party>
+        <middleName>S.</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2115</lisID>
+          <bioguideId>Y000065</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ted</firstName>
+        <bioguideId>Y000065</bioguideId>
+        <state>FL</state>
+        <district>3</district>
+      </item>
+      <item>
+        <fullName>Rep. Valadao, David G. [R-CA-21]</fullName>
+        <sponsorshipDate>2013-05-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Valadao</lastName>
+        <party>R</party>
+        <middleName>G.</middleName>
+        <identifiers>
+          <bioguideId>V000129</bioguideId>
+          <gpoId />
+          <lisID>2105</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <bioguideId>V000129</bioguideId>
+        <state>CA</state>
+        <district>21</district>
+      </item>
+      <item>
+        <fullName>Rep. Coble, Howard [R-NC-6]</fullName>
+        <sponsorshipDate>2013-05-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>COBLE</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>211</lisID>
+          <bioguideId>C000556</bioguideId>
+          <gpoId>8029</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>HOWARD</firstName>
+        <bioguideId>C000556</bioguideId>
+        <state>NC</state>
+        <district>6</district>
+      </item>
+      <item>
+        <fullName>Rep. Miller, Gary G. [R-CA-31]</fullName>
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MILLER</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>1584</lisID>
+          <bioguideId>M001139</bioguideId>
+          <gpoId>7847</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>GARY</firstName>
+        <bioguideId>M001139</bioguideId>
+        <state>CA</state>
+        <district>31</district>
+      </item>
+      <item>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Sinema</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kyrsten</firstName>
+        <bioguideId>S001191</bioguideId>
+        <state>AZ</state>
+        <district>9</district>
+      </item>
+      <item>
+        <fullName>Rep. Kline, John [R-MN-2]</fullName>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Kline</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <gpoId>8002</gpoId>
+          <lisID>1733</lisID>
+          <bioguideId>K000363</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <bioguideId>K000363</bioguideId>
+        <state>MN</state>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <sponsorshipDate>2013-09-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LaMalfa</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+          <gpoId />
+          <lisID>2100</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Doug</firstName>
+        <bioguideId>L000578</bioguideId>
+        <state>CA</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+        <sponsorshipDate>2013-10-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Hultgren</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>2015</lisID>
+          <gpoId>7934</gpoId>
+          <bioguideId>H001059</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Randy</firstName>
+        <bioguideId>H001059</bioguideId>
+        <state>IL</state>
+        <district>14</district>
+      </item>
+      <item>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <sponsorshipDate>2013-11-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Noem</lastName>
+        <party>R</party>
+        <middleName>L.</middleName>
+        <identifiers>
+          <lisID>2060</lisID>
+          <gpoId>8147</gpoId>
+          <bioguideId>N000184</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kristi</firstName>
+        <bioguideId>N000184</bioguideId>
+        <state>SD</state>
+        <district>0</district>
+      </item>
+      <item>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <sponsorshipDate>2014-05-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Shea-Porter</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Carol</firstName>
+        <bioguideId>S001170</bioguideId>
+        <state>NH</state>
+        <district>1</district>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2013-05-21</actionDate>
+      <text>Subcommittee Hearings Held.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <title>Veterans Timely Access to Health Care Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

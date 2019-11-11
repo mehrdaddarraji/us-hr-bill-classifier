@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>One Percent Spending Reduction Act of 2013</latestTitle>
+        <number>547</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Budget.</text>
+          <actionDate>2013-03-13</actionDate>
+        </latestAction>
+        <type>S</type>
+      </item>
+      <item>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>One Percent Spending Reduction Act of 2013</latestTitle>
+        <number>1436</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Budget.</text>
+          <actionDate>2013-08-01</actionDate>
+        </latestAction>
+        <type>S</type>
+      </item>
+      <item>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>One Percent Spending Reduction Act of 2014</latestTitle>
+        <number>2495</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Budget.</text>
+          <actionDate>2014-06-19</actionDate>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <billNumber>1202</billNumber>
+    <title>One Percent Spending Reduction Act of 2013</title>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-03-14T14:04:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsru00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Rules Committee</name>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2013-03-14T14:04:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsbu00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Budget Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2013-03-15T07:01:12Z</createDate>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2013-03-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000615</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <identifiers>
+          <gpoId>8143</gpoId>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <firstName>Jeff</firstName>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <lastName>Duncan</lastName>
+        <district>3</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-03-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000796</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <identifiers>
+          <gpoId>7900</gpoId>
+          <lisID>1779</lisID>
+          <bioguideId>W000796</bioguideId>
+        </identifiers>
+        <firstName>Lynn</firstName>
+        <party>R</party>
+        <middleName>A.</middleName>
+        <fullName>Rep. Westmoreland, Lynn A. [R-GA-3]</fullName>
+        <lastName>Westmoreland</lastName>
+        <district>3</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001182</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>M001182</bioguideId>
+          <gpoId>8145</gpoId>
+          <lisID>2059</lisID>
+        </identifiers>
+        <firstName>Mick</firstName>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Mulvaney, Mick [R-SC-5]</fullName>
+        <lastName>Mulvaney</lastName>
+        <district>5</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000795</bioguideId>
+        <sponsorshipWithdrawnDate>2013-04-09</sponsorshipWithdrawnDate>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+        </identifiers>
+        <firstName>Joe</firstName>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <lastName>Wilson</lastName>
+        <district>2</district>
+      </item>
+      <item>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001186</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <identifiers>
+          <gpoId>7874</gpoId>
+          <lisID>2000</lisID>
+          <bioguideId>S001186</bioguideId>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Southerland, Steve II [R-FL-2]</fullName>
+        <lastName>Southerland</lastName>
+        <district>2</district>
+      </item>
+    </cosponsors>
+    <laws />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-03-14</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2013-04-29T17:03:09Z</lastSummaryUpdateDate>
+          <updateDate>2013-03-14T04:00:00Z</updateDate>
+          <text><![CDATA[<p>One Percent Spending Reduction Act of 2013 - Amends the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) to establish the aggregate projected outlay (outlay cap) (less net interest payments) for FY2014 at the FY2013 outlay cap (as estimated by the Congressional Budget Office [CBO] before March 2013), less 1%.</p> <p>Reduces each outlay cap for FY2015-FY2018 by 1% of the previous fiscal year's outlay cap (as estimated by CBO before March of such fiscal year).</p> <p>Requires the outlay cap for FY2019 and each subsequent fiscal year to be 18% of the CBO-estimated gross domestic product (GDP) for that calendar year.</p> <p>Amends the Congressional Budget Act of 1974 to make it out of order in both chambers to consider any bill, joint resolution, amendment, or conference report that includes any provision that would cause the most recently reported, current outlay cap to be exceeded. Prescribes procedures for waiver or suspension of this rule.]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+      <actionDate>2013-03-14</actionDate>
+    </latestAction>
+    <committeeReports />
+    <billType>HR</billType>
+    <introducedDate>2013-03-14</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 37 (Thursday, March 14, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. AUSTIN SCOTT of Georgia:H.R. 1202.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1--The Congress shall havePower to lay and collect Taxes, Duties, Imposts and Excises,to pay the Debts and provide for the common Defense andgeneral Welfare of the United States; but all Duties, Impostsand Excises shall be uniform throughout the United States.[Page H1429]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <congress>113</congress>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2009</lisID>
+          <bioguideId>S001189</bioguideId>
+          <gpoId>7905</gpoId>
+        </identifiers>
+        <middleName />
+        <district>8</district>
+        <byRequestType />
+        <bioguideId>S001189</bioguideId>
+        <state>GA</state>
+        <lastName>Scott</lastName>
+        <firstName>Austin</firstName>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>One Percent Spending Reduction Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To prevent a fiscal crisis by enacting legislation to balance the Federal budget through reductions of discretionary and mandatory spending.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>One Percent Spending Reduction Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <updateDate>2018-06-05T16:11:06Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-03-14</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <actionDate>2013-03-14</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-03-14</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2013-03-14</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2013-03-14</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2013-01-03</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-01-03</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-01-03</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestTitle>National STEM Education Tax Incentive for Teachers Act of 2014</latestTitle>
+        <congress>113</congress>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2014-03-11</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>2108</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <state>NY</state>
+        <party>R</party>
+        <middleName>L.</middleName>
+        <firstName>Richard</firstName>
+        <district>24</district>
+        <sponsorshipDate>2013-01-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001051</bioguideId>
+          <lisID>2044</lisID>
+          <gpoId>8085</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hanna</lastName>
+        <bioguideId>H001051</bioguideId>
+        <fullName>Rep. Hanna, Richard L. [R-NY-24]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <firstName>MICHAEL</firstName>
+        <district>15</district>
+        <sponsorshipDate>2013-01-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1634</lisID>
+          <bioguideId>H001034</bioguideId>
+          <gpoId>7820</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>HONDA</lastName>
+        <bioguideId>H001034</bioguideId>
+        <fullName>Rep. Honda, Michael M. [D-CA-15]</fullName>
+      </item>
+      <item>
+        <state>NC</state>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <firstName>DAVID</firstName>
+        <district>4</district>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>930</lisID>
+          <gpoId>8027</gpoId>
+          <bioguideId>P000523</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>PRICE</lastName>
+        <bioguideId>P000523</bioguideId>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <firstName>Judy</firstName>
+        <district>27</district>
+        <sponsorshipDate>2014-01-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Chu</lastName>
+        <bioguideId>C001080</bioguideId>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>D</party>
+        <middleName>William</middleName>
+        <firstName>Daniel</firstName>
+        <district>3</district>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1781</lisID>
+          <bioguideId>L000563</bioguideId>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lipinski</lastName>
+        <bioguideId>L000563</bioguideId>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <firstName>Gloria</firstName>
+        <district>35</district>
+        <sponsorshipDate>2014-03-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2108</lisID>
+          <bioguideId>N000187</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Negrete McLeod</lastName>
+        <bioguideId>N000187</bioguideId>
+        <fullName>Rep. Negrete McLeod, Gloria [D-CA-35]</fullName>
+      </item>
+      <item>
+        <state>TX</state>
+        <party>D</party>
+        <middleName />
+        <firstName>SHEILA</firstName>
+        <district>18</district>
+        <sponsorshipDate>2014-03-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>JACKSON LEE</lastName>
+        <bioguideId>J000032</bioguideId>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+      </item>
+      <item>
+        <state>PA</state>
+        <party>D</party>
+        <middleName />
+        <firstName>Matt</firstName>
+        <district>17</district>
+        <sponsorshipDate>2014-03-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2159</lisID>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cartwright</lastName>
+        <bioguideId>C001090</bioguideId>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <firstName>ADAM</firstName>
+        <district>28</district>
+        <sponsorshipDate>2014-03-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7834</gpoId>
+          <bioguideId>S001150</bioguideId>
+          <lisID>1635</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHIFF</lastName>
+        <bioguideId>S001150</bioguideId>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <firstName>LOUISE</firstName>
+        <district>25</district>
+        <sponsorshipDate>2014-03-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8089</gpoId>
+          <bioguideId>S000480</bioguideId>
+          <lisID>1069</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>SLAUGHTER</lastName>
+        <bioguideId>S000480</bioguideId>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <firstName>Jackie</firstName>
+        <district>14</district>
+        <sponsorshipDate>2014-03-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+          <lisID>1890</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Speier</lastName>
+        <bioguideId>S001175</bioguideId>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <firstName>SUSAN</firstName>
+        <district>53</district>
+        <sponsorshipDate>2014-03-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000598</bioguideId>
+          <gpoId>7858</gpoId>
+          <lisID>1641</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>DAVIS</lastName>
+        <bioguideId>D000598</bioguideId>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <firstName>Jerry</firstName>
+        <district>9</district>
+        <sponsorshipDate>2014-03-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7816</gpoId>
+          <lisID>1832</lisID>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>McNerney</lastName>
+        <bioguideId>M001166</bioguideId>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>D</party>
+        <middleName />
+        <firstName>Tammy</firstName>
+        <district>8</district>
+        <sponsorshipDate>2014-04-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2123</lisID>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Duckworth</lastName>
+        <bioguideId>D000622</bioguideId>
+        <fullName>Rep. Duckworth, Tammy [D-IL-8]</fullName>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <firstName>Katherine</firstName>
+        <district>5</district>
+        <sponsorshipDate>2014-07-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001101</bioguideId>
+          <lisID>2196</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Clark</lastName>
+        <bioguideId>C001101</bioguideId>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-01-04T07:00:55Z</createDate>
+    <introducedDate>2013-01-03</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-01-03</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>National STEM Education Tax Incentive for Teachers Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to encourage teachers to pursue teaching science, technology, engineering, and math subjects at elementary and secondary schools.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>National STEM Education Tax Incentive for Teachers Act of 2013</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Education of the disadvantaged</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T15:58:01Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <fullName>Rep. Holt, Rush [D-NJ-12]</fullName>
+        <identifiers>
+          <lisID>1580</lisID>
+          <gpoId>8054</gpoId>
+          <bioguideId>H001032</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>RUSH</firstName>
+        <lastName>HOLT</lastName>
+        <bioguideId>H001032</bioguideId>
+        <state>NJ</state>
+        <district>12</district>
+      </item>
+    </sponsors>
+    <title>National STEM Education Tax Incentive for Teachers Act of 2013</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2013-01-03</actionDate>
+          <lastSummaryUpdateDate>2014-03-26T19:15:29Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>National STEM Education Tax Incentive for Teachers Act of 2013 - Amends the Internal Revenue Code to allow certain full-time elementary and secondary school teachers of math, science, engineering, or technology courses a refundable tax credit for 10% of their undergraduate tuition up to $1,000 in any taxable year. Increases such credit amount to $1,500 for teachers in schools serving disadvantaged children. Terminates such credit after the 10th taxable year for which such credit is allowed. </p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-01-03T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>118</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-03T16:13:05Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 1 (Thursday, January 3, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HOLT:H.R. 118.Congress has the power to enact this legislation pursuantto the following:Article I of the Constitution of the United States[Page H37]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

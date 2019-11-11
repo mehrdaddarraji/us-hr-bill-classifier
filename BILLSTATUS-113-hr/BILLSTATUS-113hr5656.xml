@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-12-11</actionDate>
+      <text>Received in the Senate.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <date>2014-11-20T20:56:09Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2014-09-18T13:16:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-09-19T10:01:46Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <generalDebate>2</generalDebate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <amendingTheTitleOfAnActWithoutObjection>1</amendingTheTitleOfAnActWithoutObjection>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-12-11</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>19:11:40</actionTime>
+        <actionCode>H38800</actionCode>
+        <actionDate>2014-12-10</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>The title of the measure was amended. Agreed to without objection.</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>19:11:37</actionTime>
+        <actionCode>H38310</actionCode>
+        <actionDate>2014-12-10</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>19:11:35</actionTime>
+        <actionCode>H37300</actionCode>
+        <actionDate>2014-12-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H9023-9025</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H9023-9025</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9023-9025)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>19:11:35</actionTime>
+        <actionCode>8000</actionCode>
+        <actionDate>2014-12-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H9023-9025</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H9023-9025</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9023-9025)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>19:06:01</actionTime>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2014-12-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 5656</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/5656</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>The House resumed debate on H.R. 5656.</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>18:43:30</actionTime>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2014-12-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 5656</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/5656</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5656.</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>18:43:15</actionTime>
+        <actionCode>H30000</actionCode>
+        <actionDate>2014-12-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H9023-9028</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H9023-9028</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H9023-9028)</text>
+        <committee />
+      </item>
+      <item>
+        <actionTime>18:43:00</actionTime>
+        <actionCode>H30300</actionCode>
+        <actionDate>2014-12-10</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Mr. Smith (NJ) moved to suspend the rules and pass the bill, as amended.</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2014-11-20</actionDate>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-11-20</actionDate>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-09-18</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2014-09-18</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2014-09-18</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-09-18</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. SMITH of New Jersey:H.R. 5656.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution.[Page H7892]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>5656</billNumber>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 5656, Global Food Security Act of 2014</title>
+        <pubDate>2014-12-02T20:42:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/49813</url>
+      </item>
+    </cboCostEstimates>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2014-10-23T18:28:25Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Feed the Future Global Food Security Act of 2014 - Expresses the sense of Congress that U.S. efforts to end global poverty should build upon the progress and successes of the Feed the Future Initiative in supporting agricultural development and addressing chronic hunger and malnutrition. </p> <p>Directs the President, acting through specified federal departments and agencies, to provide assistance to reduce poverty and hunger in developing countries. </p>]]></text>
+          <updateDate>2014-09-18T04:00:00Z</updateDate>
+          <actionDate>2014-09-18</actionDate>
+        </item>
+        <item>
+          <versionCode>36</versionCode>
+          <actionDesc>Passed House amended</actionDesc>
+          <name>Passed House amended</name>
+          <lastSummaryUpdateDate>2014-12-18T15:16:45Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Global Food Security Act of 2014 - Expresses the sense of Congress that the President, in providing assistance to implement the Global Food Security Strategy, should: </p> <ul> <li> coordinate federal efforts to implement the Strategy, </li> <li> utilize open and streamlined solicitations to allow for the participation of a wide range of implementing partners, and </li> <li> strengthen existing partnerships between developing country institutions of agricultural sciences with U.S. universities with a focus on building the agriculture capacities of developing nation universities. </li> </ul> <p> Directs the President to coordinate the development and implementation of a comprehensive global food security strategy.</p> <p> Authorizes the President to provide assistance to implement the Global Food Security Strategy. Authorizes FY2015 appropriations.</p>]]></text>
+          <updateDate>2014-12-10T18:33:56Z</updateDate>
+          <actionDate>2014-12-10</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural marketing and promotion</name>
+          </item>
+          <item>
+            <name>Agricultural practices and innovations</name>
+          </item>
+          <item>
+            <name>Agricultural research</name>
+          </item>
+          <item>
+            <name>Agricultural trade</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Farmland</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Sex and reproductive health</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+          <item>
+            <name>Women in business</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Global Food Security Act of 2014</title>
+    <updateDate>2016-10-25T16:17:06Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Global Food Security Act of 2014</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Feed the Future Global Food Security Act of 2014</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType>Official Titles House of Representatives</parentTitleType>
+        <title>To authorize a comprehensive strategic approach for United States foreign assistance to developing countries to reduce global poverty and hunger, achieve food security and improved nutrition, promote sustainable agricultural-led economic growth, improve nutritional outcomes, especially for women and children, build resilience among vulnerable populations, and for other purposes.</title>
+        <titleType>Official Titles as Amended by House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To authorize the Feed the Future Initiative to reduce global poverty and hunger in developing countries on a sustainable basis, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Global Food Security Act of 2014</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>NJ</state>
+        <firstName>CHRISTOPHER</firstName>
+        <byRequestType />
+        <bioguideId>S000522</bioguideId>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <lastName>SMITH</lastName>
+        <party>R</party>
+        <middleName>H.</middleName>
+        <district>4</district>
+        <identifiers>
+          <lisID>1071</lisID>
+          <gpoId>8046</gpoId>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <bioguideId>M001143</bioguideId>
+        <district>4</district>
+        <middleName />
+        <firstName>BETTY</firstName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <state>MN</state>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <lastName>MCCOLLUM</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>F000449</bioguideId>
+        <district>1</district>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <state>NE</state>
+        <fullName>Rep. Fortenberry, Jeff [R-NE-1]</fullName>
+        <lastName>Fortenberry</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1793</lisID>
+          <bioguideId>F000449</bioguideId>
+          <gpoId>8038</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <district>2</district>
+        <middleName>P.</middleName>
+        <firstName>JAMES</firstName>
+        <sponsorshipDate>2014-11-13</sponsorshipDate>
+        <state>MA</state>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <lastName>MCGOVERN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>C001045</bioguideId>
+        <district>4</district>
+        <middleName />
+        <firstName>ANDER</firstName>
+        <sponsorshipDate>2014-11-17</sponsorshipDate>
+        <state>FL</state>
+        <fullName>Rep. Crenshaw, Ander [R-FL-4]</fullName>
+        <lastName>CRENSHAW</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1643</lisID>
+          <bioguideId>C001045</bioguideId>
+          <gpoId>7876</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>F000030</bioguideId>
+        <district>20</district>
+        <middleName />
+        <firstName>SAM</firstName>
+        <sponsorshipDate>2014-11-17</sponsorshipDate>
+        <state>CA</state>
+        <fullName>Rep. Farr, Sam [D-CA-20]</fullName>
+        <lastName>FARR</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>368</lisID>
+          <gpoId>7822</gpoId>
+          <bioguideId>F000030</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>D000216</bioguideId>
+        <district>3</district>
+        <middleName />
+        <firstName>ROSA</firstName>
+        <sponsorshipDate>2014-11-19</sponsorshipDate>
+        <state>CT</state>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <lastName>DELAURO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>281</lisID>
+          <bioguideId>D000216</bioguideId>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>B001270</bioguideId>
+        <district>37</district>
+        <middleName />
+        <firstName>Karen</firstName>
+        <sponsorshipDate>2014-11-19</sponsorshipDate>
+        <state>CA</state>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <lastName>Bass</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+          <lisID>1996</lisID>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>C001084</bioguideId>
+        <district>1</district>
+        <middleName>N.</middleName>
+        <firstName>David</firstName>
+        <sponsorshipDate>2014-11-19</sponsorshipDate>
+        <state>RI</state>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <lastName>Cicilline</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>W000797</bioguideId>
+        <district>23</district>
+        <middleName />
+        <firstName>Debbie</firstName>
+        <sponsorshipDate>2014-11-19</sponsorshipDate>
+        <state>FL</state>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <lastName>Wasserman Schultz</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1777</lisID>
+          <bioguideId>W000797</bioguideId>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <district>9</district>
+        <middleName />
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2014-11-19</sponsorshipDate>
+        <state>TN</state>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <lastName>Cohen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>S000344</bioguideId>
+        <district>30</district>
+        <middleName />
+        <firstName>BRAD</firstName>
+        <sponsorshipDate>2014-11-20</sponsorshipDate>
+        <state>CA</state>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <lastName>SHERMAN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1526</lisID>
+          <bioguideId>S000344</bioguideId>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>R000578</bioguideId>
+        <district>8</district>
+        <middleName>G.</middleName>
+        <firstName>David</firstName>
+        <sponsorshipDate>2014-12-03</sponsorshipDate>
+        <state>WA</state>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <lastName>Reichert</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1810</lisID>
+          <gpoId>8212</gpoId>
+          <bioguideId>R000578</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>H001051</bioguideId>
+        <district>22</district>
+        <middleName>L.</middleName>
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2014-12-03</sponsorshipDate>
+        <state>NY</state>
+        <fullName>Rep. Hanna, Richard L. [R-NY-22]</fullName>
+        <lastName>Hanna</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2044</lisID>
+          <gpoId>8085</gpoId>
+          <bioguideId>H001051</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>L000551</bioguideId>
+        <district>13</district>
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <sponsorshipDate>2014-12-03</sponsorshipDate>
+        <state>CA</state>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <lastName>LEE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>F000043</bioguideId>
+        <district>2</district>
+        <middleName />
+        <firstName>CHAKA</firstName>
+        <sponsorshipDate>2014-12-03</sponsorshipDate>
+        <state>PA</state>
+        <fullName>Rep. Fattah, Chaka [D-PA-2]</fullName>
+        <lastName>FATTAH</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>371</lisID>
+          <bioguideId>F000043</bioguideId>
+          <gpoId>8120</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>F000455</bioguideId>
+        <district>11</district>
+        <middleName>L.</middleName>
+        <firstName>Marcia</firstName>
+        <sponsorshipDate>2014-12-03</sponsorshipDate>
+        <state>OH</state>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+        <lastName>Fudge</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1895</lisID>
+          <gpoId>8101</gpoId>
+          <bioguideId>F000455</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>S000510</bioguideId>
+        <district>9</district>
+        <middleName />
+        <firstName>ADAM</firstName>
+        <sponsorshipDate>2014-12-08</sponsorshipDate>
+        <state>WA</state>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <lastName>SMITH</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1528</lisID>
+          <gpoId>8213</gpoId>
+          <bioguideId>S000510</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>N000127</bioguideId>
+        <district>8</district>
+        <middleName />
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2014-12-09</sponsorshipDate>
+        <state>MN</state>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <lastName>NOLAN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>867</lisID>
+          <gpoId />
+          <bioguideId>N000127</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>P000594</bioguideId>
+        <district>3</district>
+        <middleName />
+        <firstName>Erik</firstName>
+        <sponsorshipDate>2014-12-09</sponsorshipDate>
+        <state>MN</state>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <lastName>Paulsen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1930</lisID>
+          <gpoId>8003</gpoId>
+          <bioguideId>P000594</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>R000583</bioguideId>
+        <district>17</district>
+        <middleName>J.</middleName>
+        <firstName>Thomas</firstName>
+        <sponsorshipDate>2014-12-09</sponsorshipDate>
+        <state>FL</state>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <lastName>Rooney</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1916</lisID>
+          <gpoId>7888</gpoId>
+          <bioguideId>R000583</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

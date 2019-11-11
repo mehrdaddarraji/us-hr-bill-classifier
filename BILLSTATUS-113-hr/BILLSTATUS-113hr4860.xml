@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-11-17</actionDate>
+        <committee>
+          <systemCode>hsed13</systemCode>
+          <name>Higher Education and Workforce Training Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-25</actionDate>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR H5735)</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H5735</url>
+            <name>H5735</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-06-12</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-06-12</actionDate>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR E979-980)</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/extensions-of-remarks-section/page/E979-980</url>
+            <name>E979-980</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-06-12</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-06-12</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>2</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-06-12</introducedDate>
+    <updateDate>2016-10-25T16:14:03Z</updateDate>
+    <createDate>2014-06-13T07:17:48Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-06-12T13:02:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Education and the Workforce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsed13</systemCode>
+              <activities>
+                <item>
+                  <date>2014-11-17T21:50:20Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Higher Education and Workforce Training Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>B001270</bioguideId>
+        <identifiers>
+          <lisID>1996</lisID>
+          <bioguideId>B001270</bioguideId>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <lastName>Bass</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Karen</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>37</district>
+        <sponsorshipDate>2014-12-10</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Protecting Students from Failing Institutions Act</title>
+    <titles>
+      <item>
+        <title>Protecting Students from Failing Institutions Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To clarify that a closure of a branch or campus of an institution of higher education may qualify a borrower for loan discharge under the Higher Education Act of 1965, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Protecting Students from Failing Institutions Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Ms. HAHN:H.R. 4860.Congress has the power to enact this legislation pursuantto the following:According to Article 1: Section 8: Clause 18: of the UnitedStates Constitution, seen below, this bill falls within theConstitutional Authority of the United States Congress.Article 1: Section 8: Clause 18: To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H5364]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-08-28T19:37:32Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2014-06-12T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2014-06-12</actionDate>
+          <text><![CDATA[<p>Protecting Students from Failing Institutions Act - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to require the Secretary of Education to discharge a borrower's liability on a loan under the Federal Family Education Loan (FFEL) program if the student borrower, or the student on whose behalf a parent borrowed, is unable to complete the program in which such student is enrolled due to the closing of a campus or branch of the institution of higher education (IHE).</p> <p>Prohibits a student's period of attendance at a campus or branch that closed and prevented the student from completing the student's course of study from: (1) being considered in calculating the student's period of eligibility for additional assistance under title IV, or (2) counting towards the student's duration limit for Federal Pell Grants.</p> <p>Provides such liability discharge and eligibility protections to borrowers who withdraw from an IHE no more than 120 days before the closure of the campus or branch of the IHE at which they are enrolled if that closure would have prevented them from completing the program in which they were enrolled.</p> <p>Allows a borrower who receives a Federal Pell Grant for an academic year for enrollment in a program at an IHE campus or branch that closes to use the remaining amount of the Federal Pell Grant for such academic year at another IHE even if the borrower is considered able to complete the program in which the borrower is enrolled.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+      <actionDate>2014-11-17</actionDate>
+    </latestAction>
+    <billNumber>4860</billNumber>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>44</district>
+        <firstName>Janice</firstName>
+        <party>D</party>
+        <fullName>Rep. Hahn, Janice [D-CA-44]</fullName>
+        <bioguideId>H001063</bioguideId>
+        <identifiers>
+          <bioguideId>H001063</bioguideId>
+          <gpoId>8360</gpoId>
+          <lisID>2089</lisID>
+        </identifiers>
+        <lastName>Hahn</lastName>
+        <middleName />
+        <state>CA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>113</congress>
+    <notes />
+    <sponsors>
+      <item>
+        <middleName>B.</middleName>
+        <byRequestType />
+        <bioguideId>M000087</bioguideId>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <state>NY</state>
+        <lastName>MALONEY</lastName>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <party>D</party>
+        <firstName>CAROLYN</firstName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Indonesia</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Indonesian Family Refugee Protection Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To allow certain Indonesian citizens to file a motion to reopen their asylum claims.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Indonesian Family Refugee Protection Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2013-02-13</introducedDate>
+    <actions>
+      <item>
+        <actionDate>2013-04-08</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-02-13</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-02-13</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/extensions-of-remarks-section/page/E136</url>
+            <name>E136</name>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Sponsor introductory remarks on measure. (CR E136)</text>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-02-13</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-02-13</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-03-04T21:03:53Z</lastSummaryUpdateDate>
+          <updateDate>2013-02-13T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Indonesian Family Refugee Protection Act - Authorizes a qualifying Indonesian citizen whose asylum claim was denied solely upon a failure to meet the one-year application filing deadline to file a motion to reopen such claim.</p> <p>Requires that such motion be filed during the two-year period beginning on the date of enactment of this Act.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2013-02-13</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <latestTitle>Indonesian Family Refugee Protection Act</latestTitle>
+        <latestAction>
+          <actionDate>2013-02-13</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>295</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <recordedVotes />
+    <updateDate>2018-06-05T16:03:39Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-04-08T21:12:31Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-13T15:01:10Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>PALLONE</lastName>
+        <firstName>FRANK</firstName>
+        <bioguideId>P000034</bioguideId>
+        <identifiers>
+          <lisID>887</lisID>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+        </identifiers>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <party>D</party>
+        <state>NJ</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName />
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>SMITH</lastName>
+        <firstName>CHRISTOPHER</firstName>
+        <bioguideId>S000522</bioguideId>
+        <identifiers>
+          <lisID>1071</lisID>
+          <gpoId>8046</gpoId>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <party>R</party>
+        <state>NJ</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>H.</middleName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>GUTIERREZ</lastName>
+        <firstName>LUIS</firstName>
+        <bioguideId>G000535</bioguideId>
+        <identifiers>
+          <bioguideId>G000535</bioguideId>
+          <lisID>478</lisID>
+          <gpoId>7924</gpoId>
+        </identifiers>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <party>D</party>
+        <state>IL</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>V.</middleName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Bordallo</lastName>
+        <firstName>Madeleine</firstName>
+        <bioguideId>B001245</bioguideId>
+        <identifiers>
+          <bioguideId>B001245</bioguideId>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+        </identifiers>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <party>D</party>
+        <state>GU</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>Z.</middleName>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>HOLT</lastName>
+        <firstName>RUSH</firstName>
+        <bioguideId>H001032</bioguideId>
+        <identifiers>
+          <bioguideId>H001032</bioguideId>
+          <gpoId>8054</gpoId>
+          <lisID>1580</lisID>
+        </identifiers>
+        <fullName>Rep. Holt, Rush [D-NJ-12]</fullName>
+        <party>D</party>
+        <state>NJ</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>D.</middleName>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Faleomavaega</lastName>
+        <firstName>Eni</firstName>
+        <bioguideId>F000010</bioguideId>
+        <identifiers>
+          <gpoId>7797</gpoId>
+          <lisID>367</lisID>
+          <bioguideId>F000010</bioguideId>
+        </identifiers>
+        <fullName>Rep. Faleomavaega, Eni F. H. [D-AS-At Large]</fullName>
+        <party>D</party>
+        <state>AS</state>
+        <sponsorshipDate>2013-02-26</sponsorshipDate>
+        <middleName>F. H.</middleName>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Shea-Porter</lastName>
+        <firstName>Carol</firstName>
+        <bioguideId>S001170</bioguideId>
+        <identifiers>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <party>D</party>
+        <state>NH</state>
+        <sponsorshipDate>2013-04-26</sponsorshipDate>
+        <middleName />
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <title>Indonesian Family Refugee Protection Act</title>
+    <createDate>2013-02-14T07:00:52Z</createDate>
+    <billType>HR</billType>
+    <billNumber>665</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 23 (Wednesday, February 13, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. CAROLYN B. MALONEY of New York:H.R. 665.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 4, which reads: To establish auniform rule of naturalization, and uniform laws on thesubject of bankruptcies throughout the United States.[Page H503]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2013-04-08</actionDate>
+      <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

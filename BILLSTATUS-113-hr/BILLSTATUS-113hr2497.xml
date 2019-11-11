@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-07-01</actionDate>
+        <committee>
+          <name>Federal Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-06-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-06-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-06-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>1</district>
+        <fullName>Rep. Kirkpatrick, Ann [D-AZ-1]</fullName>
+        <lastName>Kirkpatrick</lastName>
+        <middleName />
+        <state>AZ</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7220</gpoId>
+          <lisID>1907</lisID>
+          <bioguideId>K000368</bioguideId>
+        </identifiers>
+        <firstName>Ann</firstName>
+        <bioguideId>K000368</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mrs. KIRKPATRICK:H.R. 2497.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the United StatesConstitution[Page H4039]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2497</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:05:06Z</updateDate>
+    <laws />
+    <createDate>2013-06-26T07:01:20Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-06-25T16:00:47Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-07-01T20:33:40Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Federal Lands Subcommittee</name>
+              <systemCode>hsii10</systemCode>
+            </item>
+          </subcommittees>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p> Casa Grande Ruins National Monument Boundary Modification Act of 2013 - Authorizes the Secretary of the Interior to transfer or acquire only from willing sellers the private or state lands or interests identified on the map entitled &quot;Proposed Casa Grande Ruins Boundary Modification&quot;. </p> <p>Transfers administrative jurisdiction of specified withdrawn federal lands administered by the Bureau of Land Management (BLM) or the Bureau of Indian Affairs (BIA) to the National Park Service (NPS). </p> <p>Transfers to the BIA the administrative jurisdiction of certain federal land administered by the NPS for purposes of the San Carlos Irrigation Project. </p> <p>Requires the Secretary to administer all such transferred or acquired lands as part of the Casa Grande Ruins National Monument in Arizona. </p> <p>Requires the Secretary, as consideration for the acquisition of state and private lands, unless such lands are donated, to: (1) pay fair market value for such lands; and (2) convey to the state of Arizona and private land owners, as the case may be, federal lands, interest in federal land, or any other federal asset of equal value located in Arizona. </p> <p>Authorizes the Secretary to enter into an agreement with the state of Arizona to provide for cooperative management of specified state trust lands. </p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-09-17T18:51:27Z</lastSummaryUpdateDate>
+          <actionDate>2013-06-25</actionDate>
+          <updateDate>2013-06-25T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <lastName>Gosar</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <middleName>A.</middleName>
+        <firstName>Paul</firstName>
+        <bioguideId>G000565</bioguideId>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-25</sponsorshipDate>
+        <state>AZ</state>
+      </item>
+      <item>
+        <fullName>Rep. Pastor, Ed [D-AZ-7]</fullName>
+        <lastName>PASTOR</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>D</party>
+        <middleName />
+        <firstName>ED</firstName>
+        <bioguideId>P000099</bioguideId>
+        <identifiers>
+          <bioguideId>P000099</bioguideId>
+          <lisID>893</lisID>
+          <gpoId>7801</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-25</sponsorshipDate>
+        <state>AZ</state>
+      </item>
+      <item>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <lastName>Grijalva</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <firstName>Raul</firstName>
+        <bioguideId>G000551</bioguideId>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-25</sponsorshipDate>
+        <state>AZ</state>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Arizona</name>
+          </item>
+          <item>
+            <name>Historical and cultural resources</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Monuments and memorials</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>Casa Grande Ruins National Monument Boundary Modification Act of 2013</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To modify the boundary of the Casa Grande Ruins National Monument, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Casa Grande Ruins National Monument Boundary Modification Act of 2013</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Casa Grande Ruins National Monument Boundary Modification Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-06-25</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-07-01</actionDate>
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

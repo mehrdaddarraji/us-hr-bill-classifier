@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-09-09</actionDate>
+      <text>Committee Hearings Held.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2014-09-09T15:27:54Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2014-06-12T13:02:05Z</date>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-06-13T07:17:48Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2014-09-09</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <links />
+        <actionDate>2014-06-12</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-06-12</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-06-12</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-06-12</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. MULLIN:H.R. 4866.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clause 18: The Congressshall have Power to make all Laws which shall be necessaryand proper for carrying into Execution the foregoing Powers,and all other Powers vested by this Constitution in theGovernment of the United States, or in any Department orOfficer thereof.[Page H5364]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>4866</billNumber>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2014-06-12</actionDate>
+          <updateDate>2014-06-12T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2014-10-29T14:17:05Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Lesser Prairie Chicken Voluntary Recovery Act of 2014 - Removes the Department of the Interior's listing of the lesser prairie chicken as threatened under the Endangered Species Act of 1973. Prohibits further treatment of the species as threatened or endangered before January 31, 2020.</p> <p>Requires Interior to monitor and submit an annual report on progress in the conservation of the lesser prairie chicken under:</p> <ul> <li>the Lesser Prairie-Chicken Range-Wide Conservation Plan of the Western Association of Fish and Wildlife Agencies,</li> <li>all related Candidate Conservation Agreements (agreements to voluntarily undertake measures to conserve a covered species),</li> <li> Candidate Conservation Agreements With Assurances (agreements to voluntarily undertake measures to conserve a covered species with assurances that additional measures will not be imposed if the species becomes listed in the future), </li> <li> conservation programs administered by the U.S. Fish and Wildlife Service (USFWS), the Bureau of Land Management (BLM), and the Department of Agriculture (USDA),</li> <li>state conservation programs, and </li> <li>private conservation efforts. </li> </ul> <p>Prohibits the lesser prairie chicken from being treated as threatened or endangered beginning on January 31, 2020, unless Interior publishes a determination that conservation efforts under the Range-Wide Plan, agreements, programs, and efforts have not achieved the Plan's conservation goals.</p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Birds</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Endangered and threatened species</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Lesser Prairie Chicken Voluntary Recovery Act of 2014</title>
+    <updateDate>2016-10-25T16:14:04Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Lesser Prairie Chicken Voluntary Recovery Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To reverse the Department of the Interior's listing of the lesser prairie chicken as a threatened species under the Endangered Species Act of 1973, to prevent further consideration of listing of such species as a threatened species or endangered species under that Act pending implementation of the Western Association of Fish and Wildlife Agencies' Lesser Prairie-Chicken Range-Wide Conservation Plan and other conservation measures, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Lesser Prairie Chicken Voluntary Recovery Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>OK</state>
+        <firstName>Markwayne</firstName>
+        <byRequestType />
+        <bioguideId>M001190</bioguideId>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <lastName>Mullin</lastName>
+        <party>R</party>
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <bioguideId>M001190</bioguideId>
+          <lisID>2156</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>Lesser Prairie Chicken Voluntary Recovery Act of 2014</latestTitle>
+        <number>2677</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2014-07-29</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <district>3</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LUCAS</lastName>
+        <fullName>Rep. Lucas, Frank D. [R-OK-3]</fullName>
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+        <middleName>D.</middleName>
+        <firstName>FRANK</firstName>
+        <identifiers>
+          <lisID>711</lisID>
+          <gpoId>8111</gpoId>
+          <bioguideId>L000491</bioguideId>
+        </identifiers>
+        <bioguideId>L000491</bioguideId>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>19</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Neugebauer</lastName>
+        <fullName>Rep. Neugebauer, Randy [R-TX-19]</fullName>
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+        <middleName />
+        <firstName>Randy</firstName>
+        <identifiers>
+          <lisID>1758</lisID>
+          <bioguideId>N000182</bioguideId>
+          <gpoId>8175</gpoId>
+        </identifiers>
+        <bioguideId>N000182</bioguideId>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>13</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>THORNBERRY</lastName>
+        <fullName>Rep. Thornberry, Mac [R-TX-13]</fullName>
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+        <middleName>M.</middleName>
+        <firstName>WILLIAM</firstName>
+        <identifiers>
+          <bioguideId>T000238</bioguideId>
+          <gpoId>8755</gpoId>
+          <lisID>1155</lisID>
+        </identifiers>
+        <bioguideId>T000238</bioguideId>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>4</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cole</lastName>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+        <middleName />
+        <firstName>Tom</firstName>
+        <identifiers>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <bioguideId>C001053</bioguideId>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Tipton</lastName>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+        <middleName>R.</middleName>
+        <firstName>Scott</firstName>
+        <identifiers>
+          <lisID>1997</lisID>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <bioguideId>T000470</bioguideId>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>5</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lankford</lastName>
+        <fullName>Rep. Lankford, James [R-OK-5]</fullName>
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+        <middleName />
+        <firstName>James</firstName>
+        <identifiers>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <bioguideId>L000575</bioguideId>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>17</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Flores</lastName>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+        <middleName />
+        <firstName>Bill</firstName>
+        <identifiers>
+          <bioguideId>F000461</bioguideId>
+          <gpoId>8173</gpoId>
+          <lisID>2065</lisID>
+        </identifiers>
+        <bioguideId>F000461</bioguideId>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Pearce</lastName>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+        <middleName />
+        <firstName>Stevan</firstName>
+        <identifiers>
+          <bioguideId>P000588</bioguideId>
+          <lisID>1738</lisID>
+          <gpoId>8057</gpoId>
+        </identifiers>
+        <bioguideId>P000588</bioguideId>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Huelskamp</lastName>
+        <fullName>Rep. Huelskamp, Tim [R-KS-1]</fullName>
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+        <middleName />
+        <firstName>Tim</firstName>
+        <identifiers>
+          <lisID>2020</lisID>
+          <bioguideId>H001057</bioguideId>
+          <gpoId>7949</gpoId>
+        </identifiers>
+        <bioguideId>H001057</bioguideId>
+        <state>KS</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bridenstine</lastName>
+        <fullName>Rep. Bridenstine, Jim [R-OK-1]</fullName>
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+        <middleName />
+        <firstName>Jim</firstName>
+        <identifiers>
+          <bioguideId>B001283</bioguideId>
+          <gpoId />
+          <lisID>2155</lisID>
+        </identifiers>
+        <bioguideId>B001283</bioguideId>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

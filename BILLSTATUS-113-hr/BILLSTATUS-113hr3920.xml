@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>113</congress>
+    <introducedDate>2014-01-16</introducedDate>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. NUGENT:H.R. 3920.Congress has the power to enact this legislation pursuantto the following:The Commerce Clause in Article I, Section 8, Clause 3, andprohibition of unreasonable searches in Amendment IV of theUnited States Constitution.[Page H1242]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2014-01-16</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2014-04-10T21:30:21Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>American Privacy Protection Act - Amends the Foreign Intelligence Surveillance Act of 1978 (FISA), with respect to the authority of the Federal Bureau of Investigation (FBI) to make an application to a FISA court for an order requiring the production of tangible things (commonly referred to as &quot;business records&quot;), to limit the items that the FBI may seek to tangible things not pertaining to a U.S. person for an investigation to obtain foreign intelligence information not concerning a U.S. person (thus removes the FBI's authority to make such applications for an investigation regarding a U.S. person or to protect against international terrorism or clandestine intelligence activities).</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2014-01-16T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>American Privacy Protection Act</title>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>American Privacy Protection Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend the Foreign Intelligence Surveillance Act of 1978 to limit the acquisition of certain business records under that Act.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>American Privacy Protection Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <date>2014-03-20T14:10:25Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2014-01-16T15:02:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Select</type>
+          <name>Intelligence (Permanent) Committee</name>
+          <subcommittees />
+          <systemCode>hlig00</systemCode>
+          <activities>
+            <item>
+              <date>2014-01-16T15:02:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <cboCostEstimates />
+    <createDate>2014-01-17T07:02:02Z</createDate>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <updateDate>2016-10-25T16:10:18Z</updateDate>
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2014-03-20</actionDate>
+        <committee>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-16</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Intelligence (Permanent)</text>
+        <committee>
+          <name>Intelligence (Permanent) Committee</name>
+          <systemCode>hlig00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-16</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-16</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Judiciary</text>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-16</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-16</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>First Amendment rights</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2014-01-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bentivolio</lastName>
+        <state>MI</state>
+        <party>R</party>
+        <district>11</district>
+        <fullName>Rep. Bentivolio, Kerry L. [R-MI-11]</fullName>
+        <middleName>L.</middleName>
+        <identifiers>
+          <bioguideId>B001280</bioguideId>
+          <lisID>2135</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001280</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kerry</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-01-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Farenthold</lastName>
+        <state>TX</state>
+        <party>R</party>
+        <district>27</district>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <lisID>2067</lisID>
+          <gpoId>8183</gpoId>
+        </identifiers>
+        <bioguideId>F000460</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Blake</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-01-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Thompson</lastName>
+        <state>PA</state>
+        <party>R</party>
+        <district>5</district>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+          <lisID>1952</lisID>
+        </identifiers>
+        <bioguideId>T000467</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Glenn</firstName>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <notes />
+    <latestAction>
+      <actionDate>2014-03-20</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </latestAction>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <billNumber>3920</billNumber>
+    <sponsors>
+      <item>
+        <firstName>Richard</firstName>
+        <fullName>Rep. Nugent, Richard B. [R-FL-11]</fullName>
+        <lastName>Nugent</lastName>
+        <party>R</party>
+        <byRequestType />
+        <middleName>B.</middleName>
+        <identifiers>
+          <bioguideId>N000185</bioguideId>
+          <lisID>2001</lisID>
+          <gpoId>7877</gpoId>
+        </identifiers>
+        <bioguideId>N000185</bioguideId>
+        <district>11</district>
+        <state>FL</state>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-04-08</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-02-28</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2013-02-28</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2013-02-28</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CONYERS</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+          <lisID>229</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <bioguideId>C000714</bioguideId>
+        <state>MI</state>
+        <district>13</district>
+      </item>
+      <item>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Scott</lastName>
+        <party>D</party>
+        <middleName>C. "Bobby"</middleName>
+        <identifiers>
+          <lisID>1037</lisID>
+          <bioguideId>S000185</bioguideId>
+          <gpoId>8194</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Robert</firstName>
+        <bioguideId>S000185</bioguideId>
+        <state>VA</state>
+        <district>3</district>
+      </item>
+      <item>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Raul</firstName>
+        <bioguideId>G000551</bioguideId>
+        <state>AZ</state>
+        <district>3</district>
+      </item>
+      <item>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SERRANO</lastName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>1042</lisID>
+          <bioguideId>S000248</bioguideId>
+          <gpoId>8077</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOSE</firstName>
+        <bioguideId>S000248</bioguideId>
+        <state>NY</state>
+        <district>15</district>
+      </item>
+      <item>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NADLER</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+          <lisID>850</lisID>
+          <gpoId>8069</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JERROLD</firstName>
+        <bioguideId>N000002</bioguideId>
+        <state>NY</state>
+        <district>10</district>
+      </item>
+      <item>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>BARBARA</firstName>
+        <bioguideId>L000551</bioguideId>
+        <state>CA</state>
+        <district>13</district>
+      </item>
+      <item>
+        <fullName>Rep. Christensen, Donna M. [D-VI-At Large]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CHRISTENSEN</lastName>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>C000380</bioguideId>
+          <gpoId>8203</gpoId>
+          <lisID>1474</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>DONNA</firstName>
+        <bioguideId>C000380</bioguideId>
+        <state>VI</state>
+        <district>0</district>
+      </item>
+      <item>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <gpoId>7839</gpoId>
+          <bioguideId>R000486</bioguideId>
+          <lisID>997</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>LUCILLE</firstName>
+        <bioguideId>R000486</bioguideId>
+        <state>CA</state>
+        <district>40</district>
+      </item>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <state>DC</state>
+        <district>0</district>
+      </item>
+      <item>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>RANGEL</lastName>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>944</lisID>
+          <bioguideId>R000053</bioguideId>
+          <gpoId>8076</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>CHARLES</firstName>
+        <bioguideId>R000053</bioguideId>
+        <state>NY</state>
+        <district>13</district>
+      </item>
+      <item>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>JACKSON LEE</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHEILA</firstName>
+        <bioguideId>J000032</bioguideId>
+        <state>TX</state>
+        <district>18</district>
+      </item>
+      <item>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Wilson</lastName>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <identifiers>
+          <lisID>2004</lisID>
+          <bioguideId>W000808</bioguideId>
+          <gpoId>7889</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Frederica</firstName>
+        <bioguideId>W000808</bioguideId>
+        <state>FL</state>
+        <district>24</district>
+      </item>
+      <item>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>HASTINGS</lastName>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <identifiers>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>ALCEE</firstName>
+        <bioguideId>H000324</bioguideId>
+        <state>FL</state>
+        <district>20</district>
+      </item>
+      <item>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SCHAKOWSKY</lastName>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JANICE</firstName>
+        <bioguideId>S001145</bioguideId>
+        <state>IL</state>
+        <district>9</district>
+      </item>
+      <item>
+        <fullName>Rep. Hahn, Janice [D-CA-44]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Hahn</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>H001063</bioguideId>
+          <gpoId>8360</gpoId>
+          <lisID>2089</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Janice</firstName>
+        <bioguideId>H001063</bioguideId>
+        <state>CA</state>
+        <district>44</district>
+      </item>
+      <item>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Sewell</lastName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>1988</lisID>
+          <bioguideId>S001185</bioguideId>
+          <gpoId>7792</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Terri</firstName>
+        <bioguideId>S001185</bioguideId>
+        <state>AL</state>
+        <district>7</district>
+      </item>
+      <item>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>RUSH</lastName>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <identifiers>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>BOBBY</firstName>
+        <bioguideId>R000515</bioguideId>
+        <state>IL</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Clarke</lastName>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Yvette</firstName>
+        <bioguideId>C001067</bioguideId>
+        <state>NY</state>
+        <district>9</district>
+      </item>
+      <item>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Johnson</lastName>
+        <party>D</party>
+        <middleName>C. "Hank"</middleName>
+        <identifiers>
+          <lisID>1843</lisID>
+          <gpoId>7901</gpoId>
+          <bioguideId>J000288</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Henry</firstName>
+        <bioguideId>J000288</bioguideId>
+        <state>GA</state>
+        <district>4</district>
+      </item>
+      <item>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SANCHEZ</lastName>
+        <party>D</party>
+        <middleName>T.</middleName>
+        <identifiers>
+          <bioguideId>S001156</bioguideId>
+          <lisID>1757</lisID>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>LINDA</firstName>
+        <bioguideId>S001156</bioguideId>
+        <state>CA</state>
+        <district>38</district>
+      </item>
+      <item>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>BLUMENAUER</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>EARL</firstName>
+        <bioguideId>B000574</bioguideId>
+        <state>OR</state>
+        <district>3</district>
+      </item>
+      <item>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <bioguideId>C001068</bioguideId>
+        <state>TN</state>
+        <district>9</district>
+      </item>
+      <item>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Ellison</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <gpoId>8005</gpoId>
+          <lisID>1857</lisID>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Keith</firstName>
+        <bioguideId>E000288</bioguideId>
+        <state>MN</state>
+        <district>5</district>
+      </item>
+      <item>
+        <fullName>Rep. Honda, Michael M. [D-CA-17]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>HONDA</lastName>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <identifiers>
+          <gpoId>7820</gpoId>
+          <bioguideId>H001034</bioguideId>
+          <lisID>1634</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>MICHAEL</firstName>
+        <bioguideId>H001034</bioguideId>
+        <state>CA</state>
+        <district>17</district>
+      </item>
+      <item>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LEWIS</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000287</bioguideId>
+          <lisID>688</lisID>
+          <gpoId>7902</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <bioguideId>L000287</bioguideId>
+        <state>GA</state>
+        <district>5</district>
+      </item>
+      <item>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CLAY</lastName>
+        <party>D</party>
+        <middleName>LACY</middleName>
+        <identifiers>
+          <gpoId>8009</gpoId>
+          <bioguideId>C001049</bioguideId>
+          <lisID>1654</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>WM.</firstName>
+        <bioguideId>C001049</bioguideId>
+        <state>MO</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Beatty</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>2153</lisID>
+          <bioguideId>B001281</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joyce</firstName>
+        <bioguideId>B001281</bioguideId>
+        <state>OH</state>
+        <district>3</district>
+      </item>
+      <item>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CUMMINGS</lastName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>256</lisID>
+          <bioguideId>C000984</bioguideId>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELIJAH</firstName>
+        <bioguideId>C000984</bioguideId>
+        <state>MD</state>
+        <district>7</district>
+      </item>
+      <item>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <sponsorshipDate>2013-03-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bass</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+          <lisID>1996</lisID>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Karen</firstName>
+        <bioguideId>B001270</bioguideId>
+        <state>CA</state>
+        <district>37</district>
+      </item>
+      <item>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <sponsorshipDate>2013-03-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Himes</lastName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>H001047</bioguideId>
+          <gpoId>7869</gpoId>
+          <lisID>1913</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>James</firstName>
+        <bioguideId>H001047</bioguideId>
+        <state>CT</state>
+        <district>4</district>
+      </item>
+      <item>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Jeffries</lastName>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <identifiers>
+          <lisID>2149</lisID>
+          <gpoId />
+          <bioguideId>J000294</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Hakeem</firstName>
+        <bioguideId>J000294</bioguideId>
+        <state>NY</state>
+        <district>8</district>
+      </item>
+      <item>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <sponsorshipDate>2013-12-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Green</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>G000553</bioguideId>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Al</firstName>
+        <bioguideId>G000553</bioguideId>
+        <state>TX</state>
+        <district>9</district>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-03-01T07:00:52Z</createDate>
+    <introducedDate>2013-02-28</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-04-08</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <title>Stop AIDS in Prison Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To provide for an effective HIV/AIDS program in Federal prisons.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Stop AIDS in Prison Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>HIV/AIDS</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>Sexually transmitted diseases</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:06:19Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Waters, Maxine [D-CA-43]</fullName>
+        <identifiers>
+          <lisID>1205</lisID>
+          <bioguideId>W000187</bioguideId>
+          <gpoId>7840</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>MAXINE</firstName>
+        <lastName>WATERS</lastName>
+        <bioguideId>W000187</bioguideId>
+        <state>CA</state>
+        <district>43</district>
+      </item>
+    </sponsors>
+    <title>Stop AIDS in Prison Act of 2013</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2013-02-28</actionDate>
+          <lastSummaryUpdateDate>2013-03-09T15:25:01Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p> Stop AIDS in Prison Act of 2013 - Directs the Bureau of Prisons to develop a comprehensive policy to provide HIV testing, treatment, and prevention for inmates in federal prisons and upon reentry into the community. Requires such policy to include provisions for: (1) testing of inmates upon intake and counseling; (2) HIV/AIDS prevention education; (3) HIV testing of prisoners annually upon request or upon exposure to HIV; (4) HIV testing of pregnant inmates; (5) comprehensive medical treatment of inmates who test positive for HIV and confidential counseling on managing their medical condition and preventing its transmission to other persons; (6) protection of confidentiality; (7) testing, counseling, and referral prior to reentry into the community; (8) allowing inmates the right to refuse routine HIV testing; (9) excluding as "routine" the testing of an inmate who may have transmitted HIV to any U.S. officer or employee or to any person lawfully present but not incarcerated in a correctional facility; and (10) timely notification of test results.</p> <p>Amends the federal criminal code to: (1) require HIV testing for all federal prison inmates upon intake regardless of length of sentence or risk factors, (2) allow inmates to decline testing prior to release from incarceration, and (3) make HIV testing part of the routine health screening conducted at intake.</p> <p>Requires the Bureau to report on: (1) testing, treatment, and prevention education programs for hepatitis and other diseases transmitted through sexual activity and intravenous drug use; and (2) the incidence among prison inmates of diseases transmitted through sexual activity and intravenous drug use.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-02-28T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>895</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-04-08T21:22:12Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-28T14:05:25Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 29 (Thursday, February 28, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. WATERS:H.R. 895.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1 of the U.S. Constitution,Article 1, Section 8, Clause 18 of the U.S. Constitution,andAmendment VIII to the U.S. Constitution.[Page H816]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

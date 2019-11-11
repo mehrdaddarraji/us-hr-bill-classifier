@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2013-03-04</actionDate>
+        <committee>
+          <name>Human Resources Subcommittee</name>
+          <systemCode>hswm03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Human Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Oversight and Government Reform</text>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Ways and Means</text>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-02-25</introducedDate>
+    <notes />
+    <calendarNumbers />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Rewriting to Improve and Secure an Exit Out of Poverty Act or RISE Out of Poverty Act - Amends part A (Temporary Assistance for Needy Families Act) (TANF) of title IV of the Social Security Act to require state TANF plans to address whether and how states will give priority to providing assistance in areas with the greatest need.</p> <p>Extends the TANF program.</p> <p>Establishes matching grants to the states for subsidized employment. Sets a flat minimum participation rate of 50% with respect to all families residing in a state that include a work-eligible individual.</p> <p>Revises participation requirements.</p> <p>Gives TANF recipients the option to have trained personnel assess certain barriers to employment.</p> <p>Revises the contents of individual responsibility plans.</p> <p>Authorizes a state to develop a modified employability plan for a TANF recipient with, or caring for a family member with, a disability.</p> <p>Prohibits a state from imposing a lifetime sanction or full-family sanction on assistance to any individual or family on the basis of a family member's failure to comply with a program requirement.</p> <p>Prohibits sanctioning individuals for failure to engage in work if the failure results from the inability to secure child care or after-school arrangements for a child under age 13.</p> <p>Prohibits imposing a limit of less than 60 months on duration of TANF assistance. Makes the durational limit inapplicable during a recession.</p> <p>Requires that states establish personnel standards through a merit-based system in the administration of TANF programs.</p> <p>Bans state use of federal TANF funds to replace state or local spending for non-qualified state expenditures.</p> <p>Requires TANF assistance to meet basic family economic needs.</p> <p>Makes reducing child poverty a purpose of the TANF program.</p> <p>Requires that states adopt standards and procedures to address domestic and sexual violence suffered by TANF recipients.</p> <p>Requires a state to guarantee child care services to TANF recipients employed or participating in a work activity.</p> <p>Eliminates the ban on providing assistance to families not assigning certain support rights to the state.</p> <p>Gives states the option to extend TANF eligibility to children through age 21.</p> <p>Prohibits considering financial aid tied to education of a child in determining eligibility for or the amount of TANF.</p> <p>Eliminates bars to TANF assistance for persons convicted of drug felonies, unwed teen parents not in school, and teens not in an adult-supervised living arrangement.</p>]]></text>
+          <lastSummaryUpdateDate>2013-03-08T20:39:27Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-02-25T05:00:00Z</updateDate>
+          <actionDate>2013-02-25</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Economic performance and conditions</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Separation, divorce, custody, support</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Taxation</name>
+          </item>
+          <item>
+            <name>Teenage pregnancy</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>814</billNumber>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <lastName>Moore</lastName>
+        <district>4</district>
+        <middleName />
+        <firstName>Gwen</firstName>
+        <byRequestType />
+        <bioguideId>M001160</bioguideId>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Ms. MOORE:H.R. 814.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H628]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>RISE Out of Poverty Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Rewriting to Improve and Secure an Exit Out of Poverty Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To reauthorize and amend the program of block grants to States for temporary assistance for needy families and related programs.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>RISE Out of Poverty Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2016-10-25T15:59:35Z</updateDate>
+    <recordedVotes />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <actionDate>2013-03-04</actionDate>
+      <text>Referred to the Subcommittee on Human Resources.</text>
+    </latestAction>
+    <createDate>2013-02-26T07:00:52Z</createDate>
+    <title>RISE Out of Poverty Act</title>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2013-02-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>BROWN</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <district>5</district>
+        <fullName>Rep. Brown, Corrine [D-FL-5]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>132</lisID>
+          <gpoId>7875</gpoId>
+          <bioguideId>B000911</bioguideId>
+        </identifiers>
+        <bioguideId>B000911</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>CORRINE</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CONYERS</lastName>
+        <state>MI</state>
+        <party>D</party>
+        <district>13</district>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+          <lisID>229</lisID>
+        </identifiers>
+        <bioguideId>C000714</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>DELAURO</lastName>
+        <state>CT</state>
+        <party>D</party>
+        <district>3</district>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>D000216</bioguideId>
+          <lisID>281</lisID>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <bioguideId>D000216</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ROSA</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+        <state>DC</state>
+        <party>D</party>
+        <district>0</district>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELEANOR</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Grijalva</lastName>
+        <state>AZ</state>
+        <party>D</party>
+        <district>3</district>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <bioguideId>G000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Raul</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>BRADY</lastName>
+        <state>PA</state>
+        <party>D</party>
+        <district>1</district>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>B001227</bioguideId>
+          <lisID>1469</lisID>
+          <gpoId>8119</gpoId>
+        </identifiers>
+        <bioguideId>B001227</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ROBERT</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SCHAKOWSKY</lastName>
+        <state>IL</state>
+        <party>D</party>
+        <district>9</district>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <middleName>D.</middleName>
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+          <lisID>1588</lisID>
+        </identifiers>
+        <bioguideId>S001145</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JANICE</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-03-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LEE</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>13</district>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <bioguideId>L000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>BARBARA</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-06-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bass</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>37</district>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+          <lisID>1996</lisID>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <bioguideId>B001270</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Karen</firstName>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2013-02-25T19:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Human Resources Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2013-03-04T21:42:10Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hswm03</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Oversight and Government Reform Committee</name>
+          <activities>
+            <item>
+              <date>2013-02-25T19:01:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

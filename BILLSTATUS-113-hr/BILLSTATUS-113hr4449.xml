@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-07-24</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>20:14:12</actionTime>
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2014-07-23</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <actionTime>20:14:11</actionTime>
+        <actionCode>H37300</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2014-07-23</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H6733</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H6733</url>
+          </link>
+        </links>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6733)</text>
+      </item>
+      <item>
+        <actionTime>20:14:11</actionTime>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2014-07-23</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H6733</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H6733</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6733)</text>
+      </item>
+      <item>
+        <actionTime>20:07:38</actionTime>
+        <actionCode>H8D000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2014-07-23</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 4449</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/4449</url>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4449.</text>
+      </item>
+      <item>
+        <actionTime>20:07:35</actionTime>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2014-07-23</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H6733-6735</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H6733-6735</url>
+          </link>
+        </links>
+        <text>Considered under suspension of the rules. (consideration: CR H6733-6735)</text>
+      </item>
+      <item>
+        <actionTime>20:07:17</actionTime>
+        <actionCode>H30300</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2014-07-23</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Mr. Meadows moved to suspend the rules and pass the bill.</text>
+      </item>
+      <item>
+        <actionDate>2014-05-29</actionDate>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-05-29</actionDate>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <actionDate>2014-04-10</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-04-10</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-04-10</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <billReferrals>1</billReferrals>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-04-10</introducedDate>
+    <updateDate>2016-10-25T16:12:27Z</updateDate>
+    <createDate>2014-04-11T07:23:07Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfr00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <activities>
+            <item>
+              <date>2014-07-24T18:56:39Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2014-05-29T13:41:09Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2014-04-10T13:00:54Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <district>19</district>
+        <firstName>Christopher</firstName>
+        <state>NY</state>
+        <sponsorshipDate>2014-05-28</sponsorshipDate>
+        <fullName>Rep. Gibson, Christopher P. [R-NY-19]</fullName>
+        <lastName>Gibson</lastName>
+        <party>R</party>
+        <bioguideId>G000564</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <identifiers>
+          <lisID>2043</lisID>
+          <bioguideId>G000564</bioguideId>
+          <gpoId>8081</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>30</district>
+        <firstName>BRAD</firstName>
+        <state>CA</state>
+        <sponsorshipDate>2014-05-28</sponsorshipDate>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <lastName>SHERMAN</lastName>
+        <party>D</party>
+        <bioguideId>S000344</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1526</lisID>
+          <bioguideId>S000344</bioguideId>
+          <gpoId>7832</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <firstName>Ted</firstName>
+        <state>TX</state>
+        <sponsorshipDate>2014-05-28</sponsorshipDate>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <lastName>Poe</lastName>
+        <party>R</party>
+        <bioguideId>P000592</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1802</lisID>
+          <bioguideId>P000592</bioguideId>
+          <gpoId>8158</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>39</district>
+        <firstName>ED</firstName>
+        <state>CA</state>
+        <sponsorshipDate>2014-05-29</sponsorshipDate>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <lastName>ROYCE</lastName>
+        <party>R</party>
+        <bioguideId>R000487</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>998</lisID>
+          <bioguideId>R000487</bioguideId>
+          <gpoId>7845</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <firstName>John</firstName>
+        <state>MN</state>
+        <sponsorshipDate>2014-07-09</sponsorshipDate>
+        <fullName>Rep. Kline, John [R-MN-2]</fullName>
+        <lastName>Kline</lastName>
+        <party>R</party>
+        <bioguideId>K000363</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1733</lisID>
+          <gpoId>8002</gpoId>
+          <bioguideId>K000363</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <firstName>Ann</firstName>
+        <state>MO</state>
+        <sponsorshipDate>2014-07-10</sponsorshipDate>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <lastName>Wagner</lastName>
+        <party>R</party>
+        <bioguideId>W000812</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2137</lisID>
+          <gpoId />
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>6</district>
+        <firstName>Peter</firstName>
+        <state>IL</state>
+        <sponsorshipDate>2014-07-10</sponsorshipDate>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+        <lastName>Roskam</lastName>
+        <party>R</party>
+        <bioguideId>R000580</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <identifiers>
+          <lisID>1848</lisID>
+          <gpoId>7926</gpoId>
+          <bioguideId>R000580</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <firstName>David</firstName>
+        <state>RI</state>
+        <sponsorshipDate>2014-07-11</sponsorshipDate>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <lastName>Cicilline</lastName>
+        <party>D</party>
+        <bioguideId>C001084</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>N.</middleName>
+        <identifiers>
+          <lisID>2055</lisID>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>6</district>
+        <firstName>Michele</firstName>
+        <state>MN</state>
+        <sponsorshipDate>2014-07-15</sponsorshipDate>
+        <fullName>Rep. Bachmann, Michele [R-MN-6]</fullName>
+        <lastName>Bachmann</lastName>
+        <party>R</party>
+        <bioguideId>B001256</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <gpoId>8006</gpoId>
+          <lisID>1858</lisID>
+          <bioguideId>B001256</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>17</district>
+        <firstName>MICHAEL</firstName>
+        <state>CA</state>
+        <sponsorshipDate>2014-07-16</sponsorshipDate>
+        <fullName>Rep. Honda, Michael M. [D-CA-17]</fullName>
+        <lastName>HONDA</lastName>
+        <party>D</party>
+        <bioguideId>H001034</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>1634</lisID>
+          <bioguideId>H001034</bioguideId>
+          <gpoId>7820</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <firstName>Ann</firstName>
+        <state>NH</state>
+        <sponsorshipDate>2014-07-23</sponsorshipDate>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <lastName>Kuster</lastName>
+        <party>D</party>
+        <bioguideId>K000382</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>2145</lisID>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>3</district>
+        <firstName>Jaime</firstName>
+        <state>WA</state>
+        <sponsorshipDate>2014-07-23</sponsorshipDate>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <lastName>Herrera Beutler</lastName>
+        <party>R</party>
+        <bioguideId>H001056</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2071</lisID>
+          <gpoId>8207</gpoId>
+          <bioguideId>H001056</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Human Trafficking Prevention Act</title>
+    <titles>
+      <item>
+        <title>Human Trafficking Prevention Act</title>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>Human Trafficking Prevention Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend the Trafficking Victims Protection Act of 2000 to expand the training for Federal Government personnel related to trafficking in persons, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Human Trafficking Prevention Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. SEAN PATRICK MALONEY of New York:H.R. 4449.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the US Constitution.[Page H3197]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2014-04-30T20:58:52Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Human Trafficking Prevention Act - Amends the Trafficking Victims Protection Act of 2000 to require training for federal government personnel related to trafficking in persons to include at a minimum: (1) a distance learning course on trafficking-in-persons issues and the Department of State's obligations under the Act, targeted for embassy reporting officers, regional bureaus' trafficking-in-persons coordinators, and their superiors; (2) specific trafficking-in-persons briefings for all ambassadors and deputy chiefs of mission before they depart for their posts; and (3) at least annual reminders to all such personnel and other federal personnel at each diplomatic or consular post of the Department of State located outside the United States of key problems, threats, methods, and warning signs of trafficking in persons specific to the country or jurisdiction in which each such post is located, and appropriate procedures to report information acquired about possible trafficking cases.</p>]]></text>
+          <updateDate>2014-04-10T04:00:00Z</updateDate>
+          <actionDate>2014-04-10</actionDate>
+        </item>
+        <item>
+          <versionCode>81</versionCode>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <name>Passed House without amendment</name>
+          <lastSummaryUpdateDate>2014-07-30T16:37:19Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Human Trafficking Prevention Act - Amends the Trafficking Victims Protection Act of 2000 to require training for federal government personnel related to trafficking in persons to include at a minimum: (1) a distance learning course on trafficking-in-persons issues and the Department of State's obligations under the Act, targeted for embassy reporting officers, regional bureaus' trafficking-in-persons coordinators, and their superiors; (2) specific trafficking-in-persons briefings for all ambassadors and deputy chiefs of mission before they depart for their posts; and (3) at least annual reminders to all such personnel and other federal personnel at each diplomatic or consular post of the Department of State located outside the United States of key problems, threats, methods, and warning signs of trafficking in persons specific to the country or jurisdiction in which each such post is located, and appropriate procedures to report information acquired about possible trafficking cases.</p>]]></text>
+          <updateDate>2014-07-23T14:04:23Z</updateDate>
+          <actionDate>2014-07-23</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 4449, Human Trafficking Prevention Act</title>
+        <url>http://www.cbo.gov/publication/45503</url>
+        <pubDate>2014-07-03T21:14:00Z</pubDate>
+      </item>
+      <item>
+        <title>H.R. 4449, Human Trafficking Prevention Act</title>
+        <url>https://www.cbo.gov/publication/45503</url>
+        <pubDate>2014-07-03T21:14:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Department of State</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Educational technology and distance education</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+      <actionDate>2014-07-24</actionDate>
+    </latestAction>
+    <billNumber>4449</billNumber>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>18</district>
+        <firstName>Sean</firstName>
+        <party>D</party>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <bioguideId>M001185</bioguideId>
+        <identifiers>
+          <lisID>2150</lisID>
+          <bioguideId>M001185</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Maloney</lastName>
+        <middleName>Patrick</middleName>
+        <state>NY</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

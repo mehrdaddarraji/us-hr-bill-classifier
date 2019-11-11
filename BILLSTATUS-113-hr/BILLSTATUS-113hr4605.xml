@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2014-05-08</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <bioguideId>M000933</bioguideId>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <district>8</district>
+        <firstName>JAMES</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8199</gpoId>
+          <lisID>832</lisID>
+          <bioguideId>M000933</bioguideId>
+        </identifiers>
+        <state>VA</state>
+        <lastName>MORAN</lastName>
+        <middleName>P.</middleName>
+        <fullName>Rep. Moran, James P. [D-VA-8]</fullName>
+      </item>
+      <item>
+        <bioguideId>H000067</bioguideId>
+        <sponsorshipDate>2014-06-05</sponsorshipDate>
+        <district>4</district>
+        <firstName>RALPH</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H000067</bioguideId>
+          <lisID>484</lisID>
+          <gpoId>8160</gpoId>
+        </identifiers>
+        <state>TX</state>
+        <lastName>HALL</lastName>
+        <middleName>M.</middleName>
+        <fullName>Rep. Hall, Ralph M. [R-TX-4]</fullName>
+      </item>
+      <item>
+        <bioguideId>T000469</bioguideId>
+        <sponsorshipDate>2014-06-05</sponsorshipDate>
+        <district>20</district>
+        <firstName>Paul</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1942</lisID>
+          <gpoId>8082</gpoId>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <lastName>Tonko</lastName>
+        <middleName />
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+      </item>
+      <item>
+        <bioguideId>C001094</bioguideId>
+        <sponsorshipDate>2014-07-08</sponsorshipDate>
+        <district>8</district>
+        <firstName>Paul</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <lastName>Cook</lastName>
+        <middleName />
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+      </item>
+      <item>
+        <bioguideId>M001157</bioguideId>
+        <sponsorshipDate>2014-07-08</sponsorshipDate>
+        <district>10</district>
+        <firstName>Michael</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <lastName>McCaul</lastName>
+        <middleName>T.</middleName>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+      <actionDate>2014-05-09</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:13:00Z</updateDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-05-09</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2014-05-08</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2014-05-08</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2014-05-08</actionDate>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>ChiPACC Act of 2014 Amends title XIX (Medicaid) of the Social Security Act to give states the option of covering a children's program of all-inclusive coordinated care (ChiPACC).</p>]]></text>
+          <actionDate>2014-05-08</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2014-05-08T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-05-19T20:48:07Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Comprehensive health care</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>ChiPACC Act of 2014</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Ellmers</lastName>
+        <bioguideId>E000291</bioguideId>
+        <middleName>L.</middleName>
+        <fullName>Rep. Ellmers, Renee L. [R-NC-2]</fullName>
+        <identifiers>
+          <lisID>2036</lisID>
+          <bioguideId>E000291</bioguideId>
+          <gpoId>8025</gpoId>
+        </identifiers>
+        <district>2</district>
+        <firstName>Renee</firstName>
+        <party>R</party>
+        <state>NC</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-05-09T07:20:33Z</createDate>
+    <billNumber>4605</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2014-05-09T17:40:09Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2014-05-08T14:00:53Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mrs. ELLMERS:H.R. 4605.Congress has the power to enact this legislation pursuantto the following:The authority to enact this bill is derived from, but maynot be limited to, Clause 1 of Section 8 of Article I of theUnited States Constitution.[Page H4016]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <title>ChiPACC Act of 2014</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend title XIX of the Social Security Act to provide States an option to cover a children's program of all-inclusive coordinated care (ChiPACC) under the Medicaid program.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>ChiPACC Act of 2014</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

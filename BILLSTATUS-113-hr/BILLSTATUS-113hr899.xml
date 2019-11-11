@@ -1,0 +1,1837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2013-02-28</introducedDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 113-352</citation>
+      </committeeReport>
+    </committeeReports>
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <fullName>Rep. Lankford, James [R-OK-5]</fullName>
+        <party>R</party>
+        <middleName />
+        <district>5</district>
+        <identifiers>
+          <gpoId>8113</gpoId>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+        </identifiers>
+        <state>OK</state>
+        <firstName>James</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000575</bioguideId>
+        <lastName>Lankford</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <fullName>Rep. Sanchez, Loretta [D-CA-46]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>46</district>
+        <identifiers>
+          <lisID>1522</lisID>
+          <gpoId>7852</gpoId>
+          <bioguideId>S000030</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>LORETTA</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000030</bioguideId>
+        <lastName>SANCHEZ</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <party>D</party>
+        <middleName>C.</middleName>
+        <district>7</district>
+        <identifiers>
+          <lisID>910</lisID>
+          <bioguideId>P000258</bioguideId>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <state>MN</state>
+        <firstName>COLLIN</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000258</bioguideId>
+        <lastName>PETERSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <fullName>Rep. McIntyre, Mike [D-NC-7]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>7</district>
+        <identifiers>
+          <lisID>1505</lisID>
+          <gpoId>8030</gpoId>
+          <bioguideId>M000485</bioguideId>
+        </identifiers>
+        <state>NC</state>
+        <firstName>MIKE</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000485</bioguideId>
+        <lastName>MCINTYRE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <recordedVotes>
+      <recordedVote>
+        <sessionNumber>2</sessionNumber>
+        <chamber>House</chamber>
+        <congress>113</congress>
+        <url>http://clerk.house.gov/evs/2014/roll090.xml</url>
+        <date>2014-02-28T16:32:08Z</date>
+        <rollNumber>90</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+      </recordedVote>
+      <recordedVote>
+        <sessionNumber>2</sessionNumber>
+        <chamber>House</chamber>
+        <congress>113</congress>
+        <url>http://clerk.house.gov/evs/2014/roll089.xml</url>
+        <date>2014-02-28T16:25:44Z</date>
+        <rollNumber>89</rollNumber>
+        <fullActionName>Motion to Commit/Recommit With Instructions Results</fullActionName>
+      </recordedVote>
+    </recordedVotes>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+      <actionDate>2014-03-04</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HRES</type>
+        <number>492</number>
+        <latestAction>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>17:52:15</actionTime>
+          <actionDate>2014-02-27</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Providing for consideration of the bill (H.R. 899) to provide for additional safeguards with respect to imposing Federal mandates, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>4</number>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 597.</text>
+          <actionDate>2014-11-13</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Jobs for America Act</latestTitle>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:38:39Z</updateDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>40</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-03-04</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <committee />
+        <links />
+        <actionTime>11:32:09</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H37100</actionCode>
+        <text>On passage Passed by recorded vote: 234 - 176 (Roll no. 90).</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2014/roll090.xml</url>
+            <name>Roll no. 90</name>
+          </link>
+        </links>
+        <actionTime>11:32:08</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On passage Passed by recorded vote: 234 - 176 (Roll no. 90).</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2014/roll090.xml</url>
+            <name>Roll no. 90</name>
+          </link>
+        </links>
+        <actionTime>11:32:08</actionTime>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H36110</actionCode>
+        <text>On motion to recommit with instructions Failed by recorded vote: 192 - 218 (Roll no. 89).</text>
+        <type>Floor</type>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2014/roll089.xml</url>
+            <name>Roll no. 89</name>
+          </link>
+        </links>
+        <actionTime>11:25:44</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - The House proceeded with 10 minutes of debate on the Garcia motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to create an exception for any regulatory action that (1) provides hiring preferences and jobs for veterans; (2) protects patient safety in hospitals and nursing homes; (3) lowers the overall cost of health care, including out-of-pocket costs for consumers; or (4) protects communities from natural disasters and helps them rebuild in the event of a natural disaster.</text>
+        <type>Floor</type>
+        <committee />
+        <links />
+        <actionTime>11:07:31</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H36100</actionCode>
+        <text>Mr. Garcia moved to recommit with instructions to Oversight and Government. (consideration: CR H2083-2085; text: CR H2083)</text>
+        <type>Floor</type>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2083</url>
+            <name>H2083</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2083-2085</url>
+            <name>H2083-2085</name>
+          </link>
+        </links>
+        <actionTime>11:07:07</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H35000</actionCode>
+        <text>The previous question was ordered pursuant to the rule. (consideration: CR H2083)</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2083</url>
+            <name>H2083</name>
+          </link>
+        </links>
+        <actionTime>11:05:58</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H32600</actionCode>
+        <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 899.</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/899</url>
+            <name>H.R. 899</name>
+          </link>
+        </links>
+        <actionTime>11:05:33</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+        <type>Floor</type>
+        <committee />
+        <links />
+        <actionTime>10:27:59</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 492, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 3.</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/492</url>
+            <name>H.Res. 492</name>
+          </link>
+        </links>
+        <actionTime>10:18:56</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Connolly demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+        <type>Floor</type>
+        <committee />
+        <links />
+        <actionTime>10:17:37</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 492, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment No. 2.</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/492</url>
+            <name>H.Res. 492</name>
+          </link>
+        </links>
+        <actionTime>10:09:45</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Cummings amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Cummings demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+        <type>Floor</type>
+        <committee />
+        <links />
+        <actionTime>10:08:31</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 492, the Committee of the Whole proceeded with 10 minutes of debate on the Cummings amendment No. 1.</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/492</url>
+            <name>H.Res. 492</name>
+          </link>
+        </links>
+        <actionTime>10:04:03</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 899.</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/899</url>
+            <name>H.R. 899</name>
+          </link>
+        </links>
+        <actionTime>09:17:19</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H32400</actionCode>
+        <text>The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee.</text>
+        <type>Floor</type>
+        <committee />
+        <links />
+        <actionTime>09:17:10</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H32020</actionCode>
+        <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 492 and Rule XVIII.</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/492</url>
+            <name>H. Res. 492</name>
+          </link>
+        </links>
+        <actionTime>09:17:09</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>Rule provides for consideration of H.R. 899. The resolution provides for one hour of debate. The resolution makes in order only those amendments printed in the report. The resolution provides one motion to recommit with or without instructions.</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/899</url>
+            <name>H.R. 899</name>
+          </link>
+        </links>
+        <actionTime>09:16:33</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-28</actionDate>
+        <actionCode>H30000</actionCode>
+        <text>Considered under the provisions of rule H. Res. 492. (consideration: CR H2069-2086; text of measure as reported in House: CR H2075-2076)</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/492</url>
+            <name>H. Res. 492</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2069-2086</url>
+            <name>H2069-2086</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2075-2076</url>
+            <name>H2075-2076</name>
+          </link>
+        </links>
+        <actionTime>09:16:28</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-27</actionDate>
+        <actionCode>H1L220</actionCode>
+        <text>Rule H. Res. 492 passed House.</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/492</url>
+            <name>H. Res. 492</name>
+          </link>
+        </links>
+        <actionTime>17:52:14</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-26</actionDate>
+        <actionCode>H1L210</actionCode>
+        <text>Rules Committee Resolution H. Res. 492 Reported to House. Rule provides for consideration of H.R. 899. The resolution provides for one hour of debate. The resolution makes in order only those amendments printed in the report. The resolution provides one motion to recommit with or without instructions.</text>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/492</url>
+            <name>H. Res. 492</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/899</url>
+            <name>H.R. 899</name>
+          </link>
+        </links>
+        <actionTime>17:02:30</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-14</actionDate>
+        <actionCode>H12410</actionCode>
+        <text>Placed on the Union Calendar, Calendar No. 260.</text>
+        <type>Calendars</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-14</actionDate>
+        <actionCode>H12300</actionCode>
+        <text>Committee on Judiciary discharged.</text>
+        <type>Discharge</type>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-14</actionDate>
+        <actionCode>5500</actionCode>
+        <text>Committee on Judiciary discharged.</text>
+        <type>Committee</type>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-14</actionDate>
+        <actionCode>H12300</actionCode>
+        <text>Committee on Rules discharged.</text>
+        <type>Discharge</type>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-14</actionDate>
+        <actionCode>5500</actionCode>
+        <text>Committee on Rules discharged.</text>
+        <type>Committee</type>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-14</actionDate>
+        <actionCode>H12300</actionCode>
+        <text>Committee on Budget discharged.</text>
+        <type>Discharge</type>
+        <committee>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-14</actionDate>
+        <actionCode>5500</actionCode>
+        <text>Committee on Budget discharged.</text>
+        <type>Committee</type>
+        <committee>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-14</actionDate>
+        <actionCode>H12200</actionCode>
+        <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 113-352, Part I.</text>
+        <type>Committee</type>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/352</url>
+            <name>H. Rept. 113-352</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-02-14</actionDate>
+        <actionCode>5000</actionCode>
+        <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 113-352, Part I.</text>
+        <type>Committee</type>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/352</url>
+            <name>H. Rept. 113-352</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-07-24</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by the Yeas and Nays: 22 - 17.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-24</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-04-08</actionDate>
+        <committee>
+          <systemCode>hsju05</systemCode>
+          <name>Regulatory Reform, Commercial And Antitrust Law Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-04</actionDate>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR H819)</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H819</url>
+            <name>H819</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-02-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Judiciary</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-02-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Rules</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-02-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Budget</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-02-28</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on the Budget, Rules, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-02-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Oversight and Government Reform</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-02-28</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-02-28</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <generalDebate>9</generalDebate>
+        <reportedToHouse>1</reportedToHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToCommitRecommitWithInstructionsOffered>1</motionToCommitRecommitWithInstructionsOffered>
+        <billReferrals>4</billReferrals>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <committeeOfTheWholeRisesToReportOnLegislation>1</committeeOfTheWholeRisesToReportOnLegislation>
+        <placeholderTextForB>1</placeholderTextForB>
+        <designationOfChairmanCommitteeOfTheWhole>1</designationOfChairmanCommitteeOfTheWhole>
+        <placeholderTextForH>2</placeholderTextForH>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <motionToCommitRecommitWithInstructionsResults>1</motionToCommitRecommitWithInstructionsResults>
+        <referredToCommittee>1</referredToCommittee>
+        <committeeDischarged>3</committeeDischarged>
+        <resolvingIntoCommitteeOfTheWholePursuantToRule>1</resolvingIntoCommitteeOfTheWholePursuantToRule>
+        <houseCommitteeDischarged>3</houseCommitteeDischarged>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <placeholderTextForHL>1</placeholderTextForHL>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <passageOfAMeasure>1</passageOfAMeasure>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00260</calendar>
+      </item>
+    </calendarNumbers>
+    <amendments>
+      <amendment>
+        <type>HAMDT</type>
+        <description>Amendment sought to add a section to the bill to clarify that the requirements of UMRA, as amended, do not apply if a cost-benefit analysis demonstrates that the benefits of the regulatory action exceed its costs.</description>
+        <congress>113</congress>
+        <purpose>An amendment numbered 3 printed in House Report 113-362 to add Section 14 to the bill to clarify that the requirements of UMRA as amended by this Act do not apply if a cost-benefit analysis demonstrates that the benefits of the regulatory action exceed its costs.</purpose>
+        <congress>113</congress>
+        <submittedDate>2014-02-28T05:00:00Z</submittedDate>
+        <number>575</number>
+        <updateDate>2016-10-25T12:38:38Z</updateDate>
+        <type>HAMDT</type>
+        <actions>
+          <count>8</count>
+          <actions>
+            <item>
+              <links>
+                <link>
+                  <name>H.Amdt.575</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/575</url>
+                </link>
+                <link>
+                  <name>Roll no. 88</name>
+                  <url>http://clerk.house.gov/evs/2014/roll088.xml</url>
+                </link>
+              </links>
+              <actionTime>11:05:24</actionTime>
+              <actionDate>2014-02-28</actionDate>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <text>On agreeing to the Jackson Lee amendment (A003) Failed by recorded vote: 180 - 232 (Roll no. 88).</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <committee />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <name>H.Amdt.575</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/575</url>
+                </link>
+                <link>
+                  <name>H2079</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2079</url>
+                </link>
+                <link>
+                  <name>H2079-2081</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2079-2081</url>
+                </link>
+                <link>
+                  <name>H2082-2083</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2082-2083</url>
+                </link>
+              </links>
+              <actionTime>10:17:56</actionTime>
+              <actionDate>2014-02-28</actionDate>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <text>Amendment (A003) offered by Ms. Jackson Lee. (consideration: CR H2079-2081, H2082-2083; text: CR H2079)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2014-02-28</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <name>H.Amdt.575</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/575</url>
+                </link>
+                <link>
+                  <name>Roll no. 88</name>
+                  <url>http://clerk.house.gov/evs/2014/roll088.xml</url>
+                </link>
+              </links>
+              <actionTime>11:05:24</actionTime>
+              <actionDate>2014-02-28</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>Amendment failed in Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>77000</actionCode>
+              <committee />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <name>H.Amdt.575</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/575</url>
+                </link>
+                <link>
+                  <name>Roll no. 88</name>
+                  <url>http://clerk.house.gov/evs/2014/roll088.xml</url>
+                </link>
+              </links>
+              <actionTime>11:05:24</actionTime>
+              <actionDate>2014-02-28</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>Roll call votes on amendments in House</text>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <committee />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <name>H.Amdt.575</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/575</url>
+                </link>
+                <link>
+                  <name>Roll no. 88</name>
+                  <url>http://clerk.house.gov/evs/2014/roll088.xml</url>
+                </link>
+              </links>
+              <actionTime>11:05:24</actionTime>
+              <actionDate>2014-02-28</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>House amendment not agreed to: On agreeing to the Jackson Lee amendment (A003) Failed by recorded vote: 180 - 232 (Roll no. 88).</text>
+              <type>Floor</type>
+              <actionCode>73000</actionCode>
+              <committee />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <name>H.Amdt.575</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/575</url>
+                </link>
+                <link>
+                  <name>H2079</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2079</url>
+                </link>
+                <link>
+                  <name>H2079-2081</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2079-2081</url>
+                </link>
+                <link>
+                  <name>H2082-2083</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2082-2083</url>
+                </link>
+              </links>
+              <actionTime>10:17:56</actionTime>
+              <actionDate>2014-02-28</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>House amendment offered/reported by : Amendment (A003) offered by Ms. Jackson Lee.(consideration: CR H2079-2081, H2082-2083; text: CR H2079)</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <committee />
+            </item>
+            <item>
+              <links />
+              <actionDate>2014-02-28</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <amendmentOffered>1</amendmentOffered>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <titles />
+        <sponsors>
+          <item>
+            <state>TX</state>
+            <firstName>SHEILA</firstName>
+            <bioguideId>J000032</bioguideId>
+            <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+            <lastName>JACKSON LEE</lastName>
+            <party>D</party>
+            <middleName />
+            <district>18</district>
+          </item>
+        </sponsors>
+        <description>Amendment sought to add a section to the bill to clarify that the requirements of UMRA, as amended, do not apply if a cost-benefit analysis demonstrates that the benefits of the regulatory action exceed its costs.</description>
+        <chamber>House of Representatives</chamber>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <createDate>2014-03-01T07:01:24Z</createDate>
+        <amendedAmendment />
+        <amendedBill>
+          <congress>113</congress>
+          <type>HR</type>
+          <number>899</number>
+          <title>Unfunded Mandates Information and Transparency Act of 2014</title>
+          <originChamberCode>H</originChamberCode>
+          <originChamber>House</originChamber>
+        </amendedBill>
+        <proposedDate />
+        <notes />
+        <latestAction>
+          <actionTime>11:05:24</actionTime>
+          <text>On agreeing to the Jackson Lee amendment (A003) Failed by recorded vote: 180 - 232 (Roll no. 88).</text>
+          <actionDate>2014-02-28</actionDate>
+        </latestAction>
+        <number>575</number>
+        <purpose>An amendment numbered 3 printed in House Report 113-362 to add Section 14 to the bill to clarify that the requirements of UMRA as amended by this Act do not apply if a cost-benefit analysis demonstrates that the benefits of the regulatory action exceed its costs.</purpose>
+      </amendment>
+      <amendment>
+        <type>HAMDT</type>
+        <description>Amendment sought to ensure that other impacted entities, such as public interest organizations, are provided the opportunity for consultation afforded to the private sector under the Act.</description>
+        <congress>113</congress>
+        <type>HAMDT</type>
+        <titles />
+        <createDate>2014-03-01T07:01:25Z</createDate>
+        <actions>
+          <count>8</count>
+          <actions>
+            <item>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <actionTime>11:00:57</actionTime>
+              <type>Floor</type>
+              <text>On agreeing to the Connolly amendment (A002) Failed by recorded vote: 194 - 216 (Roll no. 87).</text>
+              <actionCode>H32111</actionCode>
+              <committee />
+              <actionDate>2014-02-28</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.574</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/574</url>
+                </link>
+                <link>
+                  <name>Roll no. 87</name>
+                  <url>http://clerk.house.gov/evs/2014/roll087.xml</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <actionTime>10:08:48</actionTime>
+              <type>Floor</type>
+              <text>Amendment (A002) offered by Mr. Connolly. (consideration: CR H2077-2079, H2082; text: CR H2077)</text>
+              <actionCode>H3A100</actionCode>
+              <committee />
+              <actionDate>2014-02-28</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.574</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/574</url>
+                </link>
+                <link>
+                  <name>H2077</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2077</url>
+                </link>
+                <link>
+                  <name>H2077-2079</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2077-2079</url>
+                </link>
+                <link>
+                  <name>H2082</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2082</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionDate>2014-02-28</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionTime>10:08:48</actionTime>
+              <type>NotUsed</type>
+              <text>House amendment offered/reported by : Amendment (A002) offered by Mr. Connolly.(consideration: CR H2077-2079, H2082; text: CR H2077)</text>
+              <actionCode>71500</actionCode>
+              <committee />
+              <actionDate>2014-02-28</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.574</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/574</url>
+                </link>
+                <link>
+                  <name>H2077</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2077</url>
+                </link>
+                <link>
+                  <name>H2077-2079</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2077-2079</url>
+                </link>
+                <link>
+                  <name>H2082</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2082</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionTime>11:00:57</actionTime>
+              <type>Floor</type>
+              <text>House amendment not agreed to: On agreeing to the Connolly amendment (A002) Failed by recorded vote: 194 - 216 (Roll no. 87).</text>
+              <actionCode>73000</actionCode>
+              <committee />
+              <actionDate>2014-02-28</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.574</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/574</url>
+                </link>
+                <link>
+                  <name>Roll no. 87</name>
+                  <url>http://clerk.house.gov/evs/2014/roll087.xml</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionTime>11:00:57</actionTime>
+              <type>NotUsed</type>
+              <text>Amendment failed in Committee of the Whole</text>
+              <actionCode>77000</actionCode>
+              <committee />
+              <actionDate>2014-02-28</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.574</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/574</url>
+                </link>
+                <link>
+                  <name>Roll no. 87</name>
+                  <url>http://clerk.house.gov/evs/2014/roll087.xml</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionTime>11:00:57</actionTime>
+              <type>Floor</type>
+              <text>Roll call votes on amendments in House</text>
+              <actionCode>75000</actionCode>
+              <committee />
+              <actionDate>2014-02-28</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.574</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/574</url>
+                </link>
+                <link>
+                  <name>Roll no. 87</name>
+                  <url>http://clerk.house.gov/evs/2014/roll087.xml</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <committee />
+              <actionDate>2014-02-28</actionDate>
+              <links />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentOffered>1</amendmentOffered>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <notes />
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <chamber>House of Representatives</chamber>
+        <links />
+        <number>574</number>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <updateDate>2016-10-25T12:38:38Z</updateDate>
+        <proposedDate />
+        <congress>113</congress>
+        <amendedBill>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <congress>113</congress>
+          <originChamberCode>H</originChamberCode>
+          <number>899</number>
+          <title>Unfunded Mandates Information and Transparency Act of 2014</title>
+        </amendedBill>
+        <sponsors>
+          <item>
+            <bioguideId>C001078</bioguideId>
+            <state>VA</state>
+            <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+            <firstName>Gerald</firstName>
+            <district>11</district>
+            <party>D</party>
+            <lastName>Connolly</lastName>
+            <middleName>E.</middleName>
+          </item>
+        </sponsors>
+        <description>Amendment sought to ensure that other impacted entities, such as public interest organizations, are provided the opportunity for consultation afforded to the private sector under the Act.</description>
+        <submittedDate>2014-02-28T05:00:00Z</submittedDate>
+        <purpose>An amendment numbered 2 printed in House Report 113-362 to ensure that other impacted entities, such as public interest organizations, are provided any opportunity for consultation afforded to the private sector under the Act.</purpose>
+        <latestAction>
+          <actionTime>11:00:57</actionTime>
+          <text>On agreeing to the Connolly amendment (A002) Failed by recorded vote: 194 - 216 (Roll no. 87).</text>
+          <actionDate>2014-02-28</actionDate>
+        </latestAction>
+        <number>574</number>
+        <purpose>An amendment numbered 2 printed in House Report 113-362 to ensure that other impacted entities, such as public interest organizations, are provided any opportunity for consultation afforded to the private sector under the Act.</purpose>
+      </amendment>
+      <amendment>
+        <type>HAMDT</type>
+        <description>Amendment sought to strike section 5 of the bill which would eliminate the current exemption from the Unfunded Mandate Reform Act for certain independent agencies.</description>
+        <congress>113</congress>
+        <purpose>An amendment numbered 1 printed in House Report 113-362 to strike section 5 of the bill, which would eliminate the current exemption from the Unfunded Mandate Reform Act for certain independent agencies.</purpose>
+        <congress>113</congress>
+        <submittedDate>2014-02-28T05:00:00Z</submittedDate>
+        <number>573</number>
+        <updateDate>2016-10-25T12:38:38Z</updateDate>
+        <type>HAMDT</type>
+        <actions>
+          <count>8</count>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionTime>10:56:38</actionTime>
+              <actionCode>H32111</actionCode>
+              <actionDate>2014-02-28</actionDate>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <name>H.Amdt.573</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/573</url>
+                </link>
+                <link>
+                  <name>Roll no. 86</name>
+                  <url>http://clerk.house.gov/evs/2014/roll086.xml</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <text>On agreeing to the Cummings amendment (A001) Failed by recorded vote: 185 - 224 (Roll no. 86).</text>
+              <committee />
+            </item>
+            <item>
+              <actionTime>10:03:15</actionTime>
+              <actionCode>H3A100</actionCode>
+              <actionDate>2014-02-28</actionDate>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <name>H.Amdt.573</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/573</url>
+                </link>
+                <link>
+                  <name>H2076</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2076</url>
+                </link>
+                <link>
+                  <name>H2076-2077</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2076-2077</url>
+                </link>
+                <link>
+                  <name>H2081-2082</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2081-2082</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <text>Amendment (A001) offered by Mr. Cummings. (consideration: CR H2076-2077, H2081-2082; text: CR H2076)</text>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2014-02-28</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionTime>10:03:15</actionTime>
+              <actionCode>71500</actionCode>
+              <actionDate>2014-02-28</actionDate>
+              <type>NotUsed</type>
+              <links>
+                <link>
+                  <name>H.Amdt.573</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/573</url>
+                </link>
+                <link>
+                  <name>H2076</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2076</url>
+                </link>
+                <link>
+                  <name>H2076-2077</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2076-2077</url>
+                </link>
+                <link>
+                  <name>H2081-2082</name>
+                  <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H2081-2082</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>House amendment offered/reported by : Amendment (A001) offered by Mr. Cummings.(consideration: CR H2076-2077, H2081-2082; text: CR H2076)</text>
+              <committee />
+            </item>
+            <item>
+              <actionTime>10:56:38</actionTime>
+              <actionCode>73000</actionCode>
+              <actionDate>2014-02-28</actionDate>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <name>H.Amdt.573</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/573</url>
+                </link>
+                <link>
+                  <name>Roll no. 86</name>
+                  <url>http://clerk.house.gov/evs/2014/roll086.xml</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>House amendment not agreed to: On agreeing to the Cummings amendment (A001) Failed by recorded vote: 185 - 224 (Roll no. 86).</text>
+              <committee />
+            </item>
+            <item>
+              <actionTime>10:56:38</actionTime>
+              <actionCode>75000</actionCode>
+              <actionDate>2014-02-28</actionDate>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <name>H.Amdt.573</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/573</url>
+                </link>
+                <link>
+                  <name>Roll no. 86</name>
+                  <url>http://clerk.house.gov/evs/2014/roll086.xml</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>Roll call votes on amendments in House</text>
+              <committee />
+            </item>
+            <item>
+              <actionTime>10:56:38</actionTime>
+              <actionCode>77000</actionCode>
+              <actionDate>2014-02-28</actionDate>
+              <type>NotUsed</type>
+              <links>
+                <link>
+                  <name>H.Amdt.573</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/573</url>
+                </link>
+                <link>
+                  <name>Roll no. 86</name>
+                  <url>http://clerk.house.gov/evs/2014/roll086.xml</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>Amendment failed in Committee of the Whole</text>
+              <committee />
+            </item>
+            <item>
+              <actionCode>71000</actionCode>
+              <actionDate>2014-02-28</actionDate>
+              <type>Floor</type>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <links />
+              <text>House amendment offered</text>
+              <committee />
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <titles />
+        <sponsors>
+          <item>
+            <state>MD</state>
+            <firstName>ELIJAH</firstName>
+            <bioguideId>C000984</bioguideId>
+            <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+            <lastName>CUMMINGS</lastName>
+            <party>D</party>
+            <middleName>E.</middleName>
+            <district>7</district>
+          </item>
+        </sponsors>
+        <description>Amendment sought to strike section 5 of the bill which would eliminate the current exemption from the Unfunded Mandate Reform Act for certain independent agencies.</description>
+        <chamber>House of Representatives</chamber>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <createDate>2014-03-01T07:01:24Z</createDate>
+        <amendedAmendment />
+        <amendedBill>
+          <congress>113</congress>
+          <type>HR</type>
+          <number>899</number>
+          <title>Unfunded Mandates Information and Transparency Act of 2014</title>
+          <originChamberCode>H</originChamberCode>
+          <originChamber>House</originChamber>
+        </amendedBill>
+        <proposedDate />
+        <notes />
+        <latestAction>
+          <actionTime>10:56:38</actionTime>
+          <text>On agreeing to the Cummings amendment (A001) Failed by recorded vote: 185 - 224 (Roll no. 86).</text>
+          <actionDate>2014-02-28</actionDate>
+        </latestAction>
+        <number>573</number>
+        <purpose>An amendment numbered 1 printed in House Report 113-362 to strike section 5 of the bill, which would eliminate the current exemption from the Unfunded Mandate Reform Act for certain independent agencies.</purpose>
+      </amendment>
+    </amendments>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Unfunded Mandates Information and Transparency Act of 2013 - States as the purposes of this Act to: (1) improve the quality of the deliberations of Congress with respect to proposed federal mandates by providing Congress and the public with more complete information about the effects of such mandates and by ensuring that Congress acts on such mandates only after focused deliberation on their effects; and (2) enhance the ability of Congress and the public to identify federal mandates that may impose undue harm on consumers, workers, employers, small businesses, and state, local, and tribal governments. </p> <p>Amends the Congressional Budget Act of 1974 to: (1) require the Congressional Budget Office (CBO), at the request of the chairman or ranking member of a congressional committee, to conduct an assessment comparing the authorized level of funding in legislation to the prospective costs of carrying out any changes to a condition of federal assistance being imposed on state, local, or tribal governments participating in the federal assistance program; (2) modify the definition of &quot;direct costs&quot; to require CBO to consider, in accounting for the costs of federal mandates, forgone business profits, costs passed onto consumers and other entities, and behavioral changes; (3) eliminate the exemption of independent regulatory agencies (except the Board of Governors of the Federal Reserve System or the Federal Open Market Committee) from reporting requirements under the Unfunded Mandates Reform Act of 1995 (UMRA); and (4) make the raising of points of order in the consideration of congressional legislation applicable to legislation that would increase the direct cost of private sector mandates beyond limits established by UMRA.</p> <p>Amends UMRA to: (1) transfer certain responsibilities under such Act from the Director of the Office of Management and Budget (OMB) to the Administrator of the Office of Information and Regulatory Affairs; (2) set forth detailed criteria to guide agencies in assessing the effects of federal regulatory actions on state, local, and tribal governments and the private sector; (3) revise requirements for agency statements accompanying significant regulatory actions to require an analysis of the annual effect of a proposed final rule on state, local, or tribal governments or the private sector and to require all statements and summaries under UMRA to be detailed; and (4) extend to the the private sector (including small business) the requirement for consultation with agencies in the development of regulatory proposals containing significant federal mandates and set forth detailed guidelines for such consultation.</p> <p>Revises UMRA reporting requirements to require: (1) the Administrator of the Office of Information and Regulatory Affairs to provide guidance and oversight so that agency regulations are consistent with the principles and policies of UMRA and do not conflict with the policies or actions of another agency; and (2) agencies to include in their annual compliance statements an appendix detailing consultation activities with state, local, and tribal governments and the private sector.</p> <p>Amends UMRA to require an agency, at the request of the chairman or ranking member of a standing or select House or Senate Committee, to conduct a retrospective analysis of an existing regulation promulgated by such agency and submit to the chairman of the relevant committee, Congress, and the Comptroller General (GAO) a report on such regulation. </p> <p>Expands judicial review under UMRA to include review of provisions of such Act relating to agency assessment of the effects of the regulatory process and agency selection of the least costly or least burdensome alternative to a regulatory mandate. Grants courts expanded powers to compel agencies to comply with UMRA reporting requirements.</p>]]></text>
+          <lastSummaryUpdateDate>2013-03-28T22:06:03Z</lastSummaryUpdateDate>
+          <updateDate>2013-02-28T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-02-28</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+        <item>
+          <name>Reported to House without amendment, Part I</name>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Unfunded Mandates Information and Transparency Act of 2013 - States as the purposes of this Act to: (1) improve the quality of the deliberations of Congress with respect to proposed federal mandates by providing Congress and the public with more complete information about the effects of such mandates and by ensuring that Congress acts on such mandates only after focused deliberation on their effects; and (2) enhance the ability of Congress and the public to identify federal mandates that may impose undue harm on consumers, workers, employers, small businesses, and state, local, and tribal governments. </p> <p>Amends the Congressional Budget Act of 1974 to: (1) require the Congressional Budget Office (CBO), at the request of the chairman or ranking member of a congressional committee, to conduct an assessment comparing the authorized level of funding in legislation to the prospective costs of carrying out any changes to a condition of federal assistance being imposed on state, local, or tribal governments participating in the federal assistance program; (2) modify the definition of &quot;direct costs&quot; to require CBO to consider, in accounting for the costs of federal mandates, forgone business profits, costs passed onto consumers and other entities, and behavioral changes; (3) eliminate the exemption of independent regulatory agencies (except the Board of Governors of the Federal Reserve System or the Federal Open Market Committee) from reporting requirements under the Unfunded Mandates Reform Act of 1995 (UMRA); and (4) make the raising of points of order in the consideration of congressional legislation applicable to legislation that would increase the direct cost of private sector mandates beyond limits established by UMRA.</p> <p>Amends UMRA to: (1) transfer certain responsibilities under such Act from the Director of the Office of Management and Budget (OMB) to the Administrator of the Office of Information and Regulatory Affairs; (2) set forth detailed criteria to guide agencies in assessing the effects of federal regulatory actions on state, local, and tribal governments and the private sector; (3) revise requirements for agency statements accompanying significant regulatory actions to require an analysis of the annual effect of a proposed final rule on state, local, or tribal governments or the private sector and to require all statements and summaries under UMRA to be detailed; and (4) extend to the the private sector (including small business) the requirement for consultation with agencies in the development of regulatory proposals containing significant federal mandates and set forth detailed guidelines for such consultation.</p> <p>Revises UMRA reporting requirements to require: (1) the Administrator of the Office of Information and Regulatory Affairs to provide guidance and oversight so that agency regulations are consistent with the principles and policies of UMRA and do not conflict with the policies or actions of another agency; and (2) agencies to include in their annual compliance statements an appendix detailing consultation activities with state, local, and tribal governments and the private sector.</p> <p>Amends UMRA to require an agency, at the request of the chairman or ranking member of a standing or select House or Senate Committee, to conduct a retrospective analysis of an existing regulation promulgated by such agency and submit to the chairman of the relevant committee, Congress, and the Comptroller General (GAO) a report on such regulation. </p> <p>Expands judicial review under UMRA to include review of provisions of such Act relating to agency assessment of the effects of the regulatory process and agency selection of the least costly or least burdensome alternative to a regulatory mandate. Grants courts expanded powers to compel agencies to comply with UMRA reporting requirements.</p>]]></text>
+          <lastSummaryUpdateDate>2014-02-18T19:12:00Z</lastSummaryUpdateDate>
+          <updateDate>2014-02-14T12:23:46Z</updateDate>
+          <versionCode>28</versionCode>
+          <actionDate>2014-02-14</actionDate>
+          <actionDesc>Reported to House without amendment, Part I</actionDesc>
+        </item>
+        <item>
+          <name>Passed House without amendment</name>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here, with an updated short title.)</b></p> <p>Unfunded Mandates Information and Transparency Act of 2014 - States as the purposes of this Act to: (1) improve the quality of the deliberations of Congress with respect to proposed federal mandates by providing Congress and the public with more complete information about the effects of such mandates and by ensuring that Congress acts on such mandates only after focused deliberation on their effects; and (2) enhance the ability of Congress and the public to identify federal mandates that may impose undue harm on consumers, workers, employers, small businesses, and state, local, and tribal governments. </p> <p>Amends the Congressional Budget Act of 1974 to: (1) require the Congressional Budget Office (CBO), at the request of the chairman or ranking member of a congressional committee, to conduct an assessment comparing the authorized level of funding in legislation to the prospective costs of carrying out any changes to a condition of federal assistance being imposed on state, local, or tribal governments participating in the federal assistance program; (2) modify the definition of &quot;direct costs&quot; to require CBO to consider, in accounting for the costs of federal mandates, forgone business profits, costs passed onto consumers and other entities, and behavioral changes; (3) eliminate the exemption of independent regulatory agencies (except the Board of Governors of the Federal Reserve System or the Federal Open Market Committee) from reporting requirements under the Unfunded Mandates Reform Act of 1995 (UMRA); and (4) make the raising of points of order in the consideration of congressional legislation applicable to legislation that would increase the direct cost of private sector mandates beyond limits established by UMRA.</p> <p>Amends UMRA to: (1) transfer certain responsibilities under such Act from the Director of the Office of Management and Budget (OMB) to the Administrator of the Office of Information and Regulatory Affairs; (2) set forth detailed criteria to guide agencies in assessing the effects of federal regulatory actions on state, local, and tribal governments and the private sector; (3) revise requirements for agency statements accompanying significant regulatory actions to require an analysis of the annual effect of a proposed final rule on state, local, or tribal governments or the private sector and to require all statements and summaries under UMRA to be detailed; and (4) extend to the the private sector (including small business) the requirement for consultation with agencies in the development of regulatory proposals containing significant federal mandates and set forth detailed guidelines for such consultation.</p> <p>Revises UMRA reporting requirements to require: (1) the Administrator of the Office of Information and Regulatory Affairs to provide guidance and oversight so that agency regulations are consistent with the principles and policies of UMRA and do not conflict with the policies or actions of another agency; and (2) agencies to include in their annual compliance statements an appendix detailing consultation activities with state, local, and tribal governments and the private sector.</p> <p>Amends UMRA to require an agency, at the request of the chairman or ranking member of a standing or select House or Senate Committee, to conduct a retrospective analysis of an existing regulation promulgated by such agency and submit to the chairman of the relevant committee, Congress, and the Comptroller General (GAO) a report on such regulation. </p> <p>Expands judicial review under UMRA to include review of provisions of such Act relating to agency assessment of the effects of the regulatory process and agency selection of the least costly or least burdensome alternative to a regulatory mandate. Grants courts expanded powers to compel agencies to comply with UMRA reporting requirements.</p>]]></text>
+          <lastSummaryUpdateDate>2014-03-05T16:02:57Z</lastSummaryUpdateDate>
+          <updateDate>2014-02-28T19:15:23Z</updateDate>
+          <versionCode>81</versionCode>
+          <actionDate>2014-02-28</actionDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Office of Management and Budget (OMB)</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Unfunded Mandates Information and Transparency Act of 2014</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Foxx</lastName>
+        <bioguideId>F000450</bioguideId>
+        <middleName />
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <identifiers>
+          <lisID>1791</lisID>
+          <bioguideId>F000450</bioguideId>
+          <gpoId>8028</gpoId>
+        </identifiers>
+        <district>5</district>
+        <firstName>Virginia</firstName>
+        <party>R</party>
+        <state>NC</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-03-01T07:00:52Z</createDate>
+    <billNumber>899</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssga00</systemCode>
+          <activities>
+            <item>
+              <date>2014-03-04T21:01:54Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2014-02-14T19:27:26Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2013-02-28T14:06:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-04-08T20:42:35Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Regulatory Reform, Commercial And Antitrust Law Subcommittee</name>
+              <systemCode>hsju05</systemCode>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsru00</systemCode>
+          <activities>
+            <item>
+              <date>2014-02-14T19:27:21Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2013-02-28T14:06:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Rules Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsbu00</systemCode>
+          <activities>
+            <item>
+              <date>2014-02-14T19:27:16Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2013-02-28T14:06:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Budget Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <date>2014-02-14T19:26:37Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2013-07-24T21:32:51Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-02-28T14:06:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Oversight and Government Reform Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Ms. FOXX:H.R. 899.Congress has the power to enact this legislation pursuantto the following:The authority to enact this bill is derived from, but maynot be limited to, Article I, Section 8, Clause 3 of theUnited States Constitution, and Article I, Section 8, Clause18 of the United States Constitution.[Page H816]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates>
+      <item>
+        <url>http://www.cbo.gov/publication/44484</url>
+        <pubDate>2013-08-02T18:19:00Z</pubDate>
+        <title>H.R. 899, Unfunded Mandates Information and Transparency Act of 2013</title>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/44484</url>
+        <pubDate>2013-08-02T18:19:00Z</pubDate>
+        <title>H.R. 899, Unfunded Mandates Information and Transparency Act of 2013</title>
+      </item>
+    </cboCostEstimates>
+    <titles>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Unfunded Mandates Information and Transparency Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Reported to House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Unfunded Mandates Information and Transparency Act of 2013</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Unfunded Mandates Information and Transparency Act of 2013</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To provide for additional safeguards with respect to imposing Federal mandates, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Unfunded Mandates Information and Transparency Act of 2014</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

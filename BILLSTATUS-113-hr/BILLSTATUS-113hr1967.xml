@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-06-14</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-05-14</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-05-14</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-05-14</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <firstName>Robert</firstName>
+        <identifiers>
+          <gpoId>8194</gpoId>
+          <lisID>1037</lisID>
+          <bioguideId>S000185</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <bioguideId>S000185</bioguideId>
+        <lastName>Scott</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>C. "Bobby"</middleName>
+        <state>VA</state>
+        <sponsorshipDate>2013-05-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <bioguideId>C001068</bioguideId>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>TN</state>
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Matt</firstName>
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+          <gpoId />
+        </identifiers>
+        <district>17</district>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <bioguideId>C001090</bioguideId>
+        <lastName>Cartwright</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>PA</state>
+        <sponsorshipDate>2013-12-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-05-15T07:02:11Z</createDate>
+    <introducedDate>2013-05-14</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-06-14</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Right to Counsel and Taxpayer Protection Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Violent Crime Control and Law Enforcement Act of 1994 to expand the cause of action relating to the pattern or practice of conduct by a governmental authority that deprives a person of rights protected by the Constitution to such conduct relating to adults as well as juveniles.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Right to Counsel and Taxpayer Protection Act</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Due process and equal protection</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:21:56Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-21]</fullName>
+        <identifiers>
+          <lisID>1976</lisID>
+          <bioguideId>D000610</bioguideId>
+          <gpoId>7891</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Theodore</firstName>
+        <lastName>Deutch</lastName>
+        <bioguideId>D000610</bioguideId>
+        <state>FL</state>
+        <district>21</district>
+      </item>
+    </sponsors>
+    <title>Right to Counsel and Taxpayer Protection Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Right to Counsel and Taxpayer Protection Act - Amends the Violent Crime Control and Law Enforcement Act of 1994 to apply provisions that prohibit any governmental authority from engaging in a pattern or practice of conduct by law enforcement officers or by officials or employees of a governmental agency with responsibility for the administration of juvenile justice or the incarceration of juveniles that deprives persons of rights, privileges, or immunities secured or protected by the Constitution or laws of the United States to such conduct relating to adults as well as juveniles.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2013-05-14</actionDate>
+          <versionCode>00</versionCode>
+          <updateDate>2013-05-14T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-07-16T22:20:52Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1967</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-05-14T16:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <date>2013-06-14T17:16:28Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-05-30T21:40:22Z</pubDate>
+        <url>https://www.cbo.gov/publication/52778</url>
+        <title>H.R. 1967, Bureau of Reclamation Pumped Storage Hydropower Development Act</title>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 113 (Thursday, August 1, 2013)][Pages H5347-H5349]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. NEUGEBAUER:H.J. Res. 57.Congress has the power to enact this legislation pursuantto the following:Constitutional Amendments Article VThe Congress, whenever two thirds of both Houses shall deemit necessary, shall propose Amendments to this Constitution,or, on the Application of the Legislatures of two thirds ofthe several States, shall call a Convention for proposingAmendments, which in either Case, shall be valid to allIntents and Purposes, as Part of this Constitution, whenratified by the Legislatures of three fourths of the severalStates or by Conventions in three fourths thereof, as the oneor the other Mode of Ratification may be proposed by theCongress; Provided that no Amendment which may be made priorto the Year One thousand eight hundred and eight shall in anyManner affect the first and fourth Clauses in the NinthSection of the first Article; and that no State without itsConsent, shall be deprived of its equal Suffrage in theSenate.ADDITIONAL SPONSORSUnder clause 7 of rule XII, sponsors were added to public bills andresolutions as follows:[[Page H5348]]H.R. 60: Mr. Danny K. Davis of Illinois.H.R. 148: Mr. Enyart.H.R. 182: Mr. Sires.H.R. 183: Mr. Enyart.H.R. 262: Mr. Heck of Nevada and Mr. Schock.H.R. 279: Mr. Ruiz.H.R. 281: Ms. Kaptur.H.R. 292: Mr. George Miller of California.H.R. 301: Mr. Gardner and Mr. Wittman.H.R. 310: Mr. Kilmer.H.R. 362: Mr. George Miller of California.H.R. 363: Mr. George Miller of California.H.R. 366: Ms. Jenkins and Mr. Schneider.H.R. 419: Mr. Kelly of Pennsylvania.H.R. 460: Mr. Perlmutter.H.R. 474: Mr. Ellison.H.R. 485: Ms. Tsongas.H.R. 491: Mr. Sherman.H.R. 508: Mr. Quigley, Mr. Barber, and Mr. Gibson.H.R. 523: Mr. Smith of Missouri.H.R. 525: Mr. Ryan of Ohio.H.R. 533: Mr. Cartwright and Mr. DeFazio.H.R. 543: Mr. George Miller of California.H.R. 574: Mr. Clay.H.R. 578: Mr. Womack.H.R. 580: Mr. Cartwright.H.R. 620: Mr. Ellison.H.R. 621: Mr. Barletta.H.R. 647: Mr. Pascrell, Mrs. Miller of Michigan, Mr.Johnson of Georgia, Ms. Fudge, Mr. McDermott, and Mr. Neal.H.R. 679: Mr. Scott of Virginia.H.R. 685: Ms. Moore, Mr. Price of Georgia, Mr. Al Green ofTexas, Mr. Kilmer, Mr. Neal, Mrs. Lowey, and Mr. Womack.H.R. 690: Mr. Barletta and Mr. Walden.H.R. 702: Mr. Cohen and Mr. Langevin.H.R. 720: Mr. Cartwright.H.R. 724: Mr. Swalwell of California.H.R. 755: Ms. Esty.H.R. 792: Mr. Gowdy.H.R. 795: Mr. Stockman.H.R. 846: Mr. Nunnelee, Mr. Courtney, Mr. Cohen, Mr. Kline,Mr. Sam Johnson of Texas, Ms. Fudge, Mr. Stutzman, and Mr.Pocan.H.R. 920: Mr. Gallego.H.R. 938: Mr. Thornberry.H.R. 961: Mr. Bera of California.H.R. 975: Mr. Price of North Carolina.H.R. 1001: Mr. Bishop of New York and Mr. Cole.H.R. 1014: Mr. Rothfus.H.R. 1015: Mr. Huffman, Mr. Bachus, and Mr. Barletta.H.R. 1020: Mr. Danny K. Davis of Illinois, Mr. Renacci, andMr. Womack.H.R. 1024: Ms. Clarke, Mrs. Miller of Michigan, and Ms.Kuster.H.R. 1074: Ms. DeGette.H.R. 1091: Mr. Sam Johnson of Texas, Mr. Goodlatte, and Mr.Massie.H.R. 1094: Mr. Bera of California and Mr. Serrano.H.R. 1105: Mr. Matheson and Mr. Bachus.H.R. 1146: Mr. McHenry.H.R. 1175: Ms. Bass.H.R. 1176: Mr. Wittman.H.R. 1237: Mr. Stivers.H.R. 1249: Mr. Griffin of Arkansas.H.R. 1250: Mr. Courtney, Mrs. Miller of Michigan, and Ms.Esty.H.R. 1252: Mr. Cook, Mr. Runyan, and Mr. Pearce.H.R. 1276: Mrs. Miller of Michigan, Mr. Fortenberry, Ms.Duckworth, Mr. Farr, and Mrs. Capps.H.R. 1318: Ms. Sewell of Alabama, Mr. Neal, and Mr. Clay.H.R. 1327: Ms. McCollum.H.R. 1346: Mr. Lowenthal.H.R. 1354: Mr. Kilmer.H.R. 1389: Ms. Frankel of Florida and Ms. Esty.H.R. 1416: Mr. Israel and Mr. Wilson of South Carolina.H.R. 1428: Mr. Gerlach.H.R. 1476: Mr. Bentivolio.H.R. 1[...]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

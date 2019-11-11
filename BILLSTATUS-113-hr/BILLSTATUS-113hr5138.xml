@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-09-02</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-07-17T13:04:00Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Immigration and Border Security Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-09-02T14:30:49Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-07-18T04:57:55Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-09-02</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2014-07-17</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2014-07-17</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2014-07-17</actionDate>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-07-17</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. OLSON:H.R. 5138.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 4[Page H6399]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>5138</billNumber>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Our Communities, Our Choices Act of 2014 - Amends the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to require consultation with state and local elected officials and a public hearing before awarding grants or contracts to provide non-federal housing facilities for unaccompanied alien children.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2014-07-17</actionDate>
+          <updateDate>2014-07-17T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-07-23T14:09:12Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Homelessness and emergency shelter</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Public participation and lobbying</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Our Communities, Our Choices Act of 2014</title>
+    <updateDate>2016-10-25T16:15:13Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Our Communities, Our Choices Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to require consultation with State and local elected officials and a public hearing before awarding grants or contracts for housing facilities for unaccompanied alien children.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Our Communities, Our Choices Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>TX</state>
+        <firstName>Pete</firstName>
+        <byRequestType />
+        <bioguideId>O000168</bioguideId>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <lastName>Olson</lastName>
+        <party>R</party>
+        <middleName />
+        <district>22</district>
+        <identifiers>
+          <lisID>1955</lisID>
+          <gpoId>8178</gpoId>
+          <bioguideId>O000168</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <number>5253</number>
+        <latestAction>
+          <actionDate>2014-09-26</actionDate>
+          <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>UAC State Authority Act of 2014</latestTitle>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <bioguideId>J000174</bioguideId>
+        <district>3</district>
+        <middleName />
+        <firstName>SAM</firstName>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <state>TX</state>
+        <fullName>Rep. Johnson, Sam [R-TX-3]</fullName>
+        <lastName>JOHNSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>603</lisID>
+          <gpoId>8159</gpoId>
+          <bioguideId>J000174</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>P000592</bioguideId>
+        <district>2</district>
+        <middleName />
+        <firstName>Ted</firstName>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <state>TX</state>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <lastName>Poe</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+          <bioguideId>P000592</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>W000816</bioguideId>
+        <district>25</district>
+        <middleName />
+        <firstName>Roger</firstName>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <state>TX</state>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <lastName>Williams</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2165</lisID>
+          <gpoId />
+          <bioguideId>W000816</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>B001248</bioguideId>
+        <district>26</district>
+        <middleName>C.</middleName>
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <state>TX</state>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <lastName>Burgess</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001248</bioguideId>
+          <gpoId>8182</gpoId>
+          <lisID>1751</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>M001150</bioguideId>
+        <district>10</district>
+        <middleName>S.</middleName>
+        <firstName>Candice</firstName>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <state>MI</state>
+        <fullName>Rep. Miller, Candice S. [R-MI-10]</fullName>
+        <lastName>Miller</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8589</gpoId>
+          <lisID>1731</lisID>
+          <bioguideId>M001150</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>C001095</bioguideId>
+        <district>4</district>
+        <middleName />
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <state>AR</state>
+        <fullName>Rep. Cotton, Tom [R-AR-4]</fullName>
+        <lastName>Cotton</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>B001273</bioguideId>
+        <district>6</district>
+        <middleName />
+        <firstName>Diane</firstName>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <state>TN</state>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <lastName>Black</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001273</bioguideId>
+          <gpoId>8153</gpoId>
+          <lisID>2063</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>W000798</bioguideId>
+        <district>7</district>
+        <middleName />
+        <firstName>Tim</firstName>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <state>MI</state>
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <lastName>Walberg</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1855</lisID>
+          <bioguideId>W000798</bioguideId>
+          <gpoId>7992</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>M001158</bioguideId>
+        <district>24</district>
+        <middleName />
+        <firstName>Kenny</firstName>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <state>TX</state>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <lastName>Marchant</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001158</bioguideId>
+          <gpoId>8766</gpoId>
+          <lisID>1806</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>L000576</bioguideId>
+        <district>7</district>
+        <middleName />
+        <firstName>Billy</firstName>
+        <sponsorshipDate>2014-07-22</sponsorshipDate>
+        <state>MO</state>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <lastName>Long</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8015</gpoId>
+          <lisID>2033</lisID>
+          <bioguideId>L000576</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>M001190</bioguideId>
+        <district>2</district>
+        <middleName />
+        <firstName>Markwayne</firstName>
+        <sponsorshipDate>2014-07-22</sponsorshipDate>
+        <state>OK</state>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <lastName>Mullin</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2156</lisID>
+          <gpoId />
+          <bioguideId>M001190</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>W000796</bioguideId>
+        <district>3</district>
+        <middleName>A.</middleName>
+        <firstName>Lynn</firstName>
+        <sponsorshipDate>2014-07-22</sponsorshipDate>
+        <state>GA</state>
+        <fullName>Rep. Westmoreland, Lynn A. [R-GA-3]</fullName>
+        <lastName>Westmoreland</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000796</bioguideId>
+          <gpoId>7900</gpoId>
+          <lisID>1779</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>C001048</bioguideId>
+        <district>7</district>
+        <middleName>ABNEY</middleName>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2014-07-28</sponsorshipDate>
+        <state>TX</state>
+        <fullName>Rep. Culberson, John Abney [R-TX-7]</fullName>
+        <lastName>CULBERSON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8163</gpoId>
+          <lisID>1670</lisID>
+          <bioguideId>C001048</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>S000051</bioguideId>
+        <district>1</district>
+        <middleName />
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2014-08-01</sponsorshipDate>
+        <state>SC</state>
+        <fullName>Rep. Sanford, Mark [R-SC-1]</fullName>
+        <lastName>Sanford</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1012</lisID>
+          <gpoId />
+          <bioguideId>S000051</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

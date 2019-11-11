@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-03-05</actionDate>
+        <committee>
+          <systemCode>hssy16</systemCode>
+          <name>Space Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Space.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-10</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-10</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-10</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>9</district>
+        <fullName>Rep. Grayson, Alan [D-FL-9]</fullName>
+        <lastName>Grayson</lastName>
+        <middleName />
+        <state>FL</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000556</bioguideId>
+          <lisID>1914</lisID>
+          <gpoId>7302</gpoId>
+        </identifiers>
+        <firstName>Alan</firstName>
+        <bioguideId>G000556</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H162-H163]By Mr. GRAYSON:H.R. 3845.Congress has the power to enact this legislation pursuantto the following:[[Page H163]]Article I, Section 8 of the U.S. Constitution.</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3845</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:10:03Z</updateDate>
+    <laws />
+    <createDate>2014-01-11T07:02:03Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Science, Space, and Technology Committee</name>
+          <activities>
+            <item>
+              <date>2014-01-10T14:00:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Space Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2014-03-05T16:56:42Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hssy16</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hssy00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2014-01-10</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Assessing NASA Science Mission Extensions Act - Instructs the Administrator of the National Aeronautics and Space Administration (NASA), in conducting assessments of the costs and benefits of extending the date of the termination of data collection for those science missions that have exceeded their planned mission lifetime, to consider: (1) the potential continued benefit of instruments on such missions; and (2) the cost and schedule impacts, if any, of mission extension on other NASA activities and science missions. </p>]]></text>
+          <updateDate>2014-01-10T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-01-30T22:35:31Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <cosponsors />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Space flight and exploration</name>
+          </item>
+          <item>
+            <name>Spacecraft and satellites</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Assessing NASA Science Mission Extensions Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require the Administrator of NASA to assess the cost and schedule implications of extending science missions beyond planned mission lifetimes.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Assessing NASA Science Mission Extensions Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Assessing NASA Science Mission Extensions Act</title>
+    <billType>HR</billType>
+    <introducedDate>2014-01-10</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2014-03-05</actionDate>
+      <text>Referred to the Subcommittee on Space.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,3055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2013-09-23</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <links />
+    </latestAction>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 113-213</citation>
+      </committeeReport>
+    </committeeReports>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-09-23T19:01:57Z</date>
+            </item>
+          </activities>
+          <name>Energy and Natural Resources Committee</name>
+          <type>Standing</type>
+          <systemCode>sseg00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2013-09-17T20:57:38Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2013-07-31T15:37:49Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-12T14:03:20Z</date>
+            </item>
+            <item>
+              <name>Hearings by</name>
+              <date>2013-04-11T21:03:39Z</date>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Federal Lands Subcommittee</name>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2013-07-31T15:37:44Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-04-12T20:24:18Z</date>
+                </item>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2013-04-11T20:23:39Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-12T14:03:15Z</date>
+            </item>
+          </activities>
+          <name>Agriculture Committee</name>
+          <type>Standing</type>
+          <systemCode>hsag00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Conservation and Forestry Subcommittee</name>
+              <systemCode>hsag15</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-05-03T17:57:07Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2013-04-13T07:02:09Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2013-09-23</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:20:12</actionTime>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <actionDate>2013-09-20</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:20:02</actionTime>
+        <type>Floor</type>
+        <text>On passage Passed by recorded vote: 244 - 173 (Roll No. 483).</text>
+        <actionCode>H37100</actionCode>
+        <committee />
+        <actionDate>2013-09-20</actionDate>
+        <links>
+          <link>
+            <name>Roll No. 483</name>
+            <url>http://clerk.house.gov/evs/2013/roll483.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionTime>12:20:02</actionTime>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On passage Passed by recorded vote: 244 - 173 (Roll No. 483).</text>
+        <actionCode>8000</actionCode>
+        <committee />
+        <actionDate>2013-09-20</actionDate>
+        <links>
+          <link>
+            <name>Roll No. 483</name>
+            <url>http://clerk.house.gov/evs/2013/roll483.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:12:51</actionTime>
+        <type>Floor</type>
+        <text>On motion to recommit with instructions Failed by recorded vote: 190 - 228 (Roll no. 482). (consideration: CR H5791)</text>
+        <actionCode>H36110</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2013-09-20</actionDate>
+        <links>
+          <link>
+            <name>H5791</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5791</url>
+          </link>
+          <link>
+            <name>Roll no. 482</name>
+            <url>http://clerk.house.gov/evs/2013/roll482.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:03:27</actionTime>
+        <type>Floor</type>
+        <text>The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5791)</text>
+        <actionCode>H8A000</actionCode>
+        <committee />
+        <actionDate>2013-09-20</actionDate>
+        <links>
+          <link>
+            <name>H5791</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5791</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>11:57:19</actionTime>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with 10 minutes of debate on the Barber motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a section to the bill to provide funds to acquire the most advanced firefighting and safety equpment.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-09-20</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>11:57:06</actionTime>
+        <type>Floor</type>
+        <text>Mr. Barber moved to recommit with instructions to Natural Resources. (consideration: CR H5790-5792; text: CR H5790)</text>
+        <actionCode>H36100</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2013-09-20</actionDate>
+        <links>
+          <link>
+            <name>H5790</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5790</url>
+          </link>
+          <link>
+            <name>H5790-5792</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5790-5792</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>11:55:05</actionTime>
+        <type>Floor</type>
+        <text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text>
+        <actionCode>H34400</actionCode>
+        <committee />
+        <actionDate>2013-09-20</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>11:54:05</actionTime>
+        <type>Floor</type>
+        <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1526.</text>
+        <actionCode>H32600</actionCode>
+        <committee />
+        <actionDate>2013-09-20</actionDate>
+        <links>
+          <link>
+            <name>H.R. 1526</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/1526</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>11:22:03</actionTime>
+        <type>Floor</type>
+        <text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-09-20</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>11:21:57</actionTime>
+        <type>Floor</type>
+        <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+        <actionCode>H32050</actionCode>
+        <committee />
+        <actionDate>2013-09-20</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>11:21:46</actionTime>
+        <type>Floor</type>
+        <text>Considered as unfinished business. (consideration: CR H5788-5792)</text>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <actionDate>2013-09-20</actionDate>
+        <links>
+          <link>
+            <name>H5788-5792</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5788-5792</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>20:08:48</actionTime>
+        <type>Floor</type>
+        <text>Committee of the Whole House on the state of the Union rises leaving H.R. 1526 as unfinished business.</text>
+        <actionCode>H32700</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links>
+          <link>
+            <name>H.R. 1526</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/1526</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>20:08:39</actionTime>
+        <type>Floor</type>
+        <text>On motion that the Committee rise Agreed to by voice vote.</text>
+        <actionCode>H32341</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>20:08:26</actionTime>
+        <type>Floor</type>
+        <text>Mr. Hastings (WA) moved that the Committee rise.</text>
+        <actionCode>H32340</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>20:00:36</actionTime>
+        <type>Floor</type>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 351, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa part C amendment no. 7.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links>
+          <link>
+            <name>H.Res. 351</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/351</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>19:57:54</actionTime>
+        <type>Floor</type>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 351, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa part C amendment no. 6.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links>
+          <link>
+            <name>H.Res. 351</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/351</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>19:57:29</actionTime>
+        <type>Floor</type>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock part C amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Defazio demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>19:48:55</actionTime>
+        <type>Floor</type>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 351, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock part C amendment no. 5.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links>
+          <link>
+            <name>H.Res. 351</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/351</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>19:42:28</actionTime>
+        <type>Floor</type>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 351, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (MO) part C amendment no. 4.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links>
+          <link>
+            <name>H.Res. 351</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/351</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>19:41:59</actionTime>
+        <type>Floor</type>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock part C amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Defazio demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>19:30:01</actionTime>
+        <type>Floor</type>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 351, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock part C amendment no. 3.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links>
+          <link>
+            <name>H.Res. 351</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/351</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>19:21:37</actionTime>
+        <type>Floor</type>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 351, the Committee of the Whole proceeded with 10 minutes of debate on the Danes part C amendment no. 2.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links>
+          <link>
+            <name>H.Res. 351</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/351</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>19:21:01</actionTime>
+        <type>Floor</type>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Daines part C amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Defazio demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>19:11:34</actionTime>
+        <type>Floor</type>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 351, the Committee of the Whole proceeded with 10 minutes of debate on the Danes part C amendment no. 1.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links>
+          <link>
+            <name>H.Res. 351</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/351</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>18:14:02</actionTime>
+        <type>Floor</type>
+        <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1526.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links>
+          <link>
+            <name>H.R. 1526</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/1526</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>18:13:54</actionTime>
+        <type>Floor</type>
+        <text>The Speaker designated the Honorable Rob Woodall to act as Chairman of the Committee.</text>
+        <actionCode>H32400</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>18:13:53</actionTime>
+        <type>Floor</type>
+        <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 351 and Rule XVIII.</text>
+        <actionCode>H32020</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links>
+          <link>
+            <name>H. Res. 351</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/351</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>18:13:22</actionTime>
+        <type>Floor</type>
+        <text>Rule provides for consideration of H.R. 687, H.R. 1526 and H.R. 3102. Measures will be considered read.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links>
+          <link>
+            <name>H.R. 1526</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/1526</url>
+          </link>
+          <link>
+            <name>H.R. 3102</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/3102</url>
+          </link>
+          <link>
+            <name>H.R. 687</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/687</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>18:13:17</actionTime>
+        <type>Floor</type>
+        <text>Considered under the provisions of rule H. Res. 351. (consideration: CR H5721-5755; text of measure as reported in House: CR H5733-5747)</text>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <actionDate>2013-09-19</actionDate>
+        <links>
+          <link>
+            <name>H. Res. 351</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/351</url>
+          </link>
+          <link>
+            <name>H5721-5755</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5721-5755</url>
+          </link>
+          <link>
+            <name>H5733-5747</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5733-5747</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>21:32:26</actionTime>
+        <type>Floor</type>
+        <text>Rules Committee Resolution H. Res. 351 Reported to House. Rule provides for consideration of H.R. 687, H.R. 1526 and H.R. 3102. Measures will be considered read.</text>
+        <actionCode>H1L210</actionCode>
+        <committee />
+        <actionDate>2013-09-18</actionDate>
+        <links>
+          <link>
+            <name>H. Res. 351</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/351</url>
+          </link>
+          <link>
+            <name>H.R. 1526</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/1526</url>
+          </link>
+          <link>
+            <name>H.R. 3102</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/3102</url>
+          </link>
+          <link>
+            <name>H.R. 687</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/687</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-213, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2013-09-17</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 113-213</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/213</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-213, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2013-09-17</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 113-213</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/213</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2013-07-31</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-31</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-31</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-03</actionDate>
+        <committee>
+          <systemCode>hsag15</systemCode>
+          <name>Conservation and Forestry Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-04-12</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Natural Resources</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2013-04-12</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <actionDate>2013-04-12</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Agriculture</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <actionDate>2013-04-12</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2013-04-12</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2013-04-12</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-04-11</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Hearings Held Prior to Referral.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-04-11</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Hearings Held by the Subcommittee on Public Lands and Environmental Regulation Prior to Referral.</text>
+        <type>Committee</type>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <actionStageOverride>1</actionStageOverride>
+        <placeholderTextForHA>1</placeholderTextForHA>
+        <considerationByHouse>2</considerationByHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <designationOfChairmanCommitteeOfTheWhole>1</designationOfChairmanCommitteeOfTheWhole>
+        <introducedInHouse>1</introducedInHouse>
+        <motionToCommitRecommitWithInstructionsOffered>1</motionToCommitRecommitWithInstructionsOffered>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <committeeOfTheWholeRisesLeavingAsUnfinishedBusiness>1</committeeOfTheWholeRisesLeavingAsUnfinishedBusiness>
+        <unfinishedBusinessInCommitteeOfTheWhole>1</unfinishedBusinessInCommitteeOfTheWhole>
+        <motionToCommitRecommitWithInstructionsResults>1</motionToCommitRecommitWithInstructionsResults>
+        <reportedToHouse>1</reportedToHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>9</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <committeeOfTheWholeRisesToReportOnLegislation>1</committeeOfTheWholeRisesToReportOnLegislation>
+        <generalDebate>14</generalDebate>
+        <resolvingIntoCommitteeOfTheWholePursuantToRule>1</resolvingIntoCommitteeOfTheWholePursuantToRule>
+        <passageOfAMeasure>1</passageOfAMeasure>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>45</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes>
+      <recordedVote>
+        <congress>113</congress>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <date>2013-09-20T16:20:02Z</date>
+        <url>http://clerk.house.gov/evs/2013/roll483.xml</url>
+        <rollNumber>483</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+      </recordedVote>
+      <recordedVote>
+        <congress>113</congress>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <date>2013-09-20T16:12:51Z</date>
+        <url>http://clerk.house.gov/evs/2013/roll482.xml</url>
+        <rollNumber>482</rollNumber>
+        <fullActionName>Motion to Commit/Recommit With Instructions Results</fullActionName>
+      </recordedVote>
+    </recordedVotes>
+    <amendments>
+      <amendment>
+        <latestAction>
+          <actionDate>2013-09-19</actionDate>
+          <text>On agreeing to the LaMalfa amendment (A007) Agreed to by voice vote.</text>
+          <actionTime>20:08:10</actionTime>
+        </latestAction>
+        <number>474</number>
+        <congress>113</congress>
+        <createDate>2013-09-20T07:01:36Z</createDate>
+        <amendedBill>
+          <number>1526</number>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <title>Restoring Healthy Forests for Healthy Communities Act</title>
+          <congress>113</congress>
+        </amendedBill>
+        <type>HAMDT</type>
+        <proposedDate />
+        <submittedDate>2013-09-19T04:00:00Z</submittedDate>
+        <links />
+        <amendedAmendment />
+        <titles />
+        <updateDate>2016-10-25T12:38:24Z</updateDate>
+        <chamber>House of Representatives</chamber>
+        <purpose />
+        <notes />
+        <actions>
+          <count>7</count>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <text>On agreeing to the LaMalfa amendment (A007) Agreed to by voice vote.</text>
+              <committee />
+              <actionTime>20:08:10</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/474</url>
+                  <name>H.Amdt.474</name>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionDate>2013-09-19</actionDate>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <text>Amendment (A007) offered by Mr. LaMalfa. (consideration: CR H5754-5755; text: CR H5754)</text>
+              <committee />
+              <actionTime>20:00:34</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/474</url>
+                  <name>H.Amdt.474</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5754</url>
+                  <name>H5754</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5754-5755</url>
+                  <name>H5754-5755</name>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionDate>2013-09-19</actionDate>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2013-09-19</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <text>House amendment agreed to: On agreeing to the LaMalfa amendment (A007) Agreed to by voice vote.</text>
+              <committee />
+              <actionTime>20:08:10</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/474</url>
+                  <name>H.Amdt.474</name>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionDate>2013-09-19</actionDate>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <committee />
+              <actionTime>20:08:10</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/474</url>
+                  <name>H.Amdt.474</name>
+                </link>
+              </links>
+              <type>NotUsed</type>
+              <actionDate>2013-09-19</actionDate>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <text>House amendment offered/reported by : Amendment (A007) offered by Mr. LaMalfa.(consideration: CR H5754-5755; text: CR H5754)</text>
+              <committee />
+              <actionTime>20:00:34</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/474</url>
+                  <name>H.Amdt.474</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5754</url>
+                  <name>H5754</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5754-5755</url>
+                  <name>H5754-5755</name>
+                </link>
+              </links>
+              <type>NotUsed</type>
+              <actionDate>2013-09-19</actionDate>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <text>House amendment offered</text>
+              <committee />
+              <links />
+              <type>Floor</type>
+              <actionDate>2013-09-19</actionDate>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+          </actionTypeCounts>
+        </actions>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <description>At the end of the bill, add the following new section:    SEC. 508. DEFINITION OF FIRE SUPPRESSION TO INCLUDE CERTAIN RELATED ACTIVITIES.    For purposes of utilizing amounts made available to the Secretary of Agriculture or the Secretary of the Interior for fire suppression activities, including funds made available from the FLAME Fund, the term "fire suppression" includes reforestation, site rehabilitation, salvage operations, and replanting occurring following fire damage on lands under the jurisdiction of the Secretary concerned or following fire suppression efforts on such lands by the Secretary concerned.</description>
+        <sponsors>
+          <item>
+            <party>R</party>
+            <middleName />
+            <district>1</district>
+            <bioguideId>L000578</bioguideId>
+            <state>CA</state>
+            <firstName>Doug</firstName>
+            <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+            <lastName>LaMalfa</lastName>
+          </item>
+        </sponsors>
+        <description>At the end of the bill, add the following new section:    SEC. 508. DEFINITION OF FIRE SUPPRESSION TO INCLUDE CERTAIN RELATED ACTIVITIES.    For purposes of utilizing amounts made available to the Secretary of Agriculture or the Secretary of the Interior for fire suppression activities, including funds made available from the FLAME Fund, the term "fire suppression" includes reforestation, site rehabilitation, salvage operations, and replanting occurring following fire damage on lands under the jurisdiction of the Secretary concerned or following fire suppression efforts on such lands by the Secretary concerned.</description>
+        <type>HAMDT</type>
+        <congress>113</congress>
+        <purpose />
+        <number>474</number>
+      </amendment>
+      <amendment>
+        <latestAction>
+          <actionDate>2013-09-19</actionDate>
+          <text>By unanimous consent, the LaMalfa amendment was withdrawn. (consideration: CR H5754)</text>
+          <actionTime>20:00:28</actionTime>
+        </latestAction>
+        <number>473</number>
+        <congress>113</congress>
+        <createDate>2013-09-20T07:01:36Z</createDate>
+        <amendedBill>
+          <number>1526</number>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <title>Restoring Healthy Forests for Healthy Communities Act</title>
+          <congress>113</congress>
+        </amendedBill>
+        <type>HAMDT</type>
+        <proposedDate />
+        <submittedDate>2013-09-19T04:00:00Z</submittedDate>
+        <links />
+        <amendedAmendment />
+        <titles />
+        <updateDate>2016-10-25T12:38:24Z</updateDate>
+        <chamber>House of Representatives</chamber>
+        <purpose />
+        <notes />
+        <actions>
+          <count>5</count>
+          <actionTypeCounts>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentOffered>1</amendmentOffered>
+            <withdrawalOfAnAmendmentCommitteeOfTheWhole>1</withdrawalOfAnAmendmentCommitteeOfTheWhole>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionTime>20:00:28</actionTime>
+              <actionCode>H32140</actionCode>
+              <actionDate>2013-09-19</actionDate>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <name>H.Amdt.473</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/473</url>
+                </link>
+                <link>
+                  <name>H5754</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5754</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <text>By unanimous consent, the LaMalfa amendment was withdrawn. (consideration: CR H5754)</text>
+              <committee />
+            </item>
+            <item>
+              <actionTime>19:57:51</actionTime>
+              <actionCode>H3A100</actionCode>
+              <actionDate>2013-09-19</actionDate>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <name>H.Amdt.473</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/473</url>
+                </link>
+                <link>
+                  <name>H5754</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5754</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <text>Amendment (A006) offered by Mr. LaMalfa. (consideration: CR H5754; text: CR H5754)</text>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2013-09-19</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionTime>19:57:51</actionTime>
+              <actionCode>71500</actionCode>
+              <actionDate>2013-09-19</actionDate>
+              <type>NotUsed</type>
+              <links>
+                <link>
+                  <name>H.Amdt.473</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/473</url>
+                </link>
+                <link>
+                  <name>H5754</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5754</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>House amendment offered/reported by : Amendment (A006) offered by Mr. LaMalfa.(consideration: CR H5754; text: CR H5754)</text>
+              <committee />
+            </item>
+            <item>
+              <actionCode>71000</actionCode>
+              <actionDate>2013-09-19</actionDate>
+              <type>Floor</type>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <links />
+              <text>House amendment offered</text>
+              <committee />
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>4</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <description>At the end of the bill, add the following new section:    SEC. 508. LIMITATIONS ON TYPES OF DAMAGES THE FEDERAL GOVERNMENT MAY SEEK ARISING FROM WILDFIRES. ***.</description>
+        <sponsors>
+          <item>
+            <party>R</party>
+            <middleName />
+            <district>1</district>
+            <bioguideId>L000578</bioguideId>
+            <state>CA</state>
+            <firstName>Doug</firstName>
+            <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+            <lastName>LaMalfa</lastName>
+          </item>
+        </sponsors>
+        <description>At the end of the bill, add the following new section:    SEC. 508. LIMITATIONS ON TYPES OF DAMAGES THE FEDERAL GOVERNMENT MAY SEEK ARISING FROM WILDFIRES. ***.</description>
+        <type>HAMDT</type>
+        <congress>113</congress>
+        <purpose />
+        <number>473</number>
+      </amendment>
+      <amendment>
+        <latestAction>
+          <actionDate>2013-09-20</actionDate>
+          <text>On agreeing to the McClintock amendment (A005) Agreed to by recorded vote: 249 - 166 (Roll no. 481). (consideration: CR H5789-5790)</text>
+          <actionTime>11:53:53</actionTime>
+        </latestAction>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <submittedDate>2013-09-19T04:00:00Z</submittedDate>
+        <type>HAMDT</type>
+        <purpose />
+        <titles />
+        <updateDate>2016-10-25T12:38:24Z</updateDate>
+        <description>At the end of the bill, add the following new section:    SEC. 508. PROHIBITION ON CERTAIN ACTIONS REGARDING FOREST SERVICE ROADS AND TRAILS.    The Forest Service shall not remove or otherwise eliminate or obliterate any legally created road or trail unless there has been a specific decision, which included adequate and appropriate public involvement, to decommission the specific road or trail in question. The fact that any road or trail is not a Forest System road or trail, or does not appear on a Motor Vehicle Use Map, shall not constitute a decision.</description>
+        <createDate>2013-09-20T07:01:36Z</createDate>
+        <links />
+        <amendedBill>
+          <title>Restoring Healthy Forests for Healthy Communities Act</title>
+          <number>1526</number>
+          <originChamber>House</originChamber>
+          <congress>113</congress>
+          <type>HR</type>
+          <originChamberCode>H</originChamberCode>
+        </amendedBill>
+        <number>472</number>
+        <actions>
+          <actions>
+            <item>
+              <links>
+                <link>
+                  <name>H.Amdt.472</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/472</url>
+                </link>
+                <link>
+                  <name>H5789-5790</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5789-5790</url>
+                </link>
+                <link>
+                  <name>Roll no. 481</name>
+                  <url>http://clerk.house.gov/evs/2013/roll481.xml</url>
+                </link>
+              </links>
+              <actionTime>11:53:53</actionTime>
+              <actionDate>2013-09-20</actionDate>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <text>On agreeing to the McClintock amendment (A005) Agreed to by recorded vote: 249 - 166 (Roll no. 481). (consideration: CR H5789-5790)</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <committee />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <name>H.Amdt.472</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/472</url>
+                </link>
+                <link>
+                  <name>H5752</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5752</url>
+                </link>
+                <link>
+                  <name>H5752-5754</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5752-5754</url>
+                </link>
+              </links>
+              <actionTime>19:48:53</actionTime>
+              <actionDate>2013-09-19</actionDate>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <text>Amendment (A005) offered by Mr. McClintock. (consideration: CR H5752-5754; text: CR H5752)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2013-09-19</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <name>H.Amdt.472</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/472</url>
+                </link>
+                <link>
+                  <name>H5789-5790</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5789-5790</url>
+                </link>
+                <link>
+                  <name>Roll no. 481</name>
+                  <url>http://clerk.house.gov/evs/2013/roll481.xml</url>
+                </link>
+              </links>
+              <actionTime>11:53:53</actionTime>
+              <actionDate>2013-09-20</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>House amendment agreed to: On agreeing to the McClintock amendment (A005) Agreed to by recorded vote: 249 - 166 (Roll no. 481).(consideration: CR H5789-5790)</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <committee />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <name>H.Amdt.472</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/472</url>
+                </link>
+                <link>
+                  <name>H5789-5790</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5789-5790</url>
+                </link>
+                <link>
+                  <name>Roll no. 481</name>
+                  <url>http://clerk.house.gov/evs/2013/roll481.xml</url>
+                </link>
+              </links>
+              <actionTime>11:53:53</actionTime>
+              <actionDate>2013-09-20</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>Roll call votes on amendments in House</text>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <committee />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <name>H.Amdt.472</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/472</url>
+                </link>
+                <link>
+                  <name>H5789-5790</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5789-5790</url>
+                </link>
+                <link>
+                  <name>Roll no. 481</name>
+                  <url>http://clerk.house.gov/evs/2013/roll481.xml</url>
+                </link>
+              </links>
+              <actionTime>11:53:53</actionTime>
+              <actionDate>2013-09-20</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <committee />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <name>H.Amdt.472</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/472</url>
+                </link>
+                <link>
+                  <name>H5752</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5752</url>
+                </link>
+                <link>
+                  <name>H5752-5754</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5752-5754</url>
+                </link>
+              </links>
+              <actionTime>19:48:53</actionTime>
+              <actionDate>2013-09-19</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>House amendment offered/reported by : Amendment (A005) offered by Mr. McClintock.(consideration: CR H5752-5754; text: CR H5752)</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <committee />
+            </item>
+            <item>
+              <links />
+              <actionDate>2013-09-19</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <amendmentOffered>1</amendmentOffered>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+          <count>8</count>
+        </actions>
+        <proposedDate />
+        <chamber>House of Representatives</chamber>
+        <notes />
+        <sponsors>
+          <item>
+            <state>CA</state>
+            <bioguideId>M001177</bioguideId>
+            <party>R</party>
+            <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+            <firstName>Tom</firstName>
+            <lastName>McClintock</lastName>
+            <middleName />
+            <district>4</district>
+          </item>
+        </sponsors>
+        <amendedAmendment />
+        <congress>113</congress>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <description>At the end of the bill, add the following new section:    SEC. 508. PROHIBITION ON CERTAIN ACTIONS REGARDING FOREST SERVICE ROADS AND TRAILS.    The Forest Service shall not remove or otherwise eliminate or obliterate any legally created road or trail unless there has been a specific decision, which included adequate and appropriate public involvement, to decommission the specific road or trail in question. The fact that any road or trail is not a Forest System road or trail, or does not appear on a Motor Vehicle Use Map, shall not constitute a decision.</description>
+        <type>HAMDT</type>
+        <congress>113</congress>
+        <purpose />
+        <number>472</number>
+      </amendment>
+      <amendment>
+        <latestAction>
+          <actionDate>2013-09-19</actionDate>
+          <text>On agreeing to the Smith (MO) amendment (A004) Agreed to by voice vote.</text>
+          <actionTime>19:48:36</actionTime>
+        </latestAction>
+        <purpose />
+        <type>HAMDT</type>
+        <links />
+        <chamber>House of Representatives</chamber>
+        <notes />
+        <sponsors>
+          <item>
+            <lastName>Smith</lastName>
+            <bioguideId>S001195</bioguideId>
+            <middleName />
+            <fullName>Rep. Smith, Jason T. [R-MO-8]</fullName>
+            <district>8</district>
+            <firstName>Jason</firstName>
+            <party>R</party>
+            <state>MO</state>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <createDate>2013-09-20T07:01:36Z</createDate>
+        <number>471</number>
+        <updateDate>2016-10-25T12:38:24Z</updateDate>
+        <congress>113</congress>
+        <actions>
+          <actions>
+            <item>
+              <committee />
+              <type>Floor</type>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>On agreeing to the Smith (MO) amendment (A004) Agreed to by voice vote.</text>
+              <actionTime>19:48:36</actionTime>
+              <actionCode>H32111</actionCode>
+              <links>
+                <link>
+                  <name>H.Amdt.471</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/471</url>
+                </link>
+              </links>
+              <actionDate>2013-09-19</actionDate>
+            </item>
+            <item>
+              <committee />
+              <type>Floor</type>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <text>Amendment (A004) offered by Mr. Smith (MO). (consideration: CR H5751-5752; text: CR H5751-5752)</text>
+              <actionTime>19:42:26</actionTime>
+              <actionCode>H3A100</actionCode>
+              <links>
+                <link>
+                  <name>H.Amdt.471</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/471</url>
+                </link>
+                <link>
+                  <name>H5751-5752</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5751-5752</url>
+                </link>
+              </links>
+              <actionDate>2013-09-19</actionDate>
+            </item>
+            <item>
+              <actionDate>2013-09-19</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <committee />
+              <type>NotUsed</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <actionTime>19:48:36</actionTime>
+              <actionCode>76000</actionCode>
+              <links>
+                <link>
+                  <name>H.Amdt.471</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/471</url>
+                </link>
+              </links>
+              <actionDate>2013-09-19</actionDate>
+            </item>
+            <item>
+              <committee />
+              <type>NotUsed</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment offered/reported by : Amendment (A004) offered by Mr. Smith (MO).(consideration: CR H5751-5752; text: CR H5751-5752)</text>
+              <actionTime>19:42:26</actionTime>
+              <actionCode>71500</actionCode>
+              <links>
+                <link>
+                  <name>H.Amdt.471</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/471</url>
+                </link>
+                <link>
+                  <name>H5751-5752</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5751-5752</url>
+                </link>
+              </links>
+              <actionDate>2013-09-19</actionDate>
+            </item>
+            <item>
+              <committee />
+              <type>Floor</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>House amendment agreed to: On agreeing to the Smith (MO) amendment (A004) Agreed to by voice vote.</text>
+              <actionTime>19:48:36</actionTime>
+              <actionCode>72000</actionCode>
+              <links>
+                <link>
+                  <name>H.Amdt.471</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/471</url>
+                </link>
+              </links>
+              <actionDate>2013-09-19</actionDate>
+            </item>
+            <item>
+              <committee />
+              <type>Floor</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionCode>71000</actionCode>
+              <text>House amendment offered</text>
+              <links />
+              <actionDate>2013-09-19</actionDate>
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+          <actionTypeCounts>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+          </actionTypeCounts>
+          <count>7</count>
+        </actions>
+        <description>Amendment puts a moratorium on the use of prescribed fires in the Mark Twain National Forest until the Secretary of Agriculture submits a report to Congress on the economic impacts of such fires. Amendment also does not prohibit the use of prescribed fire as part of wildfire suppression activities.</description>
+        <proposedDate />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <amendedBill>
+          <type>HR</type>
+          <title>Restoring Healthy Forests for Healthy Communities Act</title>
+          <originChamber>House</originChamber>
+          <congress>113</congress>
+          <originChamberCode>H</originChamberCode>
+          <number>1526</number>
+        </amendedBill>
+        <submittedDate>2013-09-19T04:00:00Z</submittedDate>
+        <titles />
+        <amendedAmendment />
+        <description>Amendment puts a moratorium on the use of prescribed fires in the Mark Twain National Forest until the Secretary of Agriculture submits a report to Congress on the economic impacts of such fires. Amendment also does not prohibit the use of prescribed fire as part of wildfire suppression activities.</description>
+        <type>HAMDT</type>
+        <congress>113</congress>
+        <purpose />
+        <number>471</number>
+      </amendment>
+      <amendment>
+        <latestAction>
+          <actionDate>2013-09-20</actionDate>
+          <text>On agreeing to the McClintock amendment (A003) Agreed to by recorded vote: 243 - 172 (Roll no. 480). (consideration: CR H5788-5789)</text>
+          <actionTime>11:49:21</actionTime>
+        </latestAction>
+        <sponsors>
+          <item>
+            <district>4</district>
+            <lastName>McClintock</lastName>
+            <firstName>Tom</firstName>
+            <bioguideId>M001177</bioguideId>
+            <middleName />
+            <state>CA</state>
+            <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+            <party>R</party>
+          </item>
+        </sponsors>
+        <type>HAMDT</type>
+        <amendedBill>
+          <congress>113</congress>
+          <originChamberCode>H</originChamberCode>
+          <number>1526</number>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <title>Restoring Healthy Forests for Healthy Communities Act</title>
+        </amendedBill>
+        <proposedDate />
+        <titles />
+        <amendedAmendment />
+        <purpose />
+        <description>Amendment waives judicial review on any timber salvage project resulting from a wildfire occurring in 2013.</description>
+        <congress>113</congress>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <number>470</number>
+        <updateDate>2016-10-25T16:38:25Z</updateDate>
+        <chamber>House of Representatives</chamber>
+        <submittedDate>2013-09-19T04:00:00Z</submittedDate>
+        <actions>
+          <count>8</count>
+          <actions>
+            <item>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <actionTime>11:49:21</actionTime>
+              <type>Floor</type>
+              <text>On agreeing to the McClintock amendment (A003) Agreed to by recorded vote: 243 - 172 (Roll no. 480). (consideration: CR H5788-5789)</text>
+              <actionCode>H32111</actionCode>
+              <committee />
+              <actionDate>2013-09-20</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.470</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/470</url>
+                </link>
+                <link>
+                  <name>H5788-5789</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5788-5789</url>
+                </link>
+                <link>
+                  <name>Roll no. 480</name>
+                  <url>http://clerk.house.gov/evs/2013/roll480.xml</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <actionTime>19:29:59</actionTime>
+              <type>Floor</type>
+              <text>Amendment (A003) offered by Mr. McClintock. (consideration: CR H5750-5751; text: CR H5750)</text>
+              <actionCode>H3A100</actionCode>
+              <committee />
+              <actionDate>2013-09-19</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.470</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/470</url>
+                </link>
+                <link>
+                  <name>H5750</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5750</url>
+                </link>
+                <link>
+                  <name>H5750-5751</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5750-5751</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionDate>2013-09-19</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionTime>11:49:21</actionTime>
+              <type>NotUsed</type>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <actionCode>76000</actionCode>
+              <committee />
+              <actionDate>2013-09-20</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.470</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/470</url>
+                </link>
+                <link>
+                  <name>H5788-5789</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5788-5789</url>
+                </link>
+                <link>
+                  <name>Roll no. 480</name>
+                  <url>http://clerk.house.gov/evs/2013/roll480.xml</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionTime>11:49:21</actionTime>
+              <type>Floor</type>
+              <text>Roll call votes on amendments in House</text>
+              <actionCode>75000</actionCode>
+              <committee />
+              <actionDate>2013-09-20</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.470</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/470</url>
+                </link>
+                <link>
+                  <name>H5788-5789</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5788-5789</url>
+                </link>
+                <link>
+                  <name>Roll no. 480</name>
+                  <url>http://clerk.house.gov/evs/2013/roll480.xml</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionTime>11:49:21</actionTime>
+              <type>Floor</type>
+              <text>House amendment agreed to: On agreeing to the McClintock amendment (A003) Agreed to by recorded vote: 243 - 172 (Roll no. 480).(consideration: CR H5788-5789)</text>
+              <actionCode>72000</actionCode>
+              <committee />
+              <actionDate>2013-09-20</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.470</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/470</url>
+                </link>
+                <link>
+                  <name>H5788-5789</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5788-5789</url>
+                </link>
+                <link>
+                  <name>Roll no. 480</name>
+                  <url>http://clerk.house.gov/evs/2013/roll480.xml</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionTime>19:29:59</actionTime>
+              <type>NotUsed</type>
+              <text>House amendment offered/reported by : Amendment (A003) offered by Mr. McClintock.(consideration: CR H5750-5751; text: CR H5750)</text>
+              <actionCode>71500</actionCode>
+              <committee />
+              <actionDate>2013-09-19</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.470</name>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/470</url>
+                </link>
+                <link>
+                  <name>H5750</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5750</url>
+                </link>
+                <link>
+                  <name>H5750-5751</name>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5750-5751</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <committee />
+              <actionDate>2013-09-19</actionDate>
+              <links />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <createDate>2013-09-20T07:01:36Z</createDate>
+        <notes />
+        <links />
+        <description>Amendment waives judicial review on any timber salvage project resulting from a wildfire occurring in 2013.</description>
+        <type>HAMDT</type>
+        <congress>113</congress>
+        <purpose />
+        <number>470</number>
+      </amendment>
+      <amendment>
+        <latestAction>
+          <actionDate>2013-09-19</actionDate>
+          <text>On agreeing to the Daines amendment (A002) Agreed to by voice vote.</text>
+          <actionTime>19:29:36</actionTime>
+        </latestAction>
+        <createDate>2013-09-20T07:01:36Z</createDate>
+        <updateDate>2016-10-25T16:38:25Z</updateDate>
+        <congress>113</congress>
+        <actions>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <text>On agreeing to the Daines amendment (A002) Agreed to by voice vote.</text>
+              <committee />
+              <actionTime>19:29:36</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/469</url>
+                  <name>H.Amdt.469</name>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionDate>2013-09-19</actionDate>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <text>Amendment (A002) offered by Mr. Daines. (consideration: CR H5749-5750; text: CR H5749)</text>
+              <committee />
+              <actionTime>19:21:35</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/469</url>
+                  <name>H.Amdt.469</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5749</url>
+                  <name>H5749</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5749-5750</url>
+                  <name>H5749-5750</name>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionDate>2013-09-19</actionDate>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2013-09-19</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <committee />
+              <actionTime>19:29:36</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/469</url>
+                  <name>H.Amdt.469</name>
+                </link>
+              </links>
+              <type>NotUsed</type>
+              <actionDate>2013-09-19</actionDate>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <text>House amendment agreed to: On agreeing to the Daines amendment (A002) Agreed to by voice vote.</text>
+              <committee />
+              <actionTime>19:29:36</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/469</url>
+                  <name>H.Amdt.469</name>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionDate>2013-09-19</actionDate>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <text>House amendment offered/reported by : Amendment (A002) offered by Mr. Daines.(consideration: CR H5749-5750; text: CR H5749)</text>
+              <committee />
+              <actionTime>19:21:35</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/469</url>
+                  <name>H.Amdt.469</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5749</url>
+                  <name>H5749</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5749-5750</url>
+                  <name>H5749-5750</name>
+                </link>
+              </links>
+              <type>NotUsed</type>
+              <actionDate>2013-09-19</actionDate>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <text>House amendment offered</text>
+              <committee />
+              <links />
+              <type>Floor</type>
+              <actionDate>2013-09-19</actionDate>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+          </actionTypeCounts>
+          <count>7</count>
+        </actions>
+        <amendedAmendment />
+        <proposedDate />
+        <chamber>House of Representatives</chamber>
+        <number>469</number>
+        <amendedBill>
+          <congress>113</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <title>Restoring Healthy Forests for Healthy Communities Act</title>
+          <originChamberCode>H</originChamberCode>
+          <number>1526</number>
+        </amendedBill>
+        <sponsors>
+          <item>
+            <middleName />
+            <firstName>Steve</firstName>
+            <district>0</district>
+            <lastName>Daines</lastName>
+            <fullName>Rep. Daines, Steve [R-MT-At Large]</fullName>
+            <party>R</party>
+            <bioguideId>D000618</bioguideId>
+            <state>MT</state>
+          </item>
+        </sponsors>
+        <titles />
+        <description>Amendment requires the Secretary of Agriculture to submit to Congress a one-page annual report containing the volume of board feet actually harvested, the average cost of preparation of timber sales, the revenues generated from such sales, and the amount of receipts distributed to each beneficiary county. Amendment also requires that the Forest Service place the contents of the report on its website.</description>
+        <type>HAMDT</type>
+        <links />
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <notes />
+        <purpose />
+        <submittedDate>2013-09-19T04:00:00Z</submittedDate>
+        <description>Amendment requires the Secretary of Agriculture to submit to Congress a one-page annual report containing the volume of board feet actually harvested, the average cost of preparation of timber sales, the revenues generated from such sales, and the amount of receipts distributed to each beneficiary county. Amendment also requires that the Forest Service place the contents of the report on its website.</description>
+        <type>HAMDT</type>
+        <congress>113</congress>
+        <purpose />
+        <number>469</number>
+      </amendment>
+      <amendment>
+        <latestAction>
+          <actionDate>2013-09-20</actionDate>
+          <text>On agreeing to the Daines amendment (A001) Agreed to by recorded vote: 219 - 196 (Roll no. 479). (consideration: CR H5788)</text>
+          <actionTime>11:44:58</actionTime>
+        </latestAction>
+        <links />
+        <chamber>House of Representatives</chamber>
+        <type>HAMDT</type>
+        <amendedBill>
+          <originChamber>House</originChamber>
+          <congress>113</congress>
+          <number>1526</number>
+          <title>Restoring Healthy Forests for Healthy Communities Act</title>
+          <type>HR</type>
+          <originChamberCode>H</originChamberCode>
+        </amendedBill>
+        <description>Amendment protects forest preserve projects from delay by precluding Court-issued injunctions based on alleged violations of procedural requirements in selecting, planning, or analyzing the project.</description>
+        <updateDate>2016-10-25T16:38:25Z</updateDate>
+        <createDate>2013-09-20T07:01:36Z</createDate>
+        <proposedDate />
+        <notes />
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <submittedDate>2013-09-19T04:00:00Z</submittedDate>
+        <purpose />
+        <congress>113</congress>
+        <number>468</number>
+        <actions>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/468</url>
+                  <name>H.Amdt.468</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5788</url>
+                  <name>H5788</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2013/roll479.xml</url>
+                  <name>Roll no. 479</name>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <text>On agreeing to the Daines amendment (A001) Agreed to by recorded vote: 219 - 196 (Roll no. 479). (consideration: CR H5788)</text>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <committee />
+              <actionTime>11:44:58</actionTime>
+              <actionDate>2013-09-20</actionDate>
+            </item>
+            <item>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/468</url>
+                  <name>H.Amdt.468</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5747-5749</url>
+                  <name>H5747-5749</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5748</url>
+                  <name>H5748</name>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <text>Amendment (A001) offered by Mr. Daines. (consideration: CR H5747-5749; text: CR H5748)</text>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <committee />
+              <actionTime>19:11:32</actionTime>
+              <actionDate>2013-09-19</actionDate>
+            </item>
+            <item>
+              <actionDate>2013-09-19</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/468</url>
+                  <name>H.Amdt.468</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5788</url>
+                  <name>H5788</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2013/roll479.xml</url>
+                  <name>Roll no. 479</name>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <text>Roll call votes on amendments in House</text>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <committee />
+              <actionTime>11:44:58</actionTime>
+              <actionDate>2013-09-20</actionDate>
+            </item>
+            <item>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/468</url>
+                  <name>H.Amdt.468</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5788</url>
+                  <name>H5788</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2013/roll479.xml</url>
+                  <name>Roll no. 479</name>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <text>House amendment agreed to: On agreeing to the Daines amendment (A001) Agreed to by recorded vote: 219 - 196 (Roll no. 479).(consideration: CR H5788)</text>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <committee />
+              <actionTime>11:44:58</actionTime>
+              <actionDate>2013-09-20</actionDate>
+            </item>
+            <item>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/468</url>
+                  <name>H.Amdt.468</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5788</url>
+                  <name>H5788</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2013/roll479.xml</url>
+                  <name>Roll no. 479</name>
+                </link>
+              </links>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <committee />
+              <actionTime>11:44:58</actionTime>
+              <actionDate>2013-09-20</actionDate>
+            </item>
+            <item>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/113th-congress/house-amendment/468</url>
+                  <name>H.Amdt.468</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5747-5749</url>
+                  <name>H5747-5749</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H5748</url>
+                  <name>H5748</name>
+                </link>
+              </links>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <text>House amendment offered/reported by : Amendment (A001) offered by Mr. Daines.(consideration: CR H5747-5749; text: CR H5748)</text>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <committee />
+              <actionTime>19:11:32</actionTime>
+              <actionDate>2013-09-19</actionDate>
+            </item>
+            <item>
+              <links />
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <text>House amendment offered</text>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <committee />
+              <actionDate>2013-09-19</actionDate>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <amendmentOffered>1</amendmentOffered>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+          </actionTypeCounts>
+          <count>8</count>
+        </actions>
+        <sponsors>
+          <item>
+            <district>0</district>
+            <firstName>Steve</firstName>
+            <party>R</party>
+            <bioguideId>D000618</bioguideId>
+            <lastName>Daines</lastName>
+            <fullName>Rep. Daines, Steve [R-MT-At Large]</fullName>
+            <state>MT</state>
+            <middleName />
+          </item>
+        </sponsors>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <titles />
+        <description>Amendment protects forest preserve projects from delay by precluding Court-issued injunctions based on alleged violations of procedural requirements in selecting, planning, or analyzing the project.</description>
+        <type>HAMDT</type>
+        <congress>113</congress>
+        <purpose />
+        <number>468</number>
+      </amendment>
+    </amendments>
+    <introducedDate>2013-04-12</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. HASTINGS of Washington:H.R. 1526.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, Clause 2The Congress shall have Power to dispose of and make allneedful Rules and Regulations respecting the Territory orother Property belonging to the United States; and nothing inthis Constitution shall be so construed as to Prejudice anyClaims of the United States, or of any particular State.[Page H1992]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1526</billNumber>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 1526, Restoring Healthy Forests for Healthy Communities Act</title>
+        <pubDate>2013-09-17T18:08:36Z</pubDate>
+        <url>http://www.cbo.gov/publication/44586</url>
+      </item>
+      <item>
+        <title>H.R. 1526, Restoring Healthy Forests for Healthy Communities Act</title>
+        <pubDate>2013-09-17T18:08:36Z</pubDate>
+        <url>https://www.cbo.gov/publication/44586</url>
+      </item>
+      <item>
+        <title>H.R. 1526, Restoring Healthy Forests for Healthy Communities Act</title>
+        <pubDate>2013-09-18T21:27:00Z</pubDate>
+        <url>http://www.cbo.gov/publication/44594</url>
+      </item>
+      <item>
+        <title>H.R. 1526, Restoring Healthy Forests for Healthy Communities Act</title>
+        <pubDate>2013-09-18T21:27:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/44594</url>
+      </item>
+    </cboCostEstimates>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Restoring Healthy Forests for Healthy Communities Act - Directs the Secretary of Agriculture (USDA) to establish at least one Forest Reserve Revenue Area within each unit of the National Forest System designated for sustainable forest management for the production of national forest materials (the sale of trees, portions of trees, or forest products from System lands) and forest reserve revenues (to be derived from the sale of such materials in such an Area). </p> <p>States that the purpose of an Area is to provide a dependable source of 25% payments and economic activity for each beneficiary county containing System land that was eligible to receive payments through its state under the Secure Rural Schools and Community Self-Determination Act of 2000. </p> <p>Instructs the Secretary to: (1) manage Areas in the manner necessary to achieve their annual volume requirement, and (2) conduct covered forest reserve projects within those Areas in accordance with this Act. Defines &quot;annual volume requirement&quot; and &quot;covered forest reserve project.&quot; </p> <p>Requires a covered project to be implemented consistent with the land and resource management plan for the System unit in which the project will be carried out. </p> <p>Requires forest reserve revenues to be used to make: (1) deposits into the Knutson-Vandenburg Fund and the salvage sale fund in contributions equal to the monies collected under such Acts for projects conducted on System land, and (2) 25% payments to states for the benefit of public schools and public roads of beneficiary counties. </p>]]></text>
+          <actionDate>2013-04-12</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2013-04-12T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-04-29T19:33:27Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <actionDesc>Passed House amended</actionDesc>
+          <versionCode>36</versionCode>
+          <text><![CDATA[<p>Restoring Healthy Forests for Healthy Communities Act - <b>Title I: Restoring the Commitment to Rural Counties and Schools</b> - (Sec. 103) Directs the Secretary of Agriculture (USDA) (the Secretary in this title) to establish at least one Forest Reserve Revenue Area (Area) within each unit of the National Forest System (NFS) designated for sustainable forest management for the production of national forest materials (the sale of trees, portions of trees, or forest products from NFS lands) and forest reserve revenues (to be derived from the sale of such materials in such an Area). </p> <p>States that the purpose of an Area is to provide a dependable source of 25% payments and economic activity for each beneficiary county containing NFS land that was eligible to receive payments through its state under the Secure Rural Schools and Community Self-Determination Act of 2000. </p> <p>Requires the Secretary to determine the annual volume requirement for each Area. </p> <p>Prohibits the Secretary from reducing the number of acres of NFS land in an Area once it has been established. </p> <p>(Sec. 104) Instructs the Secretary to: (1) manage Areas in the manner necessary to achieve their annual volume requirement (a volume of national forest materials at least 50% of the Area's sustained yield), and (2) conduct covered forest reserve projects within those Areas in accordance with this section, which shall serve as the only means by which the Secretary will comply with the National Environmental Policy Act of 1969 (NEPA) and other applicable laws. Defines &quot;covered forest reserve project&quot; as one involving the management or sale of national forest materials within an Area to generate forest reserve revenues and achieve its annual volume requirement. </p> <p>Requires the Secretary to complete an environmental assessment for a covered forest reserve project proposed for an Area, but does not require the Secretary to study, develop, or describe any alternative to the proposed agency action. </p>   <p>Makes the decision notice for a covered reserve project the final agency action, and prohibits the requirement of any additional analysis under NEPA to implement any part of the covered project. </p> <p>Excludes categorically from NEPA requirements a covered forest reserve project proposed in response to a catastrophic event, that covers an area of up to 10,000 acres, or an eligible hazardous fuel reduction or forest health project involving the removal of insect-infested trees, dead or dying trees, trees presenting a threat to public safety, or other hazardous fuels within 500 feet of utility or telephone infrastructure, campgrounds, roadsides, heritage sites, recreation sites, schools, or other infrastructure.</p> <p>(A &quot;categorical exclusion&quot; under NEPA is a category of actions which do not individually or cumulatively have a significant effect on the human environment and which have been found to have no such effect in procedures adopted by a federal agency in implementing environmental regulations and for which, therefore, neither an environmental assessment nor an environmental impact statement is required.) </p> <p>Requires the Secretary, if a proposed covered forest reserve project may affect the continued existence of endangered or threatened species, to issue a determination explaining that the proposed covered project is not likely to jeopardize the continued existence of the species. Requires a written response from the Secretary of the Interior or the Secretary of Commerce, as appropriate, including, if it rejects that determination, recommendations for measures that will avoid the likelihood of jeopardy to an endangered or threatened species. </p> <p>Prescribes requirements for administrative and judicial reviews of a covered forest reserve project. </p> <p>Permits the use of all-terrain vehicles within Areas for the purpose of activities associated with the sale of national forest materials. </p> <p>(Sec. 105) Requires forest reserve revenues to be used to make: (1) 25% payments to states for the benefit ofbeneficiary counties, and (2) deposits into the Knutson-Vandenburg Fund and the salvage sale fund in contributions equal to the monies collected under such Acts for projects conducted on System NFS land.</p> <p>Requires the deposit of remaining forest reserve revenues into the Treasury's general fund.</p> <p>(Sec. 106) Prescribes requirements for annual reports for each Area.</p> <p><b>Title II: Healthy Forest Management and Catastrophic Wildfire Prevention </b>- (Sec. 203) Authorizes the Secretary of Agriculture, with respect to NFS land, and the Secretary of the Interior, with respect to public lands, to implement a hazardous fuel reduction project or forest health project in at-risk forests in a manner that focuses on surface, ladder, and canopy fuels reduction activities. </p> <p>Permits a hazardous fuel reduction project or a forest health project to include livestock grazing and timber harvest projects carried out for purposes of hazardous fuels reduction, forest health, forest restoration, watershed restoration, or threatened and endangered species habitat protection or improvement, if the management action is consistent with achieving long-term ecological restoration. </p>    <p>(Sec. 204) Applies the environmental assessment requirements of title I to the implementation of a hazardous fuel reduction project or a forest health project under this title. </p> <p>Exempts such a project from judicial review or any federal court injunction if its primary purpose is the salvage of dead, damaged, or down timber resulting from wildfire occurring in 2013. </p> <p>(Sec. 205) Allows a state governor to designate high-risk areas of federal land in the state for purposes of addressing: (1) deteriorating forest health conditions due to the bark beetle epidemic or drought, with the resulting imminent risk of devastating wildfires; and (2) the future risk of insect infestations or disease outbreaks through preventative treatments to improve forest health conditions. </p> <p> Prohibits the following federal land from being designated as a high-risk area: (1) a component of the National Wilderness Preservation System, (2) federal land on which the removal of vegetation is specifically prohibited by federal statute, and (3) federal land within a National Monument. </p> <p>Requires the first high-risk areas, for 20 years duration, to be designated within 60 days of enactment of this Act but permits the designation of high-risk areas at any time. </p>  <p>Declares that designation of a high-risk area shall not be construed to limit or restrict: (1) access to federal land included in the area for hunting, fishing, and other related purposes; or (2) valid and existing rights regarding such land. </p> <p>(Sec. 206) Allows a state governor, upon designation of a high-risk area in the state, to provide for the development of proposed hazardous fuel reduction projects or forest health projects for the high-risk area. </p> <p>Requires the governor to submit proposed emergency hazardous fuel reduction projects and forest health projects to the Secretary concerned for implementation.</p> <p>(Sec. 207) Bars the Secretary of Agriculture from conducting any prescribed fire (except as part of wildfire suppression activities) in the Mark Twain National Forest in Missouri under the Collaborative Forest Landscape Restoration Project until the following report is submitted to Congress. </p>  <p>Directs the Secretary to report an evaluation of recent and current Forest Service management practices for the Forest, including lands in the Forest enrolled, or under consideration for enrollment, in the Collaborative Forest Landscape Restoration Project to convert certain lands into shortleaf pine-oak woodlands, to determine the impact of those management practices on forest health and tree mortality.</p> <p><b> Title III: Oregon and California Railroad Grant Lands Trust, Conservation, and Jobs - </b>O&amp;C Trust, Conservation, and Jobs Act - <b>Subtitle A: Trust, Conservation, and Jobs </b>- <b>Chapter 1: Creation and Terms of O&amp;C Trust</b> - (Sec. 311) Establishes the Oregon and California Railroad Grant Lands Trust to produce annual maximum sustained revenues in perpetuity for Trust counties by managing the timber resources on Trust lands on a sustained-yield basis subject to the management requirements of this chapter. </p> <p>States that such Trust land comprises all lands (with certain exceptions) containing specified stands of timber located, as of January 2013, on Oregon and California Railroad Grant lands and O&amp;C Region Public Domain lands.</p> <p>(Sec. 312) Declares that all right, title, and interest in the O&amp;C Trust lands remain in the United States, except that: (1) the Board of Trustees (the Board in this title) shall have all authority to manage the surface estate of the O&amp;C Trust lands and the resources found there, (2) actions on the O&amp;C Trust land shall be deemed to involve no federal action or federal discretionary involvement or control and the laws of Oregon shall apply to the surface estate of the O&amp;C Trust lands in the manner applicable to privately owned timberlands in Oregon, and (3) the O&amp;C Trust shall be treated as the beneficial owner of the surface estate of the O&amp;C Trust lands for purposes of all legal proceedings involving such lands. </p> <p>States that, mineral and other subsurface rights in the O&amp;C Trust lands are retained by the United States or other owner of such rights as of the date on which management authority over the surface estate of the lands is transferred to the O&amp;C Trust. </p> <p>Allows the Board to: (1) utilize rock or gravel within existing quarries on any Oregon and California Railroad Grant lands and O&amp;C Region Public Domain lands, with certain exceptions; and (2) construct new quarries, of no more than five acres, on O&amp;C Trust lands. </p> <p>Requires the Board to assume authority and responsibility over, and have authority to use, all roads and specified road systems.</p>  <p>(Sec. 313) Authorizes the Governor of a state to appoint a Board of Trustees, whose members meet certain requirements, to administer the O&amp;C Trust and O&amp;C Trust lands. </p> <p>(Sec. 314) Requires the Board to administer the O&amp;C Trust lands in compliance with all federal and state laws in the same manner as those laws apply to private forest lands. </p> <p>Requires the Board to approve and periodically update management and timber sale plans. </p> <p>Directs the Board to: (1) manage at least 50% of the harvestable acres of the O&amp;C Trust lands on a 100-120 year rotation, and (2) establish a program for the sale of timber set aside for purchase by business entities with 500 or fewer employees. </p> <p>Requires the Board to sell timber on a competitive bid basis, at least 50% of it by oral bidding. </p> <p>Makes it a condition on the sale of timber or other forest products from O&amp;C Trust lands that unprocessed timber harvested from such lands may not be exported. Prohibits knowing violators of this condition from purchasing timber from O&amp;C Trust lands or federal lands. Imposes the same disqualification on any person who uses unprocessed timber harvested from O&amp;C Trust lands in substitution for exported unprocessed timber originating from private lands.</p> <p>Directs the Board to develop an integrated pest and vegetation management plan which allows for the eradication, containment, and suppression of disease, pests, weeds and noxious plants, and invasive species.</p> <p>Requires O&amp;C Trust lands to include harvest area tree and retention requirements consistent with state law.</p> <p>Subjects timber harvesting on O&amp;C Trust lands in riparian areas to specified limitations.</p> <p>Prescribes requirements for reciprocal fire protection agreements regarding the Oregon and California Railroad Grant lands and O&amp;C Region Public Domain lands.</p> <p>(Sec. 315) Prescribes requirements for calculation and distribution of payments made to each O&amp;C Trust county. </p> <p>Directs the Board to generate a reserve fund, to be maintained with an annual balance of $125 million, from which to: (1) pay management and administrative expenses or capital improvement costs on O&amp;C Trust lands, and (2) make payments to O&amp;C Trust counties when regular payments to them are projected to be 90% or less of the previous year's payments.</p> <p>Directs the Board to use a portion of revenues generated from activity on the O&amp;C Trust lands to establish a O&amp;C Trust Conservation Fund to: (1) fund the voluntary acquisition of conservation easements from willing private landowners in the state; (2) fund watershed restoration, remediation, and enhancement projects within the state; or (3) contribute to balancing values in a land exchange with willing private landowners if the exchange will result in a net increase in ecosystem benefits for fish, wildlife, or rare native plants. </p> <p>(Sec. 316) Authorizes the Board, subject to approval by the Secretary of the Interior or the Secretary of Agriculture (the Secretary concerned), to negotiate proposals for land exchanges with owners of lands adjacent to O&amp;C Trust lands in order to create larger contiguous blocks of land under O&amp;C Trust management to facilitate resource management, improve the conservation value of such lands, or improve the efficiency of the management of those lands. </p> <p>Specifies criteria a proposed land exchange must meet to win approval. </p> <p>Prohibits the approval of land exchanges that, taken together with all previous exchanges involving the O&amp;C Trust lands, have the effect of reducing the total acreage of the O&amp;C Trust lands by more than 5%.</p>  <p>Authorizes land exchanges by the Board with the Forest Service if approved by the Secretary concerned.</p> <p>(Sec. 317) Requires the O&amp;C Trust, after the third fiscal year of a specified transition period and in each of the subsequent seven fiscal years, to pay $10 million to the U.S. Treasury.</p> <p><b>Chapter 2: Transfer of Certain Lands to Forest Service</b> - (Sec. 321) Directs the Secretary of the Interior to transfer administrative jurisdiction over all Oregon and California Railroad Grant lands and O&amp;C Region Public Domain lands not designated as O&amp;C Trust lands, except for certain tribal lands, to the Secretary of Agriculture for inclusion in the NFS. </p>  <p>(Sec. 322) Requires assignment of management responsibilities for the lands transferred under this chapter to the NFS unit geographically closest to them, with the Secretary of Agriculture having ultimate decision-making authority.</p> <p>Requires the transferred lands to be managed under the Northwest Forest Plan and to retain its land use designations. </p> <p>Prohibits the harvest of old growth by the Forest Service on the transferred lands. </p> <p>(Sec. 323) Authorizes the Secretary of Agriculture to conduct land exchanges involving the transferred lands, other than those excluded from the O&amp;C Trust, in order to create larger contiguous blocks of land under the Secretary's management.</p> <p>Prescribes criteria for administrative land exchanges between the Secretary and a non-federal owner (other than the O&amp;C Trust), as well as with the Board. </p> <p>Prohibits the approval of land exchanges that, taken together with all previous exchanges involving the transferred lands, have the effect of reducing the total acreage of the transferred lands by more than 5%.</p>  <p>(Sec. 324) Requires the Secretary of Agriculture to appoint an Old Growth Review Panel to define old growth as it applies to the ecologically, geographically, and climatologically unique Oregon and California Railroad Grant lands and O&amp;C Region Public Domain lands managed by the O&amp;C Trust or the Forest Service only (but not to tribal lands).</p>  <p><b>Chapter 3: Transition</b> - (Sec. 331) Provides for a three-year transition period which shall commence after the appointment of the Board. </p> <p>Specifies what activities shall occur in years one, two, and three of the transition period. </p> <p>(Sec. 332) Specifies the Board's borrowing authority, and prescribes requirements for treatment of existing contracts and the protection of valid existing rights and access to non-federal land. </p>      <p>(Sec. 335) Repeals specified federal law relating to the Oregon and California Railroad Grant lands and Coos Bay Wagon Road Grant lands; butrestores it to full legal force and effect if, as a result of judicial review, any provision of this subtitle is held invalid and its implementation, or any activity conducted under it, is then enjoined. </p> <p><b>Subtitle B: Coos Bay Wagon Roads</b> - (Sec. 341) Directs the Secretary of the Interior to transfer management authority over the reconveyed Coos Bay Wagon Road Grant lands, with certain exceptions, and their surface resources to the Coos County government in Oregon.</p> <p>Makes Coos County responsible for all management and administrative costs of the Coos Bay Wagon Road Grant lands over which management authority is transferred.</p> <p>Authorizes Coos County to contract for management of the lands, if competitively bid, with one or more public, private, or tribal entities, including the Coquille Indian tribe, if such entities are substantially located in Coos or Douglas Counties, Oregon.</p>  <p>Requires Coos County, after the third fiscal year of the transition period and in each of the subsequent seven fiscal years, to make payments of $400,000 to the U.S. Treasury. </p> <p>Requires Coos County to transmit a payment to the Douglas County treasury from the net revenues generated from the transferred lands. </p> <p>(Sec. 342) Directs the Secretary of the Interior to transfer administrative jurisdiction over the Coos Bay Wagon Road Grant lands excluded from the transfer under this subtitle to the Secretary of Agriculture for inclusion in the NFS.</p> <p>(Sec. 343) Permits Coos County to recommend land exchanges to the Secretary of Agriculture and carry them out. </p> <p><b>Subtitle C: Oregon Treasures</b> - <b>Chapter 1: Wilderness Areas</b> - (Sec. 351) Designates certain federal land in Oregon as the Devil's Staircase Wilderness for inclusion in the National Wilderness Preservation System. </p>   <p>(Sec. 352) Adds specified federal land managed by the BLM in the Wild Rogue Wilderness as a component of the National Wilderness Preservation System. </p>  <p><b>Chapter 2: Wild and Scenic River Designated and Related Protections</b> - (Sec. 361) Amends the Wild and Scenic Rivers Act (the Act in this chapter) to designate specified segments of the Molalla River in Oregon as components of the National Wild and Scenic Rivers System. </p> <p>Amends the Act to rename the Squaw Creek in Oregon as Whychus Creek. </p> <p>(Sec. 362) Amends the Act to make corrections to the segment designations for the Chetco River, Oregon, including revising segment lengths. </p>  <p>(Sec. 363) Amends the Act to designate Franklin and Wasson Creeks in Oregon as wild rivers in the Wild and Scenic Rivers System. </p> <p>(Sec. 364) Amends the Act to add specified segments of creeks to the designation of the Rogue River in Oregon as a component of the national wild and scenic rivers system. </p>  <p>(Sec. 365) Withdraws the federal land within a quarter mile on each side of specified stream segments from: (1) entry, appropriation, or disposal under the public land laws; (2) location, entry, and patent under the mining laws; and (3) disposition under laws pertaining to mineral and geothermal leasing or mineral materials. </p> <p><b> Chapter 3: Additional Protections</b> - (Sec. 371) Prohibits the Secretary of the Interior and the Secretary of Agriculture from acquiring by condemnation any land or interest within the boundaries of the river segments or wilderness designated by this subtitle.</p> <p>Prohibits the inclusion of private or non-federal public property within the boundaries of the river segments or wilderness designated by this subtitle unless the owner of the property has consented in writing.</p> <p>(Sec. 372) Declares that, nothing in this subtitle or the Wilderness Act precludes: (1) low-level overflights and operations of military aircraft, helicopters, missiles, or unmanned aerial vehicles over the wilderness designated by this subtitle; or (2) the designation of new units of special use airspace, the expansion of existing units, or the use or establishment of military training routes over such wilderness.</p> <p>(Sec. 373) Declares that nothing in this subtitle: (1) establishes or authorizes the establishment of a protective perimeter or buffer zone around the boundaries of the river segments or wilderness designated by this subtitle; or (2) precludes, limits, or restricts an activity from being conducted outside such boundaries, including one that can be seen or heard from within such boundaries. </p> <p>(Sec. 374) Declares that, the designation of a river segment or wilderness by this subtitle or the withdrawal of the federal land shall not be construed to interfere with the authority of the Secretary of the Interior or the Secretary of Agriculture to authorize mechanical thinning of trees or underbrush to prevent or control the spread of wildfires, or conditions creating the risk of wildfire that threatens areas outside the wilderness boundary, or the use of mechanized equipment for wildfire pre-suppression and suppression. </p> <p>(Sec. 375) Requires any national monument designation within or on any part of the Oregon and California Railroad Grant lands or the O&amp;C Region Public Domain lands to only be made pursuant to congressional approval in an Act of Congress. </p> <p><b>Chapter 4: Effective Date</b> - (Sec. 381) Sets forth the effective date of this subtitle.</p> <p>States that, if, as a result of judicial review, any provision of subtitle A is held to be invalid and implementation of the provision or any activity conducted under it is enjoined, this subtitle and the amendments it has made shall not take effect, or if the effective date has already occurred, this subtitle shall have no force and effect and the amendments made by it are repealed. </p> <p><b>Subtitle D: Tribal Trust Lands</b> - <b>Part 1: Council Creek Land Conveyance</b> - (Sec. 392) Holds in trust for the Cow Creek Band of Umpqua Tribe of Indians all interest of the United States in and to the Council Creek specified land composed of approximately 17,519 acres. Makes that land part of the Tribe's reservation. </p> <p>(Sec. 394) Applies federal law relating to the export of unprocessed logs harvested from federal land to any unprocessed logs harvested from the federal land conveyed to the Tribes.</p> <p>Prohibits gaming on those lands. </p> <p>Requires forest management activities carried out on the Council Creek land to be managed in accordance with all applicable federal laws. </p> <p><b>Part 2: Oregon Coastal Land Conveyance</b> - (Sec. 396) Holds in trust for the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians all right, title, and interest of the United States in and to approximately 14,804 acres of specified federal land. Makes that land part of the Tribes' reservation.</p> <p>(Sec. 398) Applies federal law relating to the export of unprocessed logs harvested from federal land to any unprocessed logs harvested from the federal land conveyed to the Tribes. </p> <p>Prohibits gaming on those lands.</p> <p>Requires forest management activities carried out on the Council Creek land to be managed in accordance with all applicable federal laws. </p> <p><b>Title IV: Community Forest Management Demonstration</b> - (Sec. 402) Directs the Secretary of Agriculture to establish the community forest demonstration area of a state, consisting of National Forest System (NFS) land, at the request of an advisory committee appointed by a governor to manage such land in that state. </p> <p>Conditions establishment of an area upon: (1) inclusion of at least 200,000 acres of NFS land; (2) a state forest practices law applicable to state or privately owned forest land, or established silvicultural best management practices or other regulations for forest management practices related to clean water, soil quality, wildlife, or forest health; and (3) a revenue-sharing agreement between a county and the state governor requiring the county, in using certain revenues received from the area, to continue to meet obligations for the use of such revenues for the benefit of public schools and roads. </p> <p>States that, if an NFS unit in which a community forest demonstration area is being established contains more than 5 million acres, such area may include 900,000 or more acres of NFS land. </p>  <p>Limits to a total of 4 million acres the amount of NFS land that may be established as community forest demonstration areas.</p> <p>(Sec. 403) Declares that a community forest demonstration area for a state shall be managed by an Advisory Committee appointed by the governor. </p> <p>(Sec. 404) Directs the advisory committee for a community forest demonstration area to: (1) cooperate and consult with Indian tribes on management policies and practices for the area that may affect those tribes, and (2) consult with any applicable forest collaborative group. </p>  <p>Prohibits the export of unprocessed timber harvested from a community demonstration area as a condition on the sale of timber or other forest products from a community demonstration area.</p> <p>(Sec. 405) Allows the advisory committee appointed for a community forest demonstration area to retain from amounts generated from the area any sums necessary to fund the management, administration, restoration, operation and maintenance, improvement, repair, and related expenses incurred with respect to that area. </p> <p>Requires the advisory committee to distribute funds generated from the area to each county or local governmental unit in certain proportional amounts. </p> <p>(Sec. 406) Permits counties to use certain sums necessary to provide initial funding for the management of community forest demonstration areas. </p> <p>(Sec. 407) Requires the advisory committee for a community forest demonstration area to make payments to the U.S. Treasury.</p> <p>(Sec. 408) Permits the advisory committee for a community forest demonstration area to terminate the area by a unanimous vote, subject to approval by the state governor. </p> <p>Declares that, upon termination of a community forest demonstration area, the Secretary shall immediately resume management of the NFS land that had been included in it, and the advisory committee for the area shall be dissolved. </p>  <p><b>Title V: Reauthorization and Amendment of Existing Authorities and Other Matters</b> - (Sec. 501) Directs the Secretary of Agriculture, during February 2015, to distribute to each beneficiary county a payment equal to the amount distributed to the county for FY2010 under the Secure Rural Schools and Community Self-Determination Act of 2000. </p> <p>Directs the Secretary of the Interior, during February 2015, to distribute to all counties that received a payment for FY2010 under the same Act new payments totalling the difference between: (1) the total amount distributed to all such counties for FY2010, and (2) $27 million. Requires each county to receive during February 2015, from this total amount, an amount determined according to a certain formula.</p> <p>Disallows a county that receives a payment under this section from receiving specified 25% or 50% payments for FY2015 under the Secure Rural Schools and Community Self-Determination Act of 2000. </p> <p>(Sec. 502) Restores the original method for calculating 25% payments under such Act. </p> <p>(Sec. 503) Authorizes the Secretary concerned (the Secretary of Agriculture for NFS land or the Secretary of the Interior BLM land) to enter into a cooperative agreement or contract (including a sole source contract) with a state forester to authorize the forester to provide specified forest, rangeland, and watershed restoration, management, and protection services. </p>    <p>(Sec. 504) Extends through FY2017 the authority of the Forest Service and the BLM to enter into stewardship end result contracting projects with private persons or other public or private entities, via agreement or contract, to perform services to achieve land management goals for the national forests and the public lands that meet local and rural community needs.</p> <p>Increases from 10 to 20 years the term limit for a multiyear contract. </p> <p>Authorizes the Chief of the Forest Service and the Director of the BLM to obligate funds to cover any potential cancellation or termination costs for an agreement or contract in stages that are economically or programmatically viable. Prescribes terms for such an agreement or contract.</p>    <p>(Sec. 506) Prohibits the use of funds made available to a beneficiary county or other political subdivision of a state under this Act in lieu of, or to otherwise offset, state funding sources for local schools, facilities, or educational purposes. </p> <p>(Sec. 507) Makes the Forest Service decisionmaking and appeals reform process and the Forest Service pre-decisional objection process inapplicable to a project or activity implementing a land and resource management plan developed under the Forest and Rangeland Renewable Resources Planning Act of 1974 that is categorically excluded from documentation in an environmental assessment or an environmental impact statement under NEPA. </p> <p>(Sec. 508) Declares that, for certain funding purposes the term &quot;fire suppression&quot; includes reforestation, site rehabilitation, salvage operations, and replanting occurring following fire damage on lands under the jurisdiction of the Secretary concerned or following fire suppression efforts on such lands by the Secretary concerned.</p> <p>(Sec. 509) Bars the Forest Service from removing or otherwise eliminating or obliterating any legally created road or trail unless there has been a specific decision, which included adequate and appropriate public involvement, to decommission that road or trail. States that the fact that any road or trail is not a Forest System road or trail, or does not appear on a motor vehicle use map, shall not constitute a decision.</p>]]></text>
+          <actionDate>2013-09-20</actionDate>
+          <name>Passed House amended</name>
+          <updateDate>2013-09-20T16:22:51Z</updateDate>
+          <lastSummaryUpdateDate>2013-11-04T22:14:40Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Endangered and threatened species</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Restoring Healthy Forests for Healthy Communities Act</title>
+    <updateDate>2016-10-25T16:38:25Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House for portions of this bill</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>O&amp;C Trust, Conservation, and Jobs Act</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Restoring Healthy Forests for Healthy Communities Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Restoring Healthy Forests for Healthy Communities Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To restore employment and educational opportunities in, and improve the economic stability of, counties containing National Forest System land, while also reducing Forest Service management costs, by ensuring that such counties have a dependable source of revenue from National Forest System land, to provide a temporary extension of the Secure Rural Schools and Community Self-Determination Act of 2000, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Restoring Healthy Forests for Healthy Communities Act</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>WA</state>
+        <firstName>DOC</firstName>
+        <byRequestType />
+        <bioguideId>H000329</bioguideId>
+        <fullName>Rep. Hastings, Doc [R-WA-4]</fullName>
+        <lastName>HASTINGS</lastName>
+        <party>R</party>
+        <middleName />
+        <district>4</district>
+        <identifiers>
+          <lisID>512</lisID>
+          <gpoId>8799</gpoId>
+          <bioguideId>H000329</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>351</number>
+        <type>HRES</type>
+        <latestTitle>Providing for consideration of the bill (H.R. 687) to facilitate the efficient extraction of mineral resources in southeast Arizona by authorizing and directing an exchange of Federal and non-Federal land, and for other purposes; providing for consideration of the bill (H.R. 1526) to restore employment and educational opportunities in, and improve the economic stability of, counties containing National Forest System land, while also reducing Forest Service management costs, by ensuring that such counties have a dependable source of revenue from National Forest System land, to provide a temporary extension of the Secure Rural Schools and Community Self-Determination Act of 2000, and for other purposes; providing for consideration of the bill (H.R. 3102) to amend the Food and Nutrition Act 2008; and for other purposes.</latestTitle>
+        <latestAction>
+          <actionTime>15:56:02</actionTime>
+          <actionDate>2013-09-19</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>1215</number>
+        <type>HR</type>
+        <latestTitle>Chetco River Protection Act of 2013</latestTitle>
+        <latestAction>
+          <actionDate>2013-03-26</actionDate>
+          <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>1230</number>
+        <type>HR</type>
+        <latestTitle>Molalla River Wild and Scenic Rivers Act</latestTitle>
+        <latestAction>
+          <actionDate>2013-03-28</actionDate>
+          <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>1294</number>
+        <type>HR</type>
+        <latestTitle>Self-Sufficient Community Lands Act</latestTitle>
+        <latestAction>
+          <actionDate>2013-04-11</actionDate>
+          <text>Subcommittee Hearings Held.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>2401</number>
+        <type>HR</type>
+        <latestTitle>Good Neighbor Forestry Act</latestTitle>
+        <latestAction>
+          <actionDate>2013-08-13</actionDate>
+          <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>327</number>
+        <type>S</type>
+        <latestTitle>Good Neighbor Forestry Act</latestTitle>
+        <latestAction>
+          <actionDate>2013-09-10</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 175.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>4</number>
+        <type>HR</type>
+        <latestTitle>Jobs for America Act</latestTitle>
+        <latestAction>
+          <actionDate>2014-11-13</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 597.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>5512</number>
+        <type>HR</type>
+        <latestTitle>Cow Creek Umpqua Land Conveyance Act</latestTitle>
+        <latestAction>
+          <actionDate>2014-09-29</actionDate>
+          <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <district>5</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>McMorris Rodgers</lastName>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName />
+        <firstName>Cathy</firstName>
+        <identifiers>
+          <lisID>1809</lisID>
+          <gpoId>8209</gpoId>
+          <bioguideId>M001159</bioguideId>
+        </identifiers>
+        <bioguideId>M001159</bioguideId>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Herrera Beutler</lastName>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName />
+        <firstName>Jaime</firstName>
+        <identifiers>
+          <bioguideId>H001056</bioguideId>
+          <lisID>2071</lisID>
+          <gpoId>8207</gpoId>
+        </identifiers>
+        <bioguideId>H001056</bioguideId>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>8</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Ribble</lastName>
+        <fullName>Rep. Ribble, Reid J. [R-WI-8]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName>J.</middleName>
+        <firstName>Reid</firstName>
+        <identifiers>
+          <gpoId>8221</gpoId>
+          <lisID>2073</lisID>
+          <bioguideId>R000587</bioguideId>
+        </identifiers>
+        <bioguideId>R000587</bioguideId>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LaMalfa</lastName>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName />
+        <firstName>Doug</firstName>
+        <identifiers>
+          <lisID>2100</lisID>
+          <gpoId />
+          <bioguideId>L000578</bioguideId>
+        </identifiers>
+        <bioguideId>L000578</bioguideId>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>4</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>McClintock</lastName>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName />
+        <firstName>Tom</firstName>
+        <identifiers>
+          <lisID>1908</lisID>
+          <gpoId>7809</gpoId>
+          <bioguideId>M001177</bioguideId>
+        </identifiers>
+        <bioguideId>M001177</bioguideId>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Southerland</lastName>
+        <fullName>Rep. Southerland, Steve II [R-FL-2]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName />
+        <firstName>Steve</firstName>
+        <identifiers>
+          <lisID>2000</lisID>
+          <bioguideId>S001186</bioguideId>
+          <gpoId>7874</gpoId>
+        </identifiers>
+        <bioguideId>S001186</bioguideId>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>0</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Daines</lastName>
+        <fullName>Rep. Daines, Steve [R-MT-At Large]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName />
+        <firstName>Steve</firstName>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+          <gpoId />
+          <lisID>2138</lisID>
+        </identifiers>
+        <bioguideId>D000618</bioguideId>
+        <state>MT</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>5</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Thompson</lastName>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName />
+        <firstName>Glenn</firstName>
+        <identifiers>
+          <lisID>1952</lisID>
+          <gpoId>8123</gpoId>
+          <bioguideId>T000467</bioguideId>
+        </identifiers>
+        <bioguideId>T000467</bioguideId>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>0</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>YOUNG</lastName>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName>E.</middleName>
+        <firstName>DON</firstName>
+        <identifiers>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <bioguideId>Y000033</bioguideId>
+        <state>AK</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>9</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Griffith</lastName>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName>Morgan</middleName>
+        <firstName>H.</firstName>
+        <identifiers>
+          <bioguideId>G000568</bioguideId>
+          <gpoId>8200</gpoId>
+          <lisID>2070</lisID>
+        </identifiers>
+        <bioguideId>G000568</bioguideId>
+        <state>VA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>4</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gosar</lastName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName>A.</middleName>
+        <firstName>Paul</firstName>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <bioguideId>G000565</bioguideId>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gohmert</lastName>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName />
+        <firstName>Louie</firstName>
+        <identifiers>
+          <bioguideId>G000552</bioguideId>
+          <lisID>1801</lisID>
+          <gpoId>8157</gpoId>
+        </identifiers>
+        <bioguideId>G000552</bioguideId>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Pearce</lastName>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName />
+        <firstName>Stevan</firstName>
+        <identifiers>
+          <lisID>1738</lisID>
+          <gpoId>8057</gpoId>
+          <bioguideId>P000588</bioguideId>
+        </identifiers>
+        <bioguideId>P000588</bioguideId>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bishop</lastName>
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName />
+        <firstName>Rob</firstName>
+        <identifiers>
+          <lisID>1753</lisID>
+          <gpoId>8189</gpoId>
+          <bioguideId>B001250</bioguideId>
+        </identifiers>
+        <bioguideId>B001250</bioguideId>
+        <state>UT</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>0</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lummis</lastName>
+        <fullName>Rep. Lummis, Cynthia M. [R-WY-At Large]</fullName>
+        <sponsorshipDate>2013-04-12</sponsorshipDate>
+        <middleName>M.</middleName>
+        <firstName>Cynthia</firstName>
+        <identifiers>
+          <lisID>1960</lisID>
+          <bioguideId>L000571</bioguideId>
+          <gpoId>8225</gpoId>
+        </identifiers>
+        <bioguideId>L000571</bioguideId>
+        <state>WY</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>1</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Benishek</lastName>
+        <fullName>Rep. Benishek, Dan [R-MI-1]</fullName>
+        <sponsorshipDate>2013-04-16</sponsorshipDate>
+        <middleName />
+        <firstName>Dan</firstName>
+        <identifiers>
+          <lisID>2027</lisID>
+          <gpoId>7986</gpoId>
+          <bioguideId>B001271</bioguideId>
+        </identifiers>
+        <bioguideId>B001271</bioguideId>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>WALDEN</lastName>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <middleName />
+        <firstName>GREG</firstName>
+        <identifiers>
+          <lisID>1596</lisID>
+          <gpoId>8115</gpoId>
+          <bioguideId>W000791</bioguideId>
+        </identifiers>
+        <bioguideId>W000791</bioguideId>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>4</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cotton</lastName>
+        <fullName>Rep. Cotton, Tom [R-AR-4]</fullName>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName />
+        <firstName>Tom</firstName>
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001095</bioguideId>
+        <state>AR</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Mullin</lastName>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <sponsorshipDate>2013-07-31</sponsorshipDate>
+        <middleName />
+        <firstName>Markwayne</firstName>
+        <identifiers>
+          <lisID>2156</lisID>
+          <gpoId />
+          <bioguideId>M001190</bioguideId>
+        </identifiers>
+        <bioguideId>M001190</bioguideId>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>6</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Coffman</lastName>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <middleName />
+        <firstName>Mike</firstName>
+        <identifiers>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+          <bioguideId>C001077</bioguideId>
+        </identifiers>
+        <bioguideId>C001077</bioguideId>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>6</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BACHUS</lastName>
+        <fullName>Rep. Bachus, Spencer [R-AL-6]</fullName>
+        <sponsorshipDate>2013-09-10</sponsorshipDate>
+        <middleName />
+        <firstName>SPENCER</firstName>
+        <identifiers>
+          <bioguideId>B000013</bioguideId>
+          <gpoId>7791</gpoId>
+          <lisID>38</lisID>
+        </identifiers>
+        <bioguideId>B000013</bioguideId>
+        <state>AL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>4</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Palazzo</lastName>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <sponsorshipDate>2013-09-10</sponsorshipDate>
+        <middleName>M.</middleName>
+        <firstName>Steven</firstName>
+        <identifiers>
+          <lisID>2035</lisID>
+          <bioguideId>P000601</bioguideId>
+          <gpoId>8022</gpoId>
+        </identifiers>
+        <bioguideId>P000601</bioguideId>
+        <state>MS</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

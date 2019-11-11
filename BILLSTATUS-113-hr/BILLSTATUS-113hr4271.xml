@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <sponsorshipDate>2014-03-14</sponsorshipDate>
+        <party>D</party>
+        <lastName>MCGOVERN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000312</bioguideId>
+        <state>MA</state>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <firstName>JAMES</firstName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2014-03-14</sponsorshipDate>
+        <party>D</party>
+        <lastName>Kuster</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000382</bioguideId>
+        <state>NH</state>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <firstName>Ann</firstName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000573</bioguideId>
+          <lisID>2120</lisID>
+        </identifiers>
+        <sponsorshipDate>2014-03-14</sponsorshipDate>
+        <party>D</party>
+        <lastName>Garcia</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000573</bioguideId>
+        <state>FL</state>
+        <district>26</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Joe</firstName>
+        <fullName>Rep. Garcia, Joe [D-FL-26]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1654</lisID>
+          <bioguideId>C001049</bioguideId>
+          <gpoId>8009</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-07-15</sponsorshipDate>
+        <party>D</party>
+        <lastName>CLAY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001049</bioguideId>
+        <state>MO</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>LACY</middleName>
+        <firstName>WM.</firstName>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7973</gpoId>
+          <bioguideId>C001037</bioguideId>
+          <lisID>1564</lisID>
+        </identifiers>
+        <sponsorshipDate>2014-07-15</sponsorshipDate>
+        <party>D</party>
+        <lastName>CAPUANO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001037</bioguideId>
+        <state>MA</state>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <firstName>MICHAEL</firstName>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000593</bioguideId>
+          <lisID>1835</lisID>
+          <gpoId>7865</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+        <party>D</party>
+        <lastName>Perlmutter</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000593</bioguideId>
+        <state>CO</state>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Ed</firstName>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+      </item>
+    </cosponsors>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2014-03-14</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2014-03-14</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2014-03-14</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <billType>HR</billType>
+    <title>Increasing American Jobs Through More Exports Act</title>
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2014-03-14</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Increasing American Jobs Through More Exports Act - Amends the Export-Import Bank Act of 1945 to authorize the Export-Import Bank of the United States, subject to appropriations, to use up to 3% of the Bank's surplus, for each of the 5 fiscal years following enactment of this Act, to cover its administrative expenses.</p> <p>Requires the Bank to use at least one-third of that 3% of surplus to expand or establish Bank regional offices.</p>]]></text>
+          <updateDate>2014-03-14T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-04-14T18:24:43Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. RUIZ:H.R. 4271.Congress has the power to enact this legislation pursuantto the following:clause 18 of section 8 of article 1 of the Constitution[Page H2485]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Foreign Trade and International Finance</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Competitiveness, trade promotion, trade deficits</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Export-Import Bank of the United States</name>
+          </item>
+          <item>
+            <name>Government corporations and government-sponsored enterprises</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>4271</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Increasing American Jobs Through More Exports Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To authorize the Export-Import Bank of the United States to use 3 percent of its profits for administrative expenses.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Increasing American Jobs Through More Exports Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <middleName />
+        <lastName>Ruiz</lastName>
+        <firstName>Raul</firstName>
+        <byRequestType />
+        <bioguideId>R000599</bioguideId>
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <district>36</district>
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <updateDate>2016-10-25T16:11:44Z</updateDate>
+    <relatedBills />
+    <notes />
+    <amendments />
+    <createDate>2014-03-15T07:02:49Z</createDate>
+    <introducedDate>2014-03-14</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2014-03-14T13:03:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2014-03-14</actionDate>
+      <links />
+      <text>Referred to the House Committee on Financial Services.</text>
+    </latestAction>
+    <congress>113</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

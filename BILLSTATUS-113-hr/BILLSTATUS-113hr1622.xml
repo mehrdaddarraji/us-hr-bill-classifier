@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <text>Referred to House Oversight and Government Reform</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2013-04-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to the Committee on Small Business, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2013-04-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <text>Referred to House Small Business</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Small Business Committee</name>
+          <systemCode>hssm00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2013-04-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR H2148)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H2148</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/house-section/page/H2148</url>
+          </link>
+        </links>
+        <actionDate>2013-04-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2013-04-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2013-04-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>4</district>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <lastName>Johnson</lastName>
+        <middleName>C. "Hank"</middleName>
+        <state>GA</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1843</lisID>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <firstName>Henry</firstName>
+        <bioguideId>J000288</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. JOHNSON of Georgia:H.R. 1622.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3:[The Congress shall have the power] To regulate Commercewith foreign Nations, and among the several States, and withthe Indian tribes.[Page H2159]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1622</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:02:22Z</updateDate>
+    <laws />
+    <createDate>2013-04-19T07:02:09Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-04-18T14:05:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Small Business Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hssm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-04-18T14:05:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-04-18T04:00:00Z</updateDate>
+          <actionDate>2013-04-18</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Fairness and Transparency in Contracting Act of 2013 - Amends the Small Business Act to exclude as a small business, for purposes of meeting federal agency contracting goals with small businesses, any small business (or subsidiary thereof) that is publicly traded, or any business (or subsidiary thereof) with more than 50% non-U.S. citizen ownership. Requires the Administrator of the Small Business Administration (SBA) to notify the head of each federal department or agency regarding this Act and its amendments, and the department or agency head to then notify its contractors.</p> <p>Directs the Administrator to: (1) publish a report regarding federal prime contracts awarded to businesses identified as small businesses for purposes of achieving small business contracting goals, and (2) establish procedures to ensure that the Central Contractor Registration database provides an adequate warning regarding criminal penalties for misrepresenting the status of a small business or person in order to obtain federal contracts.</p> <p>Provides for enforcement of complaints about the classification of a business for such purposes.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-04-30T13:48:46Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000147</bioguideId>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <firstName>ELEANOR</firstName>
+        <middleName>HOLMES</middleName>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+      </item>
+      <item>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <lastName>RUSH</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000515</bioguideId>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+          <lisID>1003</lisID>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <firstName>BOBBY</firstName>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+      </item>
+      <item>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <lastName>CONYERS</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000714</bioguideId>
+        <identifiers>
+          <lisID>229</lisID>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <middleName />
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+      </item>
+      <item>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <lastName>Wilson</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000808</bioguideId>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+        </identifiers>
+        <firstName>Frederica</firstName>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <district>24</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+      </item>
+      <item>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000551</bioguideId>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+      </item>
+      <item>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <lastName>Chu</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001080</bioguideId>
+        <identifiers>
+          <lisID>1970</lisID>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <firstName>Judy</firstName>
+        <middleName />
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <district>27</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <lastName>CLAY</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001049</bioguideId>
+        <identifiers>
+          <lisID>1654</lisID>
+          <gpoId>8009</gpoId>
+          <bioguideId>C001049</bioguideId>
+        </identifiers>
+        <firstName>WM.</firstName>
+        <middleName>LACY</middleName>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+      </item>
+      <item>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <lastName>Bordallo</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001245</bioguideId>
+        <identifiers>
+          <gpoId>7911</gpoId>
+          <lisID>1723</lisID>
+          <bioguideId>B001245</bioguideId>
+        </identifiers>
+        <firstName>Madeleine</firstName>
+        <middleName>Z.</middleName>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>GU</state>
+      </item>
+      <item>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <lastName>KAPTUR</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000009</bioguideId>
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+        </identifiers>
+        <firstName>MARCY</firstName>
+        <middleName />
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+      </item>
+      <item>
+        <fullName>Rep. Brown, Corrine [D-FL-5]</fullName>
+        <lastName>BROWN</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B000911</bioguideId>
+        <identifiers>
+          <gpoId>7875</gpoId>
+          <lisID>132</lisID>
+          <bioguideId>B000911</bioguideId>
+        </identifiers>
+        <firstName>CORRINE</firstName>
+        <middleName />
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+      </item>
+      <item>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000193</bioguideId>
+        <identifiers>
+          <gpoId>8020</gpoId>
+          <lisID>1151</lisID>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <firstName>BENNIE</firstName>
+        <middleName />
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+      </item>
+      <item>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <lastName>DAVIS</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000096</bioguideId>
+        <identifiers>
+          <gpoId>7927</gpoId>
+          <lisID>1477</lisID>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <firstName>DANNY</firstName>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+      </item>
+      <item>
+        <fullName>Rep. McDermott, Jim [D-WA-7]</fullName>
+        <lastName>MCDERMOTT</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000404</bioguideId>
+        <identifiers>
+          <lisID>766</lisID>
+          <bioguideId>M000404</bioguideId>
+          <gpoId>8211</gpoId>
+        </identifiers>
+        <firstName>JIM</firstName>
+        <middleName />
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+      </item>
+      <item>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <lastName>MALONEY</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000087</bioguideId>
+        <identifiers>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+          <gpoId>8075</gpoId>
+        </identifiers>
+        <firstName>CAROLYN</firstName>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2013-04-23</sponsorshipDate>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+      </item>
+      <item>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <lastName>HASTINGS</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H000324</bioguideId>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <firstName>ALCEE</firstName>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2013-04-23</sponsorshipDate>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+      </item>
+      <item>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <lastName>Green</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000553</bioguideId>
+        <identifiers>
+          <bioguideId>G000553</bioguideId>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+        </identifiers>
+        <firstName>Al</firstName>
+        <middleName />
+        <sponsorshipDate>2013-04-24</sponsorshipDate>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+      </item>
+      <item>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <lastName>Ellison</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000288</bioguideId>
+        <identifiers>
+          <lisID>1857</lisID>
+          <bioguideId>E000288</bioguideId>
+          <gpoId>8005</gpoId>
+        </identifiers>
+        <firstName>Keith</firstName>
+        <middleName />
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+      </item>
+      <item>
+        <fullName>Rep. Holt, Rush [D-NJ-12]</fullName>
+        <lastName>HOLT</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001032</bioguideId>
+        <identifiers>
+          <bioguideId>H001032</bioguideId>
+          <lisID>1580</lisID>
+          <gpoId>8054</gpoId>
+        </identifiers>
+        <firstName>RUSH</firstName>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2013-06-18</sponsorshipDate>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Buy American requirements</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Small Business Administration</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>U.S. and foreign investments</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Fairness and Transparency in Contracting Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend the Small Business Act to ensure fairness and transparency in contracting with small business concerns.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Fairness and Transparency in Contracting Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Fairness and Transparency in Contracting Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-04-18</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-04-18</actionDate>
+      <text>Referred to House Oversight and Government Reform</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

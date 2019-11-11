@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-04-04</actionDate>
+        <committee>
+          <systemCode>hsvr08</systemCode>
+          <name>Oversight and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2014-04-02</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2014-04-02</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2014-04-02</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-04-02</introducedDate>
+    <updateDate>2016-10-25T16:12:08Z</updateDate>
+    <createDate>2014-04-03T07:13:04Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsvr00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr08</systemCode>
+              <activities>
+                <item>
+                  <date>2014-04-04T13:28:40Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Oversight and Investigations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2014-04-02T14:00:36Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>C001077</bioguideId>
+        <sponsorshipDate>2014-04-02</sponsorshipDate>
+        <district>6</district>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+          <bioguideId>C001077</bioguideId>
+        </identifiers>
+        <state>CO</state>
+        <lastName>Coffman</lastName>
+        <middleName />
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+      </item>
+      <item>
+        <bioguideId>W000815</bioguideId>
+        <sponsorshipDate>2014-04-02</sponsorshipDate>
+        <district>2</district>
+        <firstName>Brad</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2152</lisID>
+          <gpoId />
+          <bioguideId>W000815</bioguideId>
+        </identifiers>
+        <state>OH</state>
+        <lastName>Wenstrup</lastName>
+        <middleName>R.</middleName>
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+      </item>
+      <item>
+        <bioguideId>N000185</bioguideId>
+        <sponsorshipDate>2014-04-02</sponsorshipDate>
+        <district>11</district>
+        <firstName>Richard</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7877</gpoId>
+          <lisID>2001</lisID>
+          <bioguideId>N000185</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <lastName>Nugent</lastName>
+        <middleName>B.</middleName>
+        <fullName>Rep. Nugent, Richard B. [R-FL-11]</fullName>
+      </item>
+      <item>
+        <bioguideId>H001057</bioguideId>
+        <sponsorshipDate>2014-04-03</sponsorshipDate>
+        <district>1</district>
+        <firstName>Tim</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2020</lisID>
+          <gpoId>7949</gpoId>
+          <bioguideId>H001057</bioguideId>
+        </identifiers>
+        <state>KS</state>
+        <lastName>Huelskamp</lastName>
+        <middleName />
+        <fullName>Rep. Huelskamp, Tim [R-KS-1]</fullName>
+      </item>
+      <item>
+        <bioguideId>B001275</bioguideId>
+        <sponsorshipDate>2014-04-04</sponsorshipDate>
+        <district>8</district>
+        <firstName>Larry</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2018</lisID>
+          <bioguideId>B001275</bioguideId>
+          <gpoId>7947</gpoId>
+        </identifiers>
+        <state>IN</state>
+        <lastName>Bucshon</lastName>
+        <middleName />
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+      </item>
+      <item>
+        <bioguideId>M001159</bioguideId>
+        <sponsorshipDate>2014-04-04</sponsorshipDate>
+        <district>5</district>
+        <firstName>Cathy</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1809</lisID>
+          <bioguideId>M001159</bioguideId>
+          <gpoId>8209</gpoId>
+        </identifiers>
+        <state>WA</state>
+        <lastName>McMorris Rodgers</lastName>
+        <middleName />
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+      </item>
+      <item>
+        <bioguideId>J000295</bioguideId>
+        <sponsorshipDate>2014-04-04</sponsorshipDate>
+        <district>14</district>
+        <firstName>David</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2154</lisID>
+          <gpoId />
+          <bioguideId>J000295</bioguideId>
+        </identifiers>
+        <state>OH</state>
+        <lastName>Joyce</lastName>
+        <middleName>P.</middleName>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+      </item>
+      <item>
+        <bioguideId>K000376</bioguideId>
+        <sponsorshipDate>2014-04-04</sponsorshipDate>
+        <district>3</district>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2051</lisID>
+          <gpoId>8708</gpoId>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <lastName>Kelly</lastName>
+        <middleName />
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+      </item>
+      <item>
+        <bioguideId>B001289</bioguideId>
+        <sponsorshipDate>2014-04-04</sponsorshipDate>
+        <district>1</district>
+        <firstName>Bradley</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2197</lisID>
+          <bioguideId>B001289</bioguideId>
+        </identifiers>
+        <state>AL</state>
+        <lastName>Byrne</lastName>
+        <middleName />
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+      </item>
+      <item>
+        <bioguideId>D000619</bioguideId>
+        <sponsorshipDate>2014-04-04</sponsorshipDate>
+        <district>13</district>
+        <firstName>Rodney</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>IL</state>
+        <lastName>Davis</lastName>
+        <middleName />
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+      </item>
+      <item>
+        <bioguideId>N000181</bioguideId>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <district>22</district>
+        <firstName>Devin</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1710</lisID>
+          <gpoId>7826</gpoId>
+          <bioguideId>N000181</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <lastName>Nunes</lastName>
+        <middleName />
+        <fullName>Rep. Nunes, Devin [R-CA-22]</fullName>
+      </item>
+      <item>
+        <bioguideId>R000409</bioguideId>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <district>48</district>
+        <firstName>DANA</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>979</lisID>
+          <gpoId>7851</gpoId>
+          <bioguideId>R000409</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <lastName>ROHRABACHER</lastName>
+        <middleName />
+        <fullName>Rep. Rohrabacher, Dana [R-CA-48]</fullName>
+      </item>
+      <item>
+        <bioguideId>B001243</bioguideId>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <district>7</district>
+        <firstName>Marsha</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <state>TN</state>
+        <lastName>Blackburn</lastName>
+        <middleName />
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+      </item>
+      <item>
+        <bioguideId>A000369</bioguideId>
+        <sponsorshipDate>2014-04-08</sponsorshipDate>
+        <district>2</district>
+        <firstName>Mark</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8366</gpoId>
+          <lisID>2090</lisID>
+          <bioguideId>A000369</bioguideId>
+        </identifiers>
+        <state>NV</state>
+        <lastName>Amodei</lastName>
+        <middleName>E.</middleName>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+      </item>
+      <item>
+        <bioguideId>N000184</bioguideId>
+        <sponsorshipDate>2014-04-08</sponsorshipDate>
+        <district>0</district>
+        <firstName>Kristi</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000184</bioguideId>
+          <lisID>2060</lisID>
+          <gpoId>8147</gpoId>
+        </identifiers>
+        <state>SD</state>
+        <lastName>Noem</lastName>
+        <middleName>L.</middleName>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+      </item>
+      <item>
+        <bioguideId>S000364</bioguideId>
+        <sponsorshipDate>2014-04-08</sponsorshipDate>
+        <district>15</district>
+        <firstName>JOHN</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1527</lisID>
+          <gpoId>7939</gpoId>
+          <bioguideId>S000364</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <lastName>SHIMKUS</lastName>
+        <middleName>M.</middleName>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+      </item>
+      <item>
+        <bioguideId>W000814</bioguideId>
+        <sponsorshipDate>2014-04-08</sponsorshipDate>
+        <district>14</district>
+        <firstName>Randy</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2161</lisID>
+          <gpoId />
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <lastName>Weber</lastName>
+        <middleName>K.</middleName>
+        <fullName>Rep. Weber, Randy K. Sr. [R-TX-14]</fullName>
+      </item>
+      <item>
+        <bioguideId>C001094</bioguideId>
+        <sponsorshipDate>2014-04-08</sponsorshipDate>
+        <district>8</district>
+        <firstName>Paul</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <lastName>Cook</lastName>
+        <middleName />
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+      </item>
+      <item>
+        <bioguideId>J000292</bioguideId>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <district>6</district>
+        <firstName>Bill</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+          <bioguideId>J000292</bioguideId>
+        </identifiers>
+        <state>OH</state>
+        <lastName>Johnson</lastName>
+        <middleName />
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+      </item>
+      <item>
+        <bioguideId>S000018</bioguideId>
+        <sponsorshipDate>2014-04-28</sponsorshipDate>
+        <district>5</district>
+        <firstName>MATT</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1009</lisID>
+          <gpoId />
+          <bioguideId>S000018</bioguideId>
+        </identifiers>
+        <state>AZ</state>
+        <lastName>SALMON</lastName>
+        <middleName />
+        <fullName>Rep. Salmon, Matt [R-AZ-5]</fullName>
+      </item>
+      <item>
+        <bioguideId>R000594</bioguideId>
+        <sponsorshipDate>2014-04-29</sponsorshipDate>
+        <district>3</district>
+        <firstName>Jon</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2039</lisID>
+          <gpoId>8045</gpoId>
+          <bioguideId>R000594</bioguideId>
+        </identifiers>
+        <state>NJ</state>
+        <lastName>Runyan</lastName>
+        <middleName />
+        <fullName>Rep. Runyan, Jon [R-NJ-3]</fullName>
+      </item>
+      <item>
+        <bioguideId>B001284</bioguideId>
+        <sponsorshipDate>2014-04-30</sponsorshipDate>
+        <district>5</district>
+        <firstName>Susan</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001284</bioguideId>
+          <gpoId />
+          <lisID>2129</lisID>
+        </identifiers>
+        <state>IN</state>
+        <lastName>Brooks</lastName>
+        <middleName>W.</middleName>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+      </item>
+      <item>
+        <bioguideId>E000291</bioguideId>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <district>2</district>
+        <firstName>Renee</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>E000291</bioguideId>
+          <lisID>2036</lisID>
+          <gpoId>8025</gpoId>
+        </identifiers>
+        <state>NC</state>
+        <lastName>Ellmers</lastName>
+        <middleName>L.</middleName>
+        <fullName>Rep. Ellmers, Renee L. [R-NC-2]</fullName>
+      </item>
+      <item>
+        <bioguideId>J000255</bioguideId>
+        <sponsorshipDate>2014-05-19</sponsorshipDate>
+        <district>3</district>
+        <firstName>WALTER</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <state>NC</state>
+        <lastName>JONES</lastName>
+        <middleName>B.</middleName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+      </item>
+      <item>
+        <bioguideId>M001150</bioguideId>
+        <sponsorshipDate>2014-05-19</sponsorshipDate>
+        <district>10</district>
+        <firstName>Candice</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1731</lisID>
+          <gpoId>8589</gpoId>
+          <bioguideId>M001150</bioguideId>
+        </identifiers>
+        <state>MI</state>
+        <lastName>Miller</lastName>
+        <middleName>S.</middleName>
+        <fullName>Rep. Miller, Candice S. [R-MI-10]</fullName>
+      </item>
+      <item>
+        <bioguideId>J000296</bioguideId>
+        <sponsorshipDate>2014-05-19</sponsorshipDate>
+        <district>13</district>
+        <firstName>David</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2199</lisID>
+          <bioguideId>J000296</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>FL</state>
+        <lastName>Jolly</lastName>
+        <middleName />
+        <fullName>Rep. Jolly, David [R-FL-13]</fullName>
+      </item>
+      <item>
+        <bioguideId>H001036</bioguideId>
+        <sponsorshipDate>2014-06-10</sponsorshipDate>
+        <district>5</district>
+        <firstName>Jeb</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1749</lisID>
+          <bioguideId>H001036</bioguideId>
+          <gpoId>8161</gpoId>
+        </identifiers>
+        <state>TX</state>
+        <lastName>Hensarling</lastName>
+        <middleName />
+        <fullName>Rep. Hensarling, Jeb [R-TX-5]</fullName>
+      </item>
+      <item>
+        <bioguideId>L000571</bioguideId>
+        <sponsorshipDate>2014-06-10</sponsorshipDate>
+        <district>0</district>
+        <firstName>Cynthia</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1960</lisID>
+          <bioguideId>L000571</bioguideId>
+          <gpoId>8225</gpoId>
+        </identifiers>
+        <state>WY</state>
+        <lastName>Lummis</lastName>
+        <middleName>M.</middleName>
+        <fullName>Rep. Lummis, Cynthia M. [R-WY-At Large]</fullName>
+      </item>
+      <item>
+        <bioguideId>L000573</bioguideId>
+        <sponsorshipDate>2014-07-25</sponsorshipDate>
+        <district>1</district>
+        <firstName>Raul</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2011</lisID>
+          <bioguideId>L000573</bioguideId>
+          <gpoId>7919</gpoId>
+        </identifiers>
+        <state>ID</state>
+        <lastName>Labrador</lastName>
+        <middleName>R.</middleName>
+        <fullName>Rep. Labrador, Raul R. [R-ID-1]</fullName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Veterans Information Security Improvement Act</title>
+    <titles>
+      <item>
+        <title>Veterans Information Security Improvement Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To improve the information security of the Department of Veterans Affairs by directing the Secretary of Veterans Affairs to carry out certain actions to improve the transparency and the governance of the information security program of the Department, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Veterans Information Security Improvement Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mrs. WALORSKI:H.R. 4370.Congress has the power to enact this legislation pursuantto the following:Clause 3 of Section 8 of Article I of the United StatesConstitution[Page H2854]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2014-04-02</actionDate>
+          <updateDate>2014-04-02T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2014-06-17T20:54:42Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Veterans Information Security Improvement Act - Directs the Secretary of Veterans Affairs to: (1) carry out certain information security activities, (2) ensure that officials and staff of the Department of Veterans Affairs (VA) possess specified qualifications in such areas, and (3) coordinate the staffing of related information technology and security offices.</p> <p>Requires the Secretary to ensure that: (1) the Assistant Secretary for Information and Technology, the head of the Office of Information Security (OIS), and relevant field staff possess certain levels of information technology education, certifications, and experience; (2) Office of Information and Technology (OIT) staff are assigned to the OIS; and (3) subordinate OIT offices maintain appropriate information security functions.</p> <p>Directs the Secretary to ensure that subordinate OIT offices maintain functions to: (1) integrate the VA's security architecture into the VA's overall enterprise architecture strategy, (2) restrict the development of new data warehouses and data marts holding sensitive personal information of veterans, and (3) reduce the number of data marts holding such personal information.</p> <p>Defines: (1) &quot;data mart&quot; as a subset of a data warehouse that contains information for a specific entity of an organization rather than the entire organization, and (2) &quot;data warehouse&quot; as a collection of data designed to support management decision making that contains a wide variety of data presenting a coherent picture of business conditions for an entire organization at a single point in time and whose development includes systems to extract data from operating systems plus installation of a warehouse database system that provides managers flexible access to the data.</p> <p>Requires the Secretary to safeguard VA network infrastructure, computers, and servers.</p> <p>Directs the Secretary to protect the confidentiality of sensitive personal information of veterans by: (1) providing upgrades or phaseouts of outdated or unsupported operating systems to protect against harmful viruses and malicious software, and (2) securing VA web applications and the Veterans Health Information Systems and Technology Architecture (commonly referred to as the &quot;Vista system,&quot; which allows for an integrated inpatient and outpatient electronic health record for patients and provides administrative tools to VA employees).</p> <p>Directs the Secretary to submit certifications to Congress regarding the VA's compliance with information security requirements, including actions required by the National Institute of Standards and Technology (NIST) and the Office of Management and Budget (OMB).</p> <p>Requires the Secretary to submit monthly reports to Congress regarding security vulnerabilities discovered after performing regular scans of VA computers and servers.</p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+      <actionDate>2014-04-04</actionDate>
+    </latestAction>
+    <billNumber>4370</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>2</district>
+        <firstName>Jackie</firstName>
+        <party>R</party>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <bioguideId>W000813</bioguideId>
+        <identifiers>
+          <lisID>2128</lisID>
+          <gpoId />
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <lastName>Walorski</lastName>
+        <middleName />
+        <state>IN</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

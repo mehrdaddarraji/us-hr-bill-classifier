@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lipinski</lastName>
+        <state>IL</state>
+        <party>D</party>
+        <district>3</district>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <middleName>William</middleName>
+        <identifiers>
+          <lisID>1781</lisID>
+          <bioguideId>L000563</bioguideId>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <bioguideId>L000563</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Daniel</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-09-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SCHIFF</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <district>28</district>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>1635</lisID>
+          <gpoId>7834</gpoId>
+          <bioguideId>S001150</bioguideId>
+        </identifiers>
+        <bioguideId>S001150</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ADAM</firstName>
+      </item>
+    </cosponsors>
+    <actions>
+      <item>
+        <actionDate>2013-04-08</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-15</actionDate>
+        <committee>
+          <systemCode>hsfa16</systemCode>
+          <name>Africa, Global Health, Global Human Rights and International Organizations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-07</actionDate>
+        <committee>
+          <systemCode>hswm03</systemCode>
+          <name>Human Resources Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Human Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-01</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Energy and Commerce</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-28</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-28</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Judiciary</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-28</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Ways and Means, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-28</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Foreign Affairs</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-28</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-28</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-28</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>4</placeholderTextForH>
+        <billReferrals>4</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HR</billType>
+    <title>Trafficking Victims Protection Reauthorization Act of 2013</title>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-02-28</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-03-28T19:34:50Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Trafficking Victims Protection Reauthorization Act of 2013 - Authorizes the Secretary of State to: (1) limit the validity of a passport issued to a sex offender to one year or such time period as appropriate, and (2) revoke the passport or passport card of an individual who has been convicted of a sex offense by a foreign court of competent jurisdiction.</p> <p>Amends the Trafficking Victims Protection Act of 2000 (TVPA) to rename the State Department's Office to Monitor and Combat Trafficking as the Bureau to Monitor and Combat Modern Slavery and Other Forms of Human Trafficking. </p> <p>Directs the Secretary to establish a strategy: (1) to prevent child marriage, (2) to promote the protection of girls at risk of child marriage in developing countries, (3) that targets areas in developing countries with high prevalence of child marriage, and (4) that includes diplomatic and programmatic initiatives.</p> <p>Includes public-private partnerships to generate youth employment opportunities among the economic initiatives to prevent trafficking in persons. Authorizes the President to give priority in carrying out such initiatives to specified categories of potential trafficking victims. </p> <p>Authorizes the Secretary to provide assistance for vulnerable populations at risk of trafficking in persons in conjunction with post-conflict situations and humanitarian emergencies.</p> <p>Amends the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (Wilberforce Act) to extend an authorized fee increase for certain consular services through September 30, 2017.</p> <p> Requires the head of the Department of Labor's Bureau of International Labor Affairs to carry out specified additional activities to monitor and combat forced labor and child labor in the United States as well as foreign countries, including listing goods that the Bureau believes are produced by forced labor or child labor in violation of international standards. </p> <p> Directs the Secretary to encourage specified publicly-traded or private entities carrying out business operations in the United States to disclose annually on their websites and to the Secretary any measures taken to address conditions of forced labor, slavery, human trafficking, and child labor within their supply chains.</p> <p>Amends the federal criminal code to expand the prohibition against foreign travel and engagement in illicit sexual conduct by a U.S. citizen or permanent resident alien to include travel affecting foreign commerce even if an individual is residing temporarily or permanently in a foreign jurisdiction. Declares that it is not a defense that a defendant is not criminally liable or is subject to reduced criminal liability due to acceptance of the illicit conduct in the foreign jurisdiction.</p> <p>Requires the Senior Policy Operating Group to report to Congress on Internet-facilitated human trafficking. </p> <p>Makes the Director of the Peace Corps a member of the Interagency Task Force to Monitor and Combat Trafficking. </p> <p>Sets forth related reporting requirements regarding: (1) U.S. government contractors and subcontractors, (2) Bureau of Justice Assistance grant assistance for human trafficking task forces, and (3) the number of trafficking victims who have been granted continued presence in the United States.</p> <p>Authorizes the Department of Homeland Security (DHS) to permit an alien who may be a victim of human trafficking (currently, only if the alien is such a victim) to remain in the United States to facilitate the investigation and prosecution of those responsible for human trafficking. Requires a federal law enforcement official to respond to a request for continued U.S. presence within 15 days, and DHS to approve or deny such request within 1 month.</p> <p>Amends the federal criminal code to prohibit knowingly destroying or concealing or confiscating for more than 48 hours the passport or other immigration or personal identification document of an individual: (1) in the course of violating the prohibition against bringing in and harboring certain aliens; or (2) in order to unlawfully maintain, prevent, or restrict an individual's labor or services.</p> <p>Makes fraud in foreign labor contracting a predicate offense under the Racketeer Influenced and Corrupt Organizations Act (RICO).</p> <p>Authorizes: (1) the Assistant Attorney General to award block grants to not more than six eligible entities in different U.S. regions to combat sex trafficking, and (2) appropriations through FY2017.</p> <p>Amends the Wilberforce Act to: (1) provide that, to the extent feasible, unaccompanied alien children from countries that are contiguous with the United States should be housed and screened by an immigration officer with expertise in child welfare in separate child-friendly facilities conducive to disclosing information related to human trafficking or exploitation; and (2) require each federal agency to notify the Department of Health and Human Services (HHS) within 24 (currently 48) hours regarding the apprehension of an unaccompanied alien child or regarding any claim that an alien in custody is under age 18.</p> <p>Amends the Social Security Act to require, by January 1, 2013, that state plans for foster care and adoption assistance describe prevention measures and victim assistance concerning human trafficking and commercial sexual exploitation of foreign, U.S. citizen, and legal resident children.</p> <p>Sets forth provisions regarding the National Human Trafficking Resource Center Hotline.</p> <p>Authorizes appropriations through FY2017 for the TVPA and the Trafficking Victims Protection Reauthorization Act of 2005.</p> <p>Prohibits an organization, including a faith-based organization, that is otherwise eligible to receive assistance under any specified federal laws from being: (1) required as a condition of receiving such assistance to endorse or otherwise participate in any program or activity to which the organization has a religious or moral objection; or (2) discriminated against in the solicitation or issuance of grants, contracts, or other federal funding for refusing to meet any such requirements. </p> <p>Grants jurisdiction to U.S. courts to prevent and redress actual or threatened violations of such prohibition by issuing any form of legal or equitable relief.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-02-28T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. SMITH of New Jersey:H.R. 898.Congress has the power to enact this legislation pursuantto the following:article 1, section 8 of the Constitution[Page H816]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Adoption and foster care</name>
+          </item>
+          <item>
+            <name>Business ethics</name>
+          </item>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Foreign loans and debt</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Homelessness and emergency shelter</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Lawyers and legal services</name>
+          </item>
+          <item>
+            <name>Marriage and family status</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Organized crime</name>
+          </item>
+          <item>
+            <name>Peace Corps</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+          <item>
+            <name>Women's rights</name>
+          </item>
+          <item>
+            <name>Youth employment and child labor</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>898</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Trafficking Victims Protection Reauthorization Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To authorize appropriations for fiscal years 2014 through 2017 for the Trafficking Victims Protection Act of 2000, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Trafficking Victims Protection Reauthorization Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <middleName>H.</middleName>
+        <lastName>SMITH</lastName>
+        <firstName>CHRISTOPHER</firstName>
+        <byRequestType />
+        <bioguideId>S000522</bioguideId>
+        <identifiers>
+          <gpoId>8046</gpoId>
+          <bioguideId>S000522</bioguideId>
+          <lisID>1071</lisID>
+        </identifiers>
+        <party>R</party>
+        <district>4</district>
+        <state>NJ</state>
+      </item>
+    </sponsors>
+    <updateDate>2016-10-25T15:59:52Z</updateDate>
+    <relatedBills />
+    <notes />
+    <amendments />
+    <createDate>2013-03-01T07:00:52Z</createDate>
+    <introducedDate>2013-02-28</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-28T14:08:40Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-04-08T21:22:24Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-28T14:08:35Z</date>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsfa16</systemCode>
+              <name>Africa, Global Health, Global Human Rights and International Organizations Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-03-15T17:15:28Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-28T14:08:45Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hswm03</systemCode>
+              <name>Human Resources Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-03-07T21:36:35Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-28T14:08:50Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-03-01T20:52:20Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2013-04-08</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </latestAction>
+    <congress>113</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-01-09</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-11-21</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-11-21</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-11-21</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>4</district>
+        <fullName>Rep. Perry, Scott [R-PA-4]</fullName>
+        <lastName>Perry</lastName>
+        <middleName />
+        <state>PA</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>P000605</bioguideId>
+          <lisID>2157</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Scott</firstName>
+        <bioguideId>P000605</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. PERRY:H.R. 3611.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H7356]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3611</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:09:16Z</updateDate>
+    <laws />
+    <createDate>2013-11-22T07:01:10Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2013-11-21T14:02:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2014-01-09T18:51:01Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>DHS Immigration Accountability and Transparency Act of 2013 - Directs the Secretary of Homeland Security (DHS) to submit to Congress an annual report on DHS immigration policy directives.</p> <p>States that for specified purposes an immigration policy directive shall be treated as a rule.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-11-21</actionDate>
+          <lastSummaryUpdateDate>2013-12-04T16:04:35Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2013-11-21T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <lastName>Barletta</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001269</bioguideId>
+        <identifiers>
+          <lisID>2054</lisID>
+          <bioguideId>B001269</bioguideId>
+          <gpoId>8129</gpoId>
+        </identifiers>
+        <firstName>Lou</firstName>
+        <middleName />
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+      </item>
+      <item>
+        <fullName>Rep. Bachmann, Michele [R-MN-6]</fullName>
+        <lastName>Bachmann</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001256</bioguideId>
+        <identifiers>
+          <bioguideId>B001256</bioguideId>
+          <gpoId>8006</gpoId>
+          <lisID>1858</lisID>
+        </identifiers>
+        <firstName>Michele</firstName>
+        <middleName />
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+      </item>
+      <item>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <lastName>SMITH</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000583</bioguideId>
+        <identifiers>
+          <gpoId>8177</gpoId>
+          <bioguideId>S000583</bioguideId>
+          <lisID>1075</lisID>
+        </identifiers>
+        <firstName>LAMAR</firstName>
+        <middleName />
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <district>21</district>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+      </item>
+      <item>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <lastName>Stewart</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001192</bioguideId>
+        <identifiers>
+          <bioguideId>S001192</bioguideId>
+          <lisID>2168</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Chris</firstName>
+        <middleName />
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>UT</state>
+      </item>
+      <item>
+        <fullName>Rep. Cotton, Tom [R-AR-4]</fullName>
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001095</bioguideId>
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Tom</firstName>
+        <middleName />
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+      </item>
+      <item>
+        <fullName>Rep. Gingrey, Phil [R-GA-11]</fullName>
+        <lastName>Gingrey</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000550</bioguideId>
+        <identifiers>
+          <gpoId>7908</gpoId>
+          <bioguideId>G000550</bioguideId>
+          <lisID>1720</lisID>
+        </identifiers>
+        <firstName>Phil</firstName>
+        <middleName />
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+      </item>
+      <item>
+        <fullName>Rep. Mulvaney, Mick [R-SC-5]</fullName>
+        <lastName>Mulvaney</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001182</bioguideId>
+        <identifiers>
+          <lisID>2059</lisID>
+          <bioguideId>M001182</bioguideId>
+          <gpoId>8145</gpoId>
+        </identifiers>
+        <firstName>Mick</firstName>
+        <middleName />
+        <sponsorshipDate>2013-12-10</sponsorshipDate>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+      </item>
+      <item>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <lastName>Brooks</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001274</bioguideId>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+        </identifiers>
+        <firstName>Mo</firstName>
+        <middleName />
+        <sponsorshipDate>2014-07-23</sponsorshipDate>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <state>AL</state>
+      </item>
+      <item>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <lastName>Gosar</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000565</bioguideId>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <firstName>Paul</firstName>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2014-07-23</sponsorshipDate>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>DHS Immigration Accountability and Transparency Act of 2013</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To require the Secretary of Homeland Security to submit to Congress an annual report on immigration policy directives issued by the Department of Homeland Security, to ensure that each such policy directive is subject to the rule making process described in section 553 of title 5, United States Code, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>DHS Immigration Accountability and Transparency Act of 2013</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>DHS Immigration Accountability and Transparency Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-11-21</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2014-01-09</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

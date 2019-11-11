@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-01-15</actionDate>
+        <committee>
+          <systemCode>hswm03</systemCode>
+          <name>Human Resources Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Human Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2013-01-03</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-01-03</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-01-03</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestTitle>Emergency Unemployment Compensation Extension Act of 2014</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <actionDate>2014-06-13</actionDate>
+          <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        </latestAction>
+        <number>4550</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Text similarities</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors />
+    <notes />
+    <createDate>2013-01-04T07:00:55Z</createDate>
+    <introducedDate>2013-01-03</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-01-15</actionDate>
+      <text>Referred to the Subcommittee on Human Resources.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Hire Just One Act of 2013</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to provide for an employment assistance voucher program for the unemployed.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Hire Just One Act of 2013</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Employment taxes</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T15:57:04Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName>G.</middleName>
+        <fullName>Rep. Fitzpatrick, Michael G. [R-PA-8]</fullName>
+        <identifiers>
+          <gpoId>8126</gpoId>
+          <bioguideId>F000451</bioguideId>
+          <lisID>1797</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>Michael</firstName>
+        <lastName>Fitzpatrick</lastName>
+        <bioguideId>F000451</bioguideId>
+        <state>PA</state>
+        <district>8</district>
+      </item>
+    </sponsors>
+    <title>Hire Just One Act of 2013</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Hire Just One Act of 2013 - Amends the Internal Revenue Code to allow states, for a 120-day period beginning on the enactment date of this Act, to implement an employment assistance voucher program, in lieu of paying unemployment compensation directly to employees, under which an eligible individual is issued an employment assistance voucher and is hired by a participating employer who receives a subsidy from the state for the wages paid to the employee. Defines an &quot;eligible employee&quot; as an individual who has been unemployed for at least six months, who is eligible for unemployment compensation, and who is likely to exhaust such compensation. </p> <p>Requires a state program issuing employment assistance vouchers to have in effect measures to recoup subsidies made to an employer if such employer has terminated more employees during the 120-day period than such employer has hired under the program. </p>]]></text>
+          <updateDate>2013-01-03T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-02-12T22:41:27Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-01-03</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>51</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hswm03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-01-15T21:36:14Z</date>
+                </item>
+              </activities>
+              <name>Human Resources Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-03T16:14:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 1 (Thursday, January 3, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. FITZPATRICK:H.R. 51.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the U.S. Constitution:``The Congress shall have the Power to lay and collectTaxes, Duties, Imposts, and Excises, to pay the Debts andProvide for the common Defense and general Welfare of theUnited States''[Page H34]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-10-14</actionDate>
+        <committee>
+          <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+          <systemCode>hsvr09</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2013-09-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2013-09-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2013-09-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>4</district>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <lastName>GUTIERREZ</lastName>
+        <middleName>V.</middleName>
+        <state>IL</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7924</gpoId>
+          <bioguideId>G000535</bioguideId>
+          <lisID>478</lisID>
+        </identifiers>
+        <firstName>LUIS</firstName>
+        <bioguideId>G000535</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. GUTIERREZ:H.R. 3207.Congress has the power to enact this legislation pursuantto the following:The Congress has the power to enact this legislation underArticle I, Section 8, of the United States Constitution.[Page H5922]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3207</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:07:38Z</updateDate>
+    <laws />
+    <createDate>2013-09-29T02:55:14Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2013-09-27T13:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2013-10-14T19:50:58Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsvr09</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsvr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2013-09-27</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Benefits Fairness for Filipino Veterans Act of 2013 - Provides that, with respect to eligibility for benefits through the Department of Veterans Affairs (VA) of Filipino veterans who are lawful U.S. residents, the Secretary of Veterans Affairs may not determine that such a person is not an individual residing in the United States solely because the person is outside the United States for any period of less than one year.</p>]]></text>
+          <updateDate>2013-09-27T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-12-09T21:42:41Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <firstName>Madeleine</firstName>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <sponsorshipDate>2013-09-27</sponsorshipDate>
+        <middleName>Z.</middleName>
+        <bioguideId>B001245</bioguideId>
+        <state>GU</state>
+        <identifiers>
+          <bioguideId>B001245</bioguideId>
+          <gpoId>7911</gpoId>
+          <lisID>1723</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bordallo</lastName>
+        <district>0</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Tony</firstName>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <sponsorshipDate>2013-09-27</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001097</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2107</lisID>
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cardenas</lastName>
+        <district>29</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Tammy</firstName>
+        <fullName>Rep. Duckworth, Tammy [D-IL-8]</fullName>
+        <sponsorshipDate>2013-09-27</sponsorshipDate>
+        <middleName />
+        <bioguideId>D000622</bioguideId>
+        <state>IL</state>
+        <identifiers>
+          <lisID>2123</lisID>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Duckworth</lastName>
+        <district>8</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>William</firstName>
+        <fullName>Rep. Enyart, William L. [D-IL-12]</fullName>
+        <sponsorshipDate>2013-09-27</sponsorshipDate>
+        <middleName>L.</middleName>
+        <bioguideId>E000292</bioguideId>
+        <state>IL</state>
+        <identifiers>
+          <lisID>2125</lisID>
+          <bioguideId>E000292</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Enyart</lastName>
+        <district>12</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Colleen</firstName>
+        <fullName>Rep. Hanabusa, Colleen W. [D-HI-1]</fullName>
+        <sponsorshipDate>2013-09-27</sponsorshipDate>
+        <middleName>W.</middleName>
+        <bioguideId>H001050</bioguideId>
+        <state>HI</state>
+        <identifiers>
+          <bioguideId>H001050</bioguideId>
+          <lisID>2010</lisID>
+          <gpoId>7912</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Hanabusa</lastName>
+        <district>1</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>MICHAEL</firstName>
+        <fullName>Rep. Honda, Michael M. [D-CA-17]</fullName>
+        <sponsorshipDate>2013-09-27</sponsorshipDate>
+        <middleName>M.</middleName>
+        <bioguideId>H001034</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1634</lisID>
+          <bioguideId>H001034</bioguideId>
+          <gpoId>7820</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>HONDA</lastName>
+        <district>17</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Gregorio</firstName>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <sponsorshipDate>2013-09-27</sponsorshipDate>
+        <middleName>Kilili Camacho</middleName>
+        <bioguideId>S001177</bioguideId>
+        <state>MP</state>
+        <identifiers>
+          <bioguideId>S001177</bioguideId>
+          <lisID>1962</lisID>
+          <gpoId>8018</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Sablan</lastName>
+        <district>0</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Juan</firstName>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <sponsorshipDate>2013-09-27</sponsorshipDate>
+        <middleName />
+        <bioguideId>V000130</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>V000130</bioguideId>
+          <gpoId />
+          <lisID>2112</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Vargas</lastName>
+        <district>51</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Alan</firstName>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <sponsorshipDate>2013-09-27</sponsorshipDate>
+        <middleName>S.</middleName>
+        <bioguideId>L000579</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2111</lisID>
+          <bioguideId>L000579</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lowenthal</lastName>
+        <district>47</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Cheri</firstName>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <sponsorshipDate>2013-09-27</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001286</bioguideId>
+        <state>IL</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2127</lisID>
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bustos</lastName>
+        <district>17</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>JANICE</firstName>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <sponsorshipDate>2013-09-28</sponsorshipDate>
+        <middleName>D.</middleName>
+        <bioguideId>S001145</bioguideId>
+        <state>IL</state>
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SCHAKOWSKY</lastName>
+        <district>9</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Eni</firstName>
+        <fullName>Rep. Faleomavaega, Eni F. H. [D-AS-At Large]</fullName>
+        <sponsorshipDate>2013-09-28</sponsorshipDate>
+        <middleName>F. H.</middleName>
+        <bioguideId>F000010</bioguideId>
+        <state>AS</state>
+        <identifiers>
+          <gpoId>7797</gpoId>
+          <bioguideId>F000010</bioguideId>
+          <lisID>367</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Faleomavaega</lastName>
+        <district>0</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Gloria</firstName>
+        <fullName>Rep. Negrete McLeod, Gloria [D-CA-35]</fullName>
+        <sponsorshipDate>2013-10-08</sponsorshipDate>
+        <middleName />
+        <bioguideId>N000187</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>N000187</bioguideId>
+          <lisID>2108</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Negrete McLeod</lastName>
+        <district>35</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <sponsorshipDate>2013-10-08</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000454</bioguideId>
+        <state>IL</state>
+        <identifiers>
+          <gpoId>7355</gpoId>
+          <bioguideId>F000454</bioguideId>
+          <lisID>1888</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Foster</lastName>
+        <district>11</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>DANNY</firstName>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <sponsorshipDate>2013-10-23</sponsorshipDate>
+        <middleName>K.</middleName>
+        <bioguideId>D000096</bioguideId>
+        <state>IL</state>
+        <identifiers>
+          <gpoId>7927</gpoId>
+          <lisID>1477</lisID>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DAVIS</lastName>
+        <district>7</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>BOBBY</firstName>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <sponsorshipDate>2013-10-23</sponsorshipDate>
+        <middleName>L.</middleName>
+        <bioguideId>R000515</bioguideId>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+          <lisID>1003</lisID>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>RUSH</lastName>
+        <district>1</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Daniel</firstName>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <sponsorshipDate>2013-11-15</sponsorshipDate>
+        <middleName>William</middleName>
+        <bioguideId>L000563</bioguideId>
+        <state>IL</state>
+        <identifiers>
+          <lisID>1781</lisID>
+          <bioguideId>L000563</bioguideId>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Lipinski</lastName>
+        <district>3</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <sponsorshipDate>2014-01-09</sponsorshipDate>
+        <middleName />
+        <bioguideId>Q000023</bioguideId>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Quigley</lastName>
+        <district>5</district>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestTitle>Benefits Fairness for Filipino Veterans Act of 2013</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1559</number>
+        <latestAction>
+          <actionDate>2013-10-30</actionDate>
+          <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-280.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Philippines</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Benefits Fairness for Filipino Veterans Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend title 38, United States Code, to modify the method of determining whether Filipino veterans are United States residents for purposes of eligibility for receipt of the full-dollar rate of compensation under the laws administered by the Secretary of Veterans Affairs.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Benefits Fairness for Filipino Veterans Act of 2013</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Benefits Fairness for Filipino Veterans Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-09-27</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-10-14</actionDate>
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

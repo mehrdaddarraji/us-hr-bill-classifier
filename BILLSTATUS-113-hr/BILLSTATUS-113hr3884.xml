@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <firstName>Michael</firstName>
+        <fullName>Rep. Michaud, Michael H. [D-ME-2]</fullName>
+        <sponsorshipDate>2014-01-15</sponsorshipDate>
+        <middleName>H.</middleName>
+        <bioguideId>M001149</bioguideId>
+        <state>ME</state>
+        <identifiers>
+          <gpoId>7985</gpoId>
+          <bioguideId>M001149</bioguideId>
+          <lisID>1730</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Michaud</lastName>
+        <district>2</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>FRANK</firstName>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <sponsorshipDate>2014-01-15</sponsorshipDate>
+        <middleName />
+        <bioguideId>P000034</bioguideId>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>887</lisID>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>PALLONE</lastName>
+        <district>6</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>LLOYD</firstName>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <sponsorshipDate>2014-01-27</sponsorshipDate>
+        <middleName />
+        <bioguideId>D000399</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>D000399</bioguideId>
+          <gpoId>8181</gpoId>
+          <lisID>303</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DOGGETT</lastName>
+        <district>35</district>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-01-17</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2014-01-15</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2014-01-15</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2014-01-15</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <billType>HR</billType>
+    <title>Ensuring Full Use of Federal Health Care Funding Act of 2014</title>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Ensuring Full Use of Federal Health Care Funding Act of 2014 - Amends the Patient Protection and Affordable Care Act to direct the Secretary of Health and Human Services (HHS) to recoup any funds awarded to a state to establish health care exchanges to the extent the state has not obligated them for expenditure before April 1, 2014. Allows the Secretary, however, not to recoup such funds from a state if the state has approved, before March 31, 2014, a plan to spend them for such exchanges in a timely manner.</p> <p>Requires the Secretary to use any recouped funds to make grants to qualified entities to: (1) build and fund operations of an in-person assistance personnel (IPA) program (also known as &quot;non-Navigator assistance personnel&quot;); (2) coordinate with other health and human services organizations in the state to broaden outreach to individuals eligible to enroll in qualified health plans through the exchange operating in the state; and (3) produce and disseminate marketing and campaign materials, subject to the Secretary's approval.</p> <p>Requires a qualified entity to: (1) have (or readily and on a timely basis be able to establish) relationships with employers and employees, consumers (both uninsured and underinsured), or self-employed individuals in the state that are likely to be qualified to enroll in coverage options made available through a health care exchange in the state; (2) be capable of carrying out grant activities; and (3) meet specified standards.</p> <p>Lists as types of qualified entities: (1) a trade, industry, and professional association; (2) a commercial fishing industry organization; (3) a ranching and farming organization; (4) a community and consumer-focused nonprofit group; (5) a chamber of commerce; (6) a union; (7) a resource partner of the Small Business Administration (SBA); (8) a licensed insurance agent or broker; and (9) any other entity that meets the qualification standards.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2014-05-01T21:06:38Z</lastSummaryUpdateDate>
+          <actionDate>2014-01-15</actionDate>
+          <updateDate>2014-01-15T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. PASCRELL:H.R. 3884.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the United StatesConstitution.[Page H473]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Comprehensive health care</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Marketing and advertising</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>3884</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Ensuring Full Use of Federal Health Care Funding Act of 2014</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>To amend section 1311(a) of the Patient Protection and Affordable Care Act to provide for the recoupment and reallocation of unspent State grant funds, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Ensuring Full Use of Federal Health Care Funding Act of 2014</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <middleName>J.</middleName>
+        <lastName>PASCRELL</lastName>
+        <firstName>WILLIAM</firstName>
+        <byRequestType />
+        <bioguideId>P000096</bioguideId>
+        <identifiers>
+          <gpoId>8050</gpoId>
+          <bioguideId>P000096</bioguideId>
+          <lisID>1510</lisID>
+        </identifiers>
+        <party>D</party>
+        <district>9</district>
+        <state>NJ</state>
+      </item>
+    </sponsors>
+    <updateDate>2016-10-25T16:10:12Z</updateDate>
+    <relatedBills />
+    <notes />
+    <amendments />
+    <createDate>2014-01-16T07:02:03Z</createDate>
+    <introducedDate>2014-01-15</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2014-01-15T15:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2014-01-17T20:54:40Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2014-01-17</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <congress>113</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-01-09</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-01-09</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hlig00</systemCode>
+          <name>Intelligence (Permanent) Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Intelligence (Permanent)</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-09-20</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-09-20</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Judiciary</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-09-20</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-09-20</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-09-20</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>28</district>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <lastName>SCHIFF</lastName>
+        <middleName>B.</middleName>
+        <state>CA</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001150</bioguideId>
+          <lisID>1635</lisID>
+          <gpoId>7834</gpoId>
+        </identifiers>
+        <firstName>ADAM</firstName>
+        <bioguideId>S001150</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. SCHIFF:H.R. 3159.Congress has the power to enact this legislation pursuantto the following:The Ensuring Adversarial Process in the FISA Court Act isconstitutionally authorized under Article I, Section 8,Clause 3, the Commerce Clause and Article I, Section 8,Clause 18, the Necessary and Proper Clause. Additionally, thePreamble to the Constitution provides support of theauthority to enact legislation to promote the GeneralWelfare.[Page H5802]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3159</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:07:26Z</updateDate>
+    <laws />
+    <createDate>2013-09-21T07:01:06Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <date>2014-01-09T18:10:48Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <date>2014-01-09T18:10:16Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-09-20T13:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Intelligence (Permanent) Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hlig00</systemCode>
+          <type>Select</type>
+          <activities>
+            <item>
+              <date>2013-09-20T13:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-09-20T04:00:00Z</updateDate>
+          <actionDate>2013-09-20</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Ensuring Adversarial Process in the FISA Court Act - Amends the Intelligence Reform and Terrorism Prevention Act of 2004 to require the Privacy and Civil Liberties Oversight Board (an independent agency that reviews executive branch actions taken to protect the nation from terrorism in order to ensure a balance with privacy and civil liberties) to appoint: (1) attorneys to serve as public interest advocates in proceedings before the Foreign Intelligence Surveillance Court (FISC), a judge of the petition review pool, the Foreign Intelligence Surveillance Court of Review (FISCR), and the Supreme Court under the Foreign Intelligence Surveillance Act of 1978 (FISA); and (2) technical and subject-matter experts (including experts of computer networks, telecommunications, encryption, and cybersecurity), not employed by the federal government, to be available to assist such advocates in performing their duties.</p> <p>Requires such courts, in any matter involving a significant interpretation or construction of FISA, to appoint at least one public interest advocate who will: (1) participate fully with the same rights and privileges as the federal government; (2) represent the interests of the people of the United States in preserving privacy and civil liberties, including with respect to rights under the Fourth Amendment to the Constitution; and (3) have access to all relevant evidence as well as the authority to petition the court to order the government to produce other necessary evidence.</p> <p>Authorizes such advocates to file motions and briefs, respond to motions or filings made by the federal government, and request rehearings or en banc consideration of a decision. </p> <p>Permits the FISC to request review by the FISCR, and permits the FISCR to request review by the Supreme Court, when matters before such courts in which a public interest advocate has been appointed involve a question of law in which there is substantial ground for difference of opinion. </p> <p>Requires the United States and the public interest advocate, when a court has requested such a review, to be given an opportunity to provide written briefs or arguments related to a decision by the FISCR or the Supreme Court to review a ruling.</p> <p>Allows each relevant court, upon a finding that it would benefit from additional views, to permit participation by amicus curiae.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-10-25T20:53:58Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-09-20</sponsorshipDate>
+        <district>0</district>
+        <state>DE</state>
+        <firstName>John</firstName>
+        <lastName>Carney</lastName>
+        <fullName>Rep. Carney, John C., Jr. [D-DE-At Large]</fullName>
+        <bioguideId>C001083</bioguideId>
+        <identifiers>
+          <lisID>1999</lisID>
+          <bioguideId>C001083</bioguideId>
+          <gpoId>7872</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <district>5</district>
+        <state>IL</state>
+        <firstName>Mike</firstName>
+        <lastName>Quigley</lastName>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <bioguideId>Q000023</bioguideId>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+          <actionDate>2013-10-15</actionDate>
+        </latestAction>
+        <congress>113</congress>
+        <latestTitle>FISA Court Reform Act of 2013</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>3228</number>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2013-09-25</actionDate>
+        </latestAction>
+        <congress>113</congress>
+        <latestTitle>Intelligence Oversight and Surveillance Reform Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1551</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Judges</name>
+          </item>
+          <item>
+            <name>Lawyers and legal services</name>
+          </item>
+          <item>
+            <name>Privacy and Civil Liberties Oversight Board</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>Specialized courts</name>
+          </item>
+          <item>
+            <name>Supreme Court</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Ensuring Adversarial Process in the FISA Court Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To provide for the appointment of a public interest advocate in matters involving a significant legal interpretation or construction of the Foreign Intelligence Surveillance Act of 1978, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Ensuring Adversarial Process in the FISA Court Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Ensuring Adversarial Process in the FISA Court Act</title>
+    <billType>HR</billType>
+    <introducedDate>2013-09-20</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2014-01-09</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

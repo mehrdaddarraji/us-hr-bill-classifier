@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-04-12</actionDate>
+        <committee>
+          <systemCode>hspw07</systemCode>
+          <name>Coast Guard and Maritime Transportation Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <actionDate>2013-04-11</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/extensions-of-remarks-section/page/E425</url>
+            <name>E425</name>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2013-04-11</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Sponsor introductory remarks on measure. (CR E425)</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-04-11</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-04-11</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <sponsorshipDate>2013-04-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CUMMINGS</lastName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <identifiers>
+          <gpoId>7982</gpoId>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELIJAH</firstName>
+        <bioguideId>C000984</bioguideId>
+        <state>MD</state>
+        <district>7</district>
+      </item>
+      <item>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <sponsorshipDate>2013-04-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>DUNCAN</lastName>
+        <party>R</party>
+        <middleName>J.</middleName>
+        <identifiers>
+          <lisID>322</lisID>
+          <gpoId>8149</gpoId>
+          <bioguideId>D000533</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <bioguideId>D000533</bioguideId>
+        <state>TN</state>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <sponsorshipDate>2013-04-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bordallo</lastName>
+        <party>D</party>
+        <middleName>Z.</middleName>
+        <identifiers>
+          <lisID>1723</lisID>
+          <bioguideId>B001245</bioguideId>
+          <gpoId>7911</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Madeleine</firstName>
+        <bioguideId>B001245</bioguideId>
+        <state>GU</state>
+        <district>0</district>
+      </item>
+      <item>
+        <fullName>Rep. Brown, Corrine [D-FL-5]</fullName>
+        <sponsorshipDate>2013-04-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>BROWN</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>B000911</bioguideId>
+          <gpoId>7875</gpoId>
+          <lisID>132</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>CORRINE</firstName>
+        <bioguideId>B000911</bioguideId>
+        <state>FL</state>
+        <district>5</district>
+      </item>
+      <item>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <sponsorshipDate>2013-04-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Clarke</lastName>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Yvette</firstName>
+        <bioguideId>C001067</bioguideId>
+        <state>NY</state>
+        <district>9</district>
+      </item>
+      <item>
+        <fullName>Rep. Pierluisi, Pedro R. [D-PR-At Large]</fullName>
+        <sponsorshipDate>2013-04-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Pierluisi</lastName>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <identifiers>
+          <gpoId>8138</gpoId>
+          <lisID>1953</lisID>
+          <bioguideId>P000596</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Pedro</firstName>
+        <bioguideId>P000596</bioguideId>
+        <state>PR</state>
+        <district>0</district>
+      </item>
+      <item>
+        <fullName>Rep. Michaud, Michael H. [D-ME-2]</fullName>
+        <sponsorshipDate>2013-04-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Michaud</lastName>
+        <party>D</party>
+        <middleName>H.</middleName>
+        <identifiers>
+          <lisID>1730</lisID>
+          <bioguideId>M001149</bioguideId>
+          <gpoId>7985</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michael</firstName>
+        <bioguideId>M001149</bioguideId>
+        <state>ME</state>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <sponsorshipDate>2013-04-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MCCOLLUM</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>BETTY</firstName>
+        <bioguideId>M001143</bioguideId>
+        <state>MN</state>
+        <district>4</district>
+      </item>
+      <item>
+        <fullName>Rep. Hahn, Janice [D-CA-44]</fullName>
+        <sponsorshipDate>2013-04-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Hahn</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>2089</lisID>
+          <gpoId>8360</gpoId>
+          <bioguideId>H001063</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Janice</firstName>
+        <bioguideId>H001063</bioguideId>
+        <state>CA</state>
+        <district>44</district>
+      </item>
+      <item>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <sponsorshipDate>2013-04-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Sablan</lastName>
+        <party>D</party>
+        <middleName>Kilili Camacho</middleName>
+        <identifiers>
+          <bioguideId>S001177</bioguideId>
+          <lisID>1962</lisID>
+          <gpoId>8018</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gregorio</firstName>
+        <bioguideId>S001177</bioguideId>
+        <state>MP</state>
+        <district>0</district>
+      </item>
+      <item>
+        <fullName>Rep. Kingston, Jack [R-GA-1]</fullName>
+        <sponsorshipDate>2013-04-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>KINGSTON</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>K000220</bioguideId>
+          <lisID>636</lisID>
+          <gpoId>7898</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JACK</firstName>
+        <bioguideId>K000220</bioguideId>
+        <state>GA</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <sponsorshipDate>2013-04-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Ellison</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+          <lisID>1857</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Keith</firstName>
+        <bioguideId>E000288</bioguideId>
+        <state>MN</state>
+        <district>5</district>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-04-12T07:02:09Z</createDate>
+    <introducedDate>2013-04-11</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-04-12</actionDate>
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Coast Guard Academy Opportunity Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend title 14, United States Code, to modify the process for congressional nomination of individuals for appointment as cadets at the Coast Guard Academy, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Coast Guard Academy Opportunity Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Coast guard</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Marine and inland water transportation</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Military education and training</name>
+          </item>
+          <item>
+            <name>Navigation, waterways, harbors</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:14:26Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <identifiers>
+          <lisID>1151</lisID>
+          <bioguideId>T000193</bioguideId>
+          <gpoId>8020</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>BENNIE</firstName>
+        <lastName>THOMPSON</lastName>
+        <bioguideId>T000193</bioguideId>
+        <state>MS</state>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <title>Coast Guard Academy Opportunity Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-04-11</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Coast Guard Academy Opportunity Act - Modifies the Coast Guard Academy cadet nomination process by requiring that half of each incoming class be composed of cadets nominated by: (1) the Vice President or, if there is no Vice President, the President pro tempore of the Senate; (2) a Senator; (3) a Member of the House of Representatives; and (4) the various delegates to Congress, including the Resident Commissioner from Puerto Rico. Entitles each Senator, House Member, Delegate, and Resident Commissioner to nominate three persons each year.</p> <p>Requires nominees to be citizens or nationals of the United States and meet any minimum requirements established by the Secretary of the respective department in which the Coast Guard is operating.</p> <p>Directs the Superintendent of the Academy to furnish any Member of Congress, upon written request, the name of the nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2013-04-11T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-05-07T19:59:36Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1516</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-04-11T04:04:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hspw00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hspw07</systemCode>
+              <activities>
+                <item>
+                  <date>2013-04-12T18:16:37Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Coast Guard and Maritime Transportation Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Transportation and Infrastructure Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 48 (Thursday, April 11, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. THOMPSON of Mississippi:H.R. 1516.Congress has the power to enact this legislation pursuantto the following:The U.S. Constitution including Article 1, Section 8.[Page H1958]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

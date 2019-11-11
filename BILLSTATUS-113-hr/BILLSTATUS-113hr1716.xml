@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Polis, Jared [D-CO-2]</fullName>
+        <lastName>Polis</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000598</bioguideId>
+        <identifiers>
+          <lisID>1910</lisID>
+          <bioguideId>P000598</bioguideId>
+          <gpoId>7860</gpoId>
+        </identifiers>
+        <firstName>Jared</firstName>
+        <middleName />
+        <sponsorshipDate>2013-04-24</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+      </item>
+      <item>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <lastName>KIND</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000188</bioguideId>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <firstName>RON</firstName>
+        <middleName />
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+      </item>
+      <item>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <lastName>Vargas</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>V000130</bioguideId>
+        <identifiers>
+          <bioguideId>V000130</bioguideId>
+          <gpoId />
+          <lisID>2112</lisID>
+        </identifiers>
+        <firstName>Juan</firstName>
+        <middleName />
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <district>51</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Hanna, Richard L. [R-NY-22]</fullName>
+        <lastName>Hanna</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001051</bioguideId>
+        <identifiers>
+          <gpoId>8085</gpoId>
+          <lisID>2044</lisID>
+          <bioguideId>H001051</bioguideId>
+        </identifiers>
+        <firstName>Richard</firstName>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2013-07-31</sponsorshipDate>
+        <district>22</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+      </item>
+      <item>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <lastName>Scott</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001157</bioguideId>
+        <identifiers>
+          <bioguideId>S001157</bioguideId>
+          <lisID>1722</lisID>
+          <gpoId>7910</gpoId>
+        </identifiers>
+        <firstName>David</firstName>
+        <middleName />
+        <sponsorshipDate>2013-12-02</sponsorshipDate>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+      </item>
+      <item>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <lastName>GREEN</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000410</bioguideId>
+        <identifiers>
+          <bioguideId>G000410</bioguideId>
+          <gpoId>8185</gpoId>
+          <lisID>462</lisID>
+        </identifiers>
+        <firstName>GENE</firstName>
+        <middleName />
+        <sponsorshipDate>2014-04-28</sponsorshipDate>
+        <district>29</district>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-07-08</actionDate>
+        <committee>
+          <systemCode>hsed13</systemCode>
+          <name>Higher Education and Workforce Training Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2013-04-24</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to House Ways and Means</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-04-24</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <actionDate>2013-04-24</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to House Education and the Workforce</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-04-24</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-04-24</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HR</billType>
+    <title>ExCEL Act of 2013</title>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Earnings Contingent Education Loans Act of 2013 or the ExCEL Act of 2013 - Amends title IV (Student Assistance) of the Higher Education Act of 1965 (HEA) to make students ineligible to receive Direct Loans (DLs) on or after July 1, 2014. </p> <p>Makes certain exceptions for student borrowers who have an outstanding balance on their DLs or Federal Family Education Loans (FFELs), as of that date, and later apply for a Direct Unsubsidized, PLUS, or Consolidation Loan.</p> <p>Establishes an Income Dependent Education Assistance (IDEA) Loan program, effective July 1, 2014, making federal funds available for loans to student borrowers.</p> <p>Sets the interest rate on IDEA Loans at the bond equivalent rate of ten-year Treasury bills, plus 3%. Caps the total amount of interest that can accrue during a borrower's grace and repayment periods at 50% of the total amount of their IDEA Loan.</p> <p>Blocks the accrual of interest on IDEA Loans for active duty military personnel.</p> <p>Allows student borrowers to consolidate FFELs, DLs, and Perkins Loans into IDEA Consolidation Loans that bear interest at an annual rate that equals the weighted average of the interest rates on the loans consolidated.</p> <p>Directs the Secretary of the Treasury to establish an IDEA Loan Repayment Program that: (1) repays IDEA loans through wage withholding and quarterly estimated tax payments, and (2) provides the Secretary of Education with the tax return information for each borrower that is necessary to determine the borrower's income-based repayment obligation.</p> <p>Sets the annual repayment obligation for borrowers at an amount equal to 15% of the excess of their taxable income over the sum of: (1) an exemption amount equal to 150% of the federal poverty level for their household; and (2) the lesser of $3,000 or specified income other than wages, salaries, tips and other employee compensation. </p> <p>Sets the income-based repayment obligation of individuals who are not required to file a tax return at zero.</p> <p>Directs the Secretary of Education to provide borrowers, through the Internet, with a tool that has an interface that enables them to manage their IDEA Loans.</p> <p>Allows borrowers to prepay all or part of an IDEA Loan without penalty.</p> <p>Penalizes borrowers who fail to pay their full repayment amount for a taxable year.</p> <p>Amends the Social Security Act to give the Secretary of Education access to the information in the National Directory of New Hires to determine when IDEA borrowers in repayment status are hired and to inform them of their obligation to provide their employer with accurate loan information for wage withholding purposes.</p> <p>Amends the Internal Revenue Code to include IDEA loan withholding information on W-2 forms and to require the Secretary of the Treasury to disclose borrowers' tax return information to the Department of Education for IDEA program purposes.</p> <p>Makes specified FFEL and DL loan repayment or forgiveness programs applicable to IDEA Loans.</p> <p>Expresses the sense of Congress that any federal loan repayment or forgiveness program outside of the HEA that is available to students with DLs should be available to students with IDEA Loans.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-01-22T15:06:00Z</lastSummaryUpdateDate>
+          <actionDate>2013-04-24</actionDate>
+          <updateDate>2013-04-24T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. PETRI:H.R. 1716.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the Constitution.[Page H2299]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Employment taxes</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>1716</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>ExCEL Act of 2013</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Earnings Contingent Education Loans Act of 2013</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To simplify and improve the Federal student loan program through income-contingent repayment to provide stronger protections for borrowers, encourage responsible borrowing, and save money for taxpayers.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>ExCEL Act of 2013</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Rep. Petri, Thomas E. [R-WI-6]</fullName>
+        <middleName />
+        <lastName>PETRI</lastName>
+        <firstName>TOM</firstName>
+        <byRequestType />
+        <bioguideId>P000265</bioguideId>
+        <identifiers>
+          <lisID>912</lisID>
+          <gpoId>8219</gpoId>
+          <bioguideId>P000265</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <district>6</district>
+        <state>WI</state>
+      </item>
+    </sponsors>
+    <updateDate>2016-10-25T16:02:38Z</updateDate>
+    <relatedBills>
+      <item>
+        <latestTitle>Dynamic Repayment Act of 2014</latestTitle>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2014-07-16</actionDate>
+        </latestAction>
+        <number>2612</number>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <notes />
+    <amendments />
+    <createDate>2013-04-25T07:02:09Z</createDate>
+    <introducedDate>2013-04-24</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Education and the Workforce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-24T14:02:10Z</date>
+            </item>
+          </activities>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsed13</systemCode>
+              <name>Higher Education and Workforce Training Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-07-08T20:43:54Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-24T14:02:15Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2013-07-08</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </latestAction>
+    <congress>113</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

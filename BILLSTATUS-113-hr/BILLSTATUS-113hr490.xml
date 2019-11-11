@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-02-28</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2013-02-04</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-02-04</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-02-04</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>223</number>
+        <latestAction>
+          <actionDate>2013-02-04</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <latestTitle>Visa Waiver Program Enhanced Security and Reform Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+      </item>
+      <item>
+        <number>1354</number>
+        <latestAction>
+          <actionDate>2013-04-15</actionDate>
+          <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+        </latestAction>
+        <latestTitle>JOLT Act of 2013</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+      </item>
+      <item>
+        <number>744</number>
+        <latestAction>
+          <actionDate>2014-12-10</actionDate>
+          <text>Committee on the Judiciary. Hearings held.</text>
+        </latestAction>
+        <latestTitle>Border Security, Economic Opportunity, and Immigration Modernization Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <state>OH</state>
+        <party>R</party>
+        <middleName />
+        <firstName>STEVE</firstName>
+        <district>1</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>CHABOT</lastName>
+        <bioguideId>C000266</bioguideId>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>D</party>
+        <middleName>Scott</middleName>
+        <firstName>Bradley</firstName>
+        <district>10</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2124</lisID>
+          <bioguideId>S001190</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Schneider</lastName>
+        <bioguideId>S001190</bioguideId>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <middleName />
+        <firstName>Brian</firstName>
+        <district>26</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001038</bioguideId>
+          <lisID>1794</lisID>
+          <gpoId>8088</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Higgins</lastName>
+        <bioguideId>H001038</bioguideId>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+      </item>
+      <item>
+        <state>OH</state>
+        <party>D</party>
+        <middleName />
+        <firstName>MARCY</firstName>
+        <district>9</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>KAPTUR</lastName>
+        <bioguideId>K000009</bioguideId>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>R</party>
+        <middleName />
+        <firstName>Adam</firstName>
+        <district>16</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2014</lisID>
+          <gpoId>7931</gpoId>
+          <bioguideId>K000378</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kinzinger</lastName>
+        <bioguideId>K000378</bioguideId>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>D</party>
+        <middleName>William</middleName>
+        <firstName>Daniel</firstName>
+        <district>3</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1781</lisID>
+          <bioguideId>L000563</bioguideId>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lipinski</lastName>
+        <bioguideId>L000563</bioguideId>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <firstName>JANICE</firstName>
+        <district>9</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHAKOWSKY</lastName>
+        <bioguideId>S001145</bioguideId>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>R</party>
+        <middleName />
+        <firstName>Aaron</firstName>
+        <district>18</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1920</lisID>
+          <bioguideId>S001179</bioguideId>
+          <gpoId>7938</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Schock</lastName>
+        <bioguideId>S001179</bioguideId>
+        <fullName>Rep. Schock, Aaron [R-IL-18]</fullName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <firstName>JOHN</firstName>
+        <district>15</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7939</gpoId>
+          <lisID>1527</lisID>
+          <bioguideId>S000364</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>SHIMKUS</lastName>
+        <bioguideId>S000364</bioguideId>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>D</party>
+        <middleName>V.</middleName>
+        <firstName>LUIS</firstName>
+        <district>4</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000535</bioguideId>
+          <gpoId>7924</gpoId>
+          <lisID>478</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>GUTIERREZ</lastName>
+        <bioguideId>G000535</bioguideId>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <firstName>William</firstName>
+        <district>9</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000375</bioguideId>
+          <gpoId>7975</gpoId>
+          <lisID>2025</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Keating</lastName>
+        <bioguideId>K000375</bioguideId>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+      </item>
+      <item>
+        <state>MI</state>
+        <party>R</party>
+        <middleName />
+        <firstName>Justin</firstName>
+        <district>3</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2029</lisID>
+          <gpoId>7988</gpoId>
+          <bioguideId>A000367</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Amash</lastName>
+        <bioguideId>A000367</bioguideId>
+        <fullName>Rep. Amash, Justin [R-MI-3]</fullName>
+      </item>
+      <item>
+        <state>NV</state>
+        <party>R</party>
+        <middleName>J.</middleName>
+        <firstName>Joseph</firstName>
+        <district>3</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2040</lisID>
+          <bioguideId>H001055</bioguideId>
+          <gpoId>8061</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heck</lastName>
+        <bioguideId>H001055</bioguideId>
+        <fullName>Rep. Heck, Joseph J. [R-NV-3]</fullName>
+      </item>
+      <item>
+        <state>DC</state>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+        <district>0</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>NORTON</lastName>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+      </item>
+      <item>
+        <state>WA</state>
+        <party>D</party>
+        <middleName />
+        <firstName>ADAM</firstName>
+        <district>9</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1528</lisID>
+          <gpoId>8213</gpoId>
+          <bioguideId>S000510</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>SMITH</lastName>
+        <bioguideId>S000510</bioguideId>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+      </item>
+      <item>
+        <state>FL</state>
+        <party>D</party>
+        <middleName />
+        <firstName>Debbie</firstName>
+        <district>23</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7892</gpoId>
+          <lisID>1777</lisID>
+          <bioguideId>W000797</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wasserman Schultz</lastName>
+        <bioguideId>W000797</bioguideId>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <firstName>CAROLYN</firstName>
+        <district>12</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>MALONEY</lastName>
+        <bioguideId>M000087</bioguideId>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>D</party>
+        <middleName />
+        <firstName>Bill</firstName>
+        <district>11</district>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7355</gpoId>
+          <lisID>1888</lisID>
+          <bioguideId>F000454</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Foster</lastName>
+        <bioguideId>F000454</bioguideId>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <firstName>William</firstName>
+        <district>12</district>
+        <sponsorshipDate>2013-03-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000292</bioguideId>
+          <lisID>2125</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Enyart</lastName>
+        <bioguideId>E000292</bioguideId>
+        <fullName>Rep. Enyart, William L. [D-IL-12]</fullName>
+      </item>
+      <item>
+        <state>ME</state>
+        <party>D</party>
+        <middleName>H.</middleName>
+        <firstName>Michael</firstName>
+        <district>2</district>
+        <sponsorshipDate>2013-03-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7985</gpoId>
+          <bioguideId>M001149</bioguideId>
+          <lisID>1730</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Michaud</lastName>
+        <bioguideId>M001149</bioguideId>
+        <fullName>Rep. Michaud, Michael H. [D-ME-2]</fullName>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <middleName />
+        <firstName>Paul</firstName>
+        <district>20</district>
+        <sponsorshipDate>2013-04-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1942</lisID>
+          <gpoId>8082</gpoId>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tonko</lastName>
+        <bioguideId>T000469</bioguideId>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+      </item>
+      <item>
+        <state>FL</state>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <firstName>Frederica</firstName>
+        <district>24</district>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <gpoId>7889</gpoId>
+          <lisID>2004</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wilson</lastName>
+        <bioguideId>W000808</bioguideId>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <firstName>RICHARD</firstName>
+        <district>1</district>
+        <sponsorshipDate>2013-12-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000015</bioguideId>
+          <lisID>854</lisID>
+          <gpoId>7967</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>NEAL</lastName>
+        <bioguideId>N000015</bioguideId>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-02-05T07:00:56Z</createDate>
+    <introducedDate>2013-02-04</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-02-28</actionDate>
+      <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Visa Waiver Program Enhanced Security and Reform Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend section 217 of the Immigration and Nationality Act to modify the visa waiver program, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Visa Waiver Program Enhanced Security and Reform Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:01:47Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <identifiers>
+          <lisID>1967</lisID>
+          <bioguideId>Q000023</bioguideId>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Mike</firstName>
+        <lastName>Quigley</lastName>
+        <bioguideId>Q000023</bioguideId>
+        <state>IL</state>
+        <district>5</district>
+      </item>
+    </sponsors>
+    <title>Visa Waiver Program Enhanced Security and Reform Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-02-13T20:44:40Z</lastSummaryUpdateDate>
+          <actionDate>2013-02-04</actionDate>
+          <text><![CDATA[<p>Visa Waiver Program Enhanced Security and Reform Act - Amends the Immigration and Nationality Act regarding the visa waiver program to: (1) authorize the Secretary of Homeland Security (DHS) to designate any country as a program country; (2) adjust visa refusal rate criteria, including addition of a 3% maximum overstay rate; and (3) revise probationary and termination provisions.</p> <p>Directs the Secretary to submit to Congress: (1) an evaluation of the security risks of aliens who enter the United States without an approved Electronic System for Travel Authorization verification, and (2) a description of any improvements needed to minimize the number of aliens who enter the United States without such verification.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-02-04T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>490</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-02-04T19:02:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <date>2013-02-28T21:40:22Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Immigration and Border Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 16 (Monday, February 4, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. QUIGLEY:H.R. 490.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H344]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

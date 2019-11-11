@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-07-30</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-07-30</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-07-30</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>4</district>
+        <fullName>Rep. Hastings, Doc [R-WA-4]</fullName>
+        <lastName>HASTINGS</lastName>
+        <middleName />
+        <state>WA</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>512</lisID>
+          <bioguideId>H000329</bioguideId>
+          <gpoId>8799</gpoId>
+        </identifiers>
+        <firstName>DOC</firstName>
+        <bioguideId>H000329</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. HASTINGS of Washington:H.R. 2854.Congress has the power to enact this legislation pursuantto the following:Article I, Section 7: ``All Bills for raising Revenue shalloriginate in the House of Representatives . . .''Article I, Section 8: ``The Congress shall have Power Tolay and collect Taxes, Duties, Imposts and Excises, . . .''Amendment XVI (16th Amendment): ``The Congress shall havepower to lay and collect taxes on incomes, from whateversource derived, without apportionment among the severalStates, and without regard to any census or enumeration.''[Page H5174]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2854</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:06:25Z</updateDate>
+    <laws />
+    <createDate>2013-07-31T15:52:20Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-07-30T16:02:00Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Amends the Internal Revenue Code to make permanent the taxpayer election to deduct state and local general sales taxes in lieu of state and local income taxes. </p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-08-13T20:46:13Z</lastSummaryUpdateDate>
+          <actionDate>2013-07-30</actionDate>
+          <updateDate>2013-07-30T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+        <identifiers>
+          <gpoId>7873</gpoId>
+          <bioguideId>M001144</bioguideId>
+          <lisID>1685</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>M001144</bioguideId>
+        <firstName>Jeff</firstName>
+        <middleName />
+        <state>FL</state>
+        <lastName>Miller</lastName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <identifiers>
+          <gpoId>8154</gpoId>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>B001243</bioguideId>
+        <firstName>Marsha</firstName>
+        <middleName />
+        <state>TN</state>
+        <lastName>Blackburn</lastName>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <identifiers>
+          <bioguideId>C000754</bioguideId>
+          <lisID>231</lisID>
+          <gpoId>8152</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>C000754</bioguideId>
+        <firstName>JAMES</firstName>
+        <middleName>H.</middleName>
+        <state>TN</state>
+        <lastName>COOPER</lastName>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <identifiers>
+          <gpoId>8167</gpoId>
+          <bioguideId>C001062</bioguideId>
+          <lisID>1805</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>C001062</bioguideId>
+        <firstName>K.</firstName>
+        <middleName>Michael</middleName>
+        <state>TX</state>
+        <lastName>Conaway</lastName>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <identifiers>
+          <bioguideId>D000617</bioguideId>
+          <gpoId>8374</gpoId>
+          <lisID>2096</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>D000617</bioguideId>
+        <firstName>Suzan</firstName>
+        <middleName>K.</middleName>
+        <state>WA</state>
+        <lastName>DelBene</lastName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <identifiers>
+          <bioguideId>D000533</bioguideId>
+          <gpoId>8149</gpoId>
+          <lisID>322</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>D000533</bioguideId>
+        <firstName>JOHN</firstName>
+        <middleName>J.</middleName>
+        <state>TN</state>
+        <lastName>DUNCAN</lastName>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Fincher, Stephen Lee [R-TN-8]</fullName>
+        <identifiers>
+          <lisID>2064</lisID>
+          <gpoId>8741</gpoId>
+          <bioguideId>F000458</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>F000458</bioguideId>
+        <firstName>Stephen</firstName>
+        <middleName>Lee</middleName>
+        <state>TN</state>
+        <lastName>Fincher</lastName>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Granger, Kay [R-TX-12]</fullName>
+        <identifiers>
+          <gpoId>8168</gpoId>
+          <bioguideId>G000377</bioguideId>
+          <lisID>1487</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>G000377</bioguideId>
+        <firstName>KAY</firstName>
+        <middleName />
+        <state>TX</state>
+        <lastName>GRANGER</lastName>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Hall, Ralph M. [R-TX-4]</fullName>
+        <identifiers>
+          <bioguideId>H000067</bioguideId>
+          <lisID>484</lisID>
+          <gpoId>8160</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>H000067</bioguideId>
+        <firstName>RALPH</firstName>
+        <middleName>M.</middleName>
+        <state>TX</state>
+        <lastName>HALL</lastName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <identifiers>
+          <bioguideId>H001064</bioguideId>
+          <gpoId />
+          <lisID>2170</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>H001064</bioguideId>
+        <firstName>Denny</firstName>
+        <middleName />
+        <state>WA</state>
+        <lastName>Heck</lastName>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Heck, Joseph J. [R-NV-3]</fullName>
+        <identifiers>
+          <gpoId>8061</gpoId>
+          <bioguideId>H001055</bioguideId>
+          <lisID>2040</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>H001055</bioguideId>
+        <firstName>Joseph</firstName>
+        <middleName>J.</middleName>
+        <state>NV</state>
+        <lastName>Heck</lastName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Hinojosa, Ruben [D-TX-15]</fullName>
+        <identifiers>
+          <lisID>1490</lisID>
+          <bioguideId>H000636</bioguideId>
+          <gpoId>8171</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>H000636</bioguideId>
+        <firstName>RUBEN</firstName>
+        <middleName />
+        <state>TX</state>
+        <lastName>HINOJOSA</lastName>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <identifiers>
+          <lisID>2071</lisID>
+          <bioguideId>H001056</bioguideId>
+          <gpoId>8207</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>H001056</bioguideId>
+        <firstName>Jaime</firstName>
+        <middleName />
+        <state>WA</state>
+        <lastName>Herrera Beutler</lastName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>K000381</bioguideId>
+        <firstName>Derek</firstName>
+        <middleName />
+        <state>WA</state>
+        <lastName>Kilmer</lastName>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Lummis, Cynthia M. [R-WY-At Large]</fullName>
+        <identifiers>
+          <gpoId>8225</gpoId>
+          <bioguideId>L000571</bioguideId>
+          <lisID>1960</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>L000571</bioguideId>
+        <firstName>Cynthia</firstName>
+        <middleName>M.</middleName>
+        <state>WY</state>
+        <lastName>Lummis</lastName>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. McDermott, Jim [D-WA-7]</fullName>
+        <identifiers>
+          <bioguideId>M000404</bioguideId>
+          <lisID>766</lisID>
+          <gpoId>8211</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>M000404</bioguideId>
+        <firstName>JIM</firstName>
+        <middleName />
+        <state>WA</state>
+        <lastName>MCDERMOTT</lastName>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Nugent, Richard B. [R-FL-11]</fullName>
+        <identifiers>
+          <bioguideId>N000185</bioguideId>
+          <lisID>2001</lisID>
+          <gpoId>7877</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>N000185</bioguideId>
+        <firstName>Richard</firstName>
+        <middleName>B.</middleName>
+        <state>FL</state>
+        <lastName>Nugent</lastName>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Radel, Trey [R-FL-19]</fullName>
+        <identifiers>
+          <bioguideId>R000596</bioguideId>
+          <lisID>2118</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>R000596</bioguideId>
+        <firstName>Trey</firstName>
+        <middleName />
+        <state>FL</state>
+        <lastName>Radel</lastName>
+        <district>19</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <identifiers>
+          <gpoId>8148</gpoId>
+          <lisID>1954</lisID>
+          <bioguideId>R000582</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>R000582</bioguideId>
+        <firstName>David</firstName>
+        <middleName>P.</middleName>
+        <state>TN</state>
+        <lastName>Roe</lastName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <identifiers>
+          <lisID>1809</lisID>
+          <bioguideId>M001159</bioguideId>
+          <gpoId>8209</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-07-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>M001159</bioguideId>
+        <firstName>Cathy</firstName>
+        <middleName />
+        <state>WA</state>
+        <lastName>McMorris Rodgers</lastName>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <identifiers>
+          <gpoId>8147</gpoId>
+          <lisID>2060</lisID>
+          <bioguideId>N000184</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-07-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>N000184</bioguideId>
+        <firstName>Kristi</firstName>
+        <middleName>L.</middleName>
+        <state>SD</state>
+        <lastName>Noem</lastName>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>Y000065</bioguideId>
+          <lisID>2115</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-07-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>Y000065</bioguideId>
+        <firstName>Ted</firstName>
+        <middleName>S.</middleName>
+        <state>FL</state>
+        <lastName>Yoho</lastName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-08-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>C001068</bioguideId>
+        <firstName>Steve</firstName>
+        <middleName />
+        <state>TN</state>
+        <lastName>Cohen</lastName>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <identifiers>
+          <bioguideId>M001157</bioguideId>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-09-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>M001157</bioguideId>
+        <firstName>Michael</firstName>
+        <middleName>T.</middleName>
+        <state>TX</state>
+        <lastName>McCaul</lastName>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <identifiers>
+          <lisID>2167</lisID>
+          <gpoId />
+          <bioguideId>V000132</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-09-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>V000132</bioguideId>
+        <firstName>Filemon</firstName>
+        <middleName />
+        <state>TX</state>
+        <lastName>Vela</lastName>
+        <district>34</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <identifiers>
+          <bioguideId>L000560</bioguideId>
+          <lisID>1675</lisID>
+          <gpoId>8206</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-01-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>L000560</bioguideId>
+        <firstName>RICK</firstName>
+        <middleName />
+        <state>WA</state>
+        <lastName>LARSEN</lastName>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <identifiers>
+          <bioguideId>W000816</bioguideId>
+          <lisID>2165</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2014-01-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>W000816</bioguideId>
+        <firstName>Roger</firstName>
+        <middleName />
+        <state>TX</state>
+        <lastName>Williams</lastName>
+        <district>25</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Neugebauer, Randy [R-TX-19]</fullName>
+        <identifiers>
+          <lisID>1758</lisID>
+          <gpoId>8175</gpoId>
+          <bioguideId>N000182</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-02-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>N000182</bioguideId>
+        <firstName>Randy</firstName>
+        <middleName />
+        <state>TX</state>
+        <lastName>Neugebauer</lastName>
+        <district>19</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <identifiers>
+          <bioguideId>O000168</bioguideId>
+          <lisID>1955</lisID>
+          <gpoId>8178</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>O000168</bioguideId>
+        <firstName>Pete</firstName>
+        <middleName />
+        <state>TX</state>
+        <lastName>Olson</lastName>
+        <district>22</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2013-01-22</actionDate>
+        </latestAction>
+        <congress>113</congress>
+        <latestTitle>A bill to provide a permanent deduction for State and local general sales taxes.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>41</number>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 287.</text>
+          <actionDate>2013-12-20</actionDate>
+        </latestAction>
+        <congress>113</congress>
+        <latestTitle>Tax Extenders Act of 2013</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1859</number>
+      </item>
+      <item>
+        <latestAction>
+          <text>Motion to proceed to consideration of measure made in Senate. (consideration: CR S2763-2768)</text>
+          <actionDate>2014-05-07</actionDate>
+        </latestAction>
+        <congress>113</congress>
+        <latestTitle>EXPIRE Act of 2014</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>2260</number>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2014-05-30</actionDate>
+        </latestAction>
+        <congress>113</congress>
+        <latestTitle>To amend the Internal Revenue Code of 1986 to make the deduction for State and local general sales taxes permanent.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>4789</number>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2014-01-28</actionDate>
+        </latestAction>
+        <congress>113</congress>
+        <latestTitle>To amend the Internal Revenue Code of 1986 to extend for one year the deduction of State and local general sales taxes.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>3942</number>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2013-01-24</actionDate>
+        </latestAction>
+        <congress>113</congress>
+        <latestTitle>A bill to provide a permanent deduction for State and local general sales taxes.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>127</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>State and local taxation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to make permanent the deduction of State and local general sales taxes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to make permanent the deduction of State and local general sales taxes.</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>To amend the Internal Revenue Code of 1986 to make permanent the deduction of State and local general sales taxes.</title>
+    <billType>HR</billType>
+    <introducedDate>2013-07-30</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-07-30</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

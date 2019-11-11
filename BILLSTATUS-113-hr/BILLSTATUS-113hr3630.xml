@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>113</congress>
+    <introducedDate>2013-12-02</introducedDate>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. HIMES:H.R. 3630.Congress has the power to enact this legislation pursuantto the following:Article I of the United States Constitution and itssubsequent amendments, and further clarified and interpretedby the Supreme Court of the United States.[Page H7394]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Cure for AIDS Act of 2013 - Directs the Secretary of Defense (DOD), through the Congressionally Directed Medical Research Program, to establish and support an accelerated research program dedicated to discovering a cure for HIV/AIDS. </p> <p>Instructs the Secretary to collaborate with the Director of the National Institutes of Health (NIH), the Director of the National Institute of Allergy and Infectious Diseases, and other appropriate federal agencies. </p> <p>Requires the Secretary to: (1) ensure that such research is highly targeted, (2) coordinate with at least one eligible nonprofit entity, and (3) ensure that the responsibilities of the non-profit entity include partnering with the Secretary in establishing research priorities.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2014-01-03T23:18:06Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2013-12-02</actionDate>
+          <updateDate>2013-12-02T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Cure for AIDS Act of 2013</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Cure for AIDS Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>To establish a research program under the Congressionally Directed Medical Research Program of the Department of Defense to discover a cure for HIV/AIDS.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Cure for AIDS Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <date>2014-01-24T20:56:13Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <date>2013-12-02T19:00:44Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2013-12-06T16:39:08Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2013-12-02T19:00:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <cboCostEstimates />
+    <createDate>2013-12-03T07:01:36Z</createDate>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <updateDate>2016-10-25T16:09:20Z</updateDate>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-01-24</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-12-06</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2013-12-02</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to House Energy and Commerce</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-12-02</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <actionDate>2013-12-02</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to House Armed Services</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-12-02</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-12-02</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>HIV/AIDS</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Immunology and vaccination</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Military medicine</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <lastName>LEE</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <party>D</party>
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <bioguideId>L000551</bioguideId>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-02</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <lastName>Wilson</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>24</district>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <firstName>Frederica</firstName>
+        <bioguideId>W000808</bioguideId>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-02</sponsorshipDate>
+        <state>FL</state>
+      </item>
+      <item>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <lastName>Castor</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Kathy</firstName>
+        <bioguideId>C001066</bioguideId>
+        <identifiers>
+          <gpoId>7883</gpoId>
+          <lisID>1839</lisID>
+          <bioguideId>C001066</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-12-04</sponsorshipDate>
+        <state>FL</state>
+      </item>
+      <item>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <lastName>LOFGREN</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>19</district>
+        <party>D</party>
+        <middleName />
+        <firstName>ZOE</firstName>
+        <bioguideId>L000397</bioguideId>
+        <identifiers>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-07-31</sponsorshipDate>
+        <state>CA</state>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <notes />
+    <latestAction>
+      <actionDate>2014-01-24</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </latestAction>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <billNumber>3630</billNumber>
+    <sponsors>
+      <item>
+        <firstName>James</firstName>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <lastName>Himes</lastName>
+        <party>D</party>
+        <byRequestType />
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>1913</lisID>
+          <gpoId>7869</gpoId>
+          <bioguideId>H001047</bioguideId>
+        </identifiers>
+        <bioguideId>H001047</bioguideId>
+        <district>4</district>
+        <state>CT</state>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2013-07-15</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-06-04</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-06-04</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-06-04</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <firstName>William</firstName>
+        <district>9</district>
+        <sponsorshipDate>2013-06-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+          <lisID>2025</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Keating</lastName>
+        <bioguideId>K000375</bioguideId>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <firstName>Joseph</firstName>
+        <district>4</district>
+        <sponsorshipDate>2013-06-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000379</bioguideId>
+          <lisID>2172</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kennedy</lastName>
+        <bioguideId>K000379</bioguideId>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <firstName>Stephen</firstName>
+        <district>8</district>
+        <sponsorshipDate>2013-06-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000562</bioguideId>
+          <lisID>1686</lisID>
+          <gpoId>7974</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lynch</lastName>
+        <bioguideId>L000562</bioguideId>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <firstName>EDWARD</firstName>
+        <district>5</district>
+        <sponsorshipDate>2013-06-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>MARKEY</lastName>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Rep. Markey, Edward J. [D-MA-5]</fullName>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <firstName>JAMES</firstName>
+        <district>2</district>
+        <sponsorshipDate>2013-06-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCGOVERN</lastName>
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <firstName>RICHARD</firstName>
+        <district>1</district>
+        <sponsorshipDate>2013-06-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>854</lisID>
+          <gpoId>7967</gpoId>
+          <bioguideId>N000015</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>NEAL</lastName>
+        <bioguideId>N000015</bioguideId>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <firstName>JOHN</firstName>
+        <district>6</district>
+        <sponsorshipDate>2013-06-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1535</lisID>
+          <gpoId>7971</gpoId>
+          <bioguideId>T000266</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>TIERNEY</lastName>
+        <bioguideId>T000266</bioguideId>
+        <fullName>Rep. Tierney, John F. [D-MA-6]</fullName>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <middleName />
+        <firstName>Niki</firstName>
+        <district>3</district>
+        <sponsorshipDate>2013-06-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000465</bioguideId>
+          <lisID>1884</lisID>
+          <gpoId>7970</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tsongas</lastName>
+        <bioguideId>T000465</bioguideId>
+        <fullName>Rep. Tsongas, Niki [D-MA-3]</fullName>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <firstName>Katherine</firstName>
+        <district>5</district>
+        <sponsorshipDate>2014-01-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2196</lisID>
+          <gpoId />
+          <bioguideId>C001101</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Clark</lastName>
+        <bioguideId>C001101</bioguideId>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>R</party>
+        <middleName>T.</middleName>
+        <firstName>PETER</firstName>
+        <district>2</district>
+        <sponsorshipDate>2014-03-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>KING</lastName>
+        <bioguideId>K000210</bioguideId>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+      </item>
+      <item>
+        <state>ME</state>
+        <party>D</party>
+        <middleName>H.</middleName>
+        <firstName>Michael</firstName>
+        <district>2</district>
+        <sponsorshipDate>2014-03-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1730</lisID>
+          <bioguideId>M001149</bioguideId>
+          <gpoId>7985</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Michaud</lastName>
+        <bioguideId>M001149</bioguideId>
+        <fullName>Rep. Michaud, Michael H. [D-ME-2]</fullName>
+      </item>
+      <item>
+        <state>DC</state>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+        <district>0</district>
+        <sponsorshipDate>2014-03-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>NORTON</lastName>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <firstName>Daniel</firstName>
+        <district>24</district>
+        <sponsorshipDate>2014-03-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1943</lisID>
+          <bioguideId>M001171</bioguideId>
+          <gpoId>7506</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Maffei</lastName>
+        <bioguideId>M001171</bioguideId>
+        <fullName>Rep. Maffei, Daniel B. [D-NY-24]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <firstName>Karen</firstName>
+        <district>37</district>
+        <sponsorshipDate>2014-05-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+          <gpoId>7838</gpoId>
+          <lisID>1996</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bass</lastName>
+        <bioguideId>B001270</bioguideId>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+      </item>
+      <item>
+        <state>TX</state>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <firstName>Marc</firstName>
+        <district>33</district>
+        <sponsorshipDate>2014-07-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2166</lisID>
+          <gpoId />
+          <bioguideId>V000131</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Veasey</lastName>
+        <bioguideId>V000131</bioguideId>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-06-05T07:01:44Z</createDate>
+    <introducedDate>2013-06-04</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-07-15</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Officer Sean Collier Campus Police Recognition Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide death benefits for campus police officers.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Officer Sean Collier Campus Police Recognition Act of 2013</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:26:00Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <identifiers>
+          <bioguideId>C001037</bioguideId>
+          <gpoId>7973</gpoId>
+          <lisID>1564</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>MICHAEL</firstName>
+        <lastName>CAPUANO</lastName>
+        <bioguideId>C001037</bioguideId>
+        <state>MA</state>
+        <district>7</district>
+      </item>
+    </sponsors>
+    <title>Officer Sean Collier Campus Police Recognition Act of 2013</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-06-11T22:01:00Z</lastSummaryUpdateDate>
+          <actionDate>2013-06-04</actionDate>
+          <text><![CDATA[<p>Officer Sean Collier Campus Police Recognition Act of 2013 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to extend public safety officers' death benefits to campus police officers. </p> <p>Defines a &quot;campus police officer&quot; as a police officer who is authorized to enforce the criminal laws and is employed by an institution of higher education.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-06-04T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>2235</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <date>2013-07-15T13:17:00Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2013-06-04T14:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 77 (Tuesday, June 4, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CAPUANO:H.R. 2235.Congress has the power to enact this legislation pursuantto the following:The Congress enacts this bill pursuant to Article I,Section 8, Clause 1; and Article I, Section 8, Clause 3 ofthe United States Constitution.[Page H3095]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

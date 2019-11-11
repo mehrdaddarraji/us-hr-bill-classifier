@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2014-12-10</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <bioguideId>L000263</bioguideId>
+        <district>9</district>
+        <middleName>M.</middleName>
+        <firstName>SANDER</firstName>
+        <sponsorshipDate>2014-12-10</sponsorshipDate>
+        <state>MI</state>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <lastName>LEVIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>683</lisID>
+          <gpoId>7997</gpoId>
+          <bioguideId>L000263</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+      <actionDate>2014-12-10</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:17:44Z</updateDate>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <links />
+        <actionDate>2014-12-10</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-12-10</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-12-10</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p> Taxpayer Protections Against Abusive Seizures Act - Requires notice of a right to request a court hearing to each person whose property is seized or restrained because of an alleged violation of the prohibition against structuring transactions to evade reporting requirements. </p> <p>Requires the seized or restrained property to be returned, if the person requests a court hearing within 14 days after receiving such notice, unless within 14 days of that request the court holds an adversarial hearing and finds probable cause to believe that such a violation exists.</p>]]></text>
+          <lastSummaryUpdateDate>2015-01-05T17:00:36Z</lastSummaryUpdateDate>
+          <updateDate>2014-12-10T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2014-12-10</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Currency</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Property rights</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Taxpayer Protections Against Abusive Seizures Act</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>CAMP</lastName>
+        <bioguideId>C000071</bioguideId>
+        <middleName />
+        <fullName>Rep. Camp, Dave [R-MI-4]</fullName>
+        <identifiers>
+          <lisID>166</lisID>
+          <gpoId>7989</gpoId>
+          <bioguideId>C000071</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <firstName>DAVE</firstName>
+        <party>R</party>
+        <state>MI</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-12-11T04:56:19Z</createDate>
+    <billNumber>5833</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <date>2014-12-10T15:03:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. CAMP:H.R. 5833.Congress has the power to enact this legislation pursuantto the following:Clauses 1 and 18 of Section 8 of Article I of the UnitedStates Constitution.[Page H9045]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <title>Taxpayer Protections Against Abusive Seizures Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To require upon request a probable cause hearing in connection with property seizures relating to certain monetary instruments transactions.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Taxpayer Protections Against Abusive Seizures Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <firstName>Erik</firstName>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <state>MN</state>
+        <identifiers>
+          <gpoId>8003</gpoId>
+          <lisID>1930</lisID>
+          <bioguideId>P000594</bioguideId>
+        </identifiers>
+        <middleName />
+        <lastName>Paulsen</lastName>
+        <district>3</district>
+        <bioguideId>P000594</bioguideId>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <createDate>2014-03-07T07:01:03Z</createDate>
+    <updateDate>2016-10-25T16:11:24Z</updateDate>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. PAULSEN:H.R. 4177.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8[Page H2257]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2014-03-06</introducedDate>
+    <title>To amend the Internal Revenue Code of 1986 to allow Medicare beneficiaries participating in a Medicare Advantage MSA to contribute their own money to their MSA.</title>
+    <cosponsors />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Amends the Internal Revenue Code, with respect to the tax treatment of payments to a Medicare Advantage Medical Savings Account (MSA), to eliminate the restriction on contributions or transfers to such accounts (currently, only a contribution made by the Secretary of Health and Human Services (HHS) pursuant to Medicare Advantage or a trustee-to-trustee transfer is permitted).</p>]]></text>
+          <lastSummaryUpdateDate>2014-05-08T20:33:34Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2014-03-06T05:00:00Z</updateDate>
+          <actionDate>2014-03-06</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to allow Medicare beneficiaries participating in a Medicare Advantage MSA to contribute their own money to their MSA.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to allow Medicare beneficiaries participating in a Medicare Advantage MSA to contribute their own money to their MSA.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>113</congress>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2014-03-06T14:04:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2014-03-06</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2014-03-06</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2014-03-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2014-03-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2013-06-19</actionDate>
+        </latestAction>
+        <congress>113</congress>
+        <latestTitle>Family and Retirement Health Investment Act of 2013</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>2194</number>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+          <actionDate>2014-01-22</actionDate>
+        </latestAction>
+        <congress>113</congress>
+        <latestTitle>American Health Care Reform Act of 2013</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>3121</number>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2013-05-23</actionDate>
+        </latestAction>
+        <congress>113</congress>
+        <latestTitle>Family and Retirement Health Investment Act of 2013</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>1031</number>
+      </item>
+    </relatedBills>
+    <billNumber>4177</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

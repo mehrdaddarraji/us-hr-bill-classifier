@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Fairness in International Taxation Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to prevent corporations from exploiting tax treaties to evade taxation of United States income.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Fairness in International Taxation Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Employment taxes</name>
+          </item>
+          <item>
+            <name>Foreign and international corporations</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>Taxation of foreign income</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2013-04-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2013-04-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2013-04-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <billNumber>1556</billNumber>
+    <createDate>2013-04-16T07:02:07Z</createDate>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-04-15</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Fairness in International Taxation Act - Amends the Internal Revenue Code to prohibit a reduction under any treaty of the United States of tax withholding for a tax deductible payment made between persons who are members of the same foreign controlled group of entities unless there would be a similar reduction for payments made directly to the foreign parent corporation of such entities. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2013-04-15T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-04-30T18:36:19Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Fairness in International Taxation Act</title>
+    <cosponsors>
+      <item>
+        <lastName>DEFAZIO</lastName>
+        <firstName>PETER</firstName>
+        <bioguideId>D000191</bioguideId>
+        <identifiers>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <party>D</party>
+        <state>OR</state>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>DELAURO</lastName>
+        <firstName>ROSA</firstName>
+        <bioguideId>D000216</bioguideId>
+        <identifiers>
+          <gpoId>7868</gpoId>
+          <lisID>281</lisID>
+          <bioguideId>D000216</bioguideId>
+        </identifiers>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <party>D</party>
+        <state>CT</state>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <middleName />
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>DINGELL</lastName>
+        <firstName>JOHN</firstName>
+        <bioguideId>D000355</bioguideId>
+        <identifiers>
+          <lisID>299</lisID>
+          <gpoId>8000</gpoId>
+          <bioguideId>D000355</bioguideId>
+        </identifiers>
+        <fullName>Rep. Dingell, John D. [D-MI-12]</fullName>
+        <party>D</party>
+        <state>MI</state>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <middleName>D.</middleName>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>MORAN</lastName>
+        <firstName>JAMES</firstName>
+        <bioguideId>M000933</bioguideId>
+        <identifiers>
+          <lisID>832</lisID>
+          <bioguideId>M000933</bioguideId>
+          <gpoId>8199</gpoId>
+        </identifiers>
+        <fullName>Rep. Moran, James P. [D-VA-8]</fullName>
+        <party>D</party>
+        <state>VA</state>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <middleName>P.</middleName>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>LEE</lastName>
+        <firstName>BARBARA</firstName>
+        <bioguideId>L000551</bioguideId>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <middleName />
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>RUSH</lastName>
+        <firstName>BOBBY</firstName>
+        <bioguideId>R000515</bioguideId>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+        </identifiers>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <party>D</party>
+        <state>IL</state>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <middleName>L.</middleName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Garamendi</lastName>
+        <firstName>John</firstName>
+        <bioguideId>G000559</bioguideId>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+          <gpoId>7815</gpoId>
+          <lisID>1973</lisID>
+        </identifiers>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <middleName />
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>SCHAKOWSKY</lastName>
+        <firstName>JANICE</firstName>
+        <bioguideId>S001145</bioguideId>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+        </identifiers>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <party>D</party>
+        <state>IL</state>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>MCDERMOTT</lastName>
+        <firstName>JIM</firstName>
+        <bioguideId>M000404</bioguideId>
+        <identifiers>
+          <lisID>766</lisID>
+          <gpoId>8211</gpoId>
+          <bioguideId>M000404</bioguideId>
+        </identifiers>
+        <fullName>Rep. McDermott, Jim [D-WA-7]</fullName>
+        <party>D</party>
+        <state>WA</state>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <middleName />
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Cicilline</lastName>
+        <firstName>David</firstName>
+        <bioguideId>C001084</bioguideId>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+        </identifiers>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <party>D</party>
+        <state>RI</state>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <middleName>N.</middleName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Cohen</lastName>
+        <firstName>Steve</firstName>
+        <bioguideId>C001068</bioguideId>
+        <identifiers>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+        <state>TN</state>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <middleName />
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Chu</lastName>
+        <firstName>Judy</firstName>
+        <bioguideId>C001080</bioguideId>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipDate>2013-05-16</sponsorshipDate>
+        <middleName />
+        <district>27</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>FATTAH</lastName>
+        <firstName>CHAKA</firstName>
+        <bioguideId>F000043</bioguideId>
+        <identifiers>
+          <lisID>371</lisID>
+          <bioguideId>F000043</bioguideId>
+          <gpoId>8120</gpoId>
+        </identifiers>
+        <fullName>Rep. Fattah, Chaka [D-PA-2]</fullName>
+        <party>D</party>
+        <state>PA</state>
+        <sponsorshipDate>2013-05-16</sponsorshipDate>
+        <middleName />
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Bass</lastName>
+        <firstName>Karen</firstName>
+        <bioguideId>B001270</bioguideId>
+        <identifiers>
+          <lisID>1996</lisID>
+          <bioguideId>B001270</bioguideId>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipDate>2013-05-16</sponsorshipDate>
+        <middleName />
+        <district>37</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Ellison</lastName>
+        <firstName>Keith</firstName>
+        <bioguideId>E000288</bioguideId>
+        <identifiers>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+          <lisID>1857</lisID>
+        </identifiers>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <party>D</party>
+        <state>MN</state>
+        <sponsorshipDate>2013-05-16</sponsorshipDate>
+        <middleName />
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>O'Rourke</lastName>
+        <firstName>Beto</firstName>
+        <bioguideId>O000170</bioguideId>
+        <identifiers>
+          <lisID>2162</lisID>
+          <bioguideId>O000170</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <party>D</party>
+        <state>TX</state>
+        <sponsorshipDate>2014-03-14</sponsorshipDate>
+        <middleName />
+        <district>16</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Cartwright</lastName>
+        <firstName>Matt</firstName>
+        <bioguideId>C001090</bioguideId>
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <gpoId />
+          <lisID>2159</lisID>
+        </identifiers>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <party>D</party>
+        <state>PA</state>
+        <sponsorshipDate>2014-07-15</sponsorshipDate>
+        <middleName />
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>MILLER</lastName>
+        <firstName>GEORGE</firstName>
+        <bioguideId>M000725</bioguideId>
+        <identifiers>
+          <gpoId>7812</gpoId>
+          <lisID>808</lisID>
+          <bioguideId>M000725</bioguideId>
+        </identifiers>
+        <fullName>Rep. Miller, George [D-CA-11]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <middleName />
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2013-04-15T16:03:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2013-04-15</introducedDate>
+    <originChamber>House</originChamber>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2013-04-15</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>LLOYD</firstName>
+        <middleName />
+        <party>D</party>
+        <bioguideId>D000399</bioguideId>
+        <lastName>DOGGETT</lastName>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>D000399</bioguideId>
+          <gpoId>8181</gpoId>
+          <lisID>303</lisID>
+        </identifiers>
+        <district>35</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <notes />
+    <billType>HR</billType>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 50 (Monday, April 15, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DOGGETT:H.R. 1556.Congress has the power to enact this legislation pursuantto the following:Clause 1 of Section 8 of Article I of the United StatesConstitution and Amendment XVI of the United StatesConstitution.[Page H2026]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <congress>113</congress>
+    <updateDate>2018-06-05T16:14:56Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

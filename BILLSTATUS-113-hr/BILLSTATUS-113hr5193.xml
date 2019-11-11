@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-08-15</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsvr00</systemCode>
+          <activities>
+            <item>
+              <date>2014-07-24T14:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-08-15T18:49:05Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsvr03</systemCode>
+            </item>
+          </subcommittees>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-07-25T05:01:13Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2014-08-15</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <links />
+        <actionDate>2014-07-24</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-07-24</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-07-24</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-07-24</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. BOUSTANY:H.R. 5193.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H6815]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>5193</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-10-27T15:33:57Z</lastSummaryUpdateDate>
+          <updateDate>2014-07-24T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDate>2014-07-24</actionDate>
+          <text><![CDATA[<p>Veterans' Credit Protection Act - Directs the Secretary of Veterans Affairs (VA) to: (1) conduct outreach to inform veterans of how to resolve credit issues caused by a delayed payment (i.e., a proper invoice that is not paid by the Secretary until after the required payment date); and (2) establish a toll-free telephone number for veterans to report such issues to the Veterans Integrated Service Networks.</p> <p>Requires the Secretary to report annually on the effectiveness of each Network in providing timely payment of proper invoices during both the preceding five-year period and the preceding one-year period. Requires such report to include: </p> <ul> <li>the number of veterans who contacted the Secretary regarding delayed payments that could negatively affect their credit;</li> <li>the total amount of interest penalties paid by the Secretary by reason of delayed payments;</li> <li>the number of proper invoices submitted, the amount owed for and the payment status of such invoices, and the periods that elapsed before such invoices were paid;</li> <li>any comments regarding delayed payments made by medical providers; </li> <li>identification of the Networks with the least and most delayed payments; and </li> <li>a description of the best practices to provide timely payment of a proper invoice, including a plan for under-performing Networks to improve.</li> </ul> <p>Directs the Comptroller General (GAO) to conduct a study that compares the effectiveness of Networks in providing timely payment of proper invoices.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Veterans' Credit Protection Act</title>
+    <updateDate>2016-10-25T16:15:26Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Veterans' Credit Protection Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To direct the Secretary of Veterans Affairs to conduct outreach to veterans regarding the effect of delayed payments by the Veterans Integrated Service Networks and to direct the Secretary to submit to Congress an annual report regarding such delayed payments.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Veterans' Credit Protection Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>LA</state>
+        <firstName>Charles</firstName>
+        <byRequestType />
+        <bioguideId>B001255</bioguideId>
+        <fullName>Rep. Boustany, Charles W., Jr. [R-LA-3]</fullName>
+        <lastName>Boustany</lastName>
+        <party>R</party>
+        <middleName>W.</middleName>
+        <district>3</district>
+        <identifiers>
+          <lisID>1787</lisID>
+          <bioguideId>B001255</bioguideId>
+          <gpoId>7965</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>S</type>
+        <number>2654</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+          <actionDate>2014-07-24</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Veterans' Credit Protection Act</latestTitle>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <district>6</district>
+        <firstName>Bill</firstName>
+        <state>LA</state>
+        <sponsorshipDate>2014-07-24</sponsorshipDate>
+        <fullName>Rep. Cassidy, Bill [R-LA-6]</fullName>
+        <lastName>Cassidy</lastName>
+        <party>R</party>
+        <bioguideId>C001075</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>5</district>
+        <firstName>Vance</firstName>
+        <state>LA</state>
+        <sponsorshipDate>2014-07-24</sponsorshipDate>
+        <fullName>Rep. McAllister, Vance M. [R-LA-5]</fullName>
+        <lastName>McAllister</lastName>
+        <party>R</party>
+        <bioguideId>M001192</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>2195</lisID>
+          <bioguideId>M001192</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <firstName>Steve</firstName>
+        <state>LA</state>
+        <sponsorshipDate>2014-07-24</sponsorshipDate>
+        <fullName>Rep. Scalise, Steve [R-LA-1]</fullName>
+        <lastName>Scalise</lastName>
+        <party>R</party>
+        <bioguideId>S001176</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1892</lisID>
+          <gpoId>7959</gpoId>
+          <bioguideId>S001176</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <firstName>Cedric</firstName>
+        <state>LA</state>
+        <sponsorshipDate>2014-07-24</sponsorshipDate>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <lastName>Richmond</lastName>
+        <party>D</party>
+        <bioguideId>R000588</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <identifiers>
+          <lisID>2023</lisID>
+          <bioguideId>R000588</bioguideId>
+          <gpoId>7960</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>6</district>
+        <firstName>Mike</firstName>
+        <state>CO</state>
+        <sponsorshipDate>2014-09-09</sponsorshipDate>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <lastName>Coffman</lastName>
+        <party>R</party>
+        <bioguideId>C001077</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <gpoId>7864</gpoId>
+          <lisID>1912</lisID>
+          <bioguideId>C001077</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

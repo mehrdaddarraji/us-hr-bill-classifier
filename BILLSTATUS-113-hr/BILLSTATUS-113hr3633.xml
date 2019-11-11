@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate>2014-03-12</sponsorshipWithdrawnDate>
+        <lastName>Courtney</lastName>
+        <bioguideId>C001069</bioguideId>
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <bioguideId>C001069</bioguideId>
+          <lisID>1836</lisID>
+          <gpoId>7867</gpoId>
+        </identifiers>
+        <state>CT</state>
+        <sponsorshipDate>2013-12-04</sponsorshipDate>
+        <firstName>Joe</firstName>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Womack</lastName>
+        <bioguideId>W000809</bioguideId>
+        <middleName />
+        <district>3</district>
+        <identifiers>
+          <gpoId>7795</gpoId>
+          <lisID>1991</lisID>
+          <bioguideId>W000809</bioguideId>
+        </identifiers>
+        <state>AR</state>
+        <sponsorshipDate>2014-01-07</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <fullName>Rep. Womack, Steve [R-AR-3]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Roe</lastName>
+        <bioguideId>R000582</bioguideId>
+        <middleName>P.</middleName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1954</lisID>
+          <bioguideId>R000582</bioguideId>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <state>TN</state>
+        <sponsorshipDate>2014-01-08</sponsorshipDate>
+        <firstName>David</firstName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hudson</lastName>
+        <bioguideId>H001067</bioguideId>
+        <middleName />
+        <district>8</district>
+        <identifiers>
+          <bioguideId>H001067</bioguideId>
+          <lisID>2140</lisID>
+          <gpoId />
+        </identifiers>
+        <state>NC</state>
+        <sponsorshipDate>2014-01-09</sponsorshipDate>
+        <firstName>Richard</firstName>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>DesJarlais</lastName>
+        <bioguideId>D000616</bioguideId>
+        <middleName />
+        <district>4</district>
+        <identifiers>
+          <bioguideId>D000616</bioguideId>
+          <lisID>2062</lisID>
+          <gpoId>8151</gpoId>
+        </identifiers>
+        <state>TN</state>
+        <sponsorshipDate>2014-01-10</sponsorshipDate>
+        <firstName>Scott</firstName>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <actions>
+      <item>
+        <actionDate>2014-03-13</actionDate>
+        <committee>
+          <systemCode>hsed10</systemCode>
+          <name>Workforce Protections Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-01-22</actionDate>
+        <committee>
+          <systemCode>hsed10</systemCode>
+          <name>Workforce Protections Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Workforce Protections.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-03</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-03</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-03</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <prayer>1</prayer>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HR</billType>
+    <title>Protecting Health Care Providers from Increased Administrative Burdens Act</title>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2013-12-03</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Protecting Health Care Providers from Increased Administrative Burdens Act - Prohibits a state or local government or other entity that receives a payment from the federal government related to the delivery of health care services to individuals, whether or not such individuals are or have been employed by the federal government, from being treated as a federal contractor or subcontractor by the Office of Federal Contract Compliance Programs based on the work performed or actions taken by such individuals that resulted in the receipt of such payment.</p>]]></text>
+          <updateDate>2013-12-03T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-01-16T21:54:01Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. WALBERG:H.R. 3633.Congress has the power to enact this legislation pursuantto the following: Article I, section 8, clause 3 of theConstitution of the United States[Page H7446]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>3633</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Protecting Health Care Providers from Increased Administrative Burdens Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To clarify that certain recipients of payments from the Federal Government related to the delivery of health care services to individuals shall not be treated as Federal contractors by the Office of Federal Contract Compliance Programs based on the work performed or actions taken by such individuals that resulted in the receipt of such payments.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Protecting Health Care Providers from Increased Administrative Burdens Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <middleName />
+        <lastName>Walberg</lastName>
+        <firstName>Tim</firstName>
+        <byRequestType />
+        <bioguideId>W000798</bioguideId>
+        <identifiers>
+          <lisID>1855</lisID>
+          <gpoId>7992</gpoId>
+          <bioguideId>W000798</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <district>7</district>
+        <state>MI</state>
+      </item>
+    </sponsors>
+    <updateDate>2016-10-25T16:09:21Z</updateDate>
+    <relatedBills />
+    <notes />
+    <amendments />
+    <createDate>2013-12-04T07:01:42Z</createDate>
+    <introducedDate>2013-12-03</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Education and the Workforce Committee</name>
+          <activities>
+            <item>
+              <date>2013-12-03T15:00:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-03-13T14:12:29Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2014-01-22T16:21:28Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsed10</systemCode>
+              <name>Workforce Protections Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsed00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2014-03-13</actionDate>
+      <links />
+      <text>Subcommittee Hearings Held.</text>
+    </latestAction>
+    <congress>113</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

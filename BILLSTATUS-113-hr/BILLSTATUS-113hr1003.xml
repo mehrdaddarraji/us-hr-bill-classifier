@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-03-20</actionDate>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-20</actionDate>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-14</actionDate>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-06</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-03-06</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-03-06</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <actionStageOverride>2</actionStageOverride>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2014-05-13</actionDate>
+          <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (text of measure as introduced: CR S2955-2957)</text>
+        </latestAction>
+        <number>2330</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>End-User Protection Act of 2014</latestTitle>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001157</bioguideId>
+        <state>GA</state>
+        <identifiers>
+          <gpoId>7910</gpoId>
+          <bioguideId>S001157</bioguideId>
+          <lisID>1722</lisID>
+        </identifiers>
+        <middleName />
+        <district>13</district>
+        <sponsorshipDate>2013-03-06</sponsorshipDate>
+        <lastName>Scott</lastName>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000289</bioguideId>
+        <state>OH</state>
+        <identifiers>
+          <lisID>1868</lisID>
+          <gpoId>8094</gpoId>
+          <bioguideId>J000289</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>4</district>
+        <sponsorshipDate>2013-03-06</sponsorshipDate>
+        <lastName>Jordan</lastName>
+        <firstName>Jim</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Jordan, Jim [R-OH-4]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001156</bioguideId>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>M001156</bioguideId>
+          <gpoId>8033</gpoId>
+          <lisID>1792</lisID>
+        </identifiers>
+        <middleName />
+        <district>10</district>
+        <sponsorshipDate>2013-03-06</sponsorshipDate>
+        <lastName>McHenry</lastName>
+        <firstName>Patrick</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McHenry, Patrick T. [R-NC-10]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000548</bioguideId>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>1737</lisID>
+          <bioguideId>G000548</bioguideId>
+          <gpoId>8047</gpoId>
+        </identifiers>
+        <middleName />
+        <district>5</district>
+        <sponsorshipDate>2013-03-06</sponsorshipDate>
+        <lastName>Garrett</lastName>
+        <firstName>Scott</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Garrett, Scott [R-NJ-5]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000130</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2112</lisID>
+          <bioguideId>V000130</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <district>51</district>
+        <sponsorshipDate>2013-03-13</sponsorshipDate>
+        <lastName>Vargas</lastName>
+        <firstName>Juan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000587</bioguideId>
+        <state>WI</state>
+        <identifiers>
+          <gpoId>8221</gpoId>
+          <lisID>2073</lisID>
+          <bioguideId>R000587</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <district>8</district>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <lastName>Ribble</lastName>
+        <firstName>Reid</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Ribble, Reid J. [R-WI-8]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-03-07T07:01:11Z</createDate>
+    <introducedDate>2013-03-06</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-03-20</actionDate>
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To improve consideration by the Commodity Futures Trading Commission of the costs and benefits of its regulations and orders.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To improve consideration by the Commodity Futures Trading Commission of the costs and benefits of its regulations and orders.</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Commodities markets</name>
+          </item>
+          <item>
+            <name>Commodity Futures Trading Commission</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:09:10Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName>Michael</middleName>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <identifiers>
+          <gpoId>8167</gpoId>
+          <lisID>1805</lisID>
+          <bioguideId>C001062</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>K.</firstName>
+        <lastName>Conaway</lastName>
+        <bioguideId>C001062</bioguideId>
+        <state>TX</state>
+        <district>11</district>
+      </item>
+    </sponsors>
+    <title>To improve consideration by the Commodity Futures Trading Commission of the costs and benefits of its regulations and orders.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-03-06</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2013-04-12T19:24:04Z</lastSummaryUpdateDate>
+          <updateDate>2013-03-06T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Amends the Commodity Exchange Act to revise the requirement that the Commodity Futures Trading Commission (CFTC), before promulgating a regulation or issuing an order, consider the costs and benefits of the action. Requires the CFTC, through the Office of the Chief Economist, to: (1) assess the costs and benefits, both qualitative and quantitative, of an intended regulation; and (2) propose or adopt a regulation only on a reasoned determination that the benefits justify the costs.</p> <p>Lists additional mandatory considerations for the CFTC to evaluate in making a reasoned determination of the costs and the benefits, including the impact on market liquidity in the futures and swaps markets, as well as alternatives to direct regulation.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1003</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-03-20T15:07:24Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-03-14T15:00:55Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2013-03-06T15:06:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsag00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Agriculture Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2013-04-03T18:15:00Z</pubDate>
+        <url>http://www.cbo.gov/publication/44051</url>
+        <title>H.R. 1003, a bill to improve consideration by the Commodity Futures Trading Commission of the costs and benefits of its regulations and orders</title>
+      </item>
+      <item>
+        <pubDate>2013-04-03T18:15:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/44051</url>
+        <title>H.R. 1003, a bill to improve consideration by the Commodity Futures Trading Commission of the costs and benefits of its regulations and orders</title>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 32 (Wednesday, March 6, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CONAWAY:H.R. 1003.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the powers granted toCongress under Article I, section 8, clause 3, that grantsCongress the power to regulate commerce among the severalstates.[Page H1321]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

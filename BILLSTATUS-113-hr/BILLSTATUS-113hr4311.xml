@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-06-13</actionDate>
+        <committee>
+          <systemCode>hsed13</systemCode>
+          <name>Higher Education and Workforce Training Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-03-26</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+      </item>
+      <item>
+        <actionDate>2014-03-26</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2014-03-26</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>0</district>
+        <fullName>Rep. Faleomavaega, Eni F. H. [D-AS-At Large]</fullName>
+        <lastName>Faleomavaega</lastName>
+        <middleName>F. H.</middleName>
+        <state>AS</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>367</lisID>
+          <bioguideId>F000010</bioguideId>
+          <gpoId>7797</gpoId>
+        </identifiers>
+        <firstName>Eni</firstName>
+        <bioguideId>F000010</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. FALEOMAVAEGA:H.R. 4311.Congress has the power to enact this legislation pursuantto the following:Labor RegulationArticle I, Section 8, Clause 3The Congress shall have Power to regulate Commerce withforeign Nation, and among the several States, and with theIndian Tribes.[Page H2696]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>4311</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:11:55Z</updateDate>
+    <laws />
+    <createDate>2014-03-27T07:22:40Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Education and the Workforce Committee</name>
+          <activities>
+            <item>
+              <date>2014-03-26T14:03:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-06-13T17:48:32Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsed13</systemCode>
+              <name>Higher Education and Workforce Training Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsed00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Amends the Wagner-Peyser Act to include American Samoa in the Department of Labor's program of providing public employment services through a one-stop services delivery system.</p> <p>Directs the Secretary of Labor to allot to American Samoa an amount equal to the allotment percentage Guam received for employment services under the Act in FY1983.</p>]]></text>
+          <lastSummaryUpdateDate>2014-04-08T18:46:26Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2014-03-26T04:00:00Z</updateDate>
+          <actionDate>2014-03-26</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <cosponsors />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <actionDate>2013-07-08</actionDate>
+          <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1656</number>
+        <type>HR</type>
+        <latestTitle>To amend the Wagner-Peyser Act to include the Commonwealth of the Northern Mariana Islands in the employment services provided under that Act.</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>American Samoa</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Wagner-Peyser Act to include American Samoa in the employment services provided under that Act, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>To amend the Wagner-Peyser Act to include American Samoa in the employment services provided under that Act, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>To amend the Wagner-Peyser Act to include American Samoa in the employment services provided under that Act, and for other purposes.</title>
+    <billType>HR</billType>
+    <introducedDate>2014-03-26</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2014-06-13</actionDate>
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

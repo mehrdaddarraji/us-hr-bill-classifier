@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2013-12-13</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-12</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Ways and Means</text>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-12</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Energy and Commerce</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Sponsor introductory remarks on measure. (CR E1862)</text>
+        <committee />
+        <actionCode>B00100</actionCode>
+        <links>
+          <link>
+            <name>E1862</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/extensions-of-remarks-section/page/E1862</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-12-12</introducedDate>
+    <notes />
+    <calendarNumbers />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2013-12-12</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Medicare Demonstration of Coverage for Low Vision Devices Act of 2013 - Directs the Secretary of Health and Human Services (HHS) to commence a project to demonstrate and evaluate the impact of covering low vision devices under part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act in the same or similar manner as coverage is provided for durable medical equipment under such part.</p>]]></text>
+          <updateDate>2013-12-12T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-01-27T17:46:39Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Hearing, speech, and vision care</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>3749</billNumber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <lastName>MALONEY</lastName>
+        <district>12</district>
+        <middleName>B.</middleName>
+        <firstName>CAROLYN</firstName>
+        <byRequestType />
+        <bioguideId>M000087</bioguideId>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mrs. CAROLYN B. MALONEY of New York:H.R. 3749.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8: to provide for the common defense andgeneral welfare.[Page H8111]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Medicare Demonstration of Coverage for Low Vision Devices Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To provide for a Medicare demonstration project to evaluate the fiscal impact of covering low vision devices as durable medical equipment under part B of the Medicare program.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Medicare Demonstration of Coverage for Low Vision Devices Act of 2013</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <updateDate>2016-10-25T16:09:45Z</updateDate>
+    <recordedVotes />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <actionDate>2013-12-13</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <createDate>2013-12-13T07:01:21Z</createDate>
+    <title>Medicare Demonstration of Coverage for Low Vision Devices Act of 2013</title>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+        <party>R</party>
+        <lastName>Bilirakis</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001257</bioguideId>
+        <state>FL</state>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <firstName>Gus</firstName>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-03-06</sponsorshipDate>
+        <party>D</party>
+        <lastName>Cohen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001068</bioguideId>
+        <state>TN</state>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Steve</firstName>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1839</lisID>
+          <gpoId>7883</gpoId>
+          <bioguideId>C001066</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-03-13</sponsorshipDate>
+        <party>D</party>
+        <lastName>Castor</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001066</bioguideId>
+        <state>FL</state>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Kathy</firstName>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8132</gpoId>
+          <lisID>316</lisID>
+          <bioguideId>D000482</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <party>D</party>
+        <lastName>DOYLE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000482</bioguideId>
+        <state>PA</state>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>MIKE</firstName>
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8673</gpoId>
+          <lisID>1974</lisID>
+          <bioguideId>O000169</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-07-11</sponsorshipDate>
+        <party>D</party>
+        <lastName>Owens</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>O000169</bioguideId>
+        <state>NY</state>
+        <district>21</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <firstName>William</firstName>
+        <fullName>Rep. Owens, William L. [D-NY-21]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <lisID>2101</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2014-09-09</sponsorshipDate>
+        <party>D</party>
+        <lastName>Huffman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001068</bioguideId>
+        <state>CA</state>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Jared</firstName>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-12-13T16:48:13Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-12-12T15:02:35Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-12-12T15:02:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

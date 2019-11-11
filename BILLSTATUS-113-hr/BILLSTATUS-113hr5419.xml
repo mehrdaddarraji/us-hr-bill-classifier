@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-09-17</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>21:00:47</actionTime>
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2014-09-16</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <actionTime>21:00:45</actionTime>
+        <actionCode>H37300</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2014-09-16</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H7598</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H7598</url>
+          </link>
+        </links>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7598)</text>
+      </item>
+      <item>
+        <actionTime>21:00:45</actionTime>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2014-09-16</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H7598</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H7598</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7598)</text>
+      </item>
+      <item>
+        <actionTime>20:57:39</actionTime>
+        <actionCode>H8D000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2014-09-16</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 5419</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/5419</url>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5419.</text>
+      </item>
+      <item>
+        <actionTime>20:57:38</actionTime>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2014-09-16</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H7598-7599</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H7598-7599</url>
+          </link>
+        </links>
+        <text>Considered under suspension of the rules. (consideration: CR H7598-7599)</text>
+      </item>
+      <item>
+        <actionTime>20:57:20</actionTime>
+        <actionCode>H30300</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2014-09-16</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Mr. Boustany moved to suspend the rules and pass the bill.</text>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2014-09-09</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-09-09</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-09-09</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <generalDebate>1</generalDebate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <considerationByHouse>1</considerationByHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-09-09</introducedDate>
+    <updateDate>2016-10-25T16:16:14Z</updateDate>
+    <createDate>2014-09-10T05:05:01Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2014-09-17T19:47:42Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2014-09-09T14:00:44Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <middleName />
+        <lastName>Kelly</lastName>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2051</lisID>
+          <gpoId>8708</gpoId>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+        <bioguideId>K000376</bioguideId>
+        <district>3</district>
+        <state>PA</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>To amend the Internal Revenue Code of 1986 to provide for a right to an administrative appeal relating to adverse determinations of tax-exempt status of certain organizations.</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to provide for a right to an administrative appeal relating to adverse determinations of tax-exempt status of certain organizations.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to provide for a right to an administrative appeal relating to adverse determinations of tax-exempt status of certain organizations.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. BOUSTANY:H.R. 5419.Congress has the power to enact this legislation pursuantto the following:Clauses 1 and 18 of Section 8 of Article I of the UnitedStates Constitution.[Page H7388]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Amends the Internal Revenue Code to require the Secretary of the Treasury to prescribe regulations for allowing a tax-exempt organization to request an administrative appeal to the Internal Revenue Service (IRS) Office of Appeals of an adverse determination with respect to: (1) the initial or continuing qualification of such organization as tax-exempt, or (2) the initial or continuing classification of such organization as a private foundation or a private operating foundation. </p>]]></text>
+          <lastSummaryUpdateDate>2014-09-15T17:40:21Z</lastSummaryUpdateDate>
+          <updateDate>2014-09-09T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2014-09-09</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+        <item>
+          <name>Passed House without amendment</name>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Amends the Internal Revenue Code to require the Secretary of the Treasury to prescribe regulations for allowing a tax-exempt organization to request an administrative appeal to the Internal Revenue Service (IRS) Office of Appeals of an adverse determination with respect to: (1) the initial or continuing qualification of such organization as tax-exempt, or (2) the initial or continuing classification of such organization as a private foundation or a private operating foundation. </p>]]></text>
+          <lastSummaryUpdateDate>2014-09-18T19:46:13Z</lastSummaryUpdateDate>
+          <updateDate>2014-09-16T16:33:55Z</updateDate>
+          <versionCode>81</versionCode>
+          <actionDate>2014-09-16</actionDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Internal Revenue Service (IRS)</name>
+          </item>
+          <item>
+            <name>Tax-exempt organizations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2014-09-17</actionDate>
+    </latestAction>
+    <billNumber>5419</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>3</district>
+        <firstName>Charles</firstName>
+        <party>R</party>
+        <fullName>Rep. Boustany, Charles W., Jr. [R-LA-3]</fullName>
+        <bioguideId>B001255</bioguideId>
+        <identifiers>
+          <gpoId>7965</gpoId>
+          <lisID>1787</lisID>
+          <bioguideId>B001255</bioguideId>
+        </identifiers>
+        <lastName>Boustany</lastName>
+        <middleName>W.</middleName>
+        <state>LA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

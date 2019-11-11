@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-06-17</actionDate>
+        <text>Referred to the House Committee on House Administration.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-06-17</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-06-17</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>11</district>
+        <fullName>Rep. Gingrey, Phil [R-GA-11]</fullName>
+        <lastName>Gingrey</lastName>
+        <middleName />
+        <state>GA</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>1720</lisID>
+          <bioguideId>G000550</bioguideId>
+          <gpoId>7908</gpoId>
+        </identifiers>
+        <firstName>Phil</firstName>
+        <bioguideId>G000550</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. GINGREY of Georgia:H.R. 2403.Congress has the power to enact this legislation pursuantto the following:Article I, Section 4, Clause 1 of the Constitution statesthat ``The Times, Places and Manner of holding Elections forSenators and Representatives shall be prescribed in eachState by the Legislature thereof; but the Congress may at anytime by Law make or alter such Regulations, except as to thePlaces of choosing Senators.''[Page H3688]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2403</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:04:47Z</updateDate>
+    <laws />
+    <createDate>2013-06-18T07:08:42Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <subcommittees />
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <date>2013-06-17T16:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-06-17T04:00:00Z</updateDate>
+          <actionDate>2013-06-17</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Securing America's Fair Elections Act or the SAFE Act - Amends the National Voter Registration Act of 1993 to permit a state to require an applicant for voter registration who uses the federal mail voter registration application form developed by the Election Assistance Commission to provide additional information relating to the applicant's eligibility to register to vote in elections for federal office in the state (including information relating to the applicant's citizenship status) as a condition of the state's acceptance of the form.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-08-12T21:54:52Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Westmoreland</lastName>
+        <bioguideId>W000796</bioguideId>
+        <middleName>A.</middleName>
+        <district>3</district>
+        <identifiers>
+          <gpoId>7900</gpoId>
+          <lisID>1779</lisID>
+          <bioguideId>W000796</bioguideId>
+        </identifiers>
+        <state>GA</state>
+        <sponsorshipDate>2013-06-18</sponsorshipDate>
+        <firstName>Lynn</firstName>
+        <fullName>Rep. Westmoreland, Lynn A. [R-GA-3]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>KINGSTON</lastName>
+        <bioguideId>K000220</bioguideId>
+        <middleName />
+        <district>1</district>
+        <identifiers>
+          <lisID>636</lisID>
+          <bioguideId>K000220</bioguideId>
+          <gpoId>7898</gpoId>
+        </identifiers>
+        <state>GA</state>
+        <sponsorshipDate>2013-06-19</sponsorshipDate>
+        <firstName>JACK</firstName>
+        <fullName>Rep. Kingston, Jack [R-GA-1]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>PITTS</lastName>
+        <bioguideId>P000373</bioguideId>
+        <middleName>R.</middleName>
+        <district>16</district>
+        <identifiers>
+          <lisID>1514</lisID>
+          <bioguideId>P000373</bioguideId>
+          <gpoId>8134</gpoId>
+        </identifiers>
+        <state>PA</state>
+        <sponsorshipDate>2013-06-19</sponsorshipDate>
+        <firstName>JOSEPH</firstName>
+        <fullName>Rep. Pitts, Joseph R. [R-PA-16]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Broun</lastName>
+        <bioguideId>B001262</bioguideId>
+        <middleName>C.</middleName>
+        <district>10</district>
+        <identifiers>
+          <bioguideId>B001262</bioguideId>
+          <lisID>1882</lisID>
+          <gpoId>7907</gpoId>
+        </identifiers>
+        <state>GA</state>
+        <sponsorshipDate>2013-06-20</sponsorshipDate>
+        <firstName>Paul</firstName>
+        <fullName>Rep. Broun, Paul C. [R-GA-10]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Marchant</lastName>
+        <bioguideId>M001158</bioguideId>
+        <middleName />
+        <district>24</district>
+        <identifiers>
+          <lisID>1806</lisID>
+          <bioguideId>M001158</bioguideId>
+          <gpoId>8766</gpoId>
+        </identifiers>
+        <state>TX</state>
+        <sponsorshipDate>2013-06-24</sponsorshipDate>
+        <firstName>Kenny</firstName>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wilson</lastName>
+        <bioguideId>W000795</bioguideId>
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <lisID>1688</lisID>
+          <bioguideId>W000795</bioguideId>
+          <gpoId>8142</gpoId>
+        </identifiers>
+        <state>SC</state>
+        <sponsorshipDate>2013-06-25</sponsorshipDate>
+        <firstName>Joe</firstName>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Nunnelee</lastName>
+        <bioguideId>N000186</bioguideId>
+        <middleName />
+        <district>1</district>
+        <identifiers>
+          <bioguideId>N000186</bioguideId>
+          <lisID>2034</lisID>
+          <gpoId>8019</gpoId>
+        </identifiers>
+        <state>MS</state>
+        <sponsorshipDate>2013-06-27</sponsorshipDate>
+        <firstName>Alan</firstName>
+        <fullName>Rep. Nunnelee, Alan [R-MS-1]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>DUNCAN</lastName>
+        <bioguideId>D000533</bioguideId>
+        <middleName>J.</middleName>
+        <district>2</district>
+        <identifiers>
+          <lisID>322</lisID>
+          <bioguideId>D000533</bioguideId>
+          <gpoId>8149</gpoId>
+        </identifiers>
+        <state>TN</state>
+        <sponsorshipDate>2013-06-28</sponsorshipDate>
+        <firstName>JOHN</firstName>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Graves</lastName>
+        <bioguideId>G000560</bioguideId>
+        <middleName />
+        <district>14</district>
+        <identifiers>
+          <lisID>1979</lisID>
+          <bioguideId>G000560</bioguideId>
+          <gpoId>7906</gpoId>
+        </identifiers>
+        <state>GA</state>
+        <sponsorshipDate>2013-07-24</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Graves, Tom [R-GA-14]</fullName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <latestTitle>State Sovereignty in Voting Act</latestTitle>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the House Committee on House Administration.</text>
+          <actionDate>2013-06-18</actionDate>
+        </latestAction>
+        <number>2409</number>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Citizenship and naturalization</name>
+          </item>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Voting rights</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>SAFE Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Securing America's Fair Elections Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the National Voter Registration Act of 1993 to permit a State to require an applicant for voter registration in the State who uses the Federal mail voter registration application form developed by the Election Assistance Commission under such Act to provide additional information as a condition of the State's acceptance of the form.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>SAFE Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>SAFE Act</title>
+    <billType>HR</billType>
+    <introducedDate>2013-06-17</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-06-17</actionDate>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

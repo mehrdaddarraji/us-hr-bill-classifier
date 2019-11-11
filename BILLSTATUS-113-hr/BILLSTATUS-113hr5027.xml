@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <introducedDate>2014-07-08</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <bioguideId>S001180</bioguideId>
+        <district>5</district>
+        <middleName />
+        <firstName>Kurt</firstName>
+        <sponsorshipDate>2014-07-08</sponsorshipDate>
+        <state>OR</state>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+        <lastName>Schrader</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001180</bioguideId>
+          <gpoId>8118</gpoId>
+          <lisID>1950</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <links />
+      <actionDate>2014-07-11</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>1616</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Energy Savings and Industrial Competitiveness Act of 2013</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Energy.</text>
+          <actionDate>2013-06-24</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>761</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Energy Savings and Industrial Competitiveness Act of 2013</latestTitle>
+        <type>S</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>By Senator Wyden from Committee on Energy and Natural Resources filed written report. Report No. 113-37.</text>
+          <actionDate>2013-06-03</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>1392</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Energy Savings and Industrial Competitiveness Act of 2013</latestTitle>
+        <type>S</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Considered by Senate. (consideration: CR S6620, S6621-6623)</text>
+          <actionDate>2013-09-19</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>2074</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Energy Savings and Industrial Competitiveness Act of 2014</latestTitle>
+        <type>S</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2014-02-27</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>2262</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Energy Savings and Industrial Competitiveness Act of 2014</latestTitle>
+        <type>S</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the measure (Record Vote No. 142) entered in Senate. (consideration: CR S2899-2900)</text>
+          <actionDate>2014-05-12</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:14:50Z</updateDate>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2014-07-11</actionDate>
+        <committee>
+          <systemCode>hsif03</systemCode>
+          <name>Energy and Power Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2014-07-08</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2014-07-08</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2014-07-08</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Energy Savings and Building Efficiency Act of 2014 - Amends the Energy Conservation and Production Act to revise provisions regarding the technical assistance that the Department of Energy (DOE) provides to states, Indian tribes, local governments, or model organizations with respect to model energy codes for residential and commercial building codes. Requires DOE to provide technical assistance to implement technically feasible and cost-effective building energy codes.</p> <p>Requires states and Indian tribes to measure their compliance with applicable building energy codes or with the associated model building energy code. Sets standards for compliance.</p> <p>Prohibits DOE from advocating, promoting or discouraging the adoption of a particular building energy code, code provision, or energy savings target to a state or Indian tribe. Deems information provided by DOE to be &quot;influential information&quot; subject to Office of Management and Budget (OMB) guidelines.</p> <p>Requires DOE to establish energy saving targets for updating model building energy codes. Requires DOE to consider the economic feasibility of achieving the proposed targets and the potential costs and savings for consumers and building owners by conducting a return on investment analysis using a simple payback methodology over a three, five, and seven years. (Simple payback is the time in years that is required for energy savings to exceed the incremental first cost of a new requirement or code.) Prohibits DOE from proposing or providing assistance for any code or target that has a payback greater than 10 years.</p> <p> Directs DOE to provide grants to establish building training and assessment centers at institutions of higher education.</p> <p>Requires any DOE program that may enable the owner of a building to obtain a rating, score, or label regarding energy usage or performance of a building to be made available on a voluntary basis.</p>]]></text>
+          <actionDate>2014-07-08</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2014-07-08T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-03-27T12:51:54Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Building construction</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Environmental technology</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Housing industry and standards</name>
+          </item>
+          <item>
+            <name>Industrial facilities</name>
+          </item>
+          <item>
+            <name>Lighting and heating</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Energy Savings and Building Efficiency Act of 2014</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Blackburn</lastName>
+        <bioguideId>B001243</bioguideId>
+        <middleName />
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <identifiers>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <firstName>Marsha</firstName>
+        <party>R</party>
+        <state>TN</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-07-09T05:03:40Z</createDate>
+    <billNumber>5027</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-07-08T16:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-07-11T15:01:23Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif03</systemCode>
+              <name>Energy and Power Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mrs. BLACKBURN:H.R. 5027.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution provides Congressthe authority to make all laws which shall be necessary andproper to carry into Execution the foregoing Powers, and allother Powers vested by this Constitution in the Government ofthe United States, or in any Department or Officer thereof.[Page H5876]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Energy Savings and Building Efficiency Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To promote energy savings in residential and commercial buildings and industry, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Energy Savings and Building Efficiency Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

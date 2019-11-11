@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionDate>2014-07-30</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on House Administration.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-07-30</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-07-30</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-07-30</introducedDate>
+    <updateDate>2016-10-25T16:15:42Z</updateDate>
+    <createDate>2014-07-31T05:20:45Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <date>2014-07-30T14:03:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>House Administration Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <district>7</district>
+        <firstName>Marsha</firstName>
+        <state>TN</state>
+        <sponsorshipDate>2014-07-30</sponsorshipDate>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <bioguideId>B001243</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>8</district>
+        <firstName>Reid</firstName>
+        <state>WI</state>
+        <sponsorshipDate>2014-09-10</sponsorshipDate>
+        <fullName>Rep. Ribble, Reid J. [R-WI-8]</fullName>
+        <lastName>Ribble</lastName>
+        <party>R</party>
+        <bioguideId>R000587</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <identifiers>
+          <lisID>2073</lisID>
+          <gpoId>8221</gpoId>
+          <bioguideId>R000587</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Preventing Government Printing Overreach Act of 2014</title>
+    <titles>
+      <item>
+        <title>Preventing Government Printing Overreach Act of 2014</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend title 44, United States Code, to prohibit the assembly or manufacture of secure credentials or their component parts by the Government Printing Office.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Preventing Government Printing Overreach Act of 2014</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. GINGREY of Georgia:H.R. 5268.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clause 3, granting Congress the power``to regulate Commerce with foreign Nations, and among theseveral States, and with the Indian Tribes.''[Page H7127]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Preventing Government Printing Overreach Act of 2014 - Prohibits the Public Printer from assembling or manufacturing any secure credentials or the component parts of any such credential.</p> <p>Makes such prohibition inapplicable to the following activities: </p> <ul> <li>stitching security paper into an already assembled eCover for the Department of State;</li> <li> manufacturing NEXUS and SENTRI cards pursuant to any existing contract or purchase order until the earlier of the date on which such contract expires or such purchase order is filled, or December 31, 2015;</li> <li>assembling or manufacturing any secure credentials specifically at the request of the Central Intelligence Agency (CIA) or the National Security Agency (NSA) for use in classified programs or activities; and </li> <li> manufacturing identification badges for the presidential inauguration. </li> </ul> <p>Defines &quot;secure credential&quot; to mean an identification document that includes component security parts designed to authenticate the document or reduce the risk of the unauthorized replication or alteration of the document.</p>]]></text>
+          <updateDate>2014-07-30T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2014-10-10T18:16:13Z</lastSummaryUpdateDate>
+          <actionDate>2014-07-30</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government Publishing Office (GPO)</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2014-07-30</actionDate>
+    </latestAction>
+    <billNumber>5268</billNumber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>11</district>
+        <firstName>Phil</firstName>
+        <party>R</party>
+        <fullName>Rep. Gingrey, Phil [R-GA-11]</fullName>
+        <bioguideId>G000550</bioguideId>
+        <identifiers>
+          <bioguideId>G000550</bioguideId>
+          <lisID>1720</lisID>
+          <gpoId>7908</gpoId>
+        </identifiers>
+        <lastName>Gingrey</lastName>
+        <middleName />
+        <state>GA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

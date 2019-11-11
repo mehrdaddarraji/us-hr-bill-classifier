@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <updateDate>2016-10-25T16:13:26Z</updateDate>
+    <billNumber>4700</billNumber>
+    <sponsors>
+      <item>
+        <fullName>Rep. Gardner, Cory [R-CO-4]</fullName>
+        <middleName />
+        <bioguideId>G000562</bioguideId>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <byRequestType />
+        <lastName>Gardner</lastName>
+        <district>4</district>
+        <party>R</party>
+        <state>CO</state>
+        <firstName>Cory</firstName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <actionDate>2014-05-21</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <cosponsors />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2014-05-21T14:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to increase the limitation on the deduction for student loan interest.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to increase the limitation on the deduction for student loan interest.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <createDate>2014-05-22T07:19:35Z</createDate>
+    <notes />
+    <title>To amend the Internal Revenue Code of 1986 to increase the limitation on the deduction for student loan interest.</title>
+    <calendarNumbers />
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2014-07-14T21:14:42Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Amends the Internal Revenue Code to increase the limitation on the tax deduction for interest paid on qualified education loans to $5,000 in a taxable year and provide for an annual inflation adjustment to that amount&nbsp;for taxable years beginning after 2015. </p>]]></text>
+          <updateDate>2014-05-21T04:00:00Z</updateDate>
+          <actionDate>2014-05-21</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2014-05-21</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. GARDNER:H.R. 4700.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8Clause 1: The Congress shall have Power To lay and collectTaxes, Duties, Imposts and Excises, to pay the Debts andprovide for the common Defence and general Welfare of theUnited States; but all Duties, Imposts and Excises shall beuniform throughout the United States;Clause 18: To make all Laws which shall be necessary andproper for carrying into Execution the foregoing Powers, andall other Powers vested by this Constitution in theGovernment of the United States, or in any Department orOfficer thereof.[[Page H4785]][Page H4784]</pre>]]></constitutionalAuthorityStatementText>
+    <laws />
+    <committeeReports />
+    <actions>
+      <item>
+        <links />
+        <actionDate>2014-05-21</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2014-05-21</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2014-05-21</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HR</billType>
+    <recordedVotes />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

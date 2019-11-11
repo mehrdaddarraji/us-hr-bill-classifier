@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-06-23</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+    </latestAction>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 113-470</citation>
+      </committeeReport>
+    </committeeReports>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-06-23T20:27:39Z</date>
+              <name>Referred to</name>
+            </item>
+            <item>
+              <date>2014-06-19T22:48:11Z</date>
+              <name>Discharged from</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-06-05T19:47:35Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2014-04-29T19:32:46Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2014-04-07T16:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-04-09T16:13:50Z</date>
+                  <name>Reported by</name>
+                </item>
+                <item>
+                  <date>2014-04-09T16:07:08Z</date>
+                  <name>Markup by</name>
+                </item>
+                <item>
+                  <date>2014-04-08T16:05:48Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hssy16</systemCode>
+              <name>Space Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-04-08T07:13:58Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2014-06-23</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:33:19</actionTime>
+        <type>Floor</type>
+        <text>Mr. Palazzo asked unanimous consent that the Clerk be authorized to engross the bill, H.R. 4412, in the form placed at the desk. Agreed to without objection. (consideration: CR H5577-5591; text as passed House: CR H5577-5591)</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2014-06-20</actionDate>
+        <links>
+          <link>
+            <name>H.R. 4412</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/4412</url>
+          </link>
+          <link>
+            <name>H5577-5591</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H5577-5591</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2014-06-20</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-06-19</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate returned papers to House by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-06-19</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S3884</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S3884</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S3884)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S3884)</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <actionDate>2014-06-19</actionDate>
+        <links>
+          <link>
+            <name>S3884</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S3884</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>19:08:15</actionTime>
+        <type>Floor</type>
+        <text>House requested return of papers pursuant to H.Res. 627</text>
+        <actionCode>H1B000</actionCode>
+        <committee />
+        <actionDate>2014-06-17</actionDate>
+        <links>
+          <link>
+            <name>H.Res. 627</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-resolution/627</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2014-06-10</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-06-10</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>18:57:52</actionTime>
+        <type>Floor</type>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 272). (text: CR H5108-5123)</text>
+        <actionCode>H37300</actionCode>
+        <committee />
+        <actionDate>2014-06-09</actionDate>
+        <links>
+          <link>
+            <name>H5108-5123</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H5108-5123</url>
+          </link>
+          <link>
+            <name>Roll no. 272</name>
+            <url>http://clerk.house.gov/evs/2014/roll272.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionTime>18:57:52</actionTime>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 272).(text: CR H5108-5123)</text>
+        <actionCode>8000</actionCode>
+        <committee />
+        <actionDate>2014-06-09</actionDate>
+        <links>
+          <link>
+            <name>H5108-5123</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H5108-5123</url>
+          </link>
+          <link>
+            <name>Roll no. 272</name>
+            <url>http://clerk.house.gov/evs/2014/roll272.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>18:32:19</actionTime>
+        <type>Floor</type>
+        <text>Considered as unfinished business. (consideration: CR H5148)</text>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <actionDate>2014-06-09</actionDate>
+        <links>
+          <link>
+            <name>H5148</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H5148</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>16:49:27</actionTime>
+        <type>Floor</type>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <actionCode>H37220</actionCode>
+        <committee />
+        <actionDate>2014-06-09</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>16:19:51</actionTime>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4412.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2014-06-09</actionDate>
+        <links>
+          <link>
+            <name>H.R. 4412</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/4412</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>16:19:50</actionTime>
+        <type>Floor</type>
+        <text>Considered under suspension of the rules. (consideration: CR H5108-5126)</text>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <actionDate>2014-06-09</actionDate>
+        <links>
+          <link>
+            <name>H5108-5126</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H5108-5126</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>16:19:33</actionTime>
+        <type>Floor</type>
+        <text>Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.</text>
+        <actionCode>H30300</actionCode>
+        <committee />
+        <actionDate>2014-06-09</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Placed on the Union Calendar, Calendar No. 349.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <committee />
+        <actionDate>2014-06-05</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-470.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </committee>
+        <actionDate>2014-06-05</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 113-470</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/470</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-470.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <committee>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </committee>
+        <actionDate>2014-06-05</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 113-470</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/470</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2014-04-29</actionDate>
+        <committee>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-04-29</actionDate>
+        <committee>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-04-09</actionDate>
+        <committee>
+          <systemCode>hssy16</systemCode>
+          <name>Space Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-04-09</actionDate>
+        <committee>
+          <systemCode>hssy16</systemCode>
+          <name>Space Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-04-08</actionDate>
+        <committee>
+          <systemCode>hssy16</systemCode>
+          <name>Space Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Space.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </committee>
+        <actionDate>2014-04-07</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2014-04-07</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2014-04-07</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <designationOfSpeakerProTempore>1</designationOfSpeakerProTempore>
+        <referredToCommittee>2</referredToCommittee>
+        <virtualAction>1</virtualAction>
+        <actionStageOverride>1</actionStageOverride>
+        <reportedToHouse>1</reportedToHouse>
+        <considerationByHouse>2</considerationByHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <billReferrals>1</billReferrals>
+        <sentToHouse>1</sentToHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <introducedInHouse>1</introducedInHouse>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <generalDebate>2</generalDebate>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <freeText>2</freeText>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <placeholderTextForH>4</placeholderTextForH>
+        <committeeDischarged>1</committeeDischarged>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>7</senate>
+        <houseOfRepresentatives>20</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes>
+      <recordedVote>
+        <congress>113</congress>
+        <chamber>House</chamber>
+        <sessionNumber>2</sessionNumber>
+        <date>2014-06-09T22:57:52Z</date>
+        <url>http://clerk.house.gov/evs/2014/roll272.xml</url>
+        <rollNumber>272</rollNumber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+      </recordedVote>
+    </recordedVotes>
+    <amendments />
+    <introducedDate>2014-04-07</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. PALAZZO:H.R. 4412.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3: The Congress shall havepower to regulate commerce with foreign nations, and amongthe several states, and with the Indian tribes; andArticle I, Section 8, Clause 18: The Congress shall havepower to make all Laws which shall be necessary and properfor carrying into Execution the foregoing Powers, and allother Powers vested by this Constitution in the Government ofthe United States, or in any Department or Officer thereof.[Page H2990]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>4412</billNumber>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 4412, National Aeronautics and Space Administration Authorization Act of 2014</title>
+        <pubDate>2014-05-15T21:22:35Z</pubDate>
+        <url>http://www.cbo.gov/publication/45376</url>
+      </item>
+      <item>
+        <title>H.R. 4412, National Aeronautics and Space Administration Authorization Act of 2014</title>
+        <pubDate>2014-05-15T21:22:35Z</pubDate>
+        <url>https://www.cbo.gov/publication/45376</url>
+      </item>
+    </cboCostEstimates>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>National Aeronautics and Space Administration Authorization Act of 2014 - Authorizes appropriations for FY2014 for the National Aeronautics and Space Administration (NASA).</p> <p>Authorizes programs, activities, and reports respecting NASA, including those with regard to human exploration of space, the Space Launch System, the Orion multipurpose crew vehicle, the commercial crew program, the International Space Station (ISS), radioisotope thermoelectric generators, extrasolar planet exploration, the James Webb Space Telescope, the Wide-Field Infrared Survey Telescope, near-Earth objects, space weather, the Deep Space Climate Observatory, land imaging remote sensing data, aeronautics research, science, technology, engineering, and mathematics (STEM) education, project and program reserves, and orbital debris mitigation.</p> <p>Reaffirms the importance of the Aerospace Safety Advisory Panel.</p> <p>Directs the NASA Administrator to utilize the International Space Station and commercial services for Science Mission Directorate and Space Technology Demonstration missions in low-Earth orbit wherever it is practical and cost effective to do so. <p>Establishes a space technology program.</p> <p>Directs the Administrator to: (1) enter into an arrangement with the National Academies for a review of the National Space Grant College and Fellowship Program, and (2) revise the NASA Supplement to the Federal Acquisition Regulation to address the detection and avoidance of counterfeit electronic parts.</p>]]></text>
+          <actionDate>2014-04-07</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2014-04-07T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-04-15T21:13:10Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <actionDesc>Reported to House amended</actionDesc>
+          <versionCode>17</versionCode>
+          <text><![CDATA[<p>National Aeronautics and Space Administration Authorization Act of 2014 - <b>Title I: Authorization of Appropriations</b> - (Sec. 101) Authorizes appropriations for FY2014 for the National Aeronautics and Space Administration (NASA) for: (1) space exploration, (2) space operations, (3) science, (4) aeronautics, (5) space technology, (6) education, (7) cross-agency support, (8) construction and environmental compliance and restoration, and (9) the Inspector General. <p><b>Title II: Human Space Flight </b>- <b>Subtitle A: Exploration</b> (Sec. 201) Makes human exploration deeper into the solar system a core mission of NASA. </p> <p> <p>Amends the National Aeronautics and Space Administration Authorization Act of 2010 to expand the key objectives of the United States for human expansion into space to include accelerating the development of capabilities to enable a human exploration mission to the surface of Mars and beyond. </p> <p>Bars NASA from obtaining non-U.S. human space flight capabilities unless no domestic commercial or public/private partnership provider is available that meets safety and affordability requirements.</p> <p>Repeals provisions that required NASA to ensure the continued capability to restart the Space Shuttle missions. </p> <p>(Sec. 202) Instructs NASA to develop a Human Exploration Roadmap to define the capabilities and technologies necessary to extend human presence to the surface of Mars and the sets and sequences of missions required to demonstrate such capabilities and technologies. </p> <p>Calls on the President to invite the U.S. partners in the International Space Station (ISS) program and other nations, as appropriate, to participate in an international initiative under U.S. leadership to conduct a crewed mission to the surface of Mars. </p> <p> <p>(Sec. 203) Directs NASA to make the expeditious development, test, and achievement of the operational readiness of the Space Launch System and the Orion crew capsule the highest priority of the exploration program. </p> <p>Directs the Comptroller General (GAO) to transmit a report on NASA's acquisition of ground systems in support of the Space Launch System. </p> <p>Requires NASA to prepare a report that addresses the effort and budget required to enable and utilize a cargo variant of the 130-ton Space Launch System configuration described in section 302 of the National Aeronautics and Space Administration Authorization Act of 2010. </p> <p>Directs the Administrator to conduct a competition among students to name the elements of NASA's exploration program. </p> <p>Requires the Associate Administrator of NASA to transmit a report on the development cost of an advanced booster for the Space Launch System, the effect of a competition for an advanced booster, and any delays to the Space Launch System 2017 Exploration Mission-1 launch as a result of increased costs associated with conducting a competition for an advanced booster. Requires NASA to conduct a full and open competition for an advanced booster if the report shows reductions to development cost and no adverse schedule impact. </p> <p>(Sec. 204) Requires the Orion crew capsule to meet the practical needs and the minimum capability requirements regarding a multi-purpose crew vehicle. Requires NASA to report on the capsule within 60 days. </p> <p>(Sec. 205) Directs NASA to develop a space radiation mitigation and management strategy and implementation plan and assess the national capabilities to carry out research on space radiation biology. </p> <p> <p>(Sec. 206) Directs NASA to contract with the National Academies for a study to explore the planetary protection ramifications of potential future missions by astronauts such as to the lunar polar regions, near-Earth steroids, the moons of Mars, and the surface of Mars.</p> <p><b>Subtitle B: Space Operations</b> - (Sec. 211) Declares two primary objectives for the U.S. International Space Station (ISS) Program: (1) supporting achievement of the Mars goal, and (2) pursuing a research program that advances knowledge and provides benefits to the nation. </p> <p>Requires the ISS to be utilized for the development of capabilities and technologies needed for the future of human exploration beyond low-Earth orbit, and to be considered in the development of the Human Exploration Roadmap.</p> <p>Requires NASA to support the operation and full use of the ISS and to minimize operating costs.</p> <p>Declares as U.S. policy the maintenance of an uninterrupted capability for human space flight and operations in low-earth orbit and beyond. </p> <p>Requires the Administrator to report on the feasibility of extending the operation of the ISS. </p> <p>Requires the Director of the Office of Science and Technology Policy (OSTP) to develop and transmit a strategic plan for research in physical and life sciences and related technologies in the ISS through at least 2020.</p> <p>Directs the Government Accountability Office (GAO) to report on the progress of the organization chosen for the management of the ISS National Laboratory. </p> <p>(Sec. 212) Directs NASA to contract with the National Academies to: (1) identify barriers impeding enhanced use of the ISS's National Laboratory; (2) recommend ways of encouraging commercial companies to make greater use of the ISS's National Laboratory, including corporate investment in microgravity research; and (3) identify any legislative changes that may be required. </p> <p>(Sec. 213) Directs NASA to utilize the ISS for Science Mission Directorate missions in low-Earth orbit wherever it is practical and cost effective.</p> <p>(Sec. 214) Requires NASA to report on lessons learned from the Commercial Resupply Services contract. </p> <p>(Sec. 215) Declares that the objective of NASA's Commercial Crew Program shall be to assist in the development of at least one crew transportation system to carry NASA astronauts safely, reliably, and affordably to and from the ISS and to serve as an emergency crew rescue vehicle as soon as practicable. </p> <p>Instructs NASA to ensure that safety is the highest priority and to make minimizing the probability of crew loss an important selection criterion of the Commercial Crew Transportation Capability Contract. </p> <p> <p>Requires NASA to report on the Independent Cost and Schedule Estimate for the final stages of the commercial crew program. </p> <p> <p>(Sec. 216) Requires the Administrator to develop a plan for updating NASA's space communications and navigation architecture for low-Earth orbital and deep space operations so that it is capable of meeting NASA's communications needs over the next 20 years.</p> <p><b>Title III: Science </b>- <b>Subtitle A: General </b>- (Sec. 301) Instructs NASA to follow guidance provided in the current decadal surveys from the National Academies' Space Studies Board when proposing funding for each fiscal year.</p> <p>(Sec. 302) Requires OSTP and NASA to conduct an analysis of NASA's requirements for radioisotope power system material necessary for planned, high priority robotic missions in the solar system and other surface exploration activities beyond low-Earth orbit, and the risk to missions due to a lack of adequate material. </p> <p>(Sec. 303) Adds the search for life's origin, evolution, distribution, and future in the universe to NASA's objectives. </p> <p>(Sec. 304) Requires NASA to conduct a review of specified principal investigator-led small orbital science missions. </p> <p>(Sec. 305) Revises requirements for biennial review of data collection on missions that have been extended to require consideration of how these missions affect the start of future missions. </p> <p><b>Subtitle B: Astrophysics</b> - (Sec. 311) Instructs NASA to seek to ensure a steady cadence of large, medium, and small astrophysics missions. </p> <p>(Sec. 312) Directs NASA to contract with the National Academies to develop a science strategy for the study and exploration of extrasolar planets, including the use of the Transiting Exoplanet Survey Satellite, the James Webb Space Telescope, a potential Wide-Field Infrared Survey Telescope mission, or any other telescope, spacecraft, or instrument, as appropriate. Requires NASA to use the strategy to: (1) inform roadmaps, strategic plans, and other activities related to extrasolar planet research and exploration; and (2) provide a foundation for future activities and initiatives.</p> <p>(Sec. 313) Expresses the sense of Congress with respect to the James Webb Space Telescope. </p> <p>(Sec. 314) Requires NASA to report to Congress outlining the cost of NASA's plan for developing the Wide-Field Infrared Survey Telescope. </p> <p>(Sec. 315) Instructs NASA to ensure that the concept definition and pre-formulation activities of a Wide-Field Infrared Survey Telescope mission continue while the James Webb Space Telescope is being completed. </p> <p>(Sec. 316) Prohibits NASA from using any funding appropriated for FY2014 to shutdown the Stratospheric Observatory for Infrared Astronomy. </p> <p><b>Subtitle C: Planetary Science</b>: (Sec. 321) Instructs NASA to seek to carry out a balanced set of planetary science programs. Requires such programs to include: (1) a Discovery-class mission at least once every 24 months; (2) a New Frontiers-class mission at least once every 60 months; and (3) at least one Flagship-class mission per decadal survey period, including a Europa mission with a goal of launching by 2021. </p> <p>(Sec. 322) Directs NASA to continue the Near-Earth Objects Survey, with the goal of cataloguing 90% of near-Earth objects by 2020. </p> <p>Requires the OSTP and NASA to report on the Survey. </p> <p> <p>Requires NASA to carry out a technical and scientific assessment of the capabilities and resources needed to accelerate the Survey and expand it to include smaller objects. </p> <p>(Sec. 323) Requires NASA to report to Congress describing how it can expand collaborative partnerships to detect, track, catalogue, and categorize near-Earth objects.</p> <p>(Sec. 324) Requires NASA to report on the effects of potential tsunamis that could occur if a near-Earth object were to impact an ocean of the Earth. </p> <p>(Sec. 325) Directs NASA to contract with the National Academies to develop a science strategy for astrobiology. Instructs NASA to use the strategy in planning and funding research and other activities and initiatives in astrobiology. </p> <p>(Sec. 326) Requires NASA to report to Congress on collaborative partnerships to study life's origin, evolution, distribution, and future in the universe. </p> <p>(Sec. 327) Requires NASA to contract with the National Academies to assess issues related to the Mars Exploration Program. </p> <p><b>Subtitle D: Heliophysics</b> - (Sec. 331) Instructs NASA to seek to ensure a steady cadence of large, medium, and small heliophysics missions. </p> <p>(Sec. 332) Requires the OSTP to contract with the National Academies to study space weather monitoring. Requires such study to inform the process of identifying national needs for future space weather monitoring, forecasts, and mitigation.</p> <p><b>Subtitle E: Earth Science</b> - (Sec. 341) Requires NASA to continue carrying out a balanced Earth science program. </p> <p>Instructs NASA to collaborate with other federal agencies, non-government entities, and international partners in carrying out NASA's Earth science program. Requires NASA to continue to develop first-of-a kind instruments that can be transitioned to other agencies for operations.</p> <p>Instructs NASAto seek reimbursment whenever responsibilities for the development of sensors or for measurements are transferred to NASA from another agency. </p> <p>(Sec. 342) Instructs NASA to seek to ensure a steady cadence of large, medium, and small Earth science missions. </p> <p>(Sec. 344) Directs NASA to carry out a scientific assessment of NASA's Earth science global datasets for the purpose of identifying those datasets that are useful for understanding regional changes and variability and for informing applied science research.</p> <p><b>Title IV: Aeronautics</b> - (Sec. 402) Instructs NASA to maintain a strong aeronautics research portfolio ranging from fundamental research through integrated systems research with research goals that include enhancing airspace operations and safety, improving air vehicle performance, strengthening aviation safety, and demonstrating concepts at the systems level. </p> <p> <p>(Sec. 403) Directs NASA to carry out research and technological development to facilitate the safe integration of unmanned aerial systems into the National Airspace System, including positioning and navigation systems, sense and avoid capabilities, secure data and communication links, flight recovery systems, and human systems integration. </p> <p>Requires NASA to transmit to Congress an updated roadmap for unmanned aerial systems research and development.</p> <p>Requires operational flight data derived from specified cooperative agreements to be made available to NASA and the Federal Aviation Administration (FAA) for the development of regulatory standards. </p> <p>(Sec. 404) Instructs NASA to continue its cooperative research program with industry to identify and demonstrate more effective and safe ways of developing, manufacturing, and maintaining composite materials used in aeronautics. </p> <p>(Sec. 405) Requires NASA to transmit to Congress a research and development roadmap for hypersonic aircraft research. </p> <p>(Sec. 406) Requires NASA to transmit to Congress a roadmap that allows for flexible funding p rofiles for supersonic aeronautics research and development. </p> <p>(Sec. 407) Directs NASA to review at least annually research and development activities in support of the Next Generation Air Transportation System (NextGen) airspace management modernization initiative. </p> <p> <p>(Sec. 408) Requires NASA to transmit to Congress a roadmap for research relating to rotocraft and other runway-independent air vehicles. </p> <p>(Sec. 409) Instructs NASA to continue to ensure that awards for the investigation into the early-stage advancement of new processes, novel concepts, and innovative technologies that have the potential to meet national aeronautics need are open for competition among NASA civil servants at its Centers, separate from other awards open only to non-NASA sources. </p> <p>(Sec. 410) Directs NASA to contract with the National Academies for a study to benchmark the position of the United States in civil aeronautics research compared to the rest of the world. </p> <p><b>Title V: Space Technology</b> - (Sec. 502) Directs NASA to establish a Space Technology Program to pursue research and development of advanced space technologies that have the potential of delivering innovative solutions and to support human exploration of the solar system or advanced space science. </p> <p> <p>Directs NASA to organize and manage the Small Business Innovation Research Program and Small Business Technology Transfer Program within the Space Technology Program. </p> <p>Instructs NASA to include in its budget for each fiscal year a certification that no project, program, or mission undertaken by the Space Technology Program duplicates any other NASA project, program, or mission. </p> <p> <p> <p>Requires NASA to provide a report comparing NASA's space technology investments with the high-priority technology areas identified by the National Academies in the National Research Council's report on NASA's Space Technology Roadmaps.</p> <p> <p>(Sec. 503) Directs NASA to utilize the International Space Station and commercial services for space technology demonstration missions in low-Earth orbit whenever it is practical and cost effective to do so. </p> <p><b>Title VI: Education</b> - (Sec. 601) Requires NASA to continue its education and outreach efforts to: (1) increase student interest and participation in STEM (science, technology, engineering, and mathematics) education, (2) improve public literacy in STEM, (3) employ proven strategies for improving student learning and teaching, (4) provide curriculum support materials, and (5) create and support opportunities for professional development for STEM teachers. </p> <p>Directs NASA to continue to operate the National Space Grant College and Fellowship program through a national network consisting of a state-based consortium in each state that provides flexibility to the states. </p> <p>Reaffirms Congress's commitment to informal science education at science centers and planetariums. </p> <p>(Sec. 602) Directs NASA to contract with the National Academies for a review of the National Space Grant College and Fellowship Program. </p> <p>Expands the National Space Grant College and Fellowship Program to support outreach to primary and secondary schools to help support STEM engagement and learning at the K-12 level and encourage students to pursue degrees in fields related to space. </p> <p>Permits a space grant regional consortium to include at least one two-year institution of higher education.</p> <p><b>Title VII: Policy Provisions</b> - (Sec. 701) Directs NASA to report to Congress on the proposed Asteroid Retrieval Mission. </p> <p>Requires an independent, private systems engineering and technical assistance organization contracted by the Human Exploration Operations Mission Directorate to transmit a report to NASA and Congress that analyzes the proposal for a Mars Flyby human spaceflight mission to be launched in 2021. Directs NASA to transmit to Congress an assessment by the NASA Advisory Council on whether such Flyby human spaceflight mission is in the strategic interests of the United States. </p> <p>(Sec. 702) Sets forth procedures for providing funds for contract termination liability costs for the ISS, the Space Launch System, the Orion Crew capsule, and the James Webb Space Telescope (covered program). Requires funds reserved for this purpose before enactment of this Act to be promptly used to make maximum progress in meeting the established goals and milestones of the covered program.</p> <p>(Sec. 703) Amends requirements related to baselines and cost controls used in NASA budgeting to make reporting more timely. </p> <p>(Sec. 704) Requires NASA to transmit to Congress a report on its criteria for establishing the amount of reserves held at the project and program levels. </p> <p>(Sec. 705) Requires NASA to transmit a report describing its procedures for conducting independent reviews of projects and programs at lifecycle milestones. </p> <p>(Sec. 706) Adds protecting national security to the considerations NASA uses to evaluate when to transfer commercial technology. </p> <p>(Sec. 707) Directs NASA to contract with the National Academy of Public Administration to assess the effectiveness of the NASA Advisory Council and to make recommendations to Congress for any changes to the Council. </p> <p> <p>(Sec. 708) Requires NASA to provide guidance to programs and projects on when an independent cost estimate and independent cost assessment should be used. </p> <p> <p>(Sec. 709) Directs NASA to revise the NASA Supplement to the Federal Acquisition Regulation to provide uniform guidance and recommend revised requirements for organizational conflicts of interest by contractors in major acquisition programs. </p> <p>(Sec. 710) Requires NASA to develop a plan to position NASA to have the facilities, laboratories, tools, and approaches necessary to address future requirements. </p> <p>Directs NASA to establish and make publicly available a policy that guides NASA's use of existing authorities to out-grant, lease, excess to the General Services Administration (GSA), sell, decommission, demolish, or otherwise transfer property, facilities, or infrastructure. </p> <p> <p>Directs NASA to establish a capital fund for the modernization of facilities and laboratories. Instructs the Administrator to ensure that all financial savings achieved by closing outdated or surplus facilities at a NASA Center be made available to that Center for modernizing its facilities and laboratories and for upgrading the infrastructure at it. </p> <p>(Sec. 711) Directs NASA to revise the NASA Supplement to the Federal Acquisition Regulation to address the detection and avoidance of counterfeit electronic parts. </p> <p> <p>(Sec. 712) Bars any funds provided by the federal government under a funded Space Act Agreement from exceeding the total amount provided by other parties to the Agreement. </p> <p>Allows a funded Space Act Agreement to be used only when the use of a standard contract, grant, or cooperative agreement is not feasible or appropriate.</p> <p>Sets forth public notice, comment, disclosure, and reporting requirements related to Space Act Agreements.</p> <p> <p>(Sec. 713) Revises the circumstances under which the President must establish an independent, nonpartisan commission for space incidents resulting in loss of space vehicles.</p> <p>(Sec. 714) Requires NASA to report on its efforts to seek and encourage the fullest commercial use of space and to reduce impediments, bureaucracy, redundancy, and burdens to ensure the fullest commercial use of space. </p> <p>(Sec. 715) Requires NASA to report on the status of efforts to coordinate with countries within the Inter-Agency Space Debris Coordination Committee to mitigate the effects and growth of orbital debris. Requires OSTP to report to Congress on the status of its strategy to address space debris.</p> <p>(Sec. 716) Requires NASA to solicit and review concepts and technological options for removing orbital debris from low-Earth orbit.</p> <p>(Sec. 717) Directs NASA to develop a policy, a plan, and an assessment on the use of operational commercial reusable suborbital flight vehicles for carrying out scientific and engineering investigations and educational activities. </p> <p>Requires NASA to transmit a report describing the progress in carrying out the Commercial Reusable Suborbital Research Program with its annual budget request. </p> <p>Bars NASA from proceeding with requests for proposals or contracts for the provision of a commercial reusable suborbital vehicle launch service for a NASA-sponsored spaceflight participant until it has transmitted the plan and assessment required and liability issues have been addressed. </p> <p>(Sec. 718) Requires NASA to include in its annual budget request for each fiscal year a budget line for fundamental space life and physical sciences research, devoted to competitive, peer-reviewed grants, that is separate from the ISS Operations account. </p> <p>Requires NASA to develop a strategic plan for carrying out competitive, peer-reviewed fundamental space life science and physical sciences and related technology research. </p> <p>(Sec. 719) Requires NASA to develop a plan for restoring a basic engineering research program at Centers. </p> <p>(Sec. 720) Directs NASA to consult with the Department of Defense (DOD) to ensure that any next generation liquid rocket engine made in the United States for national security space launch objectives can contribute to the space programs and missions carried out by NASA. </p> <p>(Sec. 721) Requires NASA to transmit a report describing its activities, tools, and techniques associated with the ultimate goal of autonomously servicing satellites using robotic spacecraft.</p> <p>(Sec. 722) Directs the GAO to study the effectiveness of NASA's information technology governance. </p> <p>(Sec. 723) Requires NASA to report on how it plans to address each of the recommendations made in the security assessment by the National Academy of Public Administration. </p> <p>(Sec. 724) Prohibits any funds under this Act for FY2014 or any following fiscal year for NASA from being used to enter into a contract with any contractor under indictment or convicted of a fraud or other specified crimes, or who is delinquent on federal taxes. </p> <p>(Sec. 725) Requires the OSTP to review and assess the issues involving the protection and preservation of historically important Apollo Program lunar landing sites and Apollo program artifacts residing on the lunar surface. </p> <p> <p>(Sec. 726) Directs NASA to respond to the Institute of Medicine report on health standards for long duration and exploration spaceflights. </p>]]></text>
+          <actionDate>2014-06-05</actionDate>
+          <name>Reported to House amended</name>
+          <updateDate>2014-06-05T12:07:04Z</updateDate>
+          <lastSummaryUpdateDate>2014-12-01T22:19:43Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <actionDesc>Passed House amended</actionDesc>
+          <versionCode>36</versionCode>
+          <text><![CDATA[<p>National Aeronautics and Space Administration Authorization Act of 2014 - <b>Title I: Authorization of Appropriations</b> - (Sec. 101) Authorizes appropriations for FY2014 for the National Aeronautics and Space Administration (NASA) for: (1) space exploration, (2) space operations, (3) science, (4) aeronautics, (5) space technology, (6) education, (7) cross-agency support, (8) construction and environmental compliance and restoration, and (9) the Inspector General. </p><p><b>Title II: Human Space Flight </b>- <b>Subtitle A: Exploration</b> (Sec. 201) Makes human exploration deeper into the solar system a core mission of NASA. </p> <p>Amends the National Aeronautics and Space Administration Authorization Act of 2010 to expand the key objectives of the United States for human expansion into space to include accelerating the development of capabilities to enable a human exploration mission to the surface of Mars and beyond. <p>Bars NASA from obtaining non-U.S. human space flight capabilities unless no domestic commercial or public/private partnership provider is available that meets safety and affordability requirements.</p> <p>Repeals provisions that required NASA to ensure the continued capability to restart the Space Shuttle missions. </p> <p>(Sec. 202) Instructs NASA to develop a Human Exploration Roadmap to define the capabilities and technologies necessary to extend human presence to the surface of Mars and the sets and sequences of missions required to demonstrate such capabilities and technologies. </p> <p>Calls on the President to invite the U.S. partners in the International Space Station (ISS) program and other nations, as appropriate, to participate in an international initiative under U.S. leadership to conduct a crewed mission to the surface of Mars. </p> <p>(Sec. 203) Directs NASA to make the expeditious development, test, and achievement of the operational readiness of the Space Launch System and the Orion crew capsule the highest priority of the exploration program. <p>Directs the Comptroller General (GAO) to transmit a report on NASA's acquisition of ground systems in support of the Space Launch System. </p> <p>Requires NASA to prepare a report that addresses the effort and budget required to enable and utilize a cargo variant of the 130-ton Space Launch System configuration described in section 302 of the National Aeronautics and Space Administration Authorization Act of 2010. </p> <p>Directs the Administrator to conduct a competition among students to name the elements of NASA's exploration program. </p> <p>Requires the Associate Administrator of NASA to transmit a report on the development cost of an advanced booster for the Space Launch System, the effect of a competition for an advanced booster, and any delays to the Space Launch System 2017 Exploration Mission-1 launch as a result of increased costs associated with conducting a competition for an advanced booster. Requires NASA to conduct a full and open competition for an advanced booster if the report shows reductions to development cost and no adverse schedule impact. </p> <p>(Sec. 204) Requires the Orion crew capsule to meet the practical needs and the minimum capability requirements regarding a multi-purpose crew vehicle. Requires NASA to report on the capsule within 60 days. </p> <p>(Sec. 205) Directs NASA to develop a space radiation mitigation and management strategy and implementation plan and assess the national capabilities to carry out research on space radiation biology. </p> <p>(Sec. 206) Directs NASA to contract with the National Academies for a study to explore the planetary protection ramifications of potential future missions by astronauts such as to the lunar polar regions, near-Earth steroids, the moons of Mars, and the surface of Mars. <p><b>Subtitle B: Space Operations</b> - (Sec. 211) Declares two primary objectives for the U.S. International Space Station (ISS) Program: (1) supporting achievement of the Mars goal, and (2) pursuing a research program that advances knowledge and provides benefits to the nation. </p> <p>Requires the ISS to be utilized for the development of capabilities and technologies needed for the future of human exploration beyond low-Earth orbit, and to be considered in the development of the Human Exploration Roadmap.</p> <p>Requires NASA to support the operation and full use of the ISS and to minimize operating costs.</p> <p>Declares as U.S. policy the maintenance of an uninterrupted capability for human space flight and operations in low-earth orbit and beyond. </p> <p>Requires the Administrator to report on the feasibility of extending the operation of the ISS. </p> <p>Requires the Director of the Office of Science and Technology Policy (OSTP) to develop and transmit a strategic plan for research in physical and life sciences and related technologies in the ISS through at least 2020. </p> <p>Directs the Government Accountability Office (GAO) to report on the progress of the organization chosen for the management of the ISS National Laboratory. </p> <p>(Sec. 212) Directs NASA to contract with the National Academies to: (1) identify barriers impeding enhanced use of the ISS's National Laboratory; (2) recommend ways of encouraging commercial companies to make greater use of the ISS's National Laboratory, including corporate investment in microgravity research; and (3) identify any legislative changes that may be required. </p> <p>(Sec. 213) Directs NASA to utilize the ISS for Science Mission Directorate missions in low-Earth orbit wherever it is practical and cost effective.</p> <p>(Sec. 214) Requires NASA to report on lessons learned from the Commercial Resupply Services contract. </p> <p>(Sec. 215) Declares that the objective of NASA's Commercial Crew Program shall be to assist in the development of at least one crew transportation system to carry NASA astronauts safely, reliably, and affordably to and from the ISS and to serve as an emergency crew rescue vehicle as soon as practicable. </p> <p>Instructs NASA to ensure that safety is the highest priority and to make minimizing the probability of crew loss an important selection criterion of the Commercial Crew Transportation Capability Contract. </p> <p>Requires NASA to report on the Independent Cost and Schedule Estimate for the final stages of the commercial crew program. <p>(Sec. 216) Requires the Administrator to develop a plan for updating NASA's space communications and navigation architecture for low-Earth orbital and deep space operations so that it is capable of meeting NASA's communications needs over the next 20 years. <p><b>Title III: Science </b>- <b>Subtitle A: General </b>- (Sec. 301) Instructs NASA to follow guidance provided in the current decadal surveys from the National Academies' Space Studies Board when proposing funding for each fiscal year.</p> <p>(Sec. 302) Requires OSTP and NASA to conduct an analysis of NASA's requirements for radioisotope power system material necessary for planned, high priority robotic missions in the solar system and other surface exploration activities beyond low-Earth orbit, and the risk to missions due to a lack of adequate material. </p> <p>(Sec. 303) Adds the search for life's origin, evolution, distribution, and future in the universe to NASA's objectives. </p> <p>(Sec. 304) Requires NASA to conduct a review of specified principal investigator-led small orbital science missions. </p> <p>(Sec. 305) Revises requirements for biennial review of data collection on missions that have been extended to require consideration of how these missions affect the start of future missions. </p> <p><b>Subtitle B: Astrophysics</b> - (Sec. 311) Instructs NASA to seek to ensure a steady cadence of large, medium, and small astrophysics missions. </p> <p>(Sec. 312) Directs NASA to contract with the National Academies to develop a science strategy for the study and exploration of extrasolar planets, including the use of the Transiting Exoplanet Survey Satellite, the James Webb Space Telescope, a potential Wide-Field Infrared Survey Telescope mission, or any other telescope, spacecraft, or instrument, as appropriate. Requires NASA to use the strategy to: (1) inform roadmaps, strategic plans, and other activities related to extrasolar planet research and exploration; and (2) provide a foundation for future activities and initiatives.</p> <p>(Sec. 313) Expresses the sense of Congress with respect to the James Webb Space Telescope. </p> <p>(Sec. 314) Requires NASA to report to Congress outlining the cost of NASA's plan for developing the Wide-Field Infrared Survey Telescope. </p> <p>(Sec. 315) Instructs NASA to ensure that the concept definition and pre-formulation activities of a Wide-Field Infrared Survey Telescope mission continue while the James Webb Space Telescope is being completed. </p> <p>(Sec. 316) Prohibits NASA from using any funding appropriated for FY2014 to shutdown the Stratospheric Observatory for Infrared Astronomy. </p> <p><b>Subtitle C: Planetary Science</b>: (Sec. 321) Instructs NASA to seek to carry out a balanced set of planetary science programs. Requires such programs to include: (1) a Discovery-class mission at least once every 24 months; (2) a New Frontiers-class mission at least once every 60 months; and (3) at least one Flagship-class mission per decadal survey period, including a Europa mission with a goal of launching by 2021. </p> <p>(Sec. 322) Directs NASA to continue the Near-Earth Objects Survey, with the goal of cataloguing 90% of near-Earth objects by 2020. </p> <p>Requires the OSTP and NASA to report on the Survey. </p> <p>Requires NASA to carry out a technical and scientific assessment of the capabilities and resources needed to accelerate the Survey and expand it to include smaller objects. <p>(Sec. 323) Requires NASA to report to Congress describing how it can expand collaborative partnerships to detect, track, catalogue, and categorize near-Earth objects.</p> <p>(Sec. 324) Requires NASA to report on the effects of potential tsunamis that could occur if a near-Earth object were to impact an ocean of the Earth. </p> <p>(Sec. 325) Directs NASA to contract with the National Academies to develop a science strategy for astrobiology. Instructs NASA to use the strategy in planning and funding research and other activities and initiatives in astrobiology. </p> <p>(Sec. 326) Requires NASA to report to Congress on collaborative partnerships to study life's origin, evolution, distribution, and future in the universe. </p> <p>(Sec. 327) Requires NASA to contract with the National Academies to assess issues related to the Mars Exploration Program. </p> <p><b>Subtitle D: Heliophysics</b> - (Sec. 331) Instructs NASA to seek to ensure a steady cadence of large, medium, and small heliophysics missions. </p> <p>(Sec. 332) Requires the OSTP to contract with the National Academies to study space weather monitoring. Requires such study to inform the process of identifying national needs for future space weather monitoring, forecasts, and mitigation.</p> <p><b>Subtitle E: Earth Science</b> - (Sec. 341) Requires NASA to continue carrying out a balanced Earth science program. </p> <p>Instructs NASA to collaborate with other federal agencies, non-government entities, and international partners in carrying out NASA's Earth science program. Requires NASA to continue to develop first-of-a kind instruments that can be transitioned to other agencies for operations.</p> <p>Instructs NASA to seek reimbursment whenever responsibilities for the development of sensors or for measurements are transferred to NASA from another agency. </p> <p>(Sec. 342) Instructs NASA to seek to ensure a steady cadence of large, medium, and small Earth science missions. </p> <p>(Sec. 344) Directs NASA to carry out a scientific assessment of NASA's Earth science global datasets for the purpose of identifying those datasets that are useful for understanding regional changes and variability and for informing applied science research.</p> <p><b>Title IV: Aeronautics</b> - (Sec. 402) Instructs NASA to maintain a strong aeronautics research portfolio ranging from fundamental research through integrated systems research with research goals that include enhancing airspace operations and safety, improving air vehicle performance, strengthening aviation safety, and demonstrating concepts at the systems level. </p> <p>(Sec. 403) Directs NASA to carry out research and technological development to facilitate the safe integration of unmanned aerial systems into the National Airspace System, including positioning and navigation systems, sense and avoid capabilities, secure data and communication links, flight recovery systems, and human systems integration. <p>Requires NASA to transmit to Congress an updated roadmap for unmanned aerial systems research and development.</p> <p>Requires operational flight data derived from specified cooperative agreements to be made available to NASA and the Federal Aviation Administration (FAA) for the development of regulatory standards. </p> <p>(Sec. 404) Instructs NASA to continue its cooperative research program with industry to identify and demonstrate more effective and safe ways of developing, manufacturing, and maintaining composite materials used in aeronautics. </p> <p>Requires such program to provide timely access to such research to the next generation of engineers and technicians at universities, community colleges, and vocational schools.</p> <p>(Sec. 405) Requires NASA to transmit to Congress a research and development roadmap for hypersonic aircraft research. </p> <p>(Sec. 406) Requires NASA to transmit to Congress a roadmap that allows for flexible funding profiles for supersonic aeronautics research and development. </p> <p>(Sec. 407) Directs NASA to review at least annually research and development activities in support of the Next Generation Air Transportation System (NextGen) airspace management modernization initiative. </p> <p>(Sec. 408) Requires NASA to transmit to Congress a roadmap for research relating to rotocraft and other runway-independent air vehicles. <p>(Sec. 409) Instructs NASA to continue to ensure that awards for the investigation into the early-stage advancement of new processes, novel concepts, and innovative technologies that have the potential to meet national aeronautics need are open for competition among NASA civil servants at its Centers, separate from other awards open only to non-NASA sources. </p> <p>(Sec. 410) Directs NASA to contract with the National Academies for a study to benchmark the position of the United States in civil aeronautics research compared to the rest of the world. </p> <p><b>Title V: Space Technology</b> - (Sec. 502) Directs NASA to establish a Space Technology Program to pursue research and development of advanced space technologies that have the potential of delivering innovative solutions and to support human exploration of the solar system or advanced space science. </p> <p>Directs NASA to organize and manage the Small Business Innovation Research Program and Small Business Technology Transfer Program within the Space Technology Program. <p>Instructs NASA to include in its budget for each fiscal year a certification that no project, program, or mission undertaken by the Space Technology Program duplicates any other NASA project, program, or mission. </p> <p>Requires NASA to provide a report comparing NASA's space technology investments with the high-priority technology areas identified by the National Academies in the National Research Council's report on NASA's Space Technology Roadmaps. <p>(Sec. 503) Directs NASA to utilize the International Space Station and commercial services for space technology demonstration missions in low-Earth orbit whenever it is practical and cost effective to do so. <p><b>Title VI: Education</b> - (Sec. 601) Requires NASA to continue its education and outreach efforts to: (1) increase student interest and participation in STEM (science, technology, engineering, and mathematics) education, (2) improve public literacy in STEM, (3) employ proven strategies for improving student learning and teaching, (4) provide curriculum support materials, and (5) create and support opportunities for professional development for STEM teachers. </p> <p>Directs NASA to continue to operate the National Space Grant College and Fellowship program through a national network consisting of a state-based consortium in each state that provides flexibility to the states. </p> <p>Reaffirms Congress's commitment to informal science education at science centers and planetariums. </p> <p>(Sec. 602) Directs NASA to contract with the National Academies for a review of the National Space Grant College and Fellowship Program. </p> <p>Expands the National Space Grant College and Fellowship Program to support outreach to primary and secondary schools to help support STEM engagement and learning at the K-12 level and encourage students to pursue degrees in fields related to space. </p> <p>Permits a space grant regional consortium to include at least one two-year institution of higher education. </p> <p>(Sec. 603) Expresses the sense of Congress that NASA should make the continuation of its Minority University Research and Education Program a priority in order to further STEM education for underrepresented students. </p> <p><b>Title VII: Policy Provisions</b> - (Sec. 701) Directs NASA to report to Congress on the proposed Asteroid Retrieval Mission. </p> <p>Requires an independent, private systems engineering and technical assistance organization contracted by the Human Exploration Operations Mission Directorate to transmit a report to NASA and Congress that analyzes the proposal for a Mars Flyby human spaceflight mission to be launched in 2021. Directs NASA to transmit to Congress an assessment by the NASA Advisory Council on whether such Flyby human spaceflight mission is in the strategic interests of the United States. </p> <p>(Sec. 702) Expresses the sense of Congress regarding contract termination liability costs for the ISS, the Space Launch System, the Orion Crew capsule and the James Webb Space Telescope. Urges NASA to vigorously pursue a policy on termination liability that maximizes the use of its appropriated funds to make maximum progress in meeting established technical goals and schedule milestones on those high-priority programs. </p> <p>(Sec. 703) Amends requirements related to baselines and cost controls used in NASA budgeting to make reporting more timely. </p> <p>(Sec. 704) Requires NASA to transmit to Congress a report on its criteria for establishing the amount of reserves held at the project and program levels. </p> <p>(Sec. 705) Requires NASA to transmit a report describing its procedures for conducting independent reviews of projects and programs at lifecycle milestones. </p> <p>(Sec. 706) Adds protecting national security to the considerations NASA uses to evaluate when to transfer commercial technology. </p> <p>(Sec. 707) Directs NASA to contract with the National Academy of Public Administration to assess the effectiveness of the NASA Advisory Council and to make recommendations to Congress for any changes to the Council. </p> <p>(Sec. 708) Requires NASA to provide guidance to programs and projects on when an independent cost estimate and independent cost assessment should be used. <p>(Sec. 709) Directs NASA to revise the NASA Supplement to the Federal Acquisition Regulation to provide uniform guidance and recommend revised requirements for organizational conflicts of interest by contractors in major acquisition programs. <p>(Sec. 710) Requires NASA to develop a plan to position NASA to have the facilities, laboratories, tools, and approaches necessary to address future requirements. </p> <p>Directs NASA to establish and make publicly available a policy that guides NASA's use of existing authorities to out-grant, lease, excess to the General Services Administration (GSA), sell, decommission, demolish, or otherwise transfer property, facilities, or infrastructure. </p> <p>Directs NASA to establish a capital fund for the modernization of facilities and laboratories. Instructs the Administrator to ensure that all financial savings achieved by closing outdated or surplus facilities at a NASA Center be made available to that Center for modernizing its facilities and laboratories and for upgrading the infrastructure at it. <p>(Sec. 711) Directs NASA to revise the NASA Supplement to the Federal Acquisition Regulation to address the detection and avoidance of counterfeit electronic parts. </p> <p>(Sec. 712) Bars any funds provided by the federal government under a funded Space Act Agreement from exceeding the total amount provided by other parties to the Agreement. <p>Allows a funded Space Act Agreement to be used only when the use of a standard contract, grant, or cooperative agreement is not feasible or appropriate.</p> <p>Sets forth public notice, comment, disclosure, and reporting requirements related to Space Act Agreements.</p> <p>(Sec. 713) Revises the circumstances under which the President must establish an independent, nonpartisan commission for space incidents resulting in loss of space vehicles. <p>(Sec. 714) Requires NASA to report on its efforts to seek and encourage the fullest commercial use of space and to reduce impediments, bureaucracy, redundancy, and burdens to ensure the fullest commercial use of space. </p> <p>(Sec. 715) Requires NASA to report on the status of efforts to coordinate with countries within the Inter-Agency Space Debris Coordination Committee to mitigate the effects and growth of orbital debris. Requires OSTP to report to Congress on the status of its strategy to address space debris.</p> <p>(Sec. 716) Requires NASA to solicit and review concepts and technological options for removing orbital debris from low-Earth orbit.</p> <p>(Sec. 717) Directs NASA to develop a policy, a plan, and an assessment on the use of operational commercial reusable suborbital flight vehicles for carrying out scientific and engineering investigations and educational activities. </p> <p>Requires NASA to transmit a report describing the progress in carrying out the Commercial Reusable Suborbital Research Program with its annual budget request. </p> <p>Bars NASA from proceeding with requests for proposals or contracts for the provision of a commercial reusable suborbital vehicle launch service for a NASA-sponsored spaceflight participant until it has transmitted the plan and assessment required and liability issues have been addressed. </p> <p>(Sec. 718) Requires NASA to include in its annual budget request for each fiscal year a budget line for fundamental space life and physical sciences research, devoted to competitive, peer-reviewed grants, that is separate from the ISS Operations account. </p> <p>Requires NASA to develop a strategic plan for carrying out competitive, peer-reviewed fundamental space life science and physical sciences and related technology research. </p> <p>(Sec. 719) Requires NASA to develop a plan for restoring a basic engineering research program at Centers. </p> <p>(Sec. 720) Directs NASA to consult with the Department of Defense (DOD) to ensure that any next generation liquid rocket engine made in the United States for national security space launch objectives can contribute to the space programs and missions carried out by NASA. </p> <p>(Sec. 721) Requires NASA to transmit a report describing its activities, tools, and techniques associated with the ultimate goal of autonomously servicing satellites using robotic spacecraft.</p> <p>(Sec. 722) Directs the GAO to study the effectiveness of NASA's information technology governance. </p> <p>(Sec. 723) Requires NASA to report on how it plans to address each of the recommendations made in the security assessment by the National Academy of Public Administration and the recommendations made by the GAO and NASA's Office of the Inspector General regarding security and safeguarding export control information.</p> <p>(Sec. 724) Prohibits any funds under this Act for FY2014 or any following fiscal year for NASA from being used to enter into a contract with any contractor under indictment or convicted of a fraud or other specified crimes, or who is delinquent on federal taxes. </p> <p>(Sec. 725) Requires the OSTP to review and assess the issues involving the protection and preservation of historically important Apollo Program lunar landing sites and Apollo program artifacts residing on the lunar surface. </p> <p>(Sec. 726) Directs NASA to respond to the Institute of Medicine report on health standards for long duration and exploration spaceflights. <p>(Sec. 727) Expresses the sense of Congress that NASA should prioritize the development of tools and interfaces that make publicly available observational data sets more easy to access, analyze, manipulate, and understand for students, teachers, and the American public, with a particular focus on K-12 and undergraduate STEM education settings.]]></text>
+          <actionDate>2014-06-09</actionDate>
+          <name>Passed House amended</name>
+          <updateDate>2014-06-09T12:08:39Z</updateDate>
+          <lastSummaryUpdateDate>2014-12-04T17:18:52Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Accidents</name>
+          </item>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Arctic and polar regions</name>
+          </item>
+          <item>
+            <name>Astronomy</name>
+          </item>
+          <item>
+            <name>Atmospheric science and weather</name>
+          </item>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Biological and life sciences</name>
+          </item>
+          <item>
+            <name>Competition and antitrust</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crimes against property</name>
+          </item>
+          <item>
+            <name>Earth sciences</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Materials</name>
+          </item>
+          <item>
+            <name>National Aeronautics and Space Administration</name>
+          </item>
+          <item>
+            <name>Nuclear power</name>
+          </item>
+          <item>
+            <name>Product safety and quality</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Space flight and exploration</name>
+          </item>
+          <item>
+            <name>Spacecraft and satellites</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+          <item>
+            <name>Technology transfer and commercialization</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>National Aeronautics and Space Administration Authorization Act of 2014</title>
+    <updateDate>2016-10-25T16:12:17Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>National Aeronautics and Space Administration Authorization Act of 2014</title>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Reported to House</titleType>
+        <title>National Aeronautics and Space Administration Authorization Act of 2014</title>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>National Aeronautics and Space Administration Authorization Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To authorize the programs of the National Aeronautics and Space Administration, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>National Aeronautics and Space Administration Authorization Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>MS</state>
+        <firstName>Steven</firstName>
+        <byRequestType />
+        <bioguideId>P000601</bioguideId>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <lastName>Palazzo</lastName>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <district>4</district>
+        <identifiers>
+          <lisID>2035</lisID>
+          <gpoId>8022</gpoId>
+          <bioguideId>P000601</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00349</calendar>
+      </item>
+    </calendarNumbers>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>National Aeronautics and Space Administration Authorization Act of 2013</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Ordered to be Reported by the Yeas and Nays: 22 - 17.</text>
+          <actionDate>2013-07-18</actionDate>
+        </latestAction>
+        <number>2687</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HRES</type>
+        <latestTitle>Directing the Clerk of the House of Representatives to request the Senate to return to the House the bill (H.R. 4412) entitled "An Act to authorize the programs of the National Aeronautics and Space Administration, and for other purposes.".</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <actionTime>19:08:00</actionTime>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionDate>2014-06-17</actionDate>
+        </latestAction>
+        <number>627</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>National Aeronautics and Space Administration Authorization Act of 2013</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Space.</text>
+          <actionDate>2013-09-24</actionDate>
+        </latestAction>
+        <number>2616</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>S</type>
+        <latestTitle>National Aeronautics and Space Administration Authorization Act of 2013</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 628.</text>
+          <actionDate>2014-12-10</actionDate>
+        </latestAction>
+        <number>1317</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <bioguideId>S000583</bioguideId>
+        <district>21</district>
+        <middleName />
+        <firstName>LAMAR</firstName>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <state>TX</state>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <lastName>SMITH</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S000583</bioguideId>
+          <lisID>1075</lisID>
+          <gpoId>8177</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

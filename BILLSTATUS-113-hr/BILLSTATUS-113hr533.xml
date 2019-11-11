@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>11</district>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <lastName>Connolly</lastName>
+        <middleName>E.</middleName>
+        <state>VA</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8202</gpoId>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <firstName>Gerald</firstName>
+        <bioguideId>C001078</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. CONNOLLY:H.R. 533.Congress has the power to enact this legislation pursuantto the following:Clause 1 of section 8 of article I of the Constitution, andclause 18 of section 8 of article I of the Constitution.[Page H414]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>533</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T15:58:36Z</updateDate>
+    <laws />
+    <createDate>2013-02-07T07:00:55Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Oversight and Government Reform Committee</name>
+          <activities>
+            <item>
+              <date>2013-02-06T14:05:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2013-02-06</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p> Land Management Workforce Flexibility Act - Makes an employee of a land management agency who served under a time-limited appointment in the competitive service eligible to compete for a permanent appointment in the agency if the original appointment was competitive, totaled a period of at least 24 months, and the employee's performance was satisfactory. Requires such an employee's appointment to a full-time position, if such a position is offered and the employee agrees to such employment, if the original position stated that there was the potential for the position to become permanent.]]></text>
+          <updateDate>2013-02-06T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-02-25T18:52:48Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>YOUNG</lastName>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2013-02-06</sponsorshipDate>
+        <district>0</district>
+        <firstName>DON</firstName>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>Y000033</bioguideId>
+        <state>AK</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000614</bioguideId>
+          <lisID>2072</lisID>
+          <gpoId>8220</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Duffy</lastName>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <district>7</district>
+        <firstName>Sean</firstName>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000614</bioguideId>
+        <state>WI</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Pocan</lastName>
+        <middleName />
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <district>2</district>
+        <firstName>Mark</firstName>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000607</bioguideId>
+        <state>WI</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2101</lisID>
+          <bioguideId>H001068</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Huffman</lastName>
+        <middleName />
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <district>2</district>
+        <firstName>Jared</firstName>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001068</bioguideId>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M000933</bioguideId>
+          <lisID>832</lisID>
+          <gpoId>8199</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MORAN</lastName>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <district>8</district>
+        <firstName>JAMES</firstName>
+        <fullName>Rep. Moran, James P. [D-VA-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000933</bioguideId>
+        <state>VA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001148</bioguideId>
+          <lisID>1590</lisID>
+          <gpoId>7920</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SIMPSON</lastName>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2013-06-05</sponsorshipDate>
+        <district>2</district>
+        <firstName>MICHAEL</firstName>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001148</bioguideId>
+        <state>ID</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1738</lisID>
+          <bioguideId>P000588</bioguideId>
+          <gpoId>8057</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Pearce</lastName>
+        <middleName />
+        <sponsorshipDate>2013-06-17</sponsorshipDate>
+        <district>2</district>
+        <firstName>Stevan</firstName>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000588</bioguideId>
+        <state>NM</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8112</gpoId>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cole</lastName>
+        <middleName />
+        <sponsorshipDate>2013-06-27</sponsorshipDate>
+        <district>4</district>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001053</bioguideId>
+        <state>OK</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>808</lisID>
+          <gpoId>7812</gpoId>
+          <bioguideId>M000725</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MILLER</lastName>
+        <middleName />
+        <sponsorshipDate>2013-06-27</sponsorshipDate>
+        <district>11</district>
+        <firstName>GEORGE</firstName>
+        <fullName>Rep. Miller, George [D-CA-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000725</bioguideId>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1861</lisID>
+          <bioguideId>S001170</bioguideId>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Shea-Porter</lastName>
+        <middleName />
+        <sponsorshipDate>2013-06-27</sponsorshipDate>
+        <district>1</district>
+        <firstName>Carol</firstName>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001170</bioguideId>
+        <state>NH</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>L000579</bioguideId>
+          <lisID>2111</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Lowenthal</lastName>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2013-07-19</sponsorshipDate>
+        <district>47</district>
+        <firstName>Alan</firstName>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000579</bioguideId>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <gpoId />
+          <lisID>2159</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cartwright</lastName>
+        <middleName />
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <district>17</district>
+        <firstName>Matt</firstName>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001090</bioguideId>
+        <state>PA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DEFAZIO</lastName>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <district>4</district>
+        <firstName>PETER</firstName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000191</bioguideId>
+        <state>OR</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8189</gpoId>
+          <bioguideId>B001250</bioguideId>
+          <lisID>1753</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bishop</lastName>
+        <middleName />
+        <sponsorshipDate>2013-09-12</sponsorshipDate>
+        <district>1</district>
+        <firstName>Rob</firstName>
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001250</bioguideId>
+        <state>UT</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Grijalva</lastName>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2013-09-30</sponsorshipDate>
+        <district>3</district>
+        <firstName>Raul</firstName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000551</bioguideId>
+        <state>AZ</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7954</gpoId>
+          <lisID>1922</lisID>
+          <bioguideId>G000558</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Guthrie</lastName>
+        <middleName />
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <district>2</district>
+        <firstName>Brett</firstName>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000558</bioguideId>
+        <state>KY</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Kuster</lastName>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <district>2</district>
+        <firstName>Ann</firstName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000382</bioguideId>
+        <state>NH</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>JONES</lastName>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2013-12-11</sponsorshipDate>
+        <district>3</district>
+        <firstName>WALTER</firstName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000255</bioguideId>
+        <state>NC</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8741</gpoId>
+          <lisID>2064</lisID>
+          <bioguideId>F000458</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Fincher</lastName>
+        <middleName>Lee</middleName>
+        <sponsorshipDate>2013-12-11</sponsorshipDate>
+        <district>8</district>
+        <firstName>Stephen</firstName>
+        <fullName>Rep. Fincher, Stephen Lee [R-TN-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000458</bioguideId>
+        <state>TN</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>J000295</bioguideId>
+          <lisID>2154</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Joyce</lastName>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2014-02-11</sponsorshipDate>
+        <district>14</district>
+        <firstName>David</firstName>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000295</bioguideId>
+        <state>OH</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+          <gpoId />
+          <lisID>2138</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Daines</lastName>
+        <middleName />
+        <sponsorshipDate>2014-02-26</sponsorshipDate>
+        <district>0</district>
+        <firstName>Steve</firstName>
+        <fullName>Rep. Daines, Steve [R-MT-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000618</bioguideId>
+        <state>MT</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1723</lisID>
+          <bioguideId>B001245</bioguideId>
+          <gpoId>7911</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bordallo</lastName>
+        <middleName>Z.</middleName>
+        <sponsorshipDate>2014-03-06</sponsorshipDate>
+        <district>0</district>
+        <firstName>Madeleine</firstName>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001245</bioguideId>
+        <state>GU</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1997</lisID>
+          <gpoId>7861</gpoId>
+          <bioguideId>T000470</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Tipton</lastName>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2014-07-14</sponsorshipDate>
+        <district>3</district>
+        <firstName>Scott</firstName>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000470</bioguideId>
+        <state>CO</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2190</lisID>
+          <bioguideId>K000385</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Kelly</lastName>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2014-07-14</sponsorshipDate>
+        <district>2</district>
+        <firstName>Robin</firstName>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000385</bioguideId>
+        <state>IL</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001189</bioguideId>
+          <lisID>2009</lisID>
+          <gpoId>7905</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Scott</lastName>
+        <middleName />
+        <sponsorshipDate>2014-07-14</sponsorshipDate>
+        <district>8</district>
+        <firstName>Austin</firstName>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001189</bioguideId>
+        <state>GA</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Brownley</lastName>
+        <middleName />
+        <sponsorshipDate>2014-07-14</sponsorshipDate>
+        <district>26</district>
+        <firstName>Julia</firstName>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001285</bioguideId>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Takano</lastName>
+        <middleName />
+        <sponsorshipDate>2014-07-14</sponsorshipDate>
+        <district>41</district>
+        <firstName>Mark</firstName>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000472</bioguideId>
+        <state>CA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Kilmer</lastName>
+        <middleName />
+        <sponsorshipDate>2014-08-01</sponsorshipDate>
+        <district>6</district>
+        <firstName>Derek</firstName>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000381</bioguideId>
+        <state>WA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+        <middleName>HOLMES</middleName>
+        <sponsorshipDate>2014-08-01</sponsorshipDate>
+        <district>0</district>
+        <firstName>ELEANOR</firstName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000147</bioguideId>
+        <state>DC</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MALONEY</lastName>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2014-08-01</sponsorshipDate>
+        <district>12</district>
+        <firstName>CAROLYN</firstName>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000087</bioguideId>
+        <state>NY</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Welch</lastName>
+        <middleName />
+        <sponsorshipDate>2014-09-17</sponsorshipDate>
+        <district>0</district>
+        <firstName>Peter</firstName>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000800</bioguideId>
+        <state>VT</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-06-07</actionDate>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <number>1120</number>
+        <latestTitle>Land Management Workforce Flexibility Act</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of Agriculture</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>General public lands matters</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Migrant, seasonal, agricultural labor</name>
+          </item>
+          <item>
+            <name>Temporary and part-time employment</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Land Management Workforce Flexibility Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To provide authorities for the appropriate conversion of temporary seasonal wildland firefighters and other temporary seasonal employees in Federal land management agencies who perform regularly recurring seasonal work to permanent seasonal positions.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Land Management Workforce Flexibility Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Land Management Workforce Flexibility Act</title>
+    <billType>HR</billType>
+    <introducedDate>2013-02-06</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-02-06</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

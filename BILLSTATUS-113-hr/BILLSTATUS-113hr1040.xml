@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-11</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-03-11</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-11</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-03-11</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-03-11</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Death Tax Repeal Act</latestTitle>
+        <number>147</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-01-03</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+      </item>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Death Tax Repeal Act</latestTitle>
+        <number>177</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-01-04</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+      </item>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Farmers Against Crippling Taxes Act</latestTitle>
+        <number>483</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-02-04</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+      </item>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Jumpstarting Our Business Sector Act of 2013</latestTitle>
+        <number>2373</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-06-14</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+      </item>
+      <item>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>Death Tax Repeal Act</latestTitle>
+        <number>1402</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-07-31</actionDate>
+          <text>Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S6129)</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <state>OK</state>
+        <party>R</party>
+        <middleName />
+        <firstName>Tom</firstName>
+        <district>4</district>
+        <sponsorshipDate>2013-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cole</lastName>
+        <bioguideId>C001053</bioguideId>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+      </item>
+      <item>
+        <state>FL</state>
+        <party>R</party>
+        <middleName>A.</middleName>
+        <firstName>Dennis</firstName>
+        <district>15</district>
+        <sponsorshipDate>2013-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000593</bioguideId>
+          <gpoId>7884</gpoId>
+          <lisID>2003</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ross</lastName>
+        <bioguideId>R000593</bioguideId>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+      </item>
+      <item>
+        <state>VA</state>
+        <party>R</party>
+        <middleName>Randy</middleName>
+        <firstName>J.</firstName>
+        <district>4</district>
+        <sponsorshipDate>2013-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000445</bioguideId>
+          <lisID>1683</lisID>
+          <gpoId>8786</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Forbes</lastName>
+        <bioguideId>F000445</bioguideId>
+        <fullName>Rep. Forbes, J. Randy [R-VA-4]</fullName>
+      </item>
+      <item>
+        <state>NC</state>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <firstName>WALTER</firstName>
+        <district>3</district>
+        <sponsorshipDate>2013-03-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>JONES</lastName>
+        <bioguideId>J000255</bioguideId>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+      </item>
+      <item>
+        <state>FL</state>
+        <party>R</party>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <district>1</district>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1685</lisID>
+          <gpoId>7873</gpoId>
+          <bioguideId>M001144</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Miller</lastName>
+        <bioguideId>M001144</bioguideId>
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+      </item>
+      <item>
+        <state>MD</state>
+        <party>R</party>
+        <middleName />
+        <firstName>Andy</firstName>
+        <district>1</district>
+        <sponsorshipDate>2013-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001052</bioguideId>
+          <lisID>2026</lisID>
+          <gpoId>7976</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Harris</lastName>
+        <bioguideId>H001052</bioguideId>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+      </item>
+      <item>
+        <state>TN</state>
+        <party>R</party>
+        <middleName>P.</middleName>
+        <firstName>David</firstName>
+        <district>1</district>
+        <sponsorshipDate>2013-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Roe</lastName>
+        <bioguideId>R000582</bioguideId>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>R</party>
+        <middleName />
+        <firstName>Doug</firstName>
+        <district>1</district>
+        <sponsorshipDate>2013-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2100</lisID>
+          <bioguideId>L000578</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>LaMalfa</lastName>
+        <bioguideId>L000578</bioguideId>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+      </item>
+      <item>
+        <state>FL</state>
+        <party>R</party>
+        <middleName>J.</middleName>
+        <firstName>Thomas</firstName>
+        <district>17</district>
+        <sponsorshipDate>2013-05-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7888</gpoId>
+          <bioguideId>R000583</bioguideId>
+          <lisID>1916</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rooney</lastName>
+        <bioguideId>R000583</bioguideId>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+      </item>
+      <item>
+        <state>UT</state>
+        <party>R</party>
+        <middleName />
+        <firstName>Rob</firstName>
+        <district>1</district>
+        <sponsorshipDate>2013-07-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001250</bioguideId>
+          <gpoId>8189</gpoId>
+          <lisID>1753</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bishop</lastName>
+        <bioguideId>B001250</bioguideId>
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+      </item>
+      <item>
+        <state>TX</state>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <firstName>RALPH</firstName>
+        <district>4</district>
+        <sponsorshipDate>2014-01-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H000067</bioguideId>
+          <gpoId>8160</gpoId>
+          <lisID>484</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>HALL</lastName>
+        <bioguideId>H000067</bioguideId>
+        <fullName>Rep. Hall, Ralph M. [R-TX-4]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-03-12T07:01:11Z</createDate>
+    <introducedDate>2013-03-11</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-03-11</actionDate>
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Flat Tax Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to provide taxpayers a flat tax alternative to the current income tax system.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Flat Tax Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employment taxes</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Income tax rates</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Tax reform and tax simplification</name>
+          </item>
+          <item>
+            <name>Transfer and inheritance taxes</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:09:28Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName>C.</middleName>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <identifiers>
+          <gpoId>8182</gpoId>
+          <bioguideId>B001248</bioguideId>
+          <lisID>1751</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>Michael</firstName>
+        <lastName>Burgess</lastName>
+        <bioguideId>B001248</bioguideId>
+        <state>TX</state>
+        <district>26</district>
+      </item>
+    </sponsors>
+    <title>Flat Tax Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2013-03-11</actionDate>
+          <lastSummaryUpdateDate>2013-04-03T18:38:03Z</lastSummaryUpdateDate>
+          <text><![CDATA[Flat Tax Act - Amends the Internal Revenue Code to authorize an individual or a person engaged in business activity to make an irrevocable election to be subject to a flat tax (in lieu of the existing income tax provisions) of 19% for the first two years after an election is made, and 17% thereafter. <p> Calculates taxable income for individual taxpayers by subtracting a basic standard deduction and an additional standard deduction for each dependent from the total of wages, retirement distributions, and unemployment compensation. Defines &quot;business taxable income&quot; to mean gross active income reduced by the cost of certain business inputs. <p>Imposes an employer tax on the value of excludable compensation provided to employees not engaged in business activity of 19% for the first two years after an election is made under this Act and 17% thereafter. <p>Repeals the estate, gift, and generation-skipping transfer taxes. <p>Requires a two-thirds vote of the House of Representatives or the Senate to increase the flat tax rate proposed by this Act or to reduce the amount of the standard deduction or business-related deductions allowed by this Act.]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-03-11T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1040</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-11T14:00:25Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-11T14:00:20Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 34 (Monday, March 11, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BURGESS:H.R. 1040.Congress has the power to enact this legislation pursuantto the following:The attached bill is constitutional under Article I,Section VIII: ``The Congress shall have Power To lay andcollect Taxes''.[Page H1330]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

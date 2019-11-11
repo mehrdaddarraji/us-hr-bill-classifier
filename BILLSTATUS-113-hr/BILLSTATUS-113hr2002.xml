@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-06-20</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <actionDate>2013-05-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Armed Services.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-05-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-05-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <actionDate>2013-06-04</actionDate>
+          <text>Committee on Armed Services. Hearings held. Hearings printed: S.Hrg. 113-320.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>871</number>
+        <type>S</type>
+        <latestTitle>Combating Military Sexual Assault Act of 2013</latestTitle>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <district>12</district>
+        <fullName>Rep. Granger, Kay [R-TX-12]</fullName>
+        <firstName>KAY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000377</bioguideId>
+        <middleName />
+        <state>TX</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <lastName>GRANGER</lastName>
+        <identifiers>
+          <lisID>1487</lisID>
+          <bioguideId>G000377</bioguideId>
+          <gpoId>8168</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>4</district>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <firstName>BETTY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001143</bioguideId>
+        <middleName />
+        <state>MN</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <lastName>MCCOLLUM</lastName>
+        <identifiers>
+          <gpoId>8004</gpoId>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <firstName>Ann</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000382</bioguideId>
+        <middleName>M.</middleName>
+        <state>NH</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <lastName>Kuster</lastName>
+        <identifiers>
+          <lisID>2145</lisID>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>17</district>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <firstName>NITA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000480</bioguideId>
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <lastName>LOWEY</lastName>
+        <identifiers>
+          <bioguideId>L000480</bioguideId>
+          <lisID>709</lisID>
+          <gpoId>8079</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>9</district>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <firstName>MARCY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000009</bioguideId>
+        <middleName />
+        <state>OH</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <lastName>KAPTUR</lastName>
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>4</district>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001053</bioguideId>
+        <middleName />
+        <state>OK</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <lastName>Cole</lastName>
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+          <lisID>1742</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>4</district>
+        <fullName>Rep. Crenshaw, Ander [R-FL-4]</fullName>
+        <firstName>ANDER</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001045</bioguideId>
+        <middleName />
+        <state>FL</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <lastName>CRENSHAW</lastName>
+        <identifiers>
+          <gpoId>7876</gpoId>
+          <bioguideId>C001045</bioguideId>
+          <lisID>1643</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <firstName>BOBBY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000515</bioguideId>
+        <middleName>L.</middleName>
+        <state>IL</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-17</sponsorshipDate>
+        <lastName>RUSH</lastName>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Bonner, Jo [R-AL-1]</fullName>
+        <firstName>Jo</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001244</bioguideId>
+        <middleName />
+        <state>AL</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-17</sponsorshipDate>
+        <lastName>Bonner</lastName>
+        <identifiers>
+          <lisID>1703</lisID>
+          <gpoId>7786</gpoId>
+          <bioguideId>B001244</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>21</district>
+        <fullName>Rep. Owens, William L. [D-NY-21]</fullName>
+        <firstName>William</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>O000169</bioguideId>
+        <middleName>L.</middleName>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-17</sponsorshipDate>
+        <lastName>Owens</lastName>
+        <identifiers>
+          <lisID>1974</lisID>
+          <gpoId>8673</gpoId>
+          <bioguideId>O000169</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>11</district>
+        <fullName>Rep. Frelinghuysen, Rodney P. [R-NJ-11]</fullName>
+        <firstName>RODNEY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000372</bioguideId>
+        <middleName />
+        <state>NJ</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-17</sponsorshipDate>
+        <lastName>FRELINGHUYSEN</lastName>
+        <identifiers>
+          <gpoId>8053</gpoId>
+          <bioguideId>F000372</bioguideId>
+          <lisID>414</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <firstName>RICK</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000560</bioguideId>
+        <middleName />
+        <state>WA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-21</sponsorshipDate>
+        <lastName>LARSEN</lastName>
+        <identifiers>
+          <lisID>1675</lisID>
+          <gpoId>8206</gpoId>
+          <bioguideId>L000560</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Nunnelee, Alan [R-MS-1]</fullName>
+        <firstName>Alan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000186</bioguideId>
+        <middleName />
+        <state>MS</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-21</sponsorshipDate>
+        <lastName>Nunnelee</lastName>
+        <identifiers>
+          <lisID>2034</lisID>
+          <gpoId>8019</gpoId>
+          <bioguideId>N000186</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>8</district>
+        <fullName>Rep. Moran, James P. [D-VA-8]</fullName>
+        <firstName>JAMES</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000933</bioguideId>
+        <middleName>P.</middleName>
+        <state>VA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <lastName>MORAN</lastName>
+        <identifiers>
+          <lisID>832</lisID>
+          <bioguideId>M000933</bioguideId>
+          <gpoId>8199</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Visclosky, Peter J. [D-IN-1]</fullName>
+        <firstName>PETER</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>V000108</bioguideId>
+        <middleName>J.</middleName>
+        <state>IN</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <lastName>VISCLOSKY</lastName>
+        <identifiers>
+          <lisID>1188</lisID>
+          <bioguideId>V000108</bioguideId>
+          <gpoId>7940</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>42</district>
+        <fullName>Rep. Calvert, Ken [R-CA-42]</fullName>
+        <firstName>KEN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000059</bioguideId>
+        <middleName />
+        <state>CA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <lastName>CALVERT</lastName>
+        <identifiers>
+          <lisID>165</lisID>
+          <bioguideId>C000059</bioguideId>
+          <gpoId>7849</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <firstName>Suzan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000617</bioguideId>
+        <middleName>K.</middleName>
+        <state>WA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-06-05</sponsorshipDate>
+        <lastName>DelBene</lastName>
+        <identifiers>
+          <lisID>2096</lisID>
+          <gpoId>8374</gpoId>
+          <bioguideId>D000617</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>9</district>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <firstName>Kyrsten</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001191</bioguideId>
+        <middleName />
+        <state>AZ</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-06-06</sponsorshipDate>
+        <lastName>Sinema</lastName>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>26</district>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <firstName>Julia</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001285</bioguideId>
+        <middleName />
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-06-11</sponsorshipDate>
+        <lastName>Brownley</lastName>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+          <lisID>2106</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Kingston, Jack [R-GA-1]</fullName>
+        <firstName>JACK</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000220</bioguideId>
+        <middleName />
+        <state>GA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-06-11</sponsorshipDate>
+        <lastName>KINGSTON</lastName>
+        <identifiers>
+          <bioguideId>K000220</bioguideId>
+          <lisID>636</lisID>
+          <gpoId>7898</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>10</district>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <firstName>JERROLD</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000002</bioguideId>
+        <middleName />
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-06-12</sponsorshipDate>
+        <lastName>NADLER</lastName>
+        <identifiers>
+          <lisID>850</lisID>
+          <gpoId>8069</gpoId>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <firstName>Chellie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000597</bioguideId>
+        <middleName />
+        <state>ME</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-06-14</sponsorshipDate>
+        <lastName>Pingree</lastName>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>6</district>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <firstName>Grace</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001188</bioguideId>
+        <middleName />
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-06-25</sponsorshipDate>
+        <lastName>Meng</lastName>
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+          <gpoId />
+          <lisID>2148</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <firstName>Carol</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001170</bioguideId>
+        <middleName />
+        <state>NH</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-06-25</sponsorshipDate>
+        <lastName>Shea-Porter</lastName>
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <lisID>1861</lisID>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>3</district>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <firstName>WALTER</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>J000255</bioguideId>
+        <middleName>B.</middleName>
+        <state>NC</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-06-27</sponsorshipDate>
+        <lastName>JONES</lastName>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>7</district>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <firstName>ELIJAH</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000984</bioguideId>
+        <middleName>E.</middleName>
+        <state>MD</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-07-08</sponsorshipDate>
+        <lastName>CUMMINGS</lastName>
+        <identifiers>
+          <gpoId>7982</gpoId>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>5</district>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <firstName>GREGORY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001137</bioguideId>
+        <middleName>W.</middleName>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-07-08</sponsorshipDate>
+        <lastName>MEEKS</lastName>
+        <identifiers>
+          <lisID>1506</lisID>
+          <bioguideId>M001137</bioguideId>
+          <gpoId>8067</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <firstName>Timothy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000799</bioguideId>
+        <middleName>J.</middleName>
+        <state>MN</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-07-10</sponsorshipDate>
+        <lastName>Walz</lastName>
+        <identifiers>
+          <lisID>1856</lisID>
+          <bioguideId>W000799</bioguideId>
+          <gpoId>8001</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <firstName>JAMES</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000312</bioguideId>
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-07-10</sponsorshipDate>
+        <lastName>MCGOVERN</lastName>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>3</district>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <firstName>ROSA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000216</bioguideId>
+        <middleName />
+        <state>CT</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-07-10</sponsorshipDate>
+        <lastName>DELAURO</lastName>
+        <identifiers>
+          <bioguideId>D000216</bioguideId>
+          <lisID>281</lisID>
+          <gpoId>7868</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>17</district>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <firstName>Matt</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001090</bioguideId>
+        <middleName />
+        <state>PA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-07-25</sponsorshipDate>
+        <lastName>Cartwright</lastName>
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>3</district>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <firstName>Joyce</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001281</bioguideId>
+        <middleName />
+        <state>OH</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-06-19</sponsorshipDate>
+        <lastName>Beatty</lastName>
+        <identifiers>
+          <lisID>2153</lisID>
+          <bioguideId>B001281</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-05-16T07:02:05Z</createDate>
+    <introducedDate>2013-05-15</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-06-20</actionDate>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Combating Military Sexual Assault Act of 2013</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend title 10, United States Code, to enhance assistance for victims of sexual assault committed by members of the Armed Forces, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Combating Military Sexual Assault Act of 2013</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Lawyers and legal services</name>
+          </item>
+          <item>
+            <name>Military law</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:22:09Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>TIM</firstName>
+        <lastName>RYAN</lastName>
+        <bioguideId>R000577</bioguideId>
+        <state>OH</state>
+        <district>13</district>
+      </item>
+    </sponsors>
+    <title>Combating Military Sexual Assault Act of 2013</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Combating Military Sexual Assault Act of 2013 - Directs each military department Secretary to implement a program providing a Special Victims' Counsel (Counsel) to a victim of a sexual assault committed by a member of the Armed Forces (member). Outlines Counsel qualifications and duties, including providing legal representation and assistance in connection with criminal and civil legal matters related to the assault. Provides conditions for legal representation in court, and requires the Manual for Courts-Martial to be revised to allow for such representation.</p> <p>Allows a member or member dependent who is a victim of a sexual assault by another member to receive Counsel assistance. Requires such victim to be informed of the availability of such assistance at the time the victim originally seeks assistance from a sexual response coordinator or sexual assault victim advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, health care providers, or any other personnel designated by the Secretary concerned. Makes such assistance available regardless of whether the victim elects unrestricted or restricted (confidential) reporting of the incident.</p> <p>Provides additional duties of the Director of the Sexual Assault Prevention and Response Office within the Department of Defense (DOD), including: (1) providing guidance and assistance for the military departments in addressing matters relating to sexual assault prevention and response, (2) acting as liaison between DOD and other federal and state agencies on sexual assault prevention and response programs, and (3) overseeing development of program guidance and joint planning objectives in support of such program. Requires the Director to also collect, maintain, and disseminate data of the military departments concerning sexual assault prevention and response.</p> <p>Amends the Uniform Code of Military Justice (UCMJ) to provide for disposition and other requirements in connection with sex-related offenses, and to provide for victims' rights under such actions (including the right to a Counsel).</p> <p>Requires a convening authority (the official acting on the sentence of a court-martial), when taking any action other than approving a sentence, to prepare a written justification of such action which shall be made part of the record of the court-martial. Prohibits a convening authority from: (1) dismissing or setting aside a finding of guilty, or (2) reducing a finding of guilty to a finding of guilty to a lesser included offense.</p> <p>Amends the National Defense Authorization Act for Fiscal Year 2012 to require the National Guard of each state and territory to ensure that a sexual assault response coordinator is available at all times to its members.</p>]]></text>
+          <updateDate>2013-05-15T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-06-05T14:18:24Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-05-15</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>2002</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-05-15T14:01:05Z</date>
+            </item>
+          </activities>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <name>Military Personnel Subcommittee</name>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-06-20T17:31:14Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 68 (Wednesday, May 15, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RYAN of Ohio:H.R. 2002.Congress has the power to enact this legislation pursuantto the following:Section 8, Clauses 14 and 18:To make Rules for the Government and Regulation of the landand naval Forces; andTo make all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States or in any Department or Officer thereof[Page H2655]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-04-19</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-04-17</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-04-17</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-04-17</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>31</district>
+        <fullName>Rep. Carter, John R. [R-TX-31]</fullName>
+        <lastName>Carter</lastName>
+        <middleName>R.</middleName>
+        <state>TX</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001051</bioguideId>
+          <lisID>1752</lisID>
+          <gpoId>8187</gpoId>
+        </identifiers>
+        <firstName>John</firstName>
+        <bioguideId>C001051</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. CARTER:H.R. 1591.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1: The Congress shall havePower To lay and collect Taxes, Duties, Imposts and Excises,to pay the Debts and provide for the common Defence andgeneral Welfare of the United States; but all Duties, Impostsand Excises shall be uniform throughout the United States;[Page H2124]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1591</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:02:16Z</updateDate>
+    <laws />
+    <createDate>2013-04-18T09:32:06Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-04-17T14:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-04-19T20:39:06Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Charles August Long Undiagnosed Diseases Research and Collaboration Network Act of 2013 or CAL Undiagnosed Diseases Research and Collaboration Network Act of 2013 - Requires the Director of the National Institutes of Health (NIH) to establish and maintain an undiagnosed diseases patient network. Includes among the purposes of the CAL Network to: (1) provide physicians who are handling cases of undiagnosed diseases with a means to search for similar cases and to network and collaborate with physicians handling similar cases, (2) better enable and examine cross-disease research, (3) better describe the types and prevalence of cases of undiagnosed diseases in the United States, and (4) provide such data necessary to better understand the length of time for a diagnosis to be rendered and to identify barriers to diagnoses and reasons for misdiagnosis of diseases. </p> <p>Authorizes the Secretary of Health and Human Services (HHS) to award grants to, and enter into contracts and cooperative agreements with, public or private nonprofit entities for: (1) the collection, analysis, and reporting of data on cases of undiagnosed diseases and other disorders that can often go undiagnosed or be misdiagnosed as other diseases or disorders; and (2) the establishment of separate undiagnosed disease programs. </p>]]></text>
+          <lastSummaryUpdateDate>2013-07-01T19:08:45Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-04-17T04:00:00Z</updateDate>
+          <actionDate>2013-04-17</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <lastName>Burgess</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>26</district>
+        <party>R</party>
+        <middleName>C.</middleName>
+        <firstName>Michael</firstName>
+        <bioguideId>B001248</bioguideId>
+        <identifiers>
+          <gpoId>8182</gpoId>
+          <lisID>1751</lisID>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-04-17</sponsorshipDate>
+        <state>TX</state>
+      </item>
+      <item>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <lastName>Speier</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Jackie</firstName>
+        <bioguideId>S001175</bioguideId>
+        <identifiers>
+          <gpoId>7817</gpoId>
+          <lisID>1890</lisID>
+          <bioguideId>S001175</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-04-17</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <lastName>KING</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <middleName>T.</middleName>
+        <firstName>PETER</firstName>
+        <bioguideId>K000210</bioguideId>
+        <identifiers>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-04-17</sponsorshipDate>
+        <state>NY</state>
+      </item>
+      <item>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <lastName>McCaul</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <party>R</party>
+        <middleName>T.</middleName>
+        <firstName>Michael</firstName>
+        <bioguideId>M001157</bioguideId>
+        <identifiers>
+          <bioguideId>M001157</bioguideId>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-04-17</sponsorshipDate>
+        <state>TX</state>
+      </item>
+      <item>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <lastName>RANGEL</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <firstName>CHARLES</firstName>
+        <bioguideId>R000053</bioguideId>
+        <identifiers>
+          <lisID>944</lisID>
+          <gpoId>8076</gpoId>
+          <bioguideId>R000053</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-04-17</sponsorshipDate>
+        <state>NY</state>
+      </item>
+      <item>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <lastName>Welch</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Peter</firstName>
+        <bioguideId>W000800</bioguideId>
+        <identifiers>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-08</sponsorshipDate>
+        <state>VT</state>
+      </item>
+      <item>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <lastName>Bilirakis</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>12</district>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <firstName>Gus</firstName>
+        <bioguideId>B001257</bioguideId>
+        <identifiers>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-08-02</sponsorshipDate>
+        <state>FL</state>
+      </item>
+      <item>
+        <fullName>Rep. Gingrey, Phil [R-GA-11]</fullName>
+        <lastName>Gingrey</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Phil</firstName>
+        <bioguideId>G000550</bioguideId>
+        <identifiers>
+          <gpoId>7908</gpoId>
+          <lisID>1720</lisID>
+          <bioguideId>G000550</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-09-09</sponsorshipDate>
+        <state>GA</state>
+      </item>
+      <item>
+        <fullName>Rep. Gallego, Pete P. [D-TX-23]</fullName>
+        <lastName>Gallego</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>23</district>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <firstName>Pete</firstName>
+        <bioguideId>G000572</bioguideId>
+        <identifiers>
+          <bioguideId>G000572</bioguideId>
+          <gpoId />
+          <lisID>2164</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-02-28</sponsorshipDate>
+        <state>TX</state>
+      </item>
+      <item>
+        <fullName>Rep. Gerlach, Jim [R-PA-6]</fullName>
+        <lastName>Gerlach</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Jim</firstName>
+        <bioguideId>G000549</bioguideId>
+        <identifiers>
+          <lisID>1743</lisID>
+          <gpoId>8124</gpoId>
+          <bioguideId>G000549</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-02-28</sponsorshipDate>
+        <state>PA</state>
+      </item>
+      <item>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <lastName>Wittman</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <middleName>J.</middleName>
+        <firstName>Robert</firstName>
+        <bioguideId>W000804</bioguideId>
+        <identifiers>
+          <lisID>1886</lisID>
+          <gpoId>8192</gpoId>
+          <bioguideId>W000804</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-03-06</sponsorshipDate>
+        <state>VA</state>
+      </item>
+      <item>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <lastName>Ellison</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Keith</firstName>
+        <bioguideId>E000288</bioguideId>
+        <identifiers>
+          <bioguideId>E000288</bioguideId>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-03-11</sponsorshipDate>
+        <state>MN</state>
+      </item>
+      <item>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <lastName>Scott</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Austin</firstName>
+        <bioguideId>S001189</bioguideId>
+        <identifiers>
+          <lisID>2009</lisID>
+          <bioguideId>S001189</bioguideId>
+          <gpoId>7905</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-04-29</sponsorshipDate>
+        <state>GA</state>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>CAL Undiagnosed Diseases Research and Collaboration Network Act of 2013</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Charles August Long Undiagnosed Diseases Research and Collaboration Network Act of 2013</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend the Public Health Service Act to provide for the establishment and maintenance of an undiagnosed diseases network, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>CAL Undiagnosed Diseases Research and Collaboration Network Act of 2013</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>CAL Undiagnosed Diseases Research and Collaboration Network Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-04-17</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-04-19</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

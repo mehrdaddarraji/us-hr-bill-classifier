@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-11-01</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2013-10-30</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to House Ways and Means</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-10-30</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2013-10-30</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to House Energy and Commerce</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-10-30</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-10-30</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-10-30</introducedDate>
+    <notes />
+    <calendarNumbers />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2013-10-30</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Prevent Interruptions in Physical Therapy Act of 2013 - Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to require physical therapists furnishing outpatient physical therapy services to use specified locum tenens arrangements for payment purposes in the same manner as such arrangements are used to apply to physicians furnishing substitute physicians services for other physicians.</p> <p>(Locum tenens [place holder], or substitute, physicians usually assume professional practices in the absence of a regular physician for reasons such as illness, pregnancy, vacation, or continuing medical education.)</p>]]></text>
+          <updateDate>2013-10-30T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-12-04T20:45:22Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Allied health services</name>
+          </item>
+          <item>
+            <name>Contracts and agency</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>3426</billNumber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>L000570</bioguideId>
+          <gpoId>8058</gpoId>
+          <lisID>1939</lisID>
+        </identifiers>
+        <lastName>Lujan</lastName>
+        <district>3</district>
+        <middleName>Ray</middleName>
+        <firstName>Ben</firstName>
+        <byRequestType />
+        <bioguideId>L000570</bioguideId>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. BEN RAY LUJAN of New Mexico:H.R. 3426.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the U.S. Constitution[Page H6956]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <number>2818</number>
+        <type>S</type>
+        <congress>113</congress>
+        <latestTitle>Prevent Interruptions in Physical Therapy Act of 2014</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-09-16</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Prevent Interruptions in Physical Therapy Act of 2013</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To amend title XVIII of the Social Security Act to add physical therapists to the list of providers allowed to utilize locum tenens arrangements under Medicare.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Prevent Interruptions in Physical Therapy Act of 2013</title>
+      </item>
+    </titles>
+    <updateDate>2016-10-25T16:08:25Z</updateDate>
+    <recordedVotes />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <actionDate>2013-11-01</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <createDate>2013-10-31T08:28:46Z</createDate>
+    <title>Prevent Interruptions in Physical Therapy Act of 2013</title>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+          <gpoId>7881</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bilirakis</lastName>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <district>12</district>
+        <firstName>Gus</firstName>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001257</bioguideId>
+        <state>FL</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cassidy</lastName>
+        <middleName />
+        <sponsorshipDate>2014-01-21</sponsorshipDate>
+        <district>6</district>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Cassidy, Bill [R-LA-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001075</bioguideId>
+        <state>LA</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001162</bioguideId>
+          <lisID>1798</lisID>
+          <gpoId>8131</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Schwartz</lastName>
+        <middleName>Y.</middleName>
+        <sponsorshipDate>2014-02-05</sponsorshipDate>
+        <district>13</district>
+        <firstName>Allyson</firstName>
+        <fullName>Rep. Schwartz, Allyson Y. [D-PA-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001162</bioguideId>
+        <state>PA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>King</lastName>
+        <middleName />
+        <sponsorshipDate>2014-02-18</sponsorshipDate>
+        <district>4</district>
+        <firstName>Steve</firstName>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000362</bioguideId>
+        <state>IA</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>J000292</bioguideId>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Johnson</lastName>
+        <middleName />
+        <sponsorshipDate>2014-05-21</sponsorshipDate>
+        <district>6</district>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000292</bioguideId>
+        <state>OH</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>L000567</bioguideId>
+          <lisID>1936</lisID>
+          <gpoId>8049</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Lance</lastName>
+        <middleName />
+        <sponsorshipDate>2014-06-11</sponsorshipDate>
+        <district>7</district>
+        <firstName>Leonard</firstName>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000567</bioguideId>
+        <state>NJ</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1751</lisID>
+          <gpoId>8182</gpoId>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Burgess</lastName>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2014-06-11</sponsorshipDate>
+        <district>26</district>
+        <firstName>Michael</firstName>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001248</bioguideId>
+        <state>TX</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8190</gpoId>
+          <lisID>1671</lisID>
+          <bioguideId>M001142</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MATHESON</lastName>
+        <middleName />
+        <sponsorshipDate>2014-06-11</sponsorshipDate>
+        <district>4</district>
+        <firstName>JIM</firstName>
+        <fullName>Rep. Matheson, Jim [D-UT-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001142</bioguideId>
+        <state>UT</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7909</gpoId>
+          <bioguideId>B001252</bioguideId>
+          <lisID>1780</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Barrow</lastName>
+        <middleName />
+        <sponsorshipDate>2014-07-29</sponsorshipDate>
+        <district>12</district>
+        <firstName>John</firstName>
+        <fullName>Rep. Barrow, John [D-GA-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001252</bioguideId>
+        <state>GA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1922</lisID>
+          <gpoId>7954</gpoId>
+          <bioguideId>G000558</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Guthrie</lastName>
+        <middleName />
+        <sponsorshipDate>2014-07-30</sponsorshipDate>
+        <district>2</district>
+        <firstName>Brett</firstName>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000558</bioguideId>
+        <state>KY</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Shea-Porter</lastName>
+        <middleName />
+        <sponsorshipDate>2014-09-09</sponsorshipDate>
+        <district>1</district>
+        <firstName>Carol</firstName>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001170</bioguideId>
+        <state>NH</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>462</lisID>
+          <gpoId>8185</gpoId>
+          <bioguideId>G000410</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>GREEN</lastName>
+        <middleName />
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <district>29</district>
+        <firstName>GENE</firstName>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000410</bioguideId>
+        <state>TX</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>T000469</bioguideId>
+          <lisID>1942</lisID>
+          <gpoId>8082</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Tonko</lastName>
+        <middleName />
+        <sponsorshipDate>2014-11-13</sponsorshipDate>
+        <district>20</district>
+        <firstName>Paul</firstName>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000469</bioguideId>
+        <state>NY</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>F000448</bioguideId>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Franks</lastName>
+        <middleName />
+        <sponsorshipDate>2014-11-13</sponsorshipDate>
+        <district>8</district>
+        <firstName>Trent</firstName>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000448</bioguideId>
+        <state>AZ</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7952</gpoId>
+          <lisID>2022</lisID>
+          <bioguideId>P000602</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Pompeo</lastName>
+        <middleName />
+        <sponsorshipDate>2014-11-13</sponsorshipDate>
+        <district>4</district>
+        <firstName>Mike</firstName>
+        <fullName>Rep. Pompeo, Mike [R-KS-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000602</bioguideId>
+        <state>KS</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2051</lisID>
+          <bioguideId>K000376</bioguideId>
+          <gpoId>8708</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Kelly</lastName>
+        <middleName />
+        <sponsorshipDate>2014-11-13</sponsorshipDate>
+        <district>3</district>
+        <firstName>Mike</firstName>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000376</bioguideId>
+        <state>PA</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8003</gpoId>
+          <lisID>1930</lisID>
+          <bioguideId>P000594</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Paulsen</lastName>
+        <middleName />
+        <sponsorshipDate>2014-11-13</sponsorshipDate>
+        <district>3</district>
+        <firstName>Erik</firstName>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000594</bioguideId>
+        <state>MN</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8115</gpoId>
+          <bioguideId>W000791</bioguideId>
+          <lisID>1596</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>WALDEN</lastName>
+        <middleName />
+        <sponsorshipDate>2014-11-13</sponsorshipDate>
+        <district>2</district>
+        <firstName>GREG</firstName>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000791</bioguideId>
+        <state>OR</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>KIND</lastName>
+        <middleName />
+        <sponsorshipDate>2014-11-14</sponsorshipDate>
+        <district>3</district>
+        <firstName>RON</firstName>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000188</bioguideId>
+        <state>WI</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000546</bioguideId>
+          <gpoId>8014</gpoId>
+          <lisID>1656</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>GRAVES</lastName>
+        <middleName />
+        <sponsorshipDate>2014-11-14</sponsorshipDate>
+        <district>6</district>
+        <firstName>SAM</firstName>
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000546</bioguideId>
+        <state>MO</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8125</gpoId>
+          <lisID>2052</lisID>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Meehan</lastName>
+        <middleName />
+        <sponsorshipDate>2014-11-20</sponsorshipDate>
+        <district>7</district>
+        <firstName>Patrick</firstName>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001181</bioguideId>
+        <state>PA</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001157</bioguideId>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>McCaul</lastName>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2014-12-02</sponsorshipDate>
+        <district>10</district>
+        <firstName>Michael</firstName>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001157</bioguideId>
+        <state>TX</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000567</bioguideId>
+          <gpoId>7794</gpoId>
+          <lisID>1990</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Griffin</lastName>
+        <middleName />
+        <sponsorshipDate>2014-12-02</sponsorshipDate>
+        <district>2</district>
+        <firstName>Tim</firstName>
+        <fullName>Rep. Griffin, Tim [R-AR-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000567</bioguideId>
+        <state>AR</state>
+        <party>R</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1967</lisID>
+          <bioguideId>Q000023</bioguideId>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Quigley</lastName>
+        <middleName />
+        <sponsorshipDate>2014-12-11</sponsorshipDate>
+        <district>5</district>
+        <firstName>Mike</firstName>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>Q000023</bioguideId>
+        <state>IL</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-10-30T14:07:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-11-01T15:29:26Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2013-10-30T14:07:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

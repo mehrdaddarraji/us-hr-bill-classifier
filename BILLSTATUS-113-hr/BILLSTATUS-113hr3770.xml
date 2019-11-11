@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-06-11</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by the Yeas and Nays: 39 - 20.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-11</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-05-21</actionDate>
+        <committee>
+          <systemCode>hsba15</systemCode>
+          <name>Financial Institutions and Consumer Credit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Financial Services</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-12</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-12</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Oversight and Government Reform</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-12</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-12</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2013-12-12</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <actionStageOverride>1</actionStageOverride>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>15</district>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <lastName>Stivers</lastName>
+        <middleName />
+        <state>OH</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S001187</bioguideId>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <bioguideId>S001187</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. STIVERS:H.R. 3770.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the U.S. Constitution: ``Congressshall have the power to make all laws which shall benecessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by theConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H8111]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3770</billNumber>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/49656</url>
+        <title>H.R. 3770, Bureau of Consumer Financial Protection—Inspector General Reform Act of 2013</title>
+        <pubDate>2014-11-03T18:45:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <updateDate>2016-10-25T16:09:49Z</updateDate>
+    <laws />
+    <createDate>2013-12-13T07:01:22Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <subcommittees>
+            <item>
+              <name>Financial Institutions and Consumer Credit Subcommittee</name>
+              <systemCode>hsba15</systemCode>
+              <activities>
+                <item>
+                  <date>2014-05-21T21:07:42Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsba00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-06-11T17:54:08Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-12-12T15:05:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-12-12T15:05:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Bureau of Consumer Financial Protection-Inspector General Reform Act of 2013 or CFPB-IG Act of 2013 - Amends the Inspector General Act of 1978 to repeal the authority of the Chairman of the Board of Governors of the Federal Reserve System (Board) to appoint the Inspector General of the Consumer Financial Protection Bureau (CFPB).</p> <p> <p>Amends the Dodd-Frank Wall Street Reform and Consumer Protection Act to create an Inspector General for the CFPB.</p> <p>Requires the President, within 60 days after enactment of this Act, to appoint a CFPB Inspector General. </p>]]></text>
+          <actionDate>2013-12-12</actionDate>
+          <lastSummaryUpdateDate>2014-03-05T21:34:02Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-12-12T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>W000799</bioguideId>
+          <lisID>1856</lisID>
+          <gpoId>8001</gpoId>
+        </identifiers>
+        <bioguideId>W000799</bioguideId>
+        <district>1</district>
+        <firstName>Timothy</firstName>
+        <lastName>Walz</lastName>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Miller, Gary G. [R-CA-31]</fullName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1584</lisID>
+          <bioguideId>M001139</bioguideId>
+          <gpoId>7847</gpoId>
+        </identifiers>
+        <bioguideId>M001139</bioguideId>
+        <district>31</district>
+        <firstName>GARY</firstName>
+        <lastName>MILLER</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <party>R</party>
+        <identifiers>
+          <lisID>998</lisID>
+          <bioguideId>R000487</bioguideId>
+          <gpoId>7845</gpoId>
+        </identifiers>
+        <bioguideId>R000487</bioguideId>
+        <district>39</district>
+        <firstName>ED</firstName>
+        <lastName>ROYCE</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Bachmann, Michele [R-MN-6]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001256</bioguideId>
+          <lisID>1858</lisID>
+          <gpoId>8006</gpoId>
+        </identifiers>
+        <bioguideId>B001256</bioguideId>
+        <district>6</district>
+        <firstName>Michele</firstName>
+        <lastName>Bachmann</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+          <lisID>1931</lisID>
+        </identifiers>
+        <bioguideId>L000569</bioguideId>
+        <district>3</district>
+        <firstName>Blaine</firstName>
+        <lastName>Luetkemeyer</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <sponsorshipDate>2013-12-19</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Fitzpatrick, Michael G. [R-PA-8]</fullName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8126</gpoId>
+          <bioguideId>F000451</bioguideId>
+          <lisID>1797</lisID>
+        </identifiers>
+        <bioguideId>F000451</bioguideId>
+        <district>8</district>
+        <firstName>Michael</firstName>
+        <lastName>Fitzpatrick</lastName>
+        <middleName>G.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <sponsorshipDate>2013-12-19</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2137</lisID>
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+        <bioguideId>W000812</bioguideId>
+        <district>2</district>
+        <firstName>Ann</firstName>
+        <lastName>Wagner</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <sponsorshipDate>2014-05-20</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <number>2779</number>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestTitle>To establish a separate Inspector General for the Bureau of Consumer Financial Protection.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-07-22</actionDate>
+          <text>Referred to House Financial Services</text>
+        </latestAction>
+      </item>
+      <item>
+        <number>1310</number>
+        <type>S</type>
+        <congress>113</congress>
+        <latestTitle>CFPB-IG Act of 2013</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-07-16</actionDate>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Consumer Financial Protection Bureau</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>CFPB-IG Act of 2013</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Bureau of Consumer Financial Protection-Inspector General Reform Act of 2013</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To require Senate confirmation of Inspector General of the Bureau of Consumer Financial Protection, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>CFPB-IG Act of 2013</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>CFPB-IG Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-12-12</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2014-06-11</actionDate>
+      <text>Ordered to be Reported by the Yeas and Nays: 39 - 20.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestTitle>Budget Reform Act of 2013</latestTitle>
+        <latestAction>
+          <actionDate>2013-02-12</actionDate>
+          <text>Read twice and referred to the Committee on the Budget.</text>
+        </latestAction>
+        <number>280</number>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-05-08</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Legally Binding Budget Act of 2013 - Amends the Congressional Budget Act of 1974 (CBA) to require joint budget resolutions signed by the President instead of the concurrent resolutions now required (which do not have to be signed by the President). Revises accordingly the congressional procedures for considering joint budget resolutions.</p> <p>Prohibits the consideration of budget-related legislation before the joint budget resolution becomes law.</p> <p>Requires the joint budget resolution to set forth appropriate levels for the fiscal year beginning on October 1 of such year and for at least each of the four ensuing fiscal years for the public debt limit for display purposes only.</p> <p>Permits revisions of joint budget resolutions already enacted.</p> <p>Makes a conforming amendment to the Congressional Budget and Impoundment Control Act of 1974.</p> <p>Makes it out of order in both chambers to consider any joint budget resolution, amendment, or conference report that contains certain matter prohibited by the CBA, particularly inclusion in the surplus or deficit totals of any outlays and revenue totals of the Old Age, Survivors, and Disability Insurance (OASDI) program under title II of the Social Security Act.</p> <p>Considers the joint budget resolution as enforceable upon enactment or 15 days following presentment to the President, whichever occurs earlier. (Thus creates an automatic standing order upon a presidential veto of a joint budget resolution.) </p> <p>Makes conforming amendments to: (1) the Rules of the House of Representatives, and (2) the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act).</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2013-05-08T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-06-03T21:20:10Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2013-05-08</introducedDate>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Legally Binding Budget Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Congressional Budget Act of 1974 to establish joint resolutions on the budget, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Legally Binding Budget Act of 2013</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <congress>113</congress>
+    <billNumber>1868</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 64 (Wednesday, May 8, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BLACK:H.R. 1868.Congress has the power to enact this legislation pursuantto the following:Article I, section 9, clause 7 of the United StatesConstitution[Page H2534]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2018-06-05T16:17:30Z</updateDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Budget Committee</name>
+          <systemCode>hsbu00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-05-08T13:00:51Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-05-08T13:00:46Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2013-05-09T07:02:11Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <lisID>2063</lisID>
+          <bioguideId>B001273</bioguideId>
+          <gpoId>8153</gpoId>
+        </identifiers>
+        <district>6</district>
+        <lastName>Black</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <bioguideId>B001273</bioguideId>
+        <firstName>Diane</firstName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+        <actionDate>2013-05-08</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-05-08</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionDate>2013-05-08</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-05-08</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2013-05-08</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <amendments />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Ryan, Paul [R-WI-1]</fullName>
+        <firstName>PAUL</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000570</bioguideId>
+        <middleName />
+        <state>WI</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-08</sponsorshipDate>
+        <lastName>RYAN</lastName>
+        <identifiers>
+          <lisID>1560</lisID>
+          <bioguideId>R000570</bioguideId>
+          <gpoId>8214</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>7</district>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <firstName>Marsha</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001243</bioguideId>
+        <middleName />
+        <state>TN</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-08</sponsorshipDate>
+        <lastName>Blackburn</lastName>
+        <identifiers>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>5</district>
+        <fullName>Rep. Mulvaney, Mick [R-SC-5]</fullName>
+        <firstName>Mick</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001182</bioguideId>
+        <middleName />
+        <state>SC</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-08</sponsorshipDate>
+        <lastName>Mulvaney</lastName>
+        <identifiers>
+          <lisID>2059</lisID>
+          <bioguideId>M001182</bioguideId>
+          <gpoId>8145</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>8</district>
+        <fullName>Rep. Ribble, Reid J. [R-WI-8]</fullName>
+        <firstName>Reid</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000587</bioguideId>
+        <middleName>J.</middleName>
+        <state>WI</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-08</sponsorshipDate>
+        <lastName>Ribble</lastName>
+        <identifiers>
+          <lisID>2073</lisID>
+          <gpoId>8221</gpoId>
+          <bioguideId>R000587</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>4</district>
+        <fullName>Rep. Rokita, Todd [R-IN-4]</fullName>
+        <firstName>Todd</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000592</bioguideId>
+        <middleName />
+        <state>IN</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-08</sponsorshipDate>
+        <lastName>Rokita</lastName>
+        <identifiers>
+          <lisID>2017</lisID>
+          <bioguideId>R000592</bioguideId>
+          <gpoId>7943</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>13</district>
+        <fullName>Rep. Young, C. W. Bill [R-FL-13]</fullName>
+        <firstName>C. W.</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>Y000031</bioguideId>
+        <middleName>Bill</middleName>
+        <state>FL</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-08</sponsorshipDate>
+        <lastName>Young</lastName>
+        <identifiers>
+          <bioguideId>Y000031</bioguideId>
+          <gpoId>7882</gpoId>
+          <lisID>1255</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>16</district>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <firstName>Adam</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000378</bioguideId>
+        <middleName />
+        <state>IL</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <lastName>Kinzinger</lastName>
+        <identifiers>
+          <bioguideId>K000378</bioguideId>
+          <gpoId>7931</gpoId>
+          <lisID>2014</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>4</district>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001177</bioguideId>
+        <middleName />
+        <state>CA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <lastName>McClintock</lastName>
+        <identifiers>
+          <bioguideId>M001177</bioguideId>
+          <gpoId>7809</gpoId>
+          <lisID>1908</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>5</district>
+        <fullName>Rep. Hensarling, Jeb [R-TX-5]</fullName>
+        <firstName>Jeb</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001036</bioguideId>
+        <middleName />
+        <state>TX</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2013-06-04</sponsorshipDate>
+        <lastName>Hensarling</lastName>
+        <identifiers>
+          <bioguideId>H001036</bioguideId>
+          <gpoId>8161</gpoId>
+          <lisID>1749</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2013-05-08</actionDate>
+      <text>Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <title>Legally Binding Budget Act of 2013</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

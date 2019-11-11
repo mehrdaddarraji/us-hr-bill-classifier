@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-06-14</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-04-26</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2013-04-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to House Judiciary</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-04-25</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2013-04-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to House Energy and Commerce</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-04-25</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2013-04-25</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-04-25</introducedDate>
+    <notes />
+    <calendarNumbers />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-04-25</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2013-07-11T21:36:25Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Good Samaritan Health Professionals Act of 2013 - Amends the Public Health Service Act to shield a health care professional from liability under federal or state law for harm caused by any act or omission if: (1) the professional is serving as a volunteer in response to a disaster; and (2) the act or omission occurs during the period of the disaster, in the professional's capacity as such a volunteer, and in a good faith belief that the individual being treated is in need of health care services.</p> <p>Makes exceptions where: (1) the harm was caused by an act or omission constituting willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious flagrant indifference to the rights or safety of the individual harmed; or (2) the professional rendered the health care services under the influence of intoxicating alcohol or an intoxicating drug.</p> <p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-04-25T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Federal preemption</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>1733</billNumber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <gpoId>8154</gpoId>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <lastName>Blackburn</lastName>
+        <district>7</district>
+        <middleName />
+        <firstName>Marsha</firstName>
+        <byRequestType />
+        <bioguideId>B001243</bioguideId>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mrs. BLACKBURN:H.R. 1733.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1[Page H2352]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <actionDate>2014-04-01</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>2196</number>
+        <type>S</type>
+        <latestTitle>Good Samaritan Health Professionals Act of 2014</latestTitle>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <title>Good Samaritan Health Professionals Act of 2013</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To amend the Public Health Service Act to limit the liability of health care professionals who volunteer to provide health care services in response to a disaster.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Good Samaritan Health Professionals Act of 2013</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2016-10-25T16:02:41Z</updateDate>
+    <recordedVotes />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <actionDate>2013-06-14</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </latestAction>
+    <createDate>2013-04-26T07:02:09Z</createDate>
+    <title>Good Samaritan Health Professionals Act of 2013</title>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Matheson, Jim [D-UT-4]</fullName>
+        <lastName>MATHESON</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001142</bioguideId>
+        <identifiers>
+          <lisID>1671</lisID>
+          <bioguideId>M001142</bioguideId>
+          <gpoId>8190</gpoId>
+        </identifiers>
+        <firstName>JIM</firstName>
+        <middleName />
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>UT</state>
+      </item>
+      <item>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <lastName>Griffith</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000568</bioguideId>
+        <identifiers>
+          <lisID>2070</lisID>
+          <bioguideId>G000568</bioguideId>
+          <gpoId>8200</gpoId>
+        </identifiers>
+        <firstName>H.</firstName>
+        <middleName>Morgan</middleName>
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+      </item>
+      <item>
+        <fullName>Rep. Grimm, Michael G. [R-NY-11]</fullName>
+        <lastName>Grimm</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000569</bioguideId>
+        <identifiers>
+          <gpoId>8074</gpoId>
+          <lisID>2041</lisID>
+          <bioguideId>G000569</bioguideId>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+      </item>
+      <item>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <lastName>DesJarlais</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000616</bioguideId>
+        <identifiers>
+          <bioguideId>D000616</bioguideId>
+          <lisID>2062</lisID>
+          <gpoId>8151</gpoId>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <middleName />
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+      </item>
+      <item>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <lastName>Black</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001273</bioguideId>
+        <identifiers>
+          <bioguideId>B001273</bioguideId>
+          <lisID>2063</lisID>
+          <gpoId>8153</gpoId>
+        </identifiers>
+        <firstName>Diane</firstName>
+        <middleName />
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+      </item>
+      <item>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <lastName>Bilirakis</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001257</bioguideId>
+        <identifiers>
+          <gpoId>7881</gpoId>
+          <lisID>1838</lisID>
+          <bioguideId>B001257</bioguideId>
+        </identifiers>
+        <firstName>Gus</firstName>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+      </item>
+      <item>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <lastName>Roe</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000582</bioguideId>
+        <identifiers>
+          <lisID>1954</lisID>
+          <bioguideId>R000582</bioguideId>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <firstName>David</firstName>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2013-05-14</sponsorshipDate>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+      </item>
+      <item>
+        <fullName>Rep. Labrador, Raul R. [R-ID-1]</fullName>
+        <lastName>Labrador</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000573</bioguideId>
+        <identifiers>
+          <gpoId>7919</gpoId>
+          <bioguideId>L000573</bioguideId>
+          <lisID>2011</lisID>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>ID</state>
+      </item>
+      <item>
+        <fullName>Rep. Schock, Aaron [R-IL-18]</fullName>
+        <lastName>Schock</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001179</bioguideId>
+        <identifiers>
+          <lisID>1920</lisID>
+          <gpoId>7938</gpoId>
+          <bioguideId>S001179</bioguideId>
+        </identifiers>
+        <firstName>Aaron</firstName>
+        <middleName />
+        <sponsorshipDate>2013-05-20</sponsorshipDate>
+        <district>18</district>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+      </item>
+      <item>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <lastName>Stivers</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001187</bioguideId>
+        <identifiers>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+          <lisID>2047</lisID>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <middleName />
+        <sponsorshipDate>2013-06-06</sponsorshipDate>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+      </item>
+      <item>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <lastName>Wittman</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000804</bioguideId>
+        <identifiers>
+          <lisID>1886</lisID>
+          <bioguideId>W000804</bioguideId>
+          <gpoId>8192</gpoId>
+        </identifiers>
+        <firstName>Robert</firstName>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2013-06-18</sponsorshipDate>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+      </item>
+      <item>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <lastName>Guthrie</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000558</bioguideId>
+        <identifiers>
+          <bioguideId>G000558</bioguideId>
+          <gpoId>7954</gpoId>
+          <lisID>1922</lisID>
+        </identifiers>
+        <firstName>Brett</firstName>
+        <middleName />
+        <sponsorshipDate>2013-06-18</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>KY</state>
+      </item>
+      <item>
+        <fullName>Rep. Benishek, Dan [R-MI-1]</fullName>
+        <lastName>Benishek</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001271</bioguideId>
+        <identifiers>
+          <lisID>2027</lisID>
+          <bioguideId>B001271</bioguideId>
+          <gpoId>7986</gpoId>
+        </identifiers>
+        <firstName>Dan</firstName>
+        <middleName />
+        <sponsorshipDate>2013-06-28</sponsorshipDate>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+      </item>
+      <item>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <lastName>Marino</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001179</bioguideId>
+        <identifiers>
+          <gpoId>8128</gpoId>
+          <lisID>2053</lisID>
+          <bioguideId>M001179</bioguideId>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <middleName />
+        <sponsorshipDate>2013-08-02</sponsorshipDate>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+      </item>
+      <item>
+        <fullName>Rep. Camp, Dave [R-MI-4]</fullName>
+        <lastName>CAMP</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000071</bioguideId>
+        <identifiers>
+          <bioguideId>C000071</bioguideId>
+          <lisID>166</lisID>
+          <gpoId>7989</gpoId>
+        </identifiers>
+        <firstName>DAVE</firstName>
+        <middleName />
+        <sponsorshipDate>2013-08-02</sponsorshipDate>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+      </item>
+      <item>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>J000292</bioguideId>
+        <identifiers>
+          <gpoId>8096</gpoId>
+          <bioguideId>J000292</bioguideId>
+          <lisID>2046</lisID>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <middleName />
+        <sponsorshipDate>2013-09-11</sponsorshipDate>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+      </item>
+      <item>
+        <fullName>Rep. Murphy, Tim [R-PA-18]</fullName>
+        <lastName>Murphy</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001151</bioguideId>
+        <identifiers>
+          <gpoId>8723</gpoId>
+          <lisID>1744</lisID>
+          <bioguideId>M001151</bioguideId>
+        </identifiers>
+        <firstName>Tim</firstName>
+        <middleName />
+        <sponsorshipDate>2014-04-02</sponsorshipDate>
+        <district>18</district>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+      </item>
+      <item>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <lastName>YOUNG</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>Y000033</bioguideId>
+        <identifiers>
+          <bioguideId>Y000033</bioguideId>
+          <lisID>1256</lisID>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <firstName>DON</firstName>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2014-05-01</sponsorshipDate>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>AK</state>
+      </item>
+      <item>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <lastName>Scott</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001157</bioguideId>
+        <identifiers>
+          <gpoId>7910</gpoId>
+          <lisID>1722</lisID>
+          <bioguideId>S001157</bioguideId>
+        </identifiers>
+        <firstName>David</firstName>
+        <middleName />
+        <sponsorshipDate>2014-05-28</sponsorshipDate>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+      </item>
+      <item>
+        <fullName>Rep. Israel, Steve [D-NY-3]</fullName>
+        <lastName>ISRAEL</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>I000057</bioguideId>
+        <identifiers>
+          <lisID>1663</lisID>
+          <bioguideId>I000057</bioguideId>
+          <gpoId>8063</gpoId>
+        </identifiers>
+        <firstName>STEVE</firstName>
+        <middleName />
+        <sponsorshipDate>2014-07-22</sponsorshipDate>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+      </item>
+      <item>
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+        <lastName>Wenstrup</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000815</bioguideId>
+        <identifiers>
+          <bioguideId>W000815</bioguideId>
+          <lisID>2152</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Brad</firstName>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2014-07-25</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+      </item>
+      <item>
+        <fullName>Rep. Fleischmann, Charles J. "Chuck" [R-TN-3]</fullName>
+        <lastName>Fleischmann</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000459</bioguideId>
+        <identifiers>
+          <gpoId>8150</gpoId>
+          <bioguideId>F000459</bioguideId>
+          <lisID>2061</lisID>
+        </identifiers>
+        <firstName>Charles</firstName>
+        <middleName>J. "Chuck"</middleName>
+        <sponsorshipDate>2014-07-29</sponsorshipDate>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2013-04-25T14:05:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-06-14T16:52:21Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution and Civil Justice Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2013-04-25T14:05:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-04-26T14:19:33Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

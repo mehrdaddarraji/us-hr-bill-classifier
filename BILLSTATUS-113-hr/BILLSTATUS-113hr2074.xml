@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-08-26T22:18:22Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2013-05-21T04:00:00Z</updateDate>
+          <actionDate>2013-05-21</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Transparency for Lethal Control Act - Directs the Secretary of Agriculture (USDA), through the Animal and Plant Health Inspection Service, to submit an annual report to Congress (and make such report publicly available on the Internet) on the animals killed during the preceding year under the wildlife services program or by a state or local entity acting in cooperation with or on behalf of such program.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2013-05-21</introducedDate>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Transparency for Lethal Control Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To direct the Secretary of Agriculture, acting through the Animal and Plant Health Inspection Service, to submit to Congress, and make available to the public on the Internet, a report on the animals killed under the Wildlife Services program of the Animal and Plant Health Inspection Service.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Transparency for Lethal Control Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <congress>113</congress>
+    <billNumber>2074</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 72 (Tuesday, May 21, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. DAVIS of California:H.R. 2074.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2839]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2018-06-05T16:22:43Z</updateDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsag29</systemCode>
+              <name>Livestock and Foreign Agriculture Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2013-06-03T21:54:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2013-05-21T14:01:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Agriculture Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2013-05-22T07:02:04Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <byRequestType />
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>1641</lisID>
+          <bioguideId>D000598</bioguideId>
+          <gpoId>7858</gpoId>
+        </identifiers>
+        <district>53</district>
+        <lastName>DAVIS</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>D000598</bioguideId>
+        <firstName>SUSAN</firstName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-06-03</actionDate>
+        <committee>
+          <systemCode>hsag29</systemCode>
+          <name>Livestock and Foreign Agriculture Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Livestock, Rural Development, and Credit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <actionDate>2013-05-21</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/extensions-of-remarks-section/page/E713</url>
+            <name>E713</name>
+          </link>
+        </links>
+        <type>IntroReferral</type>
+        <text>Sponsor introductory remarks on measure. (CR E713)</text>
+        <actionCode>B00100</actionCode>
+        <committee />
+        <actionDate>2013-05-21</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2013-05-21</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2013-05-21</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2013-05-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <bioguideId>D000191</bioguideId>
+        <firstName>PETER</firstName>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <lastName>DEFAZIO</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Moran, James P. [D-VA-8]</fullName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2013-05-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <bioguideId>M000933</bioguideId>
+        <firstName>JAMES</firstName>
+        <identifiers>
+          <lisID>832</lisID>
+          <bioguideId>M000933</bioguideId>
+          <gpoId>8199</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <lastName>MORAN</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Campbell, John [R-CA-45]</fullName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2013-05-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>C001064</bioguideId>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1816</lisID>
+          <bioguideId>C001064</bioguideId>
+          <gpoId>7853</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>45</district>
+        <lastName>Campbell</lastName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2013-06-03</actionDate>
+      <text>Referred to the Subcommittee on Livestock, Rural Development, and Credit.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Animal and plant health</name>
+          </item>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Pest management</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <title>Transparency for Lethal Control Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws />
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-10-02</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Oversight and Government Reform</text>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-10-02</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-10-02</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Administration</text>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-10-02</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-10-02</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-10-02</introducedDate>
+    <notes />
+    <calendarNumbers />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-10-02T04:00:00Z</updateDate>
+          <actionDate>2013-10-02</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Hold Congress Accountable Act - Requires a reduction in the annual rate of pay of a Member of Congress during a government shutdown equal to the product of 1 day's worth of pay under such annual rate and the number of 24-hour periods during which the government shutdown is in effect. Makes such reduction applicable to days occurring after the date of the general election for federal office held in November 2014. </p> <p>Requires any amount of pay of a Member of Congress in the 113th Congress that is reduced due to a government shutdown to be held in escrow until the last day of the 113th Congress and released for payment to Members at that time. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-10-09T17:28:11Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>3236</billNumber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1950</lisID>
+          <gpoId>8118</gpoId>
+          <bioguideId>S001180</bioguideId>
+        </identifiers>
+        <lastName>Schrader</lastName>
+        <district>5</district>
+        <middleName />
+        <firstName>Kurt</firstName>
+        <byRequestType />
+        <bioguideId>S001180</bioguideId>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H6174-H6175]By Mr. SCHRADER:H.R. 3236.[[Page H6175]]Congress has the power to enact this legislation pursuantto the following:U.S. Const. art. 1, Sec. 1; andU.S. Const. art. 1, Sec. 6</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-09-26</actionDate>
+          <text>Sponsor introductory remarks on measure. (CR H5844)</text>
+        </latestAction>
+        <number>3160</number>
+        <latestTitle>Government Shutdown Fairness Act</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-09-30</actionDate>
+          <text>Referred to House Oversight and Government Reform</text>
+        </latestAction>
+        <number>3224</number>
+        <latestTitle>No Government No Pay Act of 2013</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-10-02</actionDate>
+          <text>Referred to House Administration</text>
+        </latestAction>
+        <number>3234</number>
+        <latestTitle>Pay Accountability Act</latestTitle>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Hold Congress Accountable Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To reduce the annual rate of pay of Members of Congress if a Government shutdown occurs during a year, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Hold Congress Accountable Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <updateDate>2016-10-25T16:07:44Z</updateDate>
+    <recordedVotes />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <actionDate>2013-10-02</actionDate>
+      <text>Referred to House Oversight and Government Reform</text>
+    </latestAction>
+    <createDate>2013-10-03T07:01:05Z</createDate>
+    <title>Hold Congress Accountable Act</title>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gabbard</lastName>
+        <middleName />
+        <sponsorshipDate>2013-10-02</sponsorshipDate>
+        <district>2</district>
+        <firstName>Tulsi</firstName>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000571</bioguideId>
+        <state>HI</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C000754</bioguideId>
+          <lisID>231</lisID>
+          <gpoId>8152</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>COOPER</lastName>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2013-10-04</sponsorshipDate>
+        <district>5</district>
+        <firstName>JAMES</firstName>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000754</bioguideId>
+        <state>TN</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>KIND</lastName>
+        <middleName />
+        <sponsorshipDate>2013-10-07</sponsorshipDate>
+        <district>3</district>
+        <firstName>RON</firstName>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000188</bioguideId>
+        <state>WI</state>
+        <party>D</party>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1671</lisID>
+          <bioguideId>M001142</bioguideId>
+          <gpoId>8190</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MATHESON</lastName>
+        <middleName />
+        <sponsorshipDate>2013-10-10</sponsorshipDate>
+        <district>4</district>
+        <firstName>JIM</firstName>
+        <fullName>Rep. Matheson, Jim [D-UT-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001142</bioguideId>
+        <state>UT</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-10-02T14:02:05Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-10-02T14:02:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

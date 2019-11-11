@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <actionDate>2014-05-20</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-05-20</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-05-20</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-05-20</introducedDate>
+    <updateDate>2016-10-25T16:13:23Z</updateDate>
+    <createDate>2014-05-21T07:35:33Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-05-20T14:01:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2014-05-20</sponsorshipDate>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <district>13</district>
+        <identifiers>
+          <lisID>944</lisID>
+          <bioguideId>R000053</bioguideId>
+          <gpoId>8076</gpoId>
+        </identifiers>
+        <state>NY</state>
+        <firstName>CHARLES</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000053</bioguideId>
+        <lastName>RANGEL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-20</sponsorshipDate>
+        <fullName>Rep. McDermott, Jim [D-WA-7]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>7</district>
+        <identifiers>
+          <lisID>766</lisID>
+          <gpoId>8211</gpoId>
+          <bioguideId>M000404</bioguideId>
+        </identifiers>
+        <state>WA</state>
+        <firstName>JIM</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000404</bioguideId>
+        <lastName>MCDERMOTT</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-20</sponsorshipDate>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <district>1</district>
+        <identifiers>
+          <bioguideId>N000015</bioguideId>
+          <gpoId>7967</gpoId>
+          <lisID>854</lisID>
+        </identifiers>
+        <state>MA</state>
+        <firstName>RICHARD</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000015</bioguideId>
+        <lastName>NEAL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-20</sponsorshipDate>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>35</district>
+        <identifiers>
+          <lisID>303</lisID>
+          <gpoId>8181</gpoId>
+          <bioguideId>D000399</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <firstName>LLOYD</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000399</bioguideId>
+        <lastName>DOGGETT</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-20</sponsorshipDate>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1583</lisID>
+          <gpoId>7866</gpoId>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <state>CT</state>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000557</bioguideId>
+        <lastName>LARSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-20</sponsorshipDate>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <party>D</party>
+        <middleName>K.</middleName>
+        <district>7</district>
+        <identifiers>
+          <lisID>1477</lisID>
+          <bioguideId>D000096</bioguideId>
+          <gpoId>7927</gpoId>
+        </identifiers>
+        <state>IL</state>
+        <firstName>DANNY</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000096</bioguideId>
+        <lastName>DAVIS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-20</sponsorshipDate>
+        <fullName>Rep. Van Hollen, Chris [D-MD-8]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>8</district>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <state>MD</state>
+        <firstName>Chris</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000128</bioguideId>
+        <lastName>Van Hollen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-20</sponsorshipDate>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>3</district>
+        <identifiers>
+          <lisID>281</lisID>
+          <gpoId>7868</gpoId>
+          <bioguideId>D000216</bioguideId>
+        </identifiers>
+        <state>CT</state>
+        <firstName>ROSA</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000216</bioguideId>
+        <lastName>DELAURO</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-05-20</sponsorshipDate>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <identifiers>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <state>IL</state>
+        <firstName>JANICE</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001145</bioguideId>
+        <lastName>SCHAKOWSKY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-06-11</sponsorshipDate>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <district>25</district>
+        <identifiers>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+          <bioguideId>S000480</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <firstName>LOUISE</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000480</bioguideId>
+        <lastName>SLAUGHTER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-06-30</sponsorshipDate>
+        <fullName>Rep. Miller, George [D-CA-11]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>11</district>
+        <identifiers>
+          <lisID>808</lisID>
+          <gpoId>7812</gpoId>
+          <bioguideId>M000725</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>GEORGE</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000725</bioguideId>
+        <lastName>MILLER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-06-30</sponsorshipDate>
+        <fullName>Rep. Schwartz, Allyson Y. [D-PA-13]</fullName>
+        <party>D</party>
+        <middleName>Y.</middleName>
+        <district>13</district>
+        <identifiers>
+          <lisID>1798</lisID>
+          <bioguideId>S001162</bioguideId>
+          <gpoId>8131</gpoId>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Allyson</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001162</bioguideId>
+        <lastName>Schwartz</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-22</sponsorshipDate>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>5</district>
+        <identifiers>
+          <lisID>688</lisID>
+          <gpoId>7902</gpoId>
+          <bioguideId>L000287</bioguideId>
+        </identifiers>
+        <state>GA</state>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000287</bioguideId>
+        <lastName>LEWIS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-22</sponsorshipDate>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>3</district>
+        <identifiers>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <state>OR</state>
+        <firstName>EARL</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000574</bioguideId>
+        <lastName>BLUMENAUER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-22</sponsorshipDate>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>5</district>
+        <identifiers>
+          <gpoId>8005</gpoId>
+          <lisID>1857</lisID>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <state>MN</state>
+        <firstName>Keith</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000288</bioguideId>
+        <lastName>Ellison</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-07-22</sponsorshipDate>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+          <lisID>1668</lisID>
+        </identifiers>
+        <state>RI</state>
+        <firstName>JAMES</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000559</bioguideId>
+        <lastName>LANGEVIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-09</sponsorshipDate>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>1</district>
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <lisID>1861</lisID>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <state>NH</state>
+        <firstName>Carol</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001170</bioguideId>
+        <lastName>Shea-Porter</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-09</sponsorshipDate>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>17</district>
+        <identifiers>
+          <lisID>2159</lisID>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Matt</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001090</bioguideId>
+        <lastName>Cartwright</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-09</sponsorshipDate>
+        <fullName>Rep. Sarbanes, John P. [D-MD-3]</fullName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <district>3</district>
+        <identifiers>
+          <lisID>1854</lisID>
+          <gpoId>7978</gpoId>
+          <bioguideId>S001168</bioguideId>
+        </identifiers>
+        <state>MD</state>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001168</bioguideId>
+        <lastName>Sarbanes</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-09</sponsorshipDate>
+        <fullName>Rep. Holt, Rush [D-NJ-12]</fullName>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <district>12</district>
+        <identifiers>
+          <lisID>1580</lisID>
+          <bioguideId>H001032</bioguideId>
+          <gpoId>8054</gpoId>
+        </identifiers>
+        <state>NJ</state>
+        <firstName>RUSH</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001032</bioguideId>
+        <lastName>HOLT</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-09</sponsorshipDate>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>0</district>
+        <identifiers>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <state>VT</state>
+        <firstName>Peter</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000800</bioguideId>
+        <lastName>Welch</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-09</sponsorshipDate>
+        <fullName>Rep. Waxman, Henry A. [D-CA-33]</fullName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <district>33</district>
+        <identifiers>
+          <lisID>1209</lisID>
+          <bioguideId>W000215</bioguideId>
+          <gpoId>7835</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>HENRY</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000215</bioguideId>
+        <lastName>WAXMAN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-09</sponsorshipDate>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-21]</fullName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <district>21</district>
+        <identifiers>
+          <lisID>1976</lisID>
+          <bioguideId>D000610</bioguideId>
+          <gpoId>7891</gpoId>
+        </identifiers>
+        <state>FL</state>
+        <firstName>Theodore</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000610</bioguideId>
+        <lastName>Deutch</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-09</sponsorshipDate>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>6</district>
+        <identifiers>
+          <lisID>2148</lisID>
+          <gpoId />
+          <bioguideId>M001188</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <firstName>Grace</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001188</bioguideId>
+        <lastName>Meng</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-10</sponsorshipDate>
+        <fullName>Rep. Bishop, Timothy H. [D-NY-1]</fullName>
+        <party>D</party>
+        <middleName>H.</middleName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1740</lisID>
+          <gpoId>8062</gpoId>
+          <bioguideId>B001242</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <firstName>Timothy</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001242</bioguideId>
+        <lastName>Bishop</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>5</district>
+        <identifiers>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+          <bioguideId>T000460</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>MIKE</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000460</bioguideId>
+        <lastName>THOMPSON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <fullName>Rep. Tsongas, Niki [D-MA-3]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>3</district>
+        <identifiers>
+          <lisID>1884</lisID>
+          <bioguideId>T000465</bioguideId>
+          <gpoId>7970</gpoId>
+        </identifiers>
+        <state>MA</state>
+        <firstName>Niki</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000465</bioguideId>
+        <lastName>Tsongas</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <district>2</district>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <state>MA</state>
+        <firstName>JAMES</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000312</bioguideId>
+        <lastName>MCGOVERN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>40</district>
+        <identifiers>
+          <lisID>997</lisID>
+          <gpoId>7839</gpoId>
+          <bioguideId>R000486</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>LUCILLE</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000486</bioguideId>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <district>17</district>
+        <identifiers>
+          <bioguideId>L000480</bioguideId>
+          <gpoId>8079</gpoId>
+          <lisID>709</lisID>
+        </identifiers>
+        <state>NY</state>
+        <firstName>NITA</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000480</bioguideId>
+        <lastName>LOWEY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <district>28</district>
+        <identifiers>
+          <bioguideId>S001150</bioguideId>
+          <lisID>1635</lisID>
+          <gpoId>7834</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>ADAM</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001150</bioguideId>
+        <lastName>SCHIFF</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <fullName>Rep. Capps, Lois [D-CA-24]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>24</district>
+        <identifiers>
+          <lisID>1471</lisID>
+          <bioguideId>C001036</bioguideId>
+          <gpoId>7828</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>LOIS</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001036</bioguideId>
+        <lastName>CAPPS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <party>D</party>
+        <middleName />
+        <district>14</district>
+        <identifiers>
+          <bioguideId>S001175</bioguideId>
+          <lisID>1890</lisID>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Jackie</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001175</bioguideId>
+        <lastName>Speier</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <party>D</party>
+        <middleName>V.</middleName>
+        <district>4</district>
+        <identifiers>
+          <lisID>478</lisID>
+          <gpoId>7924</gpoId>
+          <bioguideId>G000535</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <firstName>LUIS</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000535</bioguideId>
+        <lastName>GUTIERREZ</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <fullName>Rep. Kildee, Daniel T [D-MI-5]</fullName>
+        <party>D</party>
+        <middleName>T.</middleName>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>K000380</bioguideId>
+          <lisID>2134</lisID>
+          <gpoId />
+        </identifiers>
+        <state>MI</state>
+        <firstName>Daniel</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000380</bioguideId>
+        <lastName>Kildee</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2014-11-20</sponsorshipDate>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <state>DC</state>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000147</bioguideId>
+        <lastName>NORTON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Stop Corporate Inversions Act of 2014</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Stop Corporate Inversions Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to modify the rules relating to inverted corporations.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Stop Corporate Inversions Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. LEVIN:H.R. 4679.Congress has the power to enact this legislation pursuantto the following:Clause 1 of Section 8 of Article 1 of the United StatesConstitution[Page H4684]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2014-05-20</actionDate>
+          <updateDate>2014-05-20T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2014-07-14T18:51:19Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Stop Corporate Inversions Act of 2014 - Amends the Internal Revenue Code to revise rules for the taxation of inverted corporations (i.e., U.S. corporations that acquire foreign companies to reincorporate in a foreign jurisdiction with income tax rates lower than the United States) to provide that a foreign corporation that acquires the properties of a U.S. corporation or partnership after May 8, 2014, shall be treated as an inverted corporation and thus subject to U.S. taxation if, after such acquisition: (1) it holds more than 50% of the stock of the new entity (expanded affiliated group), or (2) the management or control of the new entity occurs primarily within the United States and the new entity has significant domestic business activities.</p> <p itemprop="articleBody">&nbsp;</p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>S</type>
+        <number>2360</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S3188-31889)</text>
+          <actionDate>2014-05-20</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Stop Corporate Inversions Act of 2014</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <type>S</type>
+        <number>2489</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2014-06-18</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>American Jobs for American Infrastructure Act</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>4985</number>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2014-06-26</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Stop Corporate Expatriation and Invest in America's Infrastructure Act of 2014</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>5338</number>
+        <latestAction>
+          <text>Referred to House Foreign Affairs</text>
+          <actionDate>2014-07-31</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Federal Employee Pension Fairness Act</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Foreign and international corporations</name>
+          </item>
+          <item>
+            <name>Income tax rates</name>
+          </item>
+          <item>
+            <name>Taxation of foreign income</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2014-05-20</actionDate>
+    </latestAction>
+    <billNumber>4679</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>9</district>
+        <firstName>SANDER</firstName>
+        <party>D</party>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <bioguideId>L000263</bioguideId>
+        <identifiers>
+          <bioguideId>L000263</bioguideId>
+          <gpoId>7997</gpoId>
+          <lisID>683</lisID>
+        </identifiers>
+        <lastName>LEVIN</lastName>
+        <middleName>M.</middleName>
+        <state>MI</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

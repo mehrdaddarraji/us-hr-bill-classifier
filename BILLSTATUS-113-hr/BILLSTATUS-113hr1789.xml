@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-04-26</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2013-05-09T20:18:52Z</lastSummaryUpdateDate>
+          <updateDate>2013-04-26T04:00:00Z</updateDate>
+          <text><![CDATA[<p> Creating Crop Insurance Certainty for Farmers Act - Amends the Federal Crop Insurance Act to direct the Secretary of Agriculture (USDA) to provide specified advanced public notice and a period for public comment before any modification to the terms or conditions of a crop insurance policy or plan may be made.</p> <p>Authorizes the Secretary to waive such provision in an emergency situation.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <actionDate>2013-05-22</actionDate>
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+      <links />
+    </latestAction>
+    <createDate>2013-04-27T07:02:11Z</createDate>
+    <sponsors>
+      <item>
+        <district>6</district>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <firstName>Andy</firstName>
+        <bioguideId>B001282</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001282</bioguideId>
+          <gpoId />
+          <lisID>2131</lisID>
+        </identifiers>
+        <lastName>Barr</lastName>
+        <state>KY</state>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <introducedDate>2013-04-26</introducedDate>
+    <billType>HR</billType>
+    <congress>113</congress>
+    <amendments />
+    <committeeReports />
+    <laws />
+    <calendarNumbers />
+    <billNumber>1789</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Agriculture Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsag16</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-05-22T19:35:13Z</date>
+                </item>
+              </activities>
+              <name>General Farm Commodities and Risk Management Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-26T14:09:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <title>Creating Crop Insurance Certainty for Farmers Act</title>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <lastName>Holding</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>George</firstName>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>H001065</bioguideId>
+          <gpoId />
+          <lisID>2143</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001065</bioguideId>
+        <middleName />
+        <party>R</party>
+        <sponsorshipDate>2013-05-21</sponsorshipDate>
+        <district>13</district>
+        <fullName>Rep. Holding, George [R-NC-13]</fullName>
+      </item>
+      <item>
+        <lastName>WHITFIELD</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>EDWARD</firstName>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>W000413</bioguideId>
+          <gpoId>7953</gpoId>
+          <lisID>1222</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000413</bioguideId>
+        <middleName />
+        <party>R</party>
+        <sponsorshipDate>2013-07-09</sponsorshipDate>
+        <district>1</district>
+        <fullName>Rep. Whitfield, Ed [R-KY-1]</fullName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Creating Crop Insurance Certainty for Farmers Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Federal Crop Insurance Act to require advance public notice of any modification to be made in the terms or conditions of any policy or plan of insurance offered under such Act.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Creating Crop Insurance Certainty for Farmers Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-05-22</actionDate>
+        <committee>
+          <systemCode>hsag16</systemCode>
+          <name>General Farm Commodities and Risk Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <actionDate>2013-04-26</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-04-26</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionDate>2013-04-26</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 59 (Friday, April 26, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BARR:H.R. 1789.Congress has the power to enact this legislation pursuantto the following:The ability to regulate interstate commerce pursuant toArticle I, Section 8, Clause 3.[Page H2395]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <updateDate>2018-06-05T16:16:41Z</updateDate>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural insurance</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

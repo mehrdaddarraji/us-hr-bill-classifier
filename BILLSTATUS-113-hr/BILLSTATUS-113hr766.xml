@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>113</congress>
+    <notes />
+    <sponsors>
+      <item>
+        <middleName>N.</middleName>
+        <byRequestType />
+        <bioguideId>C001084</bioguideId>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <state>RI</state>
+        <lastName>Cicilline</lastName>
+        <identifiers>
+          <lisID>2055</lisID>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+        </identifiers>
+        <district>1</district>
+        <party>D</party>
+        <firstName>David</firstName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Employment taxes</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Income tax rates</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Tax reform and tax simplification</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Paying a Fair Share Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To reduce the deficit by imposing a minimum effective tax rate for high-income taxpayers.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Paying a Fair Share Act of 2013</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <introducedDate>2013-02-15</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2013-02-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2013-02-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2013-02-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-03-18T22:28:33Z</lastSummaryUpdateDate>
+          <actionDate>2013-02-15</actionDate>
+          <text><![CDATA[<p>Paying a Fair Share Act of 2013 - Amends the Internal Revenue Code to require an individual taxpayer whose adjusted gross income exceeds $1 million to pay a minimum tax rate of 30% of the excess of the taxpayer's adjusted gross income over the taxpayer's modified charitable contribution deduction for the taxable year (tentative fair share tax). Establishes the amount of such tax as the excess (if any) of the tentative fair share tax over the excess of: (1) the sum of the taxpayer's regular tax liability, the alternative minimum tax (AMT) amount, and the payroll tax for the taxable year; over (2) certain tax credits. Provides for a phase-in of such tax. Requires an inflation adjustment to the $1 million income threshold for taxable years beginning after 2014.</p> <p>Expresses the sense of the House of Representatives that Congress should enact tax reform that repeals unfair and unnecessary tax loopholes and expenditures, simplifies the tax system, and makes sure that the wealthiest taxpayers pay a fair share of taxes.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-02-15T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <number>699</number>
+        <latestAction>
+          <actionDate>2013-03-01</actionDate>
+          <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+        </latestAction>
+        <latestTitle>Stop the Sequester Job Loss Now Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+      </item>
+      <item>
+        <number>277</number>
+        <latestAction>
+          <actionDate>2013-02-11</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>Job Preservation and Economic Certainty Act of 2013</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+      </item>
+      <item>
+        <number>278</number>
+        <latestAction>
+          <actionDate>2013-02-11</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>Job Preservation and Sequester Replacement Act of 2013</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+      </item>
+      <item>
+        <number>388</number>
+        <latestAction>
+          <actionDate>2013-02-28</actionDate>
+          <text>Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote No. 27) entered in Senate.</text>
+        </latestAction>
+        <latestTitle>American Family Economic Protection Act of 2013</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+      </item>
+      <item>
+        <number>321</number>
+        <latestAction>
+          <actionDate>2013-02-13</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>Paying a Fair Share Act of 2013</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+      </item>
+      <item>
+        <number>2060</number>
+        <latestAction>
+          <actionDate>2013-05-20</actionDate>
+          <text>Referred to the Committee on Ways and Means, and in addition to the Committees on the Budget, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <latestTitle>Stop the Sequester Job Loss Now Act Through 2014</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+      </item>
+      <item>
+        <number>2432</number>
+        <latestAction>
+          <actionDate>2014-09-18</actionDate>
+          <text>Motion to proceed to consideration of measure made in Senate. (consideration: CR S5725-5726)</text>
+        </latestAction>
+        <latestTitle>Bank on Students Emergency Loan Refinancing Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+      </item>
+      <item>
+        <number>2789</number>
+        <latestAction>
+          <actionDate>2014-09-10</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>IDEA Full Funding Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <recordedVotes />
+    <updateDate>2018-06-05T16:04:57Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-15T14:01:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Pocan</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>2171</lisID>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <bioguideId>P000607</bioguideId>
+        <state>WI</state>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LANGEVIN</lastName>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+          <lisID>1668</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <bioguideId>L000559</bioguideId>
+        <state>RI</state>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SCHAKOWSKY</lastName>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JANICE</firstName>
+        <bioguideId>S001145</bioguideId>
+        <state>IL</state>
+        <district>9</district>
+      </item>
+      <item>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Ellison</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <gpoId>8005</gpoId>
+          <lisID>1857</lisID>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Keith</firstName>
+        <bioguideId>E000288</bioguideId>
+        <state>MN</state>
+        <district>5</district>
+      </item>
+      <item>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LARSEN</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000560</bioguideId>
+          <lisID>1675</lisID>
+          <gpoId>8206</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>RICK</firstName>
+        <bioguideId>L000560</bioguideId>
+        <state>WA</state>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>BARBARA</firstName>
+        <bioguideId>L000551</bioguideId>
+        <state>CA</state>
+        <district>13</district>
+      </item>
+      <item>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <sponsorshipDate>2013-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cartwright</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Matt</firstName>
+        <bioguideId>C001090</bioguideId>
+        <state>PA</state>
+        <district>17</district>
+      </item>
+      <item>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CONYERS</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+          <lisID>229</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <bioguideId>C000714</bioguideId>
+        <state>MI</state>
+        <district>13</district>
+      </item>
+      <item>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Welch</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Peter</firstName>
+        <bioguideId>W000800</bioguideId>
+        <state>VT</state>
+        <district>0</district>
+      </item>
+      <item>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Shea-Porter</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Carol</firstName>
+        <bioguideId>S001170</bioguideId>
+        <state>NH</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Enyart, William L. [D-IL-12]</fullName>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Enyart</lastName>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000292</bioguideId>
+          <lisID>2125</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>William</firstName>
+        <bioguideId>E000292</bioguideId>
+        <state>IL</state>
+        <district>12</district>
+      </item>
+      <item>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Chu</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Judy</firstName>
+        <bioguideId>C001080</bioguideId>
+        <state>CA</state>
+        <district>27</district>
+      </item>
+      <item>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DOGGETT</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>303</lisID>
+          <bioguideId>D000399</bioguideId>
+          <gpoId>8181</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>LLOYD</firstName>
+        <bioguideId>D000399</bioguideId>
+        <state>TX</state>
+        <district>35</district>
+      </item>
+      <item>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <sponsorshipDate>2013-03-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wilson</lastName>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <identifiers>
+          <lisID>2004</lisID>
+          <bioguideId>W000808</bioguideId>
+          <gpoId>7889</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Frederica</firstName>
+        <bioguideId>W000808</bioguideId>
+        <state>FL</state>
+        <district>24</district>
+      </item>
+      <item>
+        <fullName>Rep. Moran, James P. [D-VA-8]</fullName>
+        <sponsorshipDate>2013-03-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MORAN</lastName>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <identifiers>
+          <lisID>832</lisID>
+          <gpoId>8199</gpoId>
+          <bioguideId>M000933</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <bioguideId>M000933</bioguideId>
+        <state>VA</state>
+        <district>8</district>
+      </item>
+      <item>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <sponsorshipDate>2013-03-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>HASTINGS</lastName>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <identifiers>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>ALCEE</firstName>
+        <bioguideId>H000324</bioguideId>
+        <state>FL</state>
+        <district>20</district>
+      </item>
+      <item>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <sponsorshipDate>2013-03-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MCCOLLUM</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>BETTY</firstName>
+        <bioguideId>M001143</bioguideId>
+        <state>MN</state>
+        <district>4</district>
+      </item>
+      <item>
+        <fullName>Rep. Delaney, John K. [D-MD-6]</fullName>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Delaney</lastName>
+        <party>D</party>
+        <middleName>K.</middleName>
+        <identifiers>
+          <lisID>2133</lisID>
+          <bioguideId>D000620</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <bioguideId>D000620</bioguideId>
+        <state>MD</state>
+        <district>6</district>
+      </item>
+    </cosponsors>
+    <title>Paying a Fair Share Act of 2013</title>
+    <createDate>2013-02-16T07:00:52Z</createDate>
+    <billType>HR</billType>
+    <billNumber>766</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 25 (Friday, February 15, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CICILLINE:H.R. 766.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H597]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2013-02-15</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

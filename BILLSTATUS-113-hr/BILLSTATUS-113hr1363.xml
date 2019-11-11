@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <prayer>1</prayer>
+        <placeholderTextForH>3</placeholderTextForH>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <text>Placed on the Union Calendar, Calendar No. 521.</text>
+        <actionCode>H12410</actionCode>
+        <committee />
+        <type>Calendars</type>
+        <actionDate>2014-12-22</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 113-690.</text>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2014-12-22</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/690</url>
+            <name>H. Rept. 113-690</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 113-690.</text>
+        <actionCode>5000</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2014-12-22</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/113th-congress/house-report/690</url>
+            <name>H. Rept. 113-690</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Energy and Mineral Resources Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-07-29</actionDate>
+        <committee>
+          <systemCode>hsii06</systemCode>
+          <name>Energy and Mineral Resources Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-04-11</actionDate>
+        <committee>
+          <systemCode>hsii06</systemCode>
+          <name>Energy and Mineral Resources Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-21</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-03-21</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-03-21</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <state>NV</state>
+        <party>R</party>
+        <middleName>E.</middleName>
+        <firstName>Mark</firstName>
+        <district>2</district>
+        <sponsorshipDate>2013-07-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>A000369</bioguideId>
+          <gpoId>8366</gpoId>
+          <lisID>2090</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Amodei</lastName>
+        <bioguideId>A000369</bioguideId>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-03-22T07:01:12Z</createDate>
+    <introducedDate>2013-03-21</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 113-690</citation>
+      </committeeReport>
+    </committeeReports>
+    <latestAction>
+      <links />
+      <actionDate>2014-12-22</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 521.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <title>Exploring for Geothermal Energy on Federal Lands Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Exploring for Geothermal Energy on Federal Lands Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To promote timely exploration for geothermal resources under existing geothermal leases, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Exploring for Geothermal Energy on Federal Lands Act</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:12:54Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName>R.</middleName>
+        <fullName>Rep. Labrador, Raul R. [R-ID-1]</fullName>
+        <identifiers>
+          <gpoId>7919</gpoId>
+          <lisID>2011</lisID>
+          <bioguideId>L000573</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Raul</firstName>
+        <lastName>Labrador</lastName>
+        <bioguideId>L000573</bioguideId>
+        <state>ID</state>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <title>Exploring for Geothermal Energy on Federal Lands Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Exploring for Geothermal Energy on Federal Lands Act - Exempts projects determined by the Secretary of the Interior to be geothermal exploration test projects from environmental impact statement requirements under the National Environmental Policy Act of 1969 (NEPA).</p> <p>Defines a "geothermal exploration test project" as&nbsp;the drilling of a well to test or explore for geothermal resources on lands leased by the Department of the Interior for the development and production of geothermal resources, that is completed in less than 45 days, that causes less than&nbsp;five&nbsp;acres of soil or vegetation disruption at the location of each well and no more than five additional acres of soil or vegetation disruption during access or egress to the test site, and that is developed: (1) no deeper than 2,500 feet, (2)&nbsp;less than&nbsp;eight inches in diameter, (3) in a manner that does not require off-road motorized access other than to and from the well site along an identified off-road route, (4) without construction of new roads other than upgrading of existing drainage crossings for safety purposes, and (5) with the use of rubber-tired digging or drilling equipment vehicles. Requires the restoration of the project site within three years to approximately the condition that existed at the time the project began, unless the site is subsequently used as part of energy development on the lease.</p> <p>Requires: (1)&nbsp;a&nbsp;leaseholder intending to carry out a geothermal exploration test project to provide notice to the Secretary within&nbsp;30 days prior to the start of drilling, (2) the Secretary to review a project within 10 days of receipt of such notice and to notify&nbsp;such leaseholder either that such NEPA requirements do not apply or that project deficiencies preclude the NEPA exemption, and (3) the Secretary to allow&nbsp;such&nbsp;leaseholder an opportunity to remedy any such deficiencies prior to the date&nbsp;such leaseholder intended to start drilling.</p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-04-01T19:12:41Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2013-03-21</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-03-21T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</b></p> <p>Exploring for Geothermal Energy on Federal Lands Act - (Sec. 2) Exempts geothermal exploration test projects from environmental impact statement requirements under the National Environmental Policy Act of 1969 (NEPA) if the project: </p> <ul> <li>causes less than five acres of soil or vegetation disruption at the location of each well and no more than five additional acres of disruption during access or egress to the test site, </li> <li>is developed no deeper than 2,500 feet and&nbsp;less than&nbsp;eight inches in diameter, </li> <li>is developed in a manner that does not require off-road motorized access other than to and from the well site along an identified off-road route,</li> <li>is developed without construction of new roads other than upgrading of existing drainage crossings for safety purposes and with the use of rubber-tired digging or drilling equipment vehicles,</li> <li>is completed in less than 45 days, and </li> <li>requires the restoration of the project site within three years to approximately the condition that existed at the time the project began, unless the site is subsequently used as part of energy development on the lease.</li> </ul> <p>Requires a&nbsp;holder of a geothermal lease on federal land to notify the Department of the Interior within&nbsp;30 days before the start of drilling under a geothermal exploration test project. Gives Interior 10 days to review a project and notify a leaseholder that the project is exempted from NEPA requirements or that project deficiencies preclude the exemption. Requires Interior to allow a&nbsp;leaseholder an opportunity to remedy any deficiencies before the date on which the leaseholder intended to start drilling.</p>]]></text>
+          <versionCode>79</versionCode>
+          <lastSummaryUpdateDate>2015-03-24T16:18:15Z</lastSummaryUpdateDate>
+          <name>Reported to House without amendment</name>
+          <actionDate>2014-12-22</actionDate>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <updateDate>2014-12-22T13:26:27Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1363</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsii06</systemCode>
+              <name>Energy and Mineral Resources Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2014-09-18T19:34:45Z</date>
+                  <name>Discharged from</name>
+                </item>
+                <item>
+                  <date>2014-07-29T14:41:39Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2013-04-11T20:58:56Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2014-12-22T21:29:48Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2014-09-18T19:34:59Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-03-21T13:04:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2014-10-09T20:42:21Z</pubDate>
+        <url>https://www.cbo.gov/publication/49458</url>
+        <title>H.R. 1363, Exploring for Geothermal Energy on Federal Lands Act</title>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 42 (Thursday, March 21, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LABRADOR:H.R. 1363.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3 of the Constitution[Page H1827]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers>
+      <item>
+        <calendar>U00521</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

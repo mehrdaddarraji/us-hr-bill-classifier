@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on House Administration.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-04-18</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-04-18</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-04-18</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LARSON</lastName>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <bioguideId>L000557</bioguideId>
+        <state>CT</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Dingell, John D. [D-MI-12]</fullName>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>DINGELL</lastName>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>299</lisID>
+          <gpoId>8000</gpoId>
+          <bioguideId>D000355</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <bioguideId>D000355</bioguideId>
+        <state>MI</state>
+        <district>12</district>
+      </item>
+      <item>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SLAUGHTER</lastName>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>S000480</bioguideId>
+          <gpoId>8089</gpoId>
+          <lisID>1069</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>LOUISE</firstName>
+        <bioguideId>S000480</bioguideId>
+        <state>NY</state>
+        <district>25</district>
+      </item>
+      <item>
+        <fullName>Rep. Clyburn, James E. [D-SC-6]</fullName>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CLYBURN</lastName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <identifiers>
+          <bioguideId>C000537</bioguideId>
+          <gpoId>8146</gpoId>
+          <lisID>208</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <bioguideId>C000537</bioguideId>
+        <state>SC</state>
+        <district>6</district>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-04-19T07:02:09Z</createDate>
+    <introducedDate>2013-04-18</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-04-18</actionDate>
+      <text>Referred to the House Committee on House Administration.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Weekend Voting Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To change the date for regularly scheduled Federal elections and establish polling place hours.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Weekend Voting Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:15:38Z</updateDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Israel, Steve [D-NY-3]</fullName>
+        <identifiers>
+          <lisID>1663</lisID>
+          <gpoId>8063</gpoId>
+          <bioguideId>I000057</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>STEVE</firstName>
+        <lastName>ISRAEL</lastName>
+        <bioguideId>I000057</bioguideId>
+        <state>NY</state>
+        <district>3</district>
+      </item>
+    </sponsors>
+    <title>Weekend Voting Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Weekend Voting Act - Amends the Revised Statutes with respect to the time of election to establish the first Saturday and Sunday after the first Friday in November, in every even numbered year, as the days for the election, in each state and territory, of Delegates to, or Members of, Congress.</p> <p>Amends federal law with respect to presidential elections and vacancies to establish the first Saturday and Sunday after the first Friday in November, in every fourth year, as the days for the election of the President and Vice President of the United States.</p> <p>Amends such federal laws to establish the same polling place hours in the United States for both congressional and presidential elections, namely from 10:00 a.m. EST on Saturday till 6:00 p.m. EST on Sunday, with polls allowed to close between the hours of 10:00 p.m. local time on Saturday and 6:00 a.m. local time on Sunday as provided by the law of the state in which the polling place is located. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2013-04-18</actionDate>
+          <versionCode>00</versionCode>
+          <updateDate>2013-04-18T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-05-07T18:16:14Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1641</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-18T14:06:15Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 53 (Thursday, April 18, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ISRAEL:H.R. 1641.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the powers granted to theCongress by Article I. Section 4., Clause 1 of the UnitedStates Constitution[Page H2160]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

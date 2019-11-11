@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-04-04</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2014-04-01</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-04-01</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-04-01</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-04-01</introducedDate>
+    <updateDate>2016-10-25T16:12:05Z</updateDate>
+    <createDate>2014-04-02T07:23:21Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2014-04-04T20:24:52Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2014-04-01T16:01:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>F000448</bioguideId>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <district>8</district>
+        <firstName>Trent</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1707</lisID>
+          <bioguideId>F000448</bioguideId>
+          <gpoId>7799</gpoId>
+        </identifiers>
+        <state>AZ</state>
+        <lastName>Franks</lastName>
+        <middleName />
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+      </item>
+      <item>
+        <bioguideId>D000533</bioguideId>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <district>2</district>
+        <firstName>JOHN</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>322</lisID>
+          <gpoId>8149</gpoId>
+          <bioguideId>D000533</bioguideId>
+        </identifiers>
+        <state>TN</state>
+        <lastName>DUNCAN</lastName>
+        <middleName>J.</middleName>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+      </item>
+      <item>
+        <bioguideId>G000565</bioguideId>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <district>4</district>
+        <firstName>Paul</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <state>AZ</state>
+        <lastName>Gosar</lastName>
+        <middleName>A.</middleName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+      </item>
+      <item>
+        <bioguideId>R000582</bioguideId>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <district>1</district>
+        <firstName>David</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+        </identifiers>
+        <state>TN</state>
+        <lastName>Roe</lastName>
+        <middleName>P.</middleName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+      </item>
+      <item>
+        <bioguideId>B001243</bioguideId>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <district>7</district>
+        <firstName>Marsha</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <state>TN</state>
+        <lastName>Blackburn</lastName>
+        <middleName />
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+      </item>
+      <item>
+        <bioguideId>B001250</bioguideId>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <district>1</district>
+        <firstName>Rob</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1753</lisID>
+          <bioguideId>B001250</bioguideId>
+          <gpoId>8189</gpoId>
+        </identifiers>
+        <state>UT</state>
+        <lastName>Bishop</lastName>
+        <middleName />
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+      </item>
+      <item>
+        <bioguideId>C001076</bioguideId>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <district>3</district>
+        <firstName>Jason</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1956</lisID>
+          <gpoId>8191</gpoId>
+          <bioguideId>C001076</bioguideId>
+        </identifiers>
+        <state>UT</state>
+        <lastName>Chaffetz</lastName>
+        <middleName />
+        <fullName>Rep. Chaffetz, Jason [R-UT-3]</fullName>
+      </item>
+      <item>
+        <bioguideId>T000470</bioguideId>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <district>3</district>
+        <firstName>Scott</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+          <lisID>1997</lisID>
+        </identifiers>
+        <state>CO</state>
+        <lastName>Tipton</lastName>
+        <middleName>R.</middleName>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Shutdown Windfall Reimbursement Act</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Shutdown Windfall Reimbursement Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require the Director of the National Park Service to refund to States all State funds that were used to reopen and temporarily operate a unit of the National Park System during the October 2013 shutdown.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Shutdown Windfall Reimbursement Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. GARDNER:H.R. 4353.Congress has the power to enact this legislation pursuantto the following:Article 4, Section 3, Clause 2 of the Constitution of theUnited States[Page H2802]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-04-15T20:56:13Z</lastSummaryUpdateDate>
+          <updateDate>2014-04-01T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDate>2014-04-01</actionDate>
+          <text><![CDATA[<p> Shutdown Windfall Reimbursement Act - Requires the Director of the National Park Service to refund to each state all of the funds that it used to reopen and temporarily operate a unit of the National Park System during the period in October 2013 in which there was a lapse in appropriations for that unit. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>National Park Access Act</latestTitle>
+        <number>2104</number>
+        <latestAction>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 638.</text>
+          <actionDate>2014-12-10</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <actionDate>2014-04-04</actionDate>
+    </latestAction>
+    <billNumber>4353</billNumber>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>4</district>
+        <firstName>Cory</firstName>
+        <party>R</party>
+        <fullName>Rep. Gardner, Cory [R-CO-4]</fullName>
+        <bioguideId>G000562</bioguideId>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <lastName>Gardner</lastName>
+        <middleName />
+        <state>CO</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

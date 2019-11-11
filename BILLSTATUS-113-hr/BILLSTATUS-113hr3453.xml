@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>4</placeholderTextForH>
+        <billReferrals>5</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-01-24</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-01-09</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-12-13</actionDate>
+        <committee>
+          <systemCode>hssy15</systemCode>
+          <name>Research and Technology Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Research and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-11-18</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-11-12</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </committee>
+        <text>Referred to House Science, Space, and Technology</text>
+      </item>
+      <item>
+        <actionDate>2013-11-12</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Referred to House Judiciary</text>
+      </item>
+      <item>
+        <actionDate>2013-11-12</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <text>Referred to House Oversight and Government Reform</text>
+      </item>
+      <item>
+        <actionDate>2013-11-12</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <text>Referred to House Armed Services</text>
+      </item>
+      <item>
+        <actionDate>2013-11-12</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, Oversight and Government Reform, the Judiciary, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2013-11-12</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <text>Referred to House Veterans' Affairs</text>
+      </item>
+      <item>
+        <actionDate>2013-11-12</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2013-11-12</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>4</district>
+        <fullName>Rep. Horsford, Steven A. [D-NV-4]</fullName>
+        <lastName>Horsford</lastName>
+        <middleName>A.</middleName>
+        <state>NV</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>2147</lisID>
+          <bioguideId>H001066</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Steven</firstName>
+        <bioguideId>H001066</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. HORSFORD:H.R. 3453.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clause 3 of the United StatesConstitution allows Congress to regulate interstate commerce.Article I, Section 8, clause 1 of the United StatesConstitution permits the Congress to tax and spend for thegeneral welfare.Article I, Section 8, clause 18 is the necessary and properclause, allowing Congress to enact all laws necessary andproper for executing any of their enumerated powers.[Page H6998]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3453</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:08:31Z</updateDate>
+    <laws />
+    <createDate>2013-11-13T07:01:08Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <date>2013-11-12T19:03:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-01-24T20:54:23Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsas02</systemCode>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsas00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2013-11-12T19:03:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-01-09T18:37:20Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution and Civil Justice Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Science, Space, and Technology Committee</name>
+          <activities>
+            <item>
+              <date>2013-11-12T19:03:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-12-13T19:31:02Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hssy15</systemCode>
+              <name>Research and Technology Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hssy00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2013-11-12T19:02:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-11-18T15:19:36Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsvr10</systemCode>
+              <name>Economic Opportunity Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Oversight and Government Reform Committee</name>
+          <activities>
+            <item>
+              <date>2013-11-12T19:03:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Putting Our Veterans Back to Work Act of 2013 - Amends the: (1) VOW to Hire Heroes Act of 2011 to extend through March 31, 2016, the veterans retraining assistance program; and (2) Wounded Warrior Act to extend through 2016 the authority of the Secretary of Veterans Affairs (VA) (Secretary) to provide the same rehabilitation and vocational benefits to members of the Armed Forces (members) with severe injuries or illnesses as are provided to veterans.</p> <p>Extends through: (1) March 31, 2016, additional VA rehabilitation programs for certain disabled veterans who have completed a VA rehabilitation program and have exhausted their rights to state unemployment benefits; and (2) FY2015 the collaborative veterans' training, mentoring, and placement program.</p> <p>Directs the Secretary to develop a single, unified federal web-based employment portal for veterans to access information on federal programs and activities concerning veterans employment, unemployment benefits, and training.</p> <p>Directs the: (1) Secretary of Homeland Security (DHS) to award grants to hire veterans as firefighters, and (2) Attorney General (AG) to award grants to hire veterans as law enforcement officers.</p> <p>Requires the head of each executive and defense agency to consider favorably, as an evaluation factor in federal solicitations for contracts and task or delivery orders valued at or above $25 million, the employment by a prospective contractor of veterans constituting at least 5% of the contractor's workforce.</p> <p>Allows a veteran on whose behalf a complaint of a violation of employment or reemployment rights under the Uniformed Services Employment and Reemployment Rights Act (USERRA) is made by the AG to intervene in such action, and to obtain appropriate relief. Requires the AG, within 60 days after receiving a referral of an unsuccessful attempt to resolve a complaint relating to a state or private employer, to notify the person on whose behalf the complaint is submitted of either the decision to commence such an action or of when such decision is expected to be made. Requires, in the latter case, such decision to be made within an additional 30 days. Requires the AG to commence such an action when there is reasonable cause to believe that a state or private employer is engaged in a pattern or practice of resistance to the full enjoyment of such rights and benefits, and that the pattern or practice denies the full exercise of such rights and benefits.</p> <p>Authorizes the suspension, termination, or debarment of federal contractors for repeated failures or refusals to comply with USERRA protections.</p> <p>Provides the Special Counsel with subpoena power to require the attendance and testimony of, and production of documents from, federal employees, to be enforced through the Merit Systems Protection Board.</p> <p>Authorizes the AG, in employment or reemployment rights investigations, to issue and serve a civil investigative demand for the production of documentary material.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-11-12</actionDate>
+          <lastSummaryUpdateDate>2013-12-04T21:44:56Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2013-11-12T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>7493</gpoId>
+          <lisID>1940</lisID>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-11-18</sponsorshipDate>
+        <party>D</party>
+        <lastName>Titus</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000468</bioguideId>
+        <state>NV</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Dina</firstName>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8076</gpoId>
+          <bioguideId>R000053</bioguideId>
+          <lisID>944</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-11-18</sponsorshipDate>
+        <party>D</party>
+        <lastName>RANGEL</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000053</bioguideId>
+        <state>NY</state>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <firstName>CHARLES</firstName>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2153</lisID>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-11-18</sponsorshipDate>
+        <party>D</party>
+        <lastName>Beatty</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001281</bioguideId>
+        <state>OH</state>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Joyce</firstName>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2125</lisID>
+          <bioguideId>E000292</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-11-18</sponsorshipDate>
+        <party>D</party>
+        <lastName>Enyart</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000292</bioguideId>
+        <state>IL</state>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <firstName>William</firstName>
+        <fullName>Rep. Enyart, William L. [D-IL-12]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2055</lisID>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-11-20</sponsorshipDate>
+        <party>D</party>
+        <lastName>Cicilline</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001084</bioguideId>
+        <state>RI</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>N.</middleName>
+        <firstName>David</firstName>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1884</lisID>
+          <gpoId>7970</gpoId>
+          <bioguideId>T000465</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-11-20</sponsorshipDate>
+        <party>D</party>
+        <lastName>Tsongas</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000465</bioguideId>
+        <state>MA</state>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Niki</firstName>
+        <fullName>Rep. Tsongas, Niki [D-MA-3]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-11-20</sponsorshipDate>
+        <party>D</party>
+        <lastName>HASTINGS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H000324</bioguideId>
+        <state>FL</state>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <firstName>ALCEE</firstName>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000147</bioguideId>
+        <state>DC</state>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-11-21</sponsorshipDate>
+        <party>D</party>
+        <lastName>RUSH</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000515</bioguideId>
+        <state>IL</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <firstName>BOBBY</firstName>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2148</lisID>
+          <bioguideId>M001188</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+        <party>D</party>
+        <lastName>Meng</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001188</bioguideId>
+        <state>NY</state>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Grace</firstName>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1663</lisID>
+          <bioguideId>I000057</bioguideId>
+          <gpoId>8063</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+        <party>D</party>
+        <lastName>ISRAEL</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>I000057</bioguideId>
+        <state>NY</state>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>STEVE</firstName>
+        <fullName>Rep. Israel, Steve [D-NY-3]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S000480</bioguideId>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+        <party>D</party>
+        <lastName>SLAUGHTER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000480</bioguideId>
+        <state>NY</state>
+        <district>25</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <firstName>LOUISE</firstName>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000588</bioguideId>
+          <lisID>2023</lisID>
+          <gpoId>7960</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+        <party>D</party>
+        <lastName>Richmond</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000588</bioguideId>
+        <state>LA</state>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <firstName>Cedric</firstName>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2190</lisID>
+          <gpoId />
+          <bioguideId>K000385</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+        <party>D</party>
+        <lastName>Kelly</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000385</bioguideId>
+        <state>IL</state>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <firstName>Robin</firstName>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+        <party>D</party>
+        <lastName>Welch</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000800</bioguideId>
+        <state>VT</state>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Peter</firstName>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8374</gpoId>
+          <lisID>2096</lisID>
+          <bioguideId>D000617</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+        <party>D</party>
+        <lastName>DelBene</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000617</bioguideId>
+        <state>WA</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <firstName>Suzan</firstName>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1794</lisID>
+          <bioguideId>H001038</bioguideId>
+          <gpoId>8088</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-01-08</sponsorshipDate>
+        <party>D</party>
+        <lastName>Higgins</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001038</bioguideId>
+        <state>NY</state>
+        <district>26</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Brian</firstName>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1889</lisID>
+          <bioguideId>C001072</bioguideId>
+          <gpoId>7946</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-01-08</sponsorshipDate>
+        <party>D</party>
+        <lastName>Carson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001072</bioguideId>
+        <state>IN</state>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Andre</firstName>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-01-08</sponsorshipDate>
+        <party>D</party>
+        <lastName>Grijalva</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000551</bioguideId>
+        <state>AZ</state>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <firstName>Raul</firstName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-01-09</sponsorshipDate>
+        <party>D</party>
+        <lastName>Kilmer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000381</bioguideId>
+        <state>WA</state>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Derek</firstName>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000604</bioguideId>
+          <lisID>2097</lisID>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-01-09</sponsorshipDate>
+        <party>D</party>
+        <lastName>Payne</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000604</bioguideId>
+        <state>NJ</state>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <firstName>Donald</firstName>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S000248</bioguideId>
+          <lisID>1042</lisID>
+          <gpoId>8077</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-02-06</sponsorshipDate>
+        <party>D</party>
+        <lastName>SERRANO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000248</bioguideId>
+        <state>NY</state>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <firstName>JOSE</firstName>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+          <lisID>1668</lisID>
+        </identifiers>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <party>D</party>
+        <lastName>LANGEVIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000559</bioguideId>
+        <state>RI</state>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <firstName>JAMES</firstName>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8082</gpoId>
+          <lisID>1942</lisID>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <party>D</party>
+        <lastName>Tonko</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000469</bioguideId>
+        <state>NY</state>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Paul</firstName>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>F000455</bioguideId>
+          <gpoId>8101</gpoId>
+          <lisID>1895</lisID>
+        </identifiers>
+        <sponsorshipDate>2014-02-25</sponsorshipDate>
+        <party>D</party>
+        <lastName>Fudge</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000455</bioguideId>
+        <state>OH</state>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <firstName>Marcia</firstName>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1761</lisID>
+          <gpoId>8024</gpoId>
+          <bioguideId>B001251</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-03-12</sponsorshipDate>
+        <party>D</party>
+        <lastName>Butterfield</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001251</bioguideId>
+        <state>NC</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>G. K.</firstName>
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8206</gpoId>
+          <bioguideId>L000560</bioguideId>
+          <lisID>1675</lisID>
+        </identifiers>
+        <sponsorshipDate>2014-05-19</sponsorshipDate>
+        <party>D</party>
+        <lastName>LARSEN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000560</bioguideId>
+        <state>WA</state>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>RICK</firstName>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+          <lisID>1996</lisID>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-05-19</sponsorshipDate>
+        <party>D</party>
+        <lastName>Bass</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001270</bioguideId>
+        <state>CA</state>
+        <district>37</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Karen</firstName>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8079</gpoId>
+          <lisID>709</lisID>
+          <bioguideId>L000480</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <party>D</party>
+        <lastName>LOWEY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000480</bioguideId>
+        <state>NY</state>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <firstName>NITA</firstName>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <number>6</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>Putting Our Veterans Back to Work Act of 2013</latestTitle>
+        <latestAction>
+          <actionDate>2013-07-24</actionDate>
+          <text>Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        </latestAction>
+        <congress>113</congress>
+      </item>
+      <item>
+        <number>1950</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>Comprehensive Veterans Health and Benefits and Military Retirement Pay Restoration Act of 2014</latestTitle>
+        <latestAction>
+          <actionDate>2014-02-04</actionDate>
+          <text>Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S736)</text>
+        </latestAction>
+        <congress>113</congress>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Putting Our Veterans Back to Work Act of 2013</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To reauthorize the VOW to Hire Heroes Act of 2011, to provide assistance to small businesses owned by veterans, to improve enforcement of employment and reemployment rights of members of the uniformed services, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Putting Our Veterans Back to Work Act of 2013</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Putting Our Veterans Back to Work Act of 2013</title>
+    <billType>HR</billType>
+    <introducedDate>2013-11-12</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2014-01-24</actionDate>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

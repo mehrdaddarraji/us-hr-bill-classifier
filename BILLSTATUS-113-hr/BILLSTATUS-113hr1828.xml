@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills>
+      <item>
+        <number>876</number>
+        <latestAction>
+          <actionDate>2013-05-07</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <latestTitle>Fire Police Fairness Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-06-13T21:56:11Z</lastSummaryUpdateDate>
+          <actionDate>2013-05-06</actionDate>
+          <text><![CDATA[<p>Fire Police Fairness Act - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to include a fire police officer as a public safety officer for purposes of death benefits provisions. Defines a &quot;fire police officer&quot; as an individual who: (1) is serving in accordance with state or local law as a member of a legally organized public safety agency but is not a law enforcement officer, a firefighter, a chaplain, or a member of a rescue squad or ambulance crew; and (2) provides scene security or directs traffic in response to any fire, rescue, or police emergency or at a planned special event.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-05-06T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2013-05-06</introducedDate>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Fire Police Fairness Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Omnibus Crime Control and Safe Streets Act of 1968 to extend public safety officers' death benefits to fire police officers.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Fire Police Fairness Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <congress>113</congress>
+    <billNumber>1828</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 62 (Monday, May 6, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COURTNEY:H.R. 1828.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8: The Congress shall have Power to Layand collect Taxes, Duties, Imposts and Excises, to pay theDebts and provide for the common Defence and general Welfareof the United States. . . .[Page H2437]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2018-06-05T16:17:06Z</updateDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-06-14T17:01:07Z</date>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-05-06T16:00:32Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2013-05-07T07:02:10Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <lisID>1836</lisID>
+          <gpoId>7867</gpoId>
+          <bioguideId>C001069</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <lastName>Courtney</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <bioguideId>C001069</bioguideId>
+        <firstName>Joe</firstName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-06-14</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-05-06</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2013-05-06</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2013-05-06</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <lastName>DELAURO</lastName>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <bioguideId>D000216</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7868</gpoId>
+          <lisID>281</lisID>
+          <bioguideId>D000216</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <firstName>ROSA</firstName>
+      </item>
+      <item>
+        <lastName>Fitzpatrick</lastName>
+        <fullName>Rep. Fitzpatrick, Michael G. [R-PA-8]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <bioguideId>F000451</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000451</bioguideId>
+          <gpoId>8126</gpoId>
+          <lisID>1797</lisID>
+        </identifiers>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <lastName>Himes</lastName>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <bioguideId>H001047</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7869</gpoId>
+          <bioguideId>H001047</bioguideId>
+          <lisID>1913</lisID>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <firstName>James</firstName>
+      </item>
+      <item>
+        <lastName>LARSON</lastName>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <bioguideId>L000557</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <lastName>MCINTYRE</lastName>
+        <fullName>Rep. McIntyre, Mike [D-NC-7]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <bioguideId>M000485</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8030</gpoId>
+          <bioguideId>M000485</bioguideId>
+          <lisID>1505</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <firstName>MIKE</firstName>
+      </item>
+      <item>
+        <lastName>Meehan</lastName>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <bioguideId>M001181</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <gpoId>8125</gpoId>
+          <lisID>2052</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <firstName>Patrick</firstName>
+      </item>
+      <item>
+        <lastName>Thompson</lastName>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <bioguideId>T000467</bioguideId>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <firstName>Glenn</firstName>
+      </item>
+      <item>
+        <lastName>Tonko</lastName>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>T000469</bioguideId>
+        <district>20</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8082</gpoId>
+          <bioguideId>T000469</bioguideId>
+          <lisID>1942</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <lastName>Esty</lastName>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <bioguideId>E000293</bioguideId>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>E000293</bioguideId>
+          <gpoId />
+          <lisID>2114</lisID>
+        </identifiers>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2013-05-06</sponsorshipDate>
+        <firstName>Elizabeth</firstName>
+      </item>
+      <item>
+        <lastName>BRADY</lastName>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <bioguideId>B001227</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001227</bioguideId>
+          <gpoId>8119</gpoId>
+          <lisID>1469</lisID>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <firstName>ROBERT</firstName>
+      </item>
+      <item>
+        <lastName>MCCARTHY</lastName>
+        <fullName>Rep. McCarthy, Carolyn [D-NY-4]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>M000309</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M000309</bioguideId>
+          <lisID>1503</lisID>
+          <gpoId>8065</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-05-14</sponsorshipDate>
+        <firstName>CAROLYN</firstName>
+      </item>
+      <item>
+        <lastName>Gerlach</lastName>
+        <fullName>Rep. Gerlach, Jim [R-PA-6]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <bioguideId>G000549</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8124</gpoId>
+          <bioguideId>G000549</bioguideId>
+          <lisID>1743</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2013-06-11</sponsorshipDate>
+        <firstName>Jim</firstName>
+      </item>
+      <item>
+        <lastName>Schwartz</lastName>
+        <fullName>Rep. Schwartz, Allyson Y. [D-PA-13]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <bioguideId>S001162</bioguideId>
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1798</lisID>
+          <bioguideId>S001162</bioguideId>
+          <gpoId>8131</gpoId>
+        </identifiers>
+        <middleName>Y.</middleName>
+        <sponsorshipDate>2014-04-30</sponsorshipDate>
+        <firstName>Allyson</firstName>
+      </item>
+      <item>
+        <lastName>Gibson</lastName>
+        <fullName>Rep. Gibson, Christopher P. [R-NY-19]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>G000564</bioguideId>
+        <district>19</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000564</bioguideId>
+          <gpoId>8081</gpoId>
+          <lisID>2043</lisID>
+        </identifiers>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2014-04-30</sponsorshipDate>
+        <firstName>Christopher</firstName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2013-06-14</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <title>Fire Police Fairness Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

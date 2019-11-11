@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2014-04-16</actionDate>
+        <committee>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-03-26</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-03-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-03-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-03-26</introducedDate>
+    <notes />
+    <calendarNumbers />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2014-03-26</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Restoration of America's Wire Act - Amends provisions of the federal criminal code, commonly known as the Wire Act, to provide that the prohibition against transmission of wagering information shall apply to any bet or wager, or information assisting in the placing of any bet or wager (thus making such prohibition applicable to all types of gambling activities, including internet gambling). States that nothing in this Act shall be construed to: (1) preempt any state law prohibiting gambling; or (2) alter, limit, or extend the relationship between the Interstate Horseracing Act of 1978 and other federal laws currently in effect, the ability of a state licensed lottery retailer to make in-person, computer-generated retail lottery sales, or the relationship between federal laws and state charitable gaming laws. </p>]]></text>
+          <updateDate>2014-03-26T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-04-01T15:05:11Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Gambling</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>4301</billNumber>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>C001076</bioguideId>
+          <lisID>1956</lisID>
+          <gpoId>8191</gpoId>
+        </identifiers>
+        <lastName>Chaffetz</lastName>
+        <district>3</district>
+        <middleName />
+        <firstName>Jason</firstName>
+        <byRequestType />
+        <bioguideId>C001076</bioguideId>
+        <fullName>Rep. Chaffetz, Jason [R-UT-3]</fullName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. CHAFFETZ:H.R. 4301.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3[Page H2695]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2014-03-26</actionDate>
+        </latestAction>
+        <congress>113</congress>
+        <latestTitle>Restoration of America's Wire Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <number>2159</number>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Restoration of America's Wire Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To restore long-standing United States policy that the Wire Act prohibits all forms of Internet gambling, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Restoration of America's Wire Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <updateDate>2016-10-25T16:11:51Z</updateDate>
+    <recordedVotes />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <actionDate>2014-04-16</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </latestAction>
+    <createDate>2014-03-27T07:22:40Z</createDate>
+    <title>Restoration of America's Wire Act</title>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <bioguideId>G000571</bioguideId>
+        <district>2</district>
+        <firstName>Tulsi</firstName>
+        <lastName>Gabbard</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>HI</state>
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Matheson, Jim [D-UT-4]</fullName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1671</lisID>
+          <gpoId>8190</gpoId>
+          <bioguideId>M001142</bioguideId>
+        </identifiers>
+        <bioguideId>M001142</bioguideId>
+        <district>4</district>
+        <firstName>JIM</firstName>
+        <lastName>MATHESON</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>UT</state>
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S000583</bioguideId>
+          <lisID>1075</lisID>
+          <gpoId>8177</gpoId>
+        </identifiers>
+        <bioguideId>S000583</bioguideId>
+        <district>21</district>
+        <firstName>LAMAR</firstName>
+        <lastName>SMITH</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Jordan, Jim [R-OH-4]</fullName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1868</lisID>
+          <bioguideId>J000289</bioguideId>
+          <gpoId>8094</gpoId>
+        </identifiers>
+        <bioguideId>J000289</bioguideId>
+        <district>4</district>
+        <firstName>Jim</firstName>
+        <lastName>Jordan</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7799</gpoId>
+          <bioguideId>F000448</bioguideId>
+          <lisID>1707</lisID>
+        </identifiers>
+        <bioguideId>F000448</bioguideId>
+        <district>8</district>
+        <firstName>Trent</firstName>
+        <lastName>Franks</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Holding, George [R-NC-13]</fullName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2143</lisID>
+          <bioguideId>H001065</bioguideId>
+        </identifiers>
+        <bioguideId>H001065</bioguideId>
+        <district>13</district>
+        <firstName>George</firstName>
+        <lastName>Holding</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Wolf, Frank R. [R-VA-10]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000672</bioguideId>
+          <lisID>1238</lisID>
+          <gpoId>8201</gpoId>
+        </identifiers>
+        <bioguideId>W000672</bioguideId>
+        <district>10</district>
+        <firstName>FRANK</firstName>
+        <lastName>WOLF</lastName>
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Lankford, James [R-OK-5]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>L000575</bioguideId>
+          <lisID>2050</lisID>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <bioguideId>L000575</bioguideId>
+        <district>5</district>
+        <firstName>James</firstName>
+        <lastName>Lankford</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001061</bioguideId>
+          <lisID>1790</lisID>
+          <gpoId>8013</gpoId>
+        </identifiers>
+        <bioguideId>C001061</bioguideId>
+        <district>5</district>
+        <firstName>Emanuel</firstName>
+        <lastName>Cleaver</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Dent, Charles W. [R-PA-15]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>D000604</bioguideId>
+          <gpoId>8133</gpoId>
+          <lisID>1799</lisID>
+        </identifiers>
+        <bioguideId>D000604</bioguideId>
+        <district>15</district>
+        <firstName>Charles</firstName>
+        <lastName>Dent</lastName>
+        <middleName>W.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <sponsorshipDate>2014-06-19</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Rogers, Mike J. [R-MI-8]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000572</bioguideId>
+          <lisID>1651</lisID>
+          <gpoId>7993</gpoId>
+        </identifiers>
+        <bioguideId>R000572</bioguideId>
+        <district>8</district>
+        <firstName>Mike</firstName>
+        <lastName>Rogers</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <sponsorshipDate>2014-06-19</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Forbes, J. Randy [R-VA-4]</fullName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8786</gpoId>
+          <lisID>1683</lisID>
+          <bioguideId>F000445</bioguideId>
+        </identifiers>
+        <bioguideId>F000445</bioguideId>
+        <district>4</district>
+        <firstName>J.</firstName>
+        <lastName>Forbes</lastName>
+        <middleName>Randy</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <sponsorshipDate>2014-06-23</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+        </identifiers>
+        <bioguideId>K000362</bioguideId>
+        <district>4</district>
+        <firstName>Steve</firstName>
+        <lastName>King</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+        <sponsorshipDate>2014-06-23</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Gowdy, Trey [R-SC-4]</fullName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2058</lisID>
+          <bioguideId>G000566</bioguideId>
+          <gpoId>8144</gpoId>
+        </identifiers>
+        <bioguideId>G000566</bioguideId>
+        <district>4</district>
+        <firstName>Trey</firstName>
+        <lastName>Gowdy</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <sponsorshipDate>2014-06-23</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1781</lisID>
+          <gpoId>7923</gpoId>
+          <bioguideId>L000563</bioguideId>
+        </identifiers>
+        <bioguideId>L000563</bioguideId>
+        <district>3</district>
+        <firstName>Daniel</firstName>
+        <lastName>Lipinski</lastName>
+        <middleName>William</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <sponsorshipDate>2014-06-25</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>R000588</bioguideId>
+          <lisID>2023</lisID>
+          <gpoId>7960</gpoId>
+        </identifiers>
+        <bioguideId>R000588</bioguideId>
+        <district>2</district>
+        <firstName>Cedric</firstName>
+        <lastName>Richmond</lastName>
+        <middleName>L.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000552</bioguideId>
+          <lisID>1801</lisID>
+          <gpoId>8157</gpoId>
+        </identifiers>
+        <bioguideId>G000552</bioguideId>
+        <district>1</district>
+        <firstName>Louie</firstName>
+        <lastName>Gohmert</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <sponsorshipDate>2014-07-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Bachus, Spencer [R-AL-6]</fullName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7791</gpoId>
+          <lisID>38</lisID>
+          <bioguideId>B000013</bioguideId>
+        </identifiers>
+        <bioguideId>B000013</bioguideId>
+        <district>6</district>
+        <firstName>SPENCER</firstName>
+        <lastName>BACHUS</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>AL</state>
+        <sponsorshipDate>2014-07-22</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Pierluisi, Pedro R. [D-PR-At Large]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000596</bioguideId>
+          <lisID>1953</lisID>
+          <gpoId>8138</gpoId>
+        </identifiers>
+        <bioguideId>P000596</bioguideId>
+        <district>0</district>
+        <firstName>Pedro</firstName>
+        <lastName>Pierluisi</lastName>
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>PR</state>
+        <sponsorshipDate>2014-12-01</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-03-26T14:00:38Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-04-16T20:50:40Z</date>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

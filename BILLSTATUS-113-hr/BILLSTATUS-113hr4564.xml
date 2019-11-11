@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-05-06</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <date>2014-05-06T16:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-05-01T20:58:16Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <name>Capital Markets and Government Sponsored Enterprises Subcommittee</name>
+              <systemCode>hsba16</systemCode>
+            </item>
+          </subcommittees>
+          <name>Financial Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-05-07T07:27:39Z</createDate>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <links />
+        <actionDate>2014-05-06</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-05-06</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-05-06</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-05-01</actionDate>
+        <committee>
+          <systemCode>hsba16</systemCode>
+          <name>Capital Markets and Government Sponsored Enterprises Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Introduction and Referral.</text>
+        <type>Committee</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-05-06</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. McHENRY:H.R. 4564.Congress has the power to enact this legislation pursuantto the following:Article One, Section Eight[Page H3447]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>4564</billNumber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-07-16T20:58:32Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2014-05-06T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2014-05-06</actionDate>
+          <text><![CDATA[<p> Equity Crowdfunding Improvement Act of 2014 - Repeals the CROWDFUND Act.</p> <p>Amends the Jumpstart Our Business Startups Act to exempt from the registration requirements and prohibitions of the Securities Act of 1933 any transactions involving the offer or sale of crowdfunded securities by an issuer if specified requirements are met.</p> <p>(Crowdfunding is a method of capital formation where groups of people pool money, typically composed of small individual contributions, and often via internet platforms, to either invest in a company or support an effort by others to accomplish a specific goal.)</p> <p>Prescribes among these requirements that the aggregate amount sold within the previous 12-month period in reliance upon the crowdfunding exemption be either: (1) $3 million, adjusted for inflation, or less; or (2) $5 million, adjusted for inflation, or less if the issuer provides potential investors with audited financial statements.</p> <p>Requires also that, in the case of a transaction involving an intermediary between the issuer and the investor, that the intermediary comply with certain requirements.</p> <p>Requires as well that if the aggregate amount sold within the previous 12-month period in reliance upon this exemption is: (1) $500,000 or less, the issuer provide potential investors with financial statements issuer-certified to be true and complete in all material respects; or (2) between $500,000 and $3 million, the issuer provide potential investors with financial statements reviewed by a public accountant independent of the issuer.</p> <p>Prohibits the aggregate amount sold to an unaccredited investor within the previous 12-month period in reliance upon the crowdfunding exemption from exceeding either the greater of: (1) $5,000, adjusted for inflation; (2) 10% of the annual income; or (3) 10% of the investor's net worth.</p> <p>Requires finally that the issuer be a corporation at the time such securities are issued.</p> <p>Prescribes requirements governing a person functioning as intermediary between the issuer and the investor.</p> <p>Requires an intermediary to direct the issuer to: (1) state a target offering amount and a deadline to reach it, and (2) ensure that the third party custodian withholds offering proceeds until the aggregate capital raised from other investors is at least 100% of the target offering amount.</p> <p>Requires an intermediary to undertake background checks on the issuer's executive officers, directors, and shareholders with 15% or more voting control.</p>   <p>Requires an issuer to use intermediaries when selling to unaccredited investors.</p>  <p>Permits an intermediary to select the transactions in which it serves as an intermediary.</p>  <p>Amends the Investment Company Act of 1940 to exempt from treatment as an investment company any person substantially all of whose business is confined to investing in securities purchased in crowdfunding investment companies under this Act.</p> <p> Amends the Securities Act of 1933 to exempt such crowdfunded securities from state regulation of securities offerings; but retains state jurisdiction over the unlawful conduct of intermediaries, issuers, and custodians.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Federal preemption</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Securities and Exchange Commission (SEC)</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Equity Crowdfunding Improvement Act of 2014</title>
+    <updateDate>2016-10-25T16:12:51Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Equity Crowdfunding Improvement Act of 2014</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend the Jumpstart Our Business Startups Act to improve the crowdfunding provisions, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Equity Crowdfunding Improvement Act of 2014</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>NC</state>
+        <firstName>Patrick</firstName>
+        <byRequestType />
+        <bioguideId>M001156</bioguideId>
+        <fullName>Rep. McHenry, Patrick T. [R-NC-10]</fullName>
+        <lastName>McHenry</lastName>
+        <party>R</party>
+        <middleName />
+        <district>10</district>
+        <identifiers>
+          <lisID>1792</lisID>
+          <gpoId>8033</gpoId>
+          <bioguideId>M001156</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Garrett, Scott [R-NJ-5]</fullName>
+        <identifiers>
+          <lisID>1737</lisID>
+          <bioguideId>G000548</bioguideId>
+          <gpoId>8047</gpoId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Garrett</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <firstName>Scott</firstName>
+        <sponsorshipDate>2014-05-06</sponsorshipDate>
+        <party>R</party>
+        <state>NJ</state>
+        <bioguideId>G000548</bioguideId>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

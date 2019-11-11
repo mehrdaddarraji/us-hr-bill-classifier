@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-04-02</actionDate>
+        <committee>
+          <name>Terrorism,  Nonproliferation, and Trade Subcommittee</name>
+          <systemCode>hsfa18</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-03-12</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2014-03-12</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2014-03-12</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>10</district>
+        <fullName>Rep. Wolf, Frank R. [R-VA-10]</fullName>
+        <lastName>WOLF</lastName>
+        <middleName>R.</middleName>
+        <state>VA</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8201</gpoId>
+          <lisID>1238</lisID>
+          <bioguideId>W000672</bioguideId>
+        </identifiers>
+        <firstName>FRANK</firstName>
+        <bioguideId>W000672</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. WOLF:H.R. 4223.Congress has the power to enact this legislation pursuantto the following:The constitutional authority on which this bill rests inthe preamble of the Constitution providing for the ``commondefense'' and in the powers governing national security inArticle I, Section 8.[Page H2361]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>4223</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:11:34Z</updateDate>
+    <laws />
+    <createDate>2014-03-13T07:19:05Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-03-12T14:02:10Z</date>
+            </item>
+          </activities>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsfa18</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2014-04-02T12:40:19Z</date>
+                </item>
+              </activities>
+              <name>Terrorism,  Nonproliferation, and Trade Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>International Conflicts of Concern Act - Directs the President to identify to Congress each country whose government is, and each country in which anti-government forces are, allowing one or more foreign terrorist organizations to engage in armed conflict occurring in that country.</p> <p>Directs the President to designate a country as a &quot;country of conflict concern&quot; if: (1) its government or anti-government forces in the country are allowing one or more foreign terrorist organizations to engage in armed conflict in it, and (2) it is in the U.S. national security to restrict travel by any U.S. national to the country and to restrict material support provided by U.S. nationals to entities engaged in armed conflict in it. Terminates such a designation when the President certifies to Congress that either or both of these circumstances no longer apply.</p> <p>Deems Syria to be a country of conflict concern.</p> <p>Directs the President, with respect to a country of conflict concern, to require a U.S. national to obtain a license to: (1) travel to it, or (2) provide material support to entities that are engaged in armed conflict in it. Applies specified penalties to a person who violates such requirements.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2014-03-20T17:10:14Z</lastSummaryUpdateDate>
+          <actionDate>2014-03-12</actionDate>
+          <updateDate>2014-03-12T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <firstName>STEVE</firstName>
+        <fullName>Rep. Stockman, Steve [R-TX-36]</fullName>
+        <sponsorshipDate>2014-08-01</sponsorshipDate>
+        <middleName />
+        <bioguideId>S000937</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <gpoId />
+          <lisID>1114</lisID>
+          <bioguideId>S000937</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>STOCKMAN</lastName>
+        <district>36</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Robert</firstName>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <sponsorshipDate>2014-08-01</sponsorshipDate>
+        <middleName />
+        <bioguideId>P000606</bioguideId>
+        <state>NC</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000606</bioguideId>
+          <lisID>2141</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Pittenger</lastName>
+        <district>9</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>PETER</firstName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <sponsorshipDate>2014-08-01</sponsorshipDate>
+        <middleName>T.</middleName>
+        <bioguideId>K000210</bioguideId>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>KING</lastName>
+        <district>2</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <sponsorshipDate>2014-09-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>S001157</bioguideId>
+        <state>GA</state>
+        <identifiers>
+          <gpoId>7910</gpoId>
+          <lisID>1722</lisID>
+          <bioguideId>S001157</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Scott</lastName>
+        <district>13</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Robert</firstName>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <sponsorshipDate>2014-09-11</sponsorshipDate>
+        <middleName>J.</middleName>
+        <bioguideId>W000804</bioguideId>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>W000804</bioguideId>
+          <lisID>1886</lisID>
+          <gpoId>8192</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wittman</lastName>
+        <district>1</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Glenn</firstName>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <sponsorshipDate>2014-09-17</sponsorshipDate>
+        <middleName />
+        <bioguideId>T000467</bioguideId>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+          <lisID>1952</lisID>
+          <gpoId>8123</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Thompson</lastName>
+        <district>5</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>K.</firstName>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <middleName>Michael</middleName>
+        <bioguideId>C001062</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1805</lisID>
+          <gpoId>8167</gpoId>
+          <bioguideId>C001062</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Conaway</lastName>
+        <district>11</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>ROBERT</firstName>
+        <fullName>Rep. Aderholt, Robert B. [R-AL-4]</fullName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <middleName>B.</middleName>
+        <bioguideId>A000055</bioguideId>
+        <state>AL</state>
+        <identifiers>
+          <gpoId>7789</gpoId>
+          <lisID>1460</lisID>
+          <bioguideId>A000055</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>ADERHOLT</lastName>
+        <district>4</district>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Kyrsten</firstName>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <middleName />
+        <bioguideId>S001191</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Sinema</lastName>
+        <district>9</district>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <sponsorshipDate>2014-11-12</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001077</bioguideId>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Coffman</lastName>
+        <district>6</district>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>Syria</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>War and emergency powers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>International Conflicts of Concern Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To restrict United States nationals from traveling to countries in which foreign governments or anti-government forces allow foreign terrorist organizations to engage in armed conflict for purposes of participating in such armed conflict or from providing material support to entities that are engaged in such armed conflict, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>International Conflicts of Concern Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>International Conflicts of Concern Act</title>
+    <billType>HR</billType>
+    <introducedDate>2014-03-12</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2014-04-02</actionDate>
+      <text>Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

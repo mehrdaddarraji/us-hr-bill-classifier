@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-04-18T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2013-05-07T21:16:36Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Amends the Federal Crop Insurance Act to prohibit the Federal Crop Insurance Corporation (FCIC) from paying more than 70% of the premium for any coverage, policy, or plan of insurance. </p> <p>Amends the Food, Conservation, and Energy Act of 2008 to end agricultural direct payments. (Continues such payments through crop year 2013 for covered commodities and peanuts.)</p> <p>Prohibits the Secretary of Agriculture (USDA) from making payments, either directly or through the Commodity Credit Corporation (CCC), to the Brazilian Cotton Institute.</p>]]></text>
+          <actionDate>2013-04-18</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2013-04-18</introducedDate>
+    <titles>
+      <item>
+        <title>To impose a limitation on the maximum amount of crop insurance premiums paid by the Federal Crop Insurance Corporation, to repeal the authority to provide direct payments for producers of certain major agricultural commodities and peanuts, to prohibit the Secretary of Agriculture from making payments to the Brazilian Cotton Institute, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To impose a limitation on the maximum amount of crop insurance premiums paid by the Federal Crop Insurance Corporation, to repeal the authority to provide direct payments for producers of certain major agricultural commodities and peanuts, to prohibit the Secretary of Agriculture from making payments to the Brazilian Cotton Institute, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <congress>113</congress>
+    <billNumber>1644</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 53 (Thursday, April 18, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KIND:H.R. 1644.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3: To regulate Commerce withforeign Nations, and among the several States, and with theIndian Tribes;[Page H2160]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2018-06-05T16:15:39Z</updateDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Agriculture Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsag16</systemCode>
+              <name>General Farm Commodities and Risk Management Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2013-05-03T18:05:24Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <date>2013-04-18T14:06:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2013-04-19T07:02:09Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <byRequestType />
+        <middleName />
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <district>3</district>
+        <lastName>KIND</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <bioguideId>K000188</bioguideId>
+        <firstName>RON</firstName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-05-03</actionDate>
+        <committee>
+          <systemCode>hsag16</systemCode>
+          <name>General Farm Commodities and Risk Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <actionDate>2013-04-18</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2013-04-18</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2013-04-18</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/52660</url>
+        <pubDate>2017-04-24T21:17:24Z</pubDate>
+        <title>H.R. 1644, Korean Interdiction and Modernization of Sanctions Act</title>
+      </item>
+    </cboCostEstimates>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B000574</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <identifiers>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <firstName>EARL</firstName>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <lastName>BLUMENAUER</lastName>
+        <district>3</district>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2013-05-03</actionDate>
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural insurance</name>
+          </item>
+          <item>
+            <name>Agricultural prices, subsidies, credit</name>
+          </item>
+          <item>
+            <name>Agricultural trade</name>
+          </item>
+          <item>
+            <name>Brazil</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <title>To impose a limitation on the maximum amount of crop insurance premiums paid by the Federal Crop Insurance Corporation, to repeal the authority to provide direct payments for producers of certain major agricultural commodities and peanuts, to prohibit the Secretary of Agriculture from making payments to the Brazilian Cotton Institute, and for other purposes.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

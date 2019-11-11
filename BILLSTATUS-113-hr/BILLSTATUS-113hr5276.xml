@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <updateDate>2016-10-25T16:15:43Z</updateDate>
+    <billNumber>5276</billNumber>
+    <sponsors>
+      <item>
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <middleName />
+        <bioguideId>C001038</bioguideId>
+        <identifiers>
+          <bioguideId>C001038</bioguideId>
+          <lisID>1604</lisID>
+          <gpoId>8068</gpoId>
+        </identifiers>
+        <byRequestType />
+        <lastName>CROWLEY</lastName>
+        <district>14</district>
+        <party>D</party>
+        <state>NY</state>
+        <firstName>JOSEPH</firstName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <actionDate>2014-07-30</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <district>3</district>
+        <firstName>Erik</firstName>
+        <state>MN</state>
+        <sponsorshipDate>2014-07-30</sponsorshipDate>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <lastName>Paulsen</lastName>
+        <party>R</party>
+        <bioguideId>P000594</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1930</lisID>
+          <bioguideId>P000594</bioguideId>
+          <gpoId>8003</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2014-07-30T14:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Bike to Work Act of 2014</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Internal Revenue Code of 1986 to treat bicycle sharing systems as mass transit facilities for purposes of the qualified transportation fringe.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Bike to Work Act of 2014</title>
+        <chamberName />
+      </item>
+    </titles>
+    <createDate>2014-07-31T05:20:45Z</createDate>
+    <notes />
+    <title>Bike to Work Act of 2014</title>
+    <calendarNumbers />
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commuting</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Pedestrians and bicycling</name>
+          </item>
+          <item>
+            <name>Public transit</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-09-15T15:35:38Z</lastSummaryUpdateDate>
+          <updateDate>2014-07-30T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDate>2014-07-30</actionDate>
+          <text><![CDATA[<p>Bike to Work Act of 2014 -&nbsp;Amends the Internal Revenue Code to include a bicycle sharing system as a mass transit facility for purposes of the tax exclusion of employer-paid commuting expenses. Defines "bicycle sharing system" as a public transportation system: (1) consisting of a network of stations at which bicycles are made available to customers for commuting and short-term, point-to-point use within the network's service area; and (2) that is operated or authorized by a government agency or public-private partnership. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2014-07-30</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. CROWLEY:H.R. 5276.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1: ``The Congress shall havePower to law and collect Taxes, Duties, Imposts and Excises .. .''[Page H7127]</pre>]]></constitutionalAuthorityStatementText>
+    <laws />
+    <committeeReports />
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <actionDate>2014-07-30</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-07-30</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-07-30</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <billType>HR</billType>
+    <recordedVotes />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

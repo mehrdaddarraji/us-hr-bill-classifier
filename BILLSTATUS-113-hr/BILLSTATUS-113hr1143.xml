@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1143</billNumber>
+    <introducedDate>2013-03-13</introducedDate>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <laws />
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:10:31Z</updateDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-03-13</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Federal Correctional Workers Safety Act of 2013 - Amends the federal criminal code to require the Director of the Bureau of Prisons to: (1) ensure that each prison facility provides a secure firearms storage area for use by all employees who are authorized to carry a firearm, or (2) allow such employees to store their firearm in a Bureau-approved vehicle lockbox.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2013-03-13T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-05-06T22:02:37Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <committeeReports />
+    <createDate>2013-03-14T07:01:12Z</createDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Federal Correctional Workers Safety Act of 2013</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend title 18, United States Code, to require the Bureau of Prisons to provide secure storage areas on institution grounds outside the secure perimeter for employees authorized to carry a firearm.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Federal Correctional Workers Safety Act of 2013</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-04-08</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-03-13</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2013-03-13</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2013-03-13</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2013-03-13T14:05:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <date>2013-04-08T21:25:31Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-04-08</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Coble, Howard [R-NC-6]</fullName>
+        <sponsorshipDate>2013-04-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>COBLE</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>C000556</bioguideId>
+          <lisID>211</lisID>
+          <gpoId>8029</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>HOWARD</firstName>
+        <bioguideId>C000556</bioguideId>
+        <state>NC</state>
+        <district>6</district>
+      </item>
+      <item>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <sponsorshipDate>2013-04-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Griffith</lastName>
+        <party>R</party>
+        <middleName>Morgan</middleName>
+        <identifiers>
+          <bioguideId>G000568</bioguideId>
+          <gpoId>8200</gpoId>
+          <lisID>2070</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>H.</firstName>
+        <bioguideId>G000568</bioguideId>
+        <state>VA</state>
+        <district>9</district>
+      </item>
+      <item>
+        <fullName>Rep. Lucas, Frank D. [R-OK-3]</fullName>
+        <sponsorshipDate>2013-04-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LUCAS</lastName>
+        <party>R</party>
+        <middleName>D.</middleName>
+        <identifiers>
+          <bioguideId>L000491</bioguideId>
+          <gpoId>8111</gpoId>
+          <lisID>711</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>FRANK</firstName>
+        <bioguideId>L000491</bioguideId>
+        <state>OK</state>
+        <district>3</district>
+      </item>
+      <item>
+        <fullName>Rep. Nugent, Richard B. [R-FL-11]</fullName>
+        <sponsorshipDate>2013-05-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Nugent</lastName>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>2001</lisID>
+          <bioguideId>N000185</bioguideId>
+          <gpoId>7877</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Richard</firstName>
+        <bioguideId>N000185</bioguideId>
+        <state>FL</state>
+        <district>11</district>
+      </item>
+      <item>
+        <fullName>Rep. Lankford, James [R-OK-5]</fullName>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Lankford</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>2050</lisID>
+          <gpoId>8113</gpoId>
+          <bioguideId>L000575</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>James</firstName>
+        <bioguideId>L000575</bioguideId>
+        <state>OK</state>
+        <district>5</district>
+      </item>
+      <item>
+        <fullName>Rep. Holding, George [R-NC-13]</fullName>
+        <sponsorshipDate>2013-05-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Holding</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001065</bioguideId>
+          <lisID>2143</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>George</firstName>
+        <bioguideId>H001065</bioguideId>
+        <state>NC</state>
+        <district>13</district>
+      </item>
+      <item>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <sponsorshipDate>2013-08-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Thompson</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+          <lisID>1952</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Glenn</firstName>
+        <bioguideId>T000467</bioguideId>
+        <state>PA</state>
+        <district>5</district>
+      </item>
+      <item>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <sponsorshipDate>2013-08-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Burgess</lastName>
+        <party>R</party>
+        <middleName>C.</middleName>
+        <identifiers>
+          <gpoId>8182</gpoId>
+          <bioguideId>B001248</bioguideId>
+          <lisID>1751</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michael</firstName>
+        <bioguideId>B001248</bioguideId>
+        <state>TX</state>
+        <district>26</district>
+      </item>
+      <item>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <sponsorshipDate>2013-09-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>McKinley</lastName>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <identifiers>
+          <bioguideId>M001180</bioguideId>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <bioguideId>M001180</bioguideId>
+        <state>WV</state>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <sponsorshipDate>2014-01-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cole</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <bioguideId>C001053</bioguideId>
+        <state>OK</state>
+        <district>4</district>
+      </item>
+      <item>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <sponsorshipDate>2014-01-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Duncan</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <gpoId>8143</gpoId>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeff</firstName>
+        <bioguideId>D000615</bioguideId>
+        <state>SC</state>
+        <district>3</district>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <fullName>Rep. Stockman, Steve [R-TX-36]</fullName>
+        <identifiers>
+          <bioguideId>S000937</bioguideId>
+          <lisID>1114</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S000937</bioguideId>
+        <party>R</party>
+        <state>TX</state>
+        <firstName>STEVE</firstName>
+        <byRequestType />
+        <district>36</district>
+        <lastName>STOCKMAN</lastName>
+        <middleName />
+      </item>
+    </sponsors>
+    <title>Federal Correctional Workers Safety Act of 2013</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 36 (Wednesday, March 13, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. STOCKMAN:H.R. 1143.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8``The Congress shall have Power. . .To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof''[Page H1398]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

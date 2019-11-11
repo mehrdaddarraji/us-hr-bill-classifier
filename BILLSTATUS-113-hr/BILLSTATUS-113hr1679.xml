@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-06-10</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2014-06-09</actionDate>
+        <text>The title of the measure was amended. Agreed to without objection.</text>
+        <actionTime>18:14:43</actionTime>
+        <links />
+        <actionCode>H38800</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2014-06-09</actionDate>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5138)</text>
+        <actionTime>18:14:42</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H5138</url>
+            <name>H5138</name>
+          </link>
+        </links>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2014-06-09</actionDate>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5138)</text>
+        <actionTime>18:14:42</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H5138</url>
+            <name>H5138</name>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2014-06-09</actionDate>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1679.</text>
+        <actionTime>18:08:36</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/1679</url>
+            <name>H.R. 1679</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2014-06-09</actionDate>
+        <text>Considered under suspension of the rules. (consideration: CR H5138-5139)</text>
+        <actionTime>18:08:35</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H5138-5139</url>
+            <name>H5138-5139</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2014-06-09</actionDate>
+        <text>Mr. Huizenga (MI) moved to suspend the rules and pass the bill, as amended.</text>
+        <actionTime>18:08:20</actionTime>
+        <links />
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-04-23</actionDate>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-04-23</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR E522-523)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/extensions-of-remarks-section/page/E522-523</url>
+            <name>E522-523</name>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-04-23</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-04-23</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <amendingTheTitleOfAnActWithoutObjection>1</amendingTheTitleOfAnActWithoutObjection>
+        <referredToCommittee>1</referredToCommittee>
+        <placeholderTextForB>1</placeholderTextForB>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>0</district>
+        <fullName>Rep. Faleomavaega, Eni F. H. [D-AS-At Large]</fullName>
+        <lastName>Faleomavaega</lastName>
+        <middleName>F. H.</middleName>
+        <state>AS</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7797</gpoId>
+          <bioguideId>F000010</bioguideId>
+          <lisID>367</lisID>
+        </identifiers>
+        <firstName>Eni</firstName>
+        <bioguideId>F000010</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. FALEOMAVAEGA:H.R. 1679.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3--The Congress shall havePower . . . To regulate Commerce with foreign Nations, andamong the several States, and with the Indian Tribes.[Page H2248]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1679</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:02:31Z</updateDate>
+    <laws />
+    <createDate>2013-04-24T07:02:10Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-06-10T19:50:01Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-23T16:03:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Amends the Expedited Funds Availability Act to apply it to American Samoa.</p> <p>Extends by two business days, for American Samoa, any time periods established for large or redeposited check, repeated overdraft, reasonable cause, or other emergency exceptions to the 30-day funds availability requirements for deposits in an depository institution account by a new depositor. Applies this two-day extension to any deposit in an account at a depository institution located in American Samoa by a check drawn on an originating depository institution which is not located in the same state as the receiving depository institution.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-04-23</actionDate>
+          <lastSummaryUpdateDate>2013-05-14T19:03:10Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2013-04-23T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+        <item>
+          <text><![CDATA[<p> Amends the Expedited Funds Availability Act to apply it to American Samoa and the Commonwealth of the Northern Mariana Islands.</p> <p>Extends by two business days, for American Samoa and the Commonwealth, any time periods established for large or redeposited check, repeated overdraft, reasonable cause, or other emergency exceptions to the 30-day funds availability requirements for deposits in an depository institution account by a new depositor.</p> <p>Extends by one business day any deposit which is both deposited: (1) in an account at a depository institution located in American Samoa or the Commonwealth, and (2) by a check drawn on an originating depository institution which is not located in the same commonwealth or territory as the receiving depository institution.]]></text>
+          <versionCode>36</versionCode>
+          <actionDate>2014-06-09</actionDate>
+          <lastSummaryUpdateDate>2014-08-06T20:54:47Z</lastSummaryUpdateDate>
+          <name>Passed House amended</name>
+          <updateDate>2014-06-09T12:29:45Z</updateDate>
+          <actionDesc>Passed House amended</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <cosponsors />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>American Samoa</name>
+          </item>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>U.S. territories and protectorates</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>To amend the Expedited Funds Availability Act to clarify the application of that Act to American Samoa and the Northern Mariana Islands.</title>
+        <chamberCode>H</chamberCode>
+        <titleType>Official Titles as Amended by House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType>Official Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <title>To amend the Expedited Funds Availability Act to clarify the application of that Act to American Samoa.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To amend the Expedited Funds Availability Act to clarify the application of that Act to American Samoa and the Northern Mariana Islands.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>To amend the Expedited Funds Availability Act to clarify the application of that Act to American Samoa and the Northern Mariana Islands.</title>
+    <billType>HR</billType>
+    <introducedDate>2013-04-23</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2014-06-10</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

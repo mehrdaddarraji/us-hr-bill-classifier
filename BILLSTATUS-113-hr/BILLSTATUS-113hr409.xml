@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-05-07</actionDate>
+        <committee>
+          <systemCode>hsii24</systemCode>
+          <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-02-06</actionDate>
+        <committee>
+          <systemCode>hsii24</systemCode>
+          <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-01-23</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Sponsor introductory remarks on measure. (CR E58)</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-01-23</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/extensions-of-remarks-section/page/E58</url>
+            <name>E58</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-01-23</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-01-23</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <prayer>1</prayer>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2013-01-28</actionDate>
+          <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        </latestAction>
+        <number>165</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <congress>113</congress>
+        <latestTitle>Indian Trust Asset Reform Act</latestTitle>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <state>ID</state>
+        <party>R</party>
+        <middleName>R.</middleName>
+        <firstName>Raul</firstName>
+        <district>1</district>
+        <sponsorshipDate>2014-01-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2011</lisID>
+          <bioguideId>L000573</bioguideId>
+          <gpoId>7919</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Labrador</lastName>
+        <bioguideId>L000573</bioguideId>
+        <fullName>Rep. Labrador, Raul R. [R-ID-1]</fullName>
+      </item>
+      <item>
+        <state>OK</state>
+        <party>R</party>
+        <middleName />
+        <firstName>Tom</firstName>
+        <district>4</district>
+        <sponsorshipDate>2014-02-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cole</lastName>
+        <bioguideId>C001053</bioguideId>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-01-24T07:00:55Z</createDate>
+    <introducedDate>2013-01-23</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2014-05-07</actionDate>
+      <text>Subcommittee Hearings Held.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Indian Trust Asset Management Demonstration Project Act of 2013</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Indian Trust Asset Reform Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To provide for Indian trust asset management reform, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Indian Trust Asset Reform Act</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Alternative dispute resolution, mediation, arbitration</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:01:07Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName>K.</middleName>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <identifiers>
+          <bioguideId>S001148</bioguideId>
+          <gpoId>7920</gpoId>
+          <lisID>1590</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>MICHAEL</firstName>
+        <lastName>SIMPSON</lastName>
+        <bioguideId>S001148</bioguideId>
+        <state>ID</state>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <title>Indian Trust Asset Reform Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Indian Trust Asset Reform Act - Reaffirms the federal government's fiduciary responsibilities to Indians. </p> <p>States that: (1) the most exacting common law fiduciary standards governing private trustees also govern the federal government when it manages Indian Trust Assets, and (2) those standards are not limited to the express terms of statutes and regulations.</p> <p>Indian Trust Asset Management Demonstration Project Act of 2013 - Directs the Secretary of the Interior to establish an eight-year Indian trust asset management demonstration project that allows Indian tribes to propose, for the Secretary's approval, Indian trust asset management plans.</p> <p>Allows participating Indian tribes that contract or compact trust management functions or activities under the Indian Self-Determination and Education Assistance Act to develop and carry out trust asset management systems, practices, and procedures that differ from the Secretary's. </p> <p>Requires each plan to: (1) be consistent with all tribal laws and all federal treaties, statutes, executive orders, and court decisions applicable to the trust assets and their management; (2) establish procedures for nonbinding mediation or resolution of any plan-related disputes between the Indian tribe and the federal government; (3) include an annual evaluation by the Indian tribe and affected federal agencies of the plan's implementation; and (4) identify any federal regulations that the plan will supersede.</p> <p>Prohibits the approval of any plan that does not: (1) protect trust assets from loss, waste, and unlawful alienation; and (2) promote the interests of the trust asset's beneficial owner.</p> <p>Establishes, in the Department of the Interior, an Under Secretary for Indian Affairs who is to report directly to the Secretary and assume the functions of the Assistant Secretary for Indian Affairs and the Office of Special Trustee for American Indians.</p> <p>Requires the Office of the Under Secretary to carry out additional duties relating to the management of Indian trust assets and resources through an Office of Trust Reform Implementation and Oversight.</p> <p>Requires the Under Secretary to give a hiring preference to Indians.</p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-02-07T20:13:30Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2013-01-23</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2013-01-23T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>409</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsii24</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2014-05-07T20:32:19Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-02-06T15:03:08Z</date>
+                </item>
+              </activities>
+              <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-23T14:09:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 8 (Wednesday, January 23, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SIMPSON:H.R. 409.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, which grants Congress the power toregulate Commerce with the Indian Tribes.[Page H283]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

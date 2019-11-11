@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-04-02</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-03-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2013-03-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <congress>113</congress>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <lastName>DAVIS</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>SUSAN</firstName>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1641</lisID>
+          <gpoId>7858</gpoId>
+          <bioguideId>D000598</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000598</bioguideId>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <sponsorshipDate>2013-03-15</sponsorshipDate>
+        <district>53</district>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+      </item>
+      <item>
+        <lastName>Turner</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michael</firstName>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>T000463</bioguideId>
+          <lisID>1741</lisID>
+          <gpoId>8093</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000463</bioguideId>
+        <middleName>R.</middleName>
+        <party>R</party>
+        <sponsorshipDate>2013-03-15</sponsorshipDate>
+        <district>10</district>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+      </item>
+      <item>
+        <lastName>RYAN</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>TIM</firstName>
+        <state>OH</state>
+        <identifiers>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000577</bioguideId>
+        <middleName />
+        <party>D</party>
+        <sponsorshipDate>2013-03-15</sponsorshipDate>
+        <district>13</district>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+      </item>
+      <item>
+        <lastName>JONES</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>WALTER</firstName>
+        <state>NC</state>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>J000255</bioguideId>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <district>3</district>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+      </item>
+      <item>
+        <lastName>Sinema</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kyrsten</firstName>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001191</bioguideId>
+        <middleName />
+        <party>D</party>
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <district>9</district>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <createDate>2013-03-16T07:01:12Z</createDate>
+    <introducedDate>2013-03-15</introducedDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2013-04-02</actionDate>
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Fairness for Military Homeowners Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Servicemembers Civil Relief Act to ensure that relocation of a servicemember to serve on active duty away from the servicemember's principal residence does not prevent the servicemember from refinancing a mortgage on that principal residence.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Fairness for Military Homeowners Act of 2013</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-06-05T16:11:25Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName>D.</middleName>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <identifiers>
+          <lisID>1909</lisID>
+          <gpoId>7857</gpoId>
+          <bioguideId>H001048</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Duncan</firstName>
+        <lastName>Hunter</lastName>
+        <bioguideId>H001048</bioguideId>
+        <state>CA</state>
+        <district>50</district>
+      </item>
+    </sponsors>
+    <title>Fairness for Military Homeowners Act of 2013</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Fairness for Military Homeowners Act of 2013 - Amends the Servicemembers Civil Relief Act to prohibit the absence of a servicemember from his or her principal place of residence due to active-duty military service from preventing such servicemember from refinancing a mortgage on such residence. Makes such prohibition inapplicable to a servicemember who entered into a refinancing on such residence within the past five years.</p>]]></text>
+          <updateDate>2013-03-15T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-04-16T14:39:39Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-03-15</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1223</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2013-04-02T19:46:51Z</date>
+                </item>
+              </activities>
+              <name>Economic Opportunity Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-15T13:02:20Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 159, Number 38 (Friday, March 15, 2013)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HUNTER:H.R. 1223.Congress has the power to enact this legislation pursuantto the following:This legislation ensures that the military personnel whoare homeowners are not discriminated against for theirmilitary service when trying to refinance their property.Specific authority is provided by Article I, section 8 of theUnited States Constitution (clauses 12, 13, and 14), whichgrants Congress the power to raise and support an Army; toprovide and maintain a Navy; and to make rules for thegovernment and regulation of the land and naval forces.[Page H1549]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

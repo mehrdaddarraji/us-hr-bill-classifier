@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-05-22</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by the Yeas and Nays: 29 - 28.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-05-22</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-05-01</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-05-01</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-05-01</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-04-09</actionDate>
+        <committee>
+          <systemCode>hsba16</systemCode>
+          <name>Capital Markets and Government Sponsored Enterprises Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Introduction and Referral.</text>
+        <type>Committee</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <actionStageOverride>1</actionStageOverride>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-05-01</introducedDate>
+    <updateDate>2016-10-25T16:12:50Z</updateDate>
+    <createDate>2014-05-02T07:23:17Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsba16</systemCode>
+              <name>Capital Markets and Government Sponsored Enterprises Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2014-04-09T20:54:25Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2014-05-22T15:48:25Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2014-05-01T13:02:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <firstName>Ann</firstName>
+        <state>MO</state>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <identifiers>
+          <lisID>2137</lisID>
+          <gpoId />
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-05-01</sponsorshipDate>
+        <bioguideId>W000812</bioguideId>
+        <middleName />
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Wagner</lastName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Restricted Securities Relief Act of 2014</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Restricted Securities Relief Act of 2014</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the securities laws to improve private market offerings, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Restricted Securities Relief Act of 2014</title>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. MULVANEY:H.R. 4554.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3. ``To regulate Commerce withforeign Nations, and among the several States, and with theIndian Tribes.''Article I, Section 8, Clause 18. ``To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.''[Page H3408]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2014-05-01T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Restricted Securities Relief Act of 2014 - Directs the Securities and Exchange Commission (SEC) to revise specified regulations to: (1) reduce from six to three months the holding period for restricted securities issued by an issuer that is, and has been for at least 90 days immediately before the sale, subject to certain reporting requirements of the Securities Exchange Act of 1934; and (2) permit a securities issuer with no or nominal operations and no or nominal non-cash assets that has ceased to be such an issuer to sell its securities two years after filing with the SEC a Form 8-K stating that it is no longer an issuer with no or nominal operations and no or nominal non-cash assets.</p>Amends the Securities Act of 1933 to exempt from any state or local registration or qualification requirements any security offered or sold in compliance with specified conditions for private resales of securities to institutions.]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2014-05-01</actionDate>
+          <lastSummaryUpdateDate>2014-07-08T21:33:19Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 4554, Restricted Securities Relief Act of 2014</title>
+        <url>http://www.cbo.gov/publication/45617</url>
+        <pubDate>2014-08-01T16:16:00Z</pubDate>
+      </item>
+      <item>
+        <title>H.R. 4554, Restricted Securities Relief Act of 2014</title>
+        <url>https://www.cbo.gov/publication/45617</url>
+        <pubDate>2014-08-01T16:16:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Federal preemption</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Securities and Exchange Commission (SEC)</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Ordered to be Reported by the Yeas and Nays: 29 - 28.</text>
+      <actionDate>2014-05-22</actionDate>
+    </latestAction>
+    <billNumber>4554</billNumber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>5</district>
+        <firstName>Mick</firstName>
+        <party>R</party>
+        <fullName>Rep. Mulvaney, Mick [R-SC-5]</fullName>
+        <bioguideId>M001182</bioguideId>
+        <identifiers>
+          <bioguideId>M001182</bioguideId>
+          <lisID>2059</lisID>
+          <gpoId>8145</gpoId>
+        </identifiers>
+        <lastName>Mulvaney</lastName>
+        <middleName />
+        <state>SC</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

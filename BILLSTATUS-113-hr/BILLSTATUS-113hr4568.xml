@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-05-22</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by the Yeas and Nays: 32 - 26.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-05-22</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <links />
+        <actionDate>2014-05-06</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-05-06</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2014-05-06</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-04-09</actionDate>
+        <committee>
+          <systemCode>hsba16</systemCode>
+          <name>Capital Markets and Government Sponsored Enterprises Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Introduction.</text>
+        <type>Committee</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-05-06</introducedDate>
+    <updateDate>2016-10-25T16:12:52Z</updateDate>
+    <createDate>2014-05-07T07:27:39Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsba16</systemCode>
+              <name>Capital Markets and Government Sponsored Enterprises Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2014-04-09T20:53:17Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2014-05-22T15:49:11Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2014-05-06T16:01:30Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Mulvaney, Mick [R-SC-5]</fullName>
+        <identifiers>
+          <lisID>2059</lisID>
+          <bioguideId>M001182</bioguideId>
+          <gpoId>8145</gpoId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Mulvaney</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <firstName>Mick</firstName>
+        <sponsorshipDate>2014-05-07</sponsorshipDate>
+        <party>R</party>
+        <state>SC</state>
+        <bioguideId>M001182</bioguideId>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>HR</billType>
+    <title>Small Business Freedom to Grow Act of 2014</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Small Business Freedom to Grow Act of 2014</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To enhance the ability of smaller reporting companies to access the public securities markets by allowing forward incorporation by reference on Form S-1, to add listing and registration of a class of common equity securities on a national securities exchange as an additional basis for satisfying the requirements of General Instruction I.B.1. of Form S-3, and to remove such listing and registration as a requirement of General Instruction I.B.6. of such form.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Small Business Freedom to Grow Act of 2014</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mrs. WAGNER:H.R. 4568.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted to theCongress in Aricle I, Section 8, Clause 3 of the UnitedStates Constitution: ``To regulate Commerce with foreignNations, and among the several States, and with the IndianTribes.''Additional authotity derives from Article I, Section 8,Clause 18 of the United States Constitution: ``To make allLaws which shall be necessary and proper for carrying intoExecution the foregoing Powers, and all other Powers vestedby this Constitution in the Government of the United States,or in any Department or Officer thereof.'')[Page H3447]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-07-18T15:09:23Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2014-05-06T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2014-05-06</actionDate>
+          <text><![CDATA[<p>Small Business Freedom to Grow Act of 2014 - Directs the Securities and Exchange Commission (SEC) to revise Form S-1 so that a smaller reporting company may incorporate by reference in a registration statement filed on that form any documents it files with the SEC after the registration statement's effective date. </p> <p>Directs the SEC to revise Form S-3 so as to permit securities to be registered pursuant to General Instruction I.B.1. of the form if either: (1) the aggregate market value of voting and non-voting common equity held by non-affiliates of the registrant is $75 million or more, or (2) the registrant has at least one class of common equity securities listed and registered on a national securities exchange.</p> <p>Requires the SEC to remove a certain listing and registration requirement from General Instruction I.B.6. of Form S-3.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 4568, Small Business Freedom to Grow Act of 2014</title>
+        <url>http://www.cbo.gov/publication/45610</url>
+        <pubDate>2014-07-30T19:19:00Z</pubDate>
+      </item>
+      <item>
+        <title>H.R. 4568, Small Business Freedom to Grow Act of 2014</title>
+        <url>https://www.cbo.gov/publication/45610</url>
+        <pubDate>2014-07-30T19:19:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Ordered to be Reported by the Yeas and Nays: 32 - 26.</text>
+      <actionDate>2014-05-22</actionDate>
+    </latestAction>
+    <billNumber>4568</billNumber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>2</district>
+        <firstName>Ann</firstName>
+        <party>R</party>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <bioguideId>W000812</bioguideId>
+        <identifiers>
+          <lisID>2137</lisID>
+          <gpoId />
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+        <lastName>Wagner</lastName>
+        <middleName />
+        <state>MO</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-06-12</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Financial Services Committee</name>
+          <subcommittees />
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <date>2014-06-12T13:01:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-06-13T07:17:48Z</createDate>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionDate>2014-06-12</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Financial Services.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-06-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-06-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-06-12</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. STIVERS:H.R. 4868.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 ``The Congress shall havePower to .  .  . provide for the .  .  . general Welfare ofthe United States; .  .  .''____________________[Page H5364]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>4868</billNumber>
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Moving to Work Expansion Act of 2014 - Increases the number of public housing agencies (PHAs) authorized to participate in the Moving-to-Work demonstration program by 10 over the number of PHAs currently authorized.</p> <p>Authorizes the selection of a PHA for participation in the demonstration program only if it administers, in the aggregate, 10,000 or more public housing dwelling units and housing choice vouchers under Section 8 (rental assistance voucher program) of the United States Housing Act of 1937.</p> <p>Prohibits selected PHAs from being provided any funding from low-income housing assistance, the Capital Fund, or the Operating Fund under the Act in addition to the funding they would otherwise receive without such participation.<BR> </p>]]></text>
+          <actionDate>2014-06-12</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2014-06-12T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-07-18T15:45:37Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Low- and moderate-income housing</name>
+          </item>
+          <item>
+            <name>Public housing</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Moving to Work Expansion Act of 2014</title>
+    <updateDate>2016-10-25T16:14:05Z</updateDate>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Moving to Work Expansion Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To expand the Moving to Work demonstration program of the Department of Housing and Urban Development, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Moving to Work Expansion Act of 2014</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>OH</state>
+        <firstName>Steve</firstName>
+        <byRequestType />
+        <bioguideId>S001187</bioguideId>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <lastName>Stivers</lastName>
+        <party>R</party>
+        <middleName />
+        <district>15</district>
+        <identifiers>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+          <gpoId>8105</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <firstName>Joyce</firstName>
+        <state>OH</state>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <identifiers>
+          <bioguideId>B001281</bioguideId>
+          <lisID>2153</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2014-06-12</sponsorshipDate>
+        <bioguideId>B001281</bioguideId>
+        <middleName />
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Beatty</lastName>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

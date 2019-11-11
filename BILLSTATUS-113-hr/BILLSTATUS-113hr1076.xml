@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-04-10</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hswm02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-15</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-12</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Ways and Means</text>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-12</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Energy and Commerce</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2013-03-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>4</district>
+        <fullName>Rep. Hall, Ralph M. [R-TX-4]</fullName>
+        <lastName>HALL</lastName>
+        <middleName>M.</middleName>
+        <state>TX</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H000067</bioguideId>
+          <lisID>484</lisID>
+          <gpoId>8160</gpoId>
+        </identifiers>
+        <firstName>RALPH</firstName>
+        <bioguideId>H000067</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>By Mr. HALL:H.R. 1076.Congress has the power to enact this legislation pursuantto the following:The constitutional authority on which this bill rests isthe power of Congress to:1. regulate commerce . . . among the several states . . .as enumerated in Article I, Section 8, Clause 3 of the UnitedStates Constitution, and2. provide for the general welfare of the United States asenumerated in Article I, Section 8, Clause 1 of theConstitution.[Page H1358]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>1076</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T16:00:32Z</updateDate>
+    <laws />
+    <createDate>2013-03-13T07:01:12Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hswm02</systemCode>
+              <activities>
+                <item>
+                  <date>2013-04-10T14:49:08Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-03-12T16:04:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2013-03-15T18:53:05Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-03-12T16:04:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Amends the Patient Protection and Affordable Care Act (PPACA) to allow a state-authorized public entity benefits pool to apply to the Secretary of Health and Human Services (HHS) for pass-through funding with respect to health care benefits provided through the pool for coverage years beginning on or after January 1, 2014. Requires the Secretary to approve such a pool if the health care benefits provided through it will: (1) provide at least the essential health benefits, (2) provide coverage and cost-sharing protections against excessive out-of-pocket spending that are at least as affordable as the health insurance requirements of PPACA would provide, and (3) result in cost savings to the federal government because the cost of coverage through the pool is less than the cost of coverage through an exchange. </p> <p>Treats an individual covered under such a plan as having minimum essential coverage for purposes of the Internal Revenue Code.</p> <p>Requires the Secretary to provide for an alternative means by which an aggregate amount shall be paid to the pool annually based on the premium tax credits, cost-sharing reductions, and small business credits that would have been provided to an exchange plan.</p> <p>Gives the Secretary 180 days to make a determination on an application under this Act.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2013-03-19T15:54:31Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2013-03-12</actionDate>
+          <updateDate>2013-03-12T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2013-03-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>THORNBERRY</lastName>
+        <state>TX</state>
+        <party>R</party>
+        <district>13</district>
+        <fullName>Rep. Thornberry, Mac [R-TX-13]</fullName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>T000238</bioguideId>
+          <gpoId>8755</gpoId>
+          <lisID>1155</lisID>
+        </identifiers>
+        <bioguideId>T000238</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>WILLIAM</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cotton</lastName>
+        <state>AR</state>
+        <party>R</party>
+        <district>4</district>
+        <fullName>Rep. Cotton, Tom [R-AR-4]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <lisID>2098</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001095</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-05-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Olson</lastName>
+        <state>TX</state>
+        <party>R</party>
+        <district>22</district>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>8178</gpoId>
+          <bioguideId>O000168</bioguideId>
+          <lisID>1955</lisID>
+        </identifiers>
+        <bioguideId>O000168</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Pete</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-06-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Crawford</lastName>
+        <state>AR</state>
+        <party>R</party>
+        <district>1</district>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <middleName>A. "Rick"</middleName>
+        <identifiers>
+          <gpoId>7793</gpoId>
+          <lisID>1989</lisID>
+          <bioguideId>C001087</bioguideId>
+        </identifiers>
+        <bioguideId>C001087</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Eric</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2013-11-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Griffin</lastName>
+        <state>AR</state>
+        <party>R</party>
+        <district>2</district>
+        <fullName>Rep. Griffin, Tim [R-AR-2]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1990</lisID>
+          <bioguideId>G000567</bioguideId>
+          <gpoId>7794</gpoId>
+        </identifiers>
+        <bioguideId>G000567</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tim</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2014-02-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Womack</lastName>
+        <state>AR</state>
+        <party>R</party>
+        <district>3</district>
+        <fullName>Rep. Womack, Steve [R-AR-3]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>7795</gpoId>
+          <lisID>1991</lisID>
+          <bioguideId>W000809</bioguideId>
+        </identifiers>
+        <bioguideId>W000809</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Comprehensive health care</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Patient Protection and Affordable Care Act to provide for savings to the Federal Government by permitting pass-through funding for State authorized public entity health benefits pools.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Patient Protection and Affordable Care Act to provide for savings to the Federal Government by permitting pass-through funding for State authorized public entity health benefits pools.</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>To amend the Patient Protection and Affordable Care Act to provide for savings to the Federal Government by permitting pass-through funding for State authorized public entity health benefits pools.</title>
+    <billType>HR</billType>
+    <introducedDate>2013-03-12</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-04-10</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
